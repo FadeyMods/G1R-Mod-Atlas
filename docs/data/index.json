@@ -1,0 +1,251 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-10-23T23:59:36Z",
+ "count": 9,
+ "mods": [
+  {
+   "folder": "Highlander1536@gb_709003",
+   "id": "gb_709003",
+   "title": "[GEN1&GEN2] Gameboy Skins (With Touch Controls)",
+   "author": "Highlander1536",
+   "version": "gb-1795997",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "gb-1795997",
+    "tag": "gb-1795997",
+    "name": "gb-1795997",
+    "prerelease": false,
+    "published_at": "2026-08-24T17:27:04Z",
+    "zip": {
+     "name": "1795997",
+     "url": "https://gamebanana.com/dl/1795997"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-24T17:27:04Z"
+  },
+  {
+   "folder": "Highlander1536@gb_708752",
+   "id": "gb_708752",
+   "title": "[GEN1&GEN2] Gen1Recomp Overlay SGB Borders",
+   "author": "Highlander1536",
+   "version": "gb-1795368",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "With these you can add with the newly added Skin Feature the Super Game Boy Borders.",
+   "latest": {
+    "version": "gb-1795368",
+    "tag": "gb-1795368",
+    "name": "gb-1795368",
+    "prerelease": false,
+    "published_at": "2026-08-24T02:27:27Z",
+    "zip": {
+     "name": "1795368",
+     "url": "https://gamebanana.com/dl/1795368"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-24T02:27:27Z"
+  },
+  {
+   "folder": "Highlander1536@gb_706225",
+   "id": "gb_706225",
+   "title": "[GEN1] Gold & Silver Soundtrack",
+   "author": "Highlander1536",
+   "version": "0.9.4.2",
+   "categories": [
+    "AUDIO"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.9.4.2",
+    "tag": "0.9.4.2",
+    "name": "0.9.4.2",
+    "prerelease": false,
+    "published_at": "2026-08-18T19:28:05Z",
+    "zip": {
+     "name": "1788910",
+     "url": "https://gamebanana.com/dl/1788910"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-18T19:28:05Z"
+  },
+  {
+   "folder": "Highlander1536@gb_706221",
+   "id": "gb_706221",
+   "title": "[GEN1] Gold & Silver Sprites (NOW WITH ANIMATED!)",
+   "author": "Highlander1536",
+   "version": "1.4.3",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Gold Silver Crystal and Space World 97 in GEN1",
+   "latest": {
+    "version": "1.4.3",
+    "tag": "1.4.3",
+    "name": "1.4.3",
+    "prerelease": false,
+    "published_at": "2026-08-22T02:01:29Z",
+    "zip": {
+     "name": "1792899",
+     "url": "https://gamebanana.com/dl/1792899"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-22T02:01:29Z"
+  },
+  {
+   "folder": "Highlander1536@gb_706236",
+   "id": "gb_706236",
+   "title": "[GEN1] Green Sprites",
+   "author": "Highlander1536",
+   "version": "1.0.3",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Pokémon Green Sprites for RED BLUE & YELLOW!",
+   "latest": {
+    "version": "1.0.3",
+    "tag": "1.0.3",
+    "name": "1.0.3",
+    "prerelease": false,
+    "published_at": "2026-08-18T19:45:29Z",
+    "zip": {
+     "name": "1788929",
+     "url": "https://gamebanana.com/dl/1788929"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-18T19:45:29Z"
+  },
+  {
+   "folder": "Highlander1536@gb_706230",
+   "id": "gb_706230",
+   "title": "[GEN1] Red ReTranslated",
+   "author": "Highlander1536",
+   "version": "0.5.5",
+   "categories": [
+    "TRANSLATION"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Red Retranslated, Play Like The Japanese in the 90s",
+   "latest": {
+    "version": "0.5.5",
+    "tag": "0.5.5",
+    "name": "0.5.5",
+    "prerelease": false,
+    "published_at": "2026-08-18T19:36:26Z",
+    "zip": {
+     "name": "1788918",
+     "url": "https://gamebanana.com/dl/1788918"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-18T19:36:26Z"
+  },
+  {
+   "folder": "Highlander1536@gb_706233",
+   "id": "gb_706233",
+   "title": "[GEN1] Start Menu Extras",
+   "author": "Highlander1536",
+   "version": "gb-1794779",
+   "categories": [
+    "UI"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Start Menu Extras Helps Orginize The Games Menus To Be Cleaner and Tighter",
+   "latest": {
+    "version": "gb-1794779",
+    "tag": "gb-1794779",
+    "name": "gb-1794779",
+    "prerelease": false,
+    "published_at": "2026-08-23T18:05:21Z",
+    "zip": {
+     "name": "1794779",
+     "url": "https://gamebanana.com/dl/1794779"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-23T18:05:21Z"
+  },
+  {
+   "folder": "erickssen@gb_699406",
+   "id": "gb_699406",
+   "title": "Bigger Bag + Wraparound Item Menu",
+   "author": "erickssen",
+   "version": "gb-1770617",
+   "categories": [
+    "UI"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "gb-1770617",
+    "tag": "gb-1770617",
+    "name": "gb-1770617",
+    "prerelease": false,
+    "published_at": "2026-08-01T05:16:04Z",
+    "zip": {
+     "name": "1770617",
+     "url": "https://gamebanana.com/dl/1770617"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-01T05:16:04Z"
+  },
+  {
+   "folder": "_NetNomad@gb_699242",
+   "id": "gb_699242",
+   "title": "FM Music Conversion",
+   "author": "_NetNomad",
+   "version": "gb-1772779",
+   "categories": [
+    "AUDIO"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Make your 90s handheld game sound like an 80s computer game.",
+   "latest": {
+    "version": "gb-1772779",
+    "tag": "gb-1772779",
+    "name": "gb-1772779",
+    "prerelease": false,
+    "published_at": "2026-08-03T14:22:34Z",
+    "zip": {
+     "name": "1772779",
+     "url": "https://gamebanana.com/dl/1772779"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-03T14:22:34Z"
+  }
+ ],
+ "carts": []
+}
