@@ -1,0 +1,37 @@
+{
+  "index_url": "https://bryanthaboi.github.io/gen1recomp-mod-index/data/index.json",
+  "index_repo": "bryanthaboi/gen1recomp-mod-index",
+  "gamebanana_game_id": 25428,
+
+  "github_repo_queries": [
+    "gen1recomp",
+    "gen1recomp mod",
+    "gen1recomp-mod",
+    "g1r mod pokemon",
+    "gen2recomp",
+    "gen3recomp",
+    "topic:gen1recomp",
+    "gen1recomp in:readme",
+    "\"G1R Deluxe\" in:readme",
+    "\"Gen1Recomp++\" in:readme",
+    "DRAMATIC_SHAPE in:readme"
+  ],
+  "github_code_queries": [
+    "gen1recomp filename:manifest.json",
+    "gen1recomp filename:meta.json",
+    "\"gen1recomp\" filename:README.md",
+    "\"Gen1Recomp\" extension:lua"
+  ],
+
+  "relevance_keywords": ["gen1recomp", "gen 1 recomp", "gen1 recomp", "g1r", "gen1recomp++", "gen2recomp", "gen3recomp", "bryanthaboi", "dramatic_shape", "dramatic shape"],
+  "exclude_keywords": ["gothic"],
+  "exclude_repos": [
+    "bryanthaboi/gen1recomp",
+    "bryanthaboi/gen1recomp-mod-index",
+    "madonnadenominational625/kanto-gear"
+  ],
+
+  "inactive_after_days": 45,
+  "abandoned_after_days": 120,
+  "abandoned_words": ["discontinued", "retired", "dropped", "abandoned", "outdated", "deprecated", "no longer maintained", "archived"]
+}

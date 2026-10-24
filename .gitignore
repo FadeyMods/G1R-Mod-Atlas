@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+app/build/
+app/dist/
+app/icon.ico
+*.spec
