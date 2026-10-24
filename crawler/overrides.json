@@ -1,0 +1,50 @@
+{
+  "_info": "Hand-Entscheidungen zur Duplikat-Erkennung (geprüft am 2026-10-24). same = gehören zusammen, different = getrennt lassen (übersteuert nur Namens-/Ähnlichkeitsregeln). author_alias = gleiche Person unter anderem Namen.",
+  "same": [
+    ["gh:tailscreatesstuff32/encounter_tweaks_gen1_recomp", "gh:gymleadermatt/encounter_tweaks_gen1_recomp"],
+    ["gh:tailscreatesstuff32/starter_change_gen1_recomp", "gh:gymleadermatt/starter_change_gen1_recomp"],
+    ["gh:tailscreatesstuff32/red-with-yellow-palette-gen1-recomp", "gh:gymleadermatt/red-with-yellow-palette-gen1-recomp"],
+    ["gh:scottcandy34/dramaticshapevoxelmod-latest", "gh:linkfy/dramaticshapevoxelmodbackup"],
+    ["gh:scottcandy34/dramaticshapevoxelmod-latest", "gh:itsnoctyss/dramatic_shape-1.2.1-android-release"],
+    ["gh:scottcandy34/dramaticshapevoxelmod-latest", "gh:tejota1337/dramaticshapevoxelmod"],
+    ["gh:scottcandy34/dramaticshapevoxelmod-latest", "gh:dramaticshape/dramaticshapevoxelmod"],
+    ["gh:himionegranger/gen1recomp-unplugged", "gh:bolayerdev/gen1recomp-unplugged"],
+    ["gh:highdrexler/gen-3-inspired-ui-overhaul-for-gen1recomp", "gh:highdrexler/gen-3-inspired-ui-overhaul-for-gen1recomp-v1.1-w-updater"],
+    ["gh:smidja2/my-pokemon-ranch-importer", "gh:smidja2/ranch-importer"],
+    ["gh:otaconrevengeance/gold_ost", "gb:706225"],
+    ["gh:otaconrevengeance/gold_sprites", "gb:706221"],
+    ["gh:otaconrevengeance/green_sprites", "gb:706236"],
+    ["gh:otaconrevengeance/red_retranslated", "gb:706230"],
+    ["gh:otaconrevengeance/start_menu_extras", "gb:706233"],
+    ["gh:curlyg004/porygonal-overworld-characters", "dc:1540286285095243786"],
+    ["gh:lilnuggettboi/open-continent-concept-mod", "dc:1543475336740733040"],
+    ["gh:ojsaucer/advanced-camera-options", "dc:1553622478478254161"],
+    ["gh:wild1walker/gen1arena", "dc:1540650106410369064"],
+    ["gh:himionegranger/gen1recomp-unplugged", "dc:1536249341231243345"],
+    ["gh:debatesmith/project-celebi", "dc:1536846040488091698"],
+    ["gh:artyrambles/st_spriteswapper", "dc:1537158860564074536"],
+    ["gh:wild1walker/gen1wildgreen", "dc:1542851659980607549"],
+    ["gh:wild1walker/gen1wildgreen", "dc:1543004414237745172"],
+    ["gh:swuff-star/kep-recomp-port", "dc:1535448740297445466"],
+    ["gh:illanrego/gen1recomp-encounter-guide", "gh:illanrego/wills-mod"],
+    ["gh:illanrego/gen1recomp-encounter-guide", "gb:703606"]
+  ],
+  "different": [
+    ["gh:windwrecker/mew-under-the-truck", "gh:maaggel/mew-under-the-truck"],
+    ["gh:radekhm/xp_multiplier_gen1recomp", "gh:yopox/gen1recomp-exp-multiplier"],
+    ["gh:arsdaemonia-design/gen1recomp-vanillaplus", "gh:givescottpot/vanilla-"],
+    ["gh:radeatsworld/pkm-gen1recomp-gameshark-mod", "gh:goofwear/gameshark"],
+    ["gh:nexhas28/gen1recomp-mod-browser", "gh:tcsenpai/gen1recomp-mod-browser"]
+  ],
+  "author_alias": {
+    "highlander1536": "otaconrevengeance",
+    "nexhas28": "shanemcgovernie",
+    "paperboi": "shanemcgovernie",
+    "elvie": "elvieblooms",
+    "elima": "tooandorisu",
+    "absol": "absol89",
+    "stahltier": "artyrambles",
+    "tailscreatesstuff32": "gymleadermatt"
+  },
+  "generic_manifest_ids": ["my_mod", "mymod", "example", "example_mod", "test", "test_mod", "mod", "template", "your_mod", "hello_world", "my_first_mod"]
+}
