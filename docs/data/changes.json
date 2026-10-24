@@ -1,5 +1,832 @@
 [
  {
+  "date": "2026-10-24T00:06:13Z",
+  "new": [
+   {
+    "id": "gh:lordsangreal/versaocristal-ptbr",
+    "name": "versaocristal ptbr"
+   },
+   {
+    "id": "gh:dariomelo/gen1recomp-musicmods",
+    "name": "Gen1Recomp MusicMods"
+   },
+   {
+    "id": "gh:elvieblooms/event_soundbytes",
+    "name": "Event Soundbytes"
+   },
+   {
+    "id": "gh:dariomelo/gen1recomp-cj",
+    "name": "Gen1Recomp CJ"
+   },
+   {
+    "id": "gh:antoniman31/gen1recomp-cycle-jour-nuit-fr",
+    "name": "gen1recomp cycle jour nuit FR"
+   },
+   {
+    "id": "gh:fadeymods/g1r-mod-atlas",
+    "name": "G1R Mod Atlas"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped"
+   },
+   {
+    "id": "gh:navjack/gen1recomp",
+    "name": "gen1recomp"
+   },
+   {
+    "id": "gh:dinokunslaad/gen1recomp",
+    "name": "gen1recomp"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-widescreen-battle-intro",
+    "name": "gen1recomp widescreen battle intro"
+   },
+   {
+    "id": "gh:moneyth/gen1recomp-update",
+    "name": "Gen1recomp update"
+   },
+   {
+    "id": "gh:ianmuler/localmind",
+    "name": "localMind"
+   },
+   {
+    "id": "gh:iphoenix042/gen1recomp-mods",
+    "name": "Gen1Recomp Mods"
+   },
+   {
+    "id": "gh:workspacedive/gen1recomp",
+    "name": "gen1recomp"
+   },
+   {
+    "id": "gh:workspacedive/scripting-gen1recomp",
+    "name": "scripting gen1recomp"
+   },
+   {
+    "id": "gh:celsoalexandersantiagomartinez-stack/gen1_and_2_recomp",
+    "name": "gen1 and 2 recomp"
+   },
+   {
+    "id": "gh:khabirthegoat/gen1recomp-backup",
+    "name": "gen1recomp backup"
+   },
+   {
+    "id": "gh:sparkey333/pokemon-gen1-recomp-bryan-thaboi",
+    "name": "Pokemon Gen1 Recomp Bryan Thaboi"
+   },
+   {
+    "id": "gh:ascedent-omega/omega-kanto-ascendant----gen2recomp",
+    "name": "Omega Kanto Ascendant    Gen2Recomp"
+   },
+   {
+    "id": "gh:ascedent-omega/voxel-omega-ascendant-----gen2recomp",
+    "name": "Voxel Omega Ascendant     Gen2Recomp"
+   },
+   {
+    "id": "gh:yoga07/gen2recomp",
+    "name": "gen2recomp"
+   },
+   {
+    "id": "gh:abdillahinur/gen2recomp",
+    "name": "Gen2Recomp"
+   },
+   {
+    "id": "gh:robdadevil/gen3recomp",
+    "name": "gen3recomp"
+   },
+   {
+    "id": "gh:donwaztok/gen3recomp",
+    "name": "Gen3Recomp"
+   },
+   {
+    "id": "gh:drglitchyphd/aio-recomp",
+    "name": "aio recomp"
+   },
+   {
+    "id": "gh:codm2000/dual-screen-games",
+    "name": "Dual Screen Games"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog"
+   },
+   {
+    "id": "gh:samuel-sslabs/port-mobile",
+    "name": "Port Mobile"
+   },
+   {
+    "id": "gh:bigcatmellow/fireredrecomp",
+    "name": "FireRedRecomp"
+   },
+   {
+    "id": "gh:maldonadobenjamin2009/sonicadvance1-recomp",
+    "name": "sonicadvance1 recomp"
+   },
+   {
+    "id": "gh:standonjoyner/awesome-rea",
+    "name": "awesome rea"
+   },
+   {
+    "id": "gh:ruisu05/portyoshka",
+    "name": "Portyoshka"
+   },
+   {
+    "id": "gh:sohamb117/gen4recomp",
+    "name": "gen4recomp"
+   },
+   {
+    "id": "gh:theusrsilva/pocket-monster-saphire-decomp",
+    "name": "pocket monster saphire decomp"
+   },
+   {
+    "id": "gh:bananausagi/pocket-recomp",
+    "name": "pocket recomp"
+   },
+   {
+    "id": "gh:tovakai/baremetal-aarch64-games",
+    "name": "baremetal aarch64 games"
+   },
+   {
+    "id": "gh:poooooby/poooooby",
+    "name": "poooooby"
+   },
+   {
+    "id": "gh:pocket-nexus/pocket-voxel",
+    "name": "pocket voxel"
+   },
+   {
+    "id": "gh:hugh-oneill/open-red",
+    "name": "open red"
+   },
+   {
+    "id": "gh:recompfan/awesome-recomp",
+    "name": "awesome recomp"
+   },
+   {
+    "id": "gh:sohamb117/pokeweb",
+    "name": "pokeweb"
+   },
+   {
+    "id": "gh:joshualevi/pocket-diorama",
+    "name": "pocket diorama"
+   },
+   {
+    "id": "gh:real-cak3d/pokedex",
+    "name": "Pokedex"
+   },
+   {
+    "id": "gh:tomasmorello/love-ps4",
+    "name": "love ps4"
+   },
+   {
+    "id": "gh:sod-ers/bookmarks",
+    "name": "Bookmarks"
+   },
+   {
+    "id": "gh:tamdev999/enginemon",
+    "name": "Enginemon"
+   },
+   {
+    "id": "gh:spicywonda/wlauncher",
+    "name": "WLauncher"
+   },
+   {
+    "id": "gh:dann1994/pokemon-edici-n-definitiva",
+    "name": "Pokemon edici n definitiva"
+   },
+   {
+    "id": "gh:rahelpuest/mysticquestrecomp",
+    "name": "mysticquestrecomp"
+   },
+   {
+    "id": "gh:yaizoo/yaizoo",
+    "name": "yaizoo"
+   },
+   {
+    "id": "gh:dariocavallari/open-source-qa-audits",
+    "name": "open source qa audits"
+   },
+   {
+    "id": "gh:nexhas28/potato_voxel",
+    "name": "potato voxel"
+   },
+   {
+    "id": "gh:illanrego/illanrego",
+    "name": "illanrego"
+   },
+   {
+    "id": "gh:marcpique/pokemon3d-portable-builder",
+    "name": "Pokemon3D Portable Builder"
+   },
+   {
+    "id": "gh:nexhas28/pixelgen1_font",
+    "name": "PixelGen1 Font"
+   },
+   {
+    "id": "gh:harryw4444/harryw4444",
+    "name": "harryw4444"
+   },
+   {
+    "id": "gh:admyrick/obt",
+    "name": "Obt"
+   },
+   {
+    "id": "gh:andreyneto/love-mmiyoo",
+    "name": "love mmiyoo"
+   },
+   {
+    "id": "gh:eduardocalafell/eduardocalafell",
+    "name": "eduardocalafell"
+   },
+   {
+    "id": "gh:dosukasol/prismatic",
+    "name": "prismatic"
+   },
+   {
+    "id": "gh:zangos2an905/tggrecomp",
+    "name": "TGGRecomp"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon"
+   },
+   {
+    "id": "gh:jovinull/september32",
+    "name": "September32"
+   },
+   {
+    "id": "gh:allwinandrews/aiseries",
+    "name": "aiseries"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlymods",
+    "name": "Gen1NightlyMods"
+   },
+   {
+    "id": "gh:nexhas28/qol_toggles",
+    "name": "qol toggles"
+   },
+   {
+    "id": "gh:nexhas28/yellow_legacy_changes",
+    "name": "yellow legacy changes"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:faustmusteloidea/1025-crazy-randomizer",
+    "name": "1025Dex Crazy Randomizer",
+    "from": "v0.4.50",
+    "to": "v0.4.42"
+   },
+   {
+    "id": "gh:nahalewski/aeondx",
+    "name": "AeonDX",
+    "from": "v0.0.1-prerelease0.1",
+    "to": "commit-3663700"
+   },
+   {
+    "id": "gh:blackwing182/autosave_timer",
+    "name": "Autosave Timer",
+    "from": "v0.1.4",
+    "to": "commit-174eda4"
+   },
+   {
+    "id": "gh:alucardthefirsthunter/cryreplacementmod",
+    "name": "CryReplacementMod",
+    "from": "pika",
+    "to": "anime"
+   },
+   {
+    "id": "gh:notquiteog/double-battles-gen2",
+    "name": "Double Battles",
+    "from": "v0.14.7",
+    "to": "v0.14.8"
+   },
+   {
+    "id": "gh:christiansilvermoon/dramaticshapevoxelmod-archive",
+    "name": "Dramatic Shape Voxel Mod",
+    "from": "v1.6.0",
+    "to": "commit-c6b38f8"
+   },
+   {
+    "id": "gh:gummygamer/dramaticshapevoxelmod",
+    "name": "Dramatic Shape Voxel Mod",
+    "from": "v1.5.2",
+    "to": "commit-c3bbfce"
+   },
+   {
+    "id": "gh:notquiteog/dramatic-sky-ride",
+    "name": "Dramatic Sky Ride",
+    "from": "v0.5.6",
+    "to": "v0.5.7"
+   },
+   {
+    "id": "gh:smidja2/dx-realtime-and-overworld-for-gen1",
+    "name": "DX Realtime and Overworld (Gen 1)",
+    "from": "gen1recomp",
+    "to": "commit-d3aca17"
+   },
+   {
+    "id": "gh:tailscreatesstuff32/encounter_tweaks_gen1_recomp",
+    "name": "Encounter Tweaks",
+    "from": "glm",
+    "to": "commit-7367200"
+   },
+   {
+    "id": "gh:sebarosu/fakemon",
+    "name": "FakeMon",
+    "from": "0.4.0",
+    "to": "commit-16f4af0"
+   },
+   {
+    "id": "gh:inmento/firered-tilesheet-importer",
+    "name": "FireRed Tilesheet Importer Prototype",
+    "from": "v0.1.0-prototype.4",
+    "to": "commit-58be566"
+   },
+   {
+    "id": "gh:himionegranger/frlg-voxel-engine",
+    "name": "FRLG-Voxel-Engine",
+    "from": "v0.1.0-beta.4",
+    "to": "commit-4ead7fb"
+   },
+   {
+    "id": "gh:randyadr/gen-1-3d-npc-s",
+    "name": "Gen1 TRUE 3D Characters",
+    "from": "1.0",
+    "to": "v1.1.5"
+   },
+   {
+    "id": "gh:feliznavidad-d/gen1-recomp-mods",
+    "name": "Gen1-Recomp-Mods",
+    "from": "DynamicScaling1.0.7",
+    "to": "DV_Tracker1.0.1"
+   },
+   {
+    "id": "gh:notquiteog/gen1online-plus",
+    "name": "Gen1Online+",
+    "from": "v0.11.3",
+    "to": "v0.11.4"
+   },
+   {
+    "id": "gh:astromaddie/gen1recomp-frame",
+    "name": "gen1recomp-frame",
+    "from": "v0.2.1",
+    "to": "commit-860a234"
+   },
+   {
+    "id": "gh:duskpromised/gen1recomp-mod-index",
+    "name": "gen1recomp-mod-index",
+    "from": "v0.2.11",
+    "to": "commit-272c5cb"
+   },
+   {
+    "id": "gh:chrispanella/gen1recomp-mods",
+    "name": "gen1recomp-mods",
+    "from": "visual_pack-v1.2.0",
+    "to": "lottery-v1.1.1"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "phosphor-v1.0.0",
+    "to": "commit-4002f86"
+   },
+   {
+    "id": "gh:masterwebx/gen1recomp-hunt-mode",
+    "name": "HUNT Mode",
+    "from": "v0.3.0",
+    "to": "commit-4aa61be"
+   },
+   {
+    "id": "gh:yaizoo/k89-pokemon-gen2-jp",
+    "name": "K89 Pokemon Gold JP",
+    "from": "v0.15.1-beta",
+    "to": "commit-4f695f7"
+   },
+   {
+    "id": "gh:dscrete/recomp_additions",
+    "name": "Kanto Expansion",
+    "from": "v0.2.3",
+    "to": "commit-f2d5aff"
+   },
+   {
+    "id": "gh:faendra/kanto-rework-suite",
+    "name": "kanto-rework-suite",
+    "from": "Merged.6",
+    "to": "Compatibility1"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-777e455",
+    "to": "commit-d28efde"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-3d-character-selector",
+    "name": "Legendary-3D-Character-Selector",
+    "from": "v1.2-test111-compat253",
+    "to": "v1.1.8-test41"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-3d-npcs",
+    "name": "Legendary-3D-NPCs",
+    "from": "v1.1.6",
+    "to": "v1.1.6-test16"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-battle-cinematics-compat",
+    "name": "Legendary-Battle-Cinematics-Compat",
+    "from": "v0.7.3-test4",
+    "to": "camera-v0.1.0-test4"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-stadium-overworld-models",
+    "name": "Legendary-Stadium-Overworld-Models",
+    "from": "v0.1.63-ba.119-import-cache",
+    "to": "models153-fx46-importer26"
+   },
+   {
+    "id": "gh:notquiteog/modern-ui",
+    "name": "Modern Pokemon UI",
+    "from": "v0.4.5",
+    "to": "v0.4.6"
+   },
+   {
+    "id": "gh:shanehudson-gen1recomp-mods/monorepo",
+    "name": "monorepo",
+    "from": "wild_skies-v1.12.1",
+    "to": "commit-2ecf4aa"
+   },
+   {
+    "id": "gh:dscrete/mythemon",
+    "name": "Mythmon",
+    "from": "v0.1.10",
+    "to": "commit-df0cf7b"
+   },
+   {
+    "id": "gh:notquiteog/dramaticshapevoxelmod",
+    "name": "notquiteog DramaticShapeVoxelMod",
+    "from": "v1.57.11",
+    "to": "v1.57.12"
+   },
+   {
+    "id": "gh:nezara/oaks-lab",
+    "name": "oaks-lab",
+    "from": "v0.1.0-alpha",
+    "to": "commit-b5ec55b"
+   },
+   {
+    "id": "gh:notquiteog/overworld-spawn-mod",
+    "name": "Overworld Spawn Mod (notquiteog)",
+    "from": "v2.6.8",
+    "to": "v2.6.9"
+   },
+   {
+    "id": "gh:gamecorner-033/gen1pc-overworldencounters",
+    "name": "Overworld Wild Encounters Mod",
+    "from": "v.0.0.7",
+    "to": "commit-12f1bdd"
+   },
+   {
+    "id": "gh:mochx-007/pkmultiplayer",
+    "name": "PkMultiplayer (Online Co-op)",
+    "from": "v1.4.1-alpha.5",
+    "to": "v1.4.0"
+   },
+   {
+    "id": "gh:keberos/poison-notify",
+    "name": "Poison Notify",
+    "from": "v0.2.0",
+    "to": "commit-a0efe4d"
+   },
+   {
+    "id": "gh:randyadr/3d-pokemon-sprites",
+    "name": "Pokemon Stadium Overworld Models",
+    "from": "0.1.58",
+    "to": "0.1.56"
+   },
+   {
+    "id": "gh:millblues/poketouch",
+    "name": "PokeTouch",
+    "from": "v1.1.2",
+    "to": "commit-784fec0"
+   },
+   {
+    "id": "gh:gamecorner-033/pokepcfollowers",
+    "name": "PokéPC Followers (Voxel Merge)",
+    "from": "v0.5.4",
+    "to": "commit-5aeb14e"
+   },
+   {
+    "id": "gh:deftones565/gen1recomp-mod-quality-of-life",
+    "name": "Quality of Life",
+    "from": "1.3.2",
+    "to": "v1.3.1"
+   },
+   {
+    "id": "gh:keberos/quickmap",
+    "name": "Quick Map",
+    "from": "v1.1.0",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:otaconrevengeance/start_menu_extras",
+    "name": "Start Menu Extras",
+    "from": "ssstart",
+    "to": "sssstart"
+   },
+   {
+    "id": "gh:tailscreatesstuff32/starter_change_gen1_recomp",
+    "name": "Starter Change",
+    "from": "glm",
+    "to": "commit-c798412"
+   },
+   {
+    "id": "gh:gilles93/stronger-trainers-gen-2",
+    "name": "Stronger Trainers (Gen 2)",
+    "from": "v0.6.0",
+    "to": "v0.5.0"
+   },
+   {
+    "id": "gh:mrgr8/tactical-combat-overhaul-gen1recomp-",
+    "name": "Tactical-Combat-Overhaul-Gen1Recomp-",
+    "from": "v1.0.2",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:brenobertucci/terrarium",
+    "name": "Terrarium",
+    "from": "v1.40.0-beta",
+    "to": "v1.30.1"
+   },
+   {
+    "id": "gh:berniuz/gen1recomp-italian-translation",
+    "name": "Traduzione ITA",
+    "from": "v0.9-beta",
+    "to": "v0.1.0beta"
+   },
+   {
+    "id": "gh:routeboundmods/gen1recomp-trainer-avatars",
+    "name": "Trainer Avatars: Choose Your Path",
+    "from": "v1.0.1",
+    "to": "v1.0.0"
+   },
+   {
+    "id": "gh:weskestis/universal-randomizer",
+    "name": "Universal-Randomizer",
+    "from": "v1.3.18",
+    "to": "commit-f42e757"
+   },
+   {
+    "id": "gh:weskestis/universalrandomizer",
+    "name": "UniversalRandomizer",
+    "from": "v1.3.37",
+    "to": "V.1.3.41"
+   },
+   {
+    "id": "gh:raphabarreto/versaovermelha-moves-en",
+    "name": "VersãoVermelha (Moves in English)",
+    "from": "v1.0.1",
+    "to": "v0.2.1"
+   },
+   {
+    "id": "gh:melomp4/vitaport",
+    "name": "vitaport",
+    "from": "v0.1.46",
+    "to": "commit-9610bcf"
+   },
+   {
+    "id": "gh:notquiteog/wild_skies",
+    "name": "Wild Skies (notquiteog)",
+    "from": "v1.15.3",
+    "to": "v1.15.4"
+   },
+   {
+    "id": "gh:mrkrissatan/wxpokes",
+    "name": "WXpokes",
+    "from": "1.4.1",
+    "to": "1.4.0"
+   },
+   {
+    "id": "gh:tailscreatesstuff32/red-with-yellow-palette-gen1-recomp",
+    "name": "Yellow Palette",
+    "from": "glm",
+    "to": "commit-818ad21"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:zyrancz/autofire",
+    "name": "Autofire AB",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:sanjinpepic/gen1recomp-battle-forms",
+    "name": "Battle Forms",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:piftee/gen1recomp-battle-info-hud",
+    "name": "Battle Info HUD",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:artyrambles/dramaless_shape",
+    "name": "Dramaless Shape",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:christiansilvermoon/dramaticshapevoxelmod-archive",
+    "name": "Dramatic Shape Voxel Mod",
+    "from": "inactive",
+    "to": "archived"
+   },
+   {
+    "id": "gh:bartinthefield/gen1recomp-ds-mod",
+    "name": "Dual Screen (DS-style)",
+    "from": "inactive",
+    "to": "archived"
+   },
+   {
+    "id": "gh:wild1walker/gen1autocontinue",
+    "name": "Gen1AutoContinue",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:wild1walker/gen1autosave",
+    "name": "Gen1AutoSave",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:syybott/gen1bettermenus",
+    "name": "Gen1BetterMenus",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:wild1walker/gen1follower",
+    "name": "Gen1Follower",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:wild1walker/gen1menumanager",
+    "name": "Gen1MenuManager",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:wild1walker/gen1modernbag",
+    "name": "Gen1ModernBag",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:shanehudson/gen1recomp-mods",
+    "name": "gen1recomp-mods",
+    "from": "inactive",
+    "to": "archived"
+   },
+   {
+    "id": "gh:sanjinpepic/gen1recomp-national-dex",
+    "name": "gen1recomp-national-dex",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:wild1walker/gen1remember",
+    "name": "Gen1Remember",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:jramiresbrito/gen2-3d-sprites",
+    "name": "Gen2 3D Sprites Plus",
+    "from": "inactive",
+    "to": "abandoned"
+   },
+   {
+    "id": "gh:goofwear/kanto-ascendant",
+    "name": "Kanto Ascendant",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-3d-character-selector",
+    "name": "Legendary-3D-Character-Selector",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-3d-npcs",
+    "name": "Legendary-3D-NPCs",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-battle-cinematics-compat",
+    "name": "Legendary-Battle-Cinematics-Compat",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:piftee/gen1recomp-modern-party-ui",
+    "name": "Modern Party UI",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:piftee/gen1recomp-modern-pc-ui",
+    "name": "Modern PC UI",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:oflatt/move-mania",
+    "name": "Move Mania",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:rolottr/pokevoxel",
+    "name": "pokevoxel",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:smidja2/quest",
+    "name": "Rumble Quest Mod",
+    "from": "active",
+    "to": "archived"
+   },
+   {
+    "id": "gh:inmento/shedinja",
+    "name": "Shedinja",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:inmento/shedinja-expanded-bridge",
+    "name": "Shedinja Compatibility Bridge",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:silvershadowkat/gen1recomp-minimal-cheats",
+    "name": "SilverShadow Mods",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:lachie123456/stadium-cries",
+    "name": "Stadium-Cries",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:anxiousintrovert/stadiumbattlefx",
+    "name": "StadiumBattleFX",
+    "from": "inactive",
+    "to": "archived"
+   },
+   {
+    "id": "gh:darkwarepx/trainer-skins",
+    "name": "Trainer Skins",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:piftee/gen1recomp-typed-move-colors",
+    "name": "Typed Move Colors",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:weskestis/universalrandomizer",
+    "name": "UniversalRandomizer",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:goofwear/voxel-ascendant",
+    "name": "Voxel Ascendant",
+    "from": "inactive",
+    "to": "active"
+   }
+  ]
+ },
+ {
   "date": "2026-10-23T23:11:44Z",
   "new": [],
   "updated": [
