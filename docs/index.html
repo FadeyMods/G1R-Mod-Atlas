@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>G1R Mod Atlas</title>
+<meta name="description" content="Every mod for Gen1Recomp from every source: the mod index, GitHub, GameBanana and Discord, including abandoned and deleted mods.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23fff' stroke='%23222' stroke-width='3'/%3E%3Cpath d='M2 16a14 14 0 0 1 28 0z' fill='%23e3350d' stroke='%23222' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='4' fill='%23fff' stroke='%23222' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Press+Start+2P&display=swap">
+<link rel="stylesheet" href="style.css?v=4">
+</head>
+<body>
+<header class="bar">
+  <div class="bar-in">
+    <a class="logo" href="#" aria-label="G1R Mod Atlas">
+      <span class="ball" aria-hidden="true"></span>
+      <span class="logo-txt">MOD ATLAS</span>
+      <span class="logo-sub">Gen1Recomp</span>
+    </a>
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input id="q" type="search" autocomplete="off" data-i18n-placeholder="search">
+    </label>
+    <div class="bar-right">
+      <div class="app-only" id="app-actions" hidden>
+        <button class="btn ghost" id="btn-updates" data-i18n="checkUpdates"></button>
+        <button class="btn primary" id="btn-play" data-i18n="play"></button>
+        <button class="btn icon" id="btn-settings" data-i18n-aria="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button>
+      </div>
+      <select id="lang" class="lang" aria-label="Language"></select>
+    </div>
+  </div>
+</header>
+
+<div class="notice" role="note">
+  <span class="notice-tag" data-i18n="unmaintainedTag"></span>
+  <span data-i18n="unmaintainedText"></span>
+  <a href="https://github.com/FadeyMods/G1R-Mod-Atlas" target="_blank" data-i18n="unmaintainedLink"></a>
+</div>
+
+<div class="layout">
+  <aside class="side" id="side">
+    <nav class="views">
+      <button class="view on" data-view="browse"><span data-i18n="tabAll"></span></button>
+      <button class="view app-only" data-view="installed" hidden><span data-i18n="tabInstalled"></span><b id="n-installed"></b></button>
+      <button class="view" data-view="changes"><span data-i18n="tabChanges"></span></button>
+    </nav>
+
+    <div class="fgroup">
+      <label class="switch"><input type="checkbox" id="only-installable" checked><span></span><em data-i18n="onlyInstallable"></em></label>
+      <label class="switch"><input type="checkbox" id="show-hidden"><span></span><em data-i18n="showHidden"></em></label>
+    </div>
+    <div class="fgroup"><h4 data-i18n="fGame"></h4><div id="f-gen" class="chips"></div></div>
+    <div class="fgroup"><h4 data-i18n="fCategory"></h4><div id="f-cat" class="chips"></div></div>
+    <div class="fgroup"><h4 data-i18n="fStatus"></h4><div id="f-status" class="chips"></div></div>
+    <div class="fgroup"><h4 data-i18n="fSource"></h4><div id="f-src" class="chips"></div></div>
+    <button class="reset" id="reset" data-i18n="resetFilters"></button>
+  </aside>
+
+  <main class="main">
+    <section id="v-browse">
+      <div class="toolbar">
+        <p class="count" id="count"></p>
+        <select id="sort" data-i18n-aria="sortLabel">
+          <option value="activity" data-i18n="sortActivity"></option>
+          <option value="popular" data-i18n="sortPopular"></option>
+          <option value="new" data-i18n="sortNew"></option>
+          <option value="name" data-i18n="sortName"></option>
+        </select>
+      </div>
+      <div id="grid" class="grid"></div>
+      <div id="sentinel"></div>
+    </section>
+
+    <section id="v-changes" hidden><div id="changes"></div></section>
+  </main>
+</div>
+
+<div class="drawer" id="drawer" hidden>
+  <div class="drawer-bg" data-close></div>
+  <article class="drawer-panel" id="drawer-panel" role="dialog" aria-modal="true"></article>
+</div>
+
+<div class="drawer" id="settings" hidden>
+  <div class="drawer-bg" data-close></div>
+  <article class="drawer-panel narrow" role="dialog" aria-modal="true">
+    <button class="x" data-close aria-label="×">×</button>
+    <h2 data-i18n="settings"></h2>
+    <label class="field"><span data-i18n="saveDir"></span>
+      <div class="row"><input id="set-save" readonly><button class="btn ghost" id="pick-save" data-i18n="change"></button></div>
+      <small data-i18n="saveDirHint"></small>
+    </label>
+    <label class="field"><span data-i18n="gameExe"></span>
+      <div class="row"><input id="set-exe" readonly><button class="btn ghost" id="pick-exe" data-i18n="change"></button></div>
+    </label>
+    <label class="field"><span data-i18n="feedUrl"></span>
+      <input id="set-feed">
+      <small data-i18n="feedHint"></small>
+    </label>
+    <div class="row end"><button class="btn primary" id="save-settings" data-i18n="saveSettings"></button></div>
+  </article>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+
+<footer class="foot">
+  <span data-i18n="asOf"></span> <span id="gen-at"></span> ·
+  <a href="data/mods.json">mods.json</a> · <a href="data/index.json" data-i18n="gameFeed"></a> ·
+  <span data-i18n="disclaimer"></span>
+</footer>
+
+<script src="i18n.js?v=4"></script>
+<script src="app.js?v=4"></script>
+</body>
+</html>
