@@ -1,0 +1,654 @@
+﻿name	source_url	github_repo_or_empty	category	has_release	note
+Pok-mon-Cries	https://github.com/1D3G0/Pok-mon-Cries	1D3G0/Pok-mon-Cries	AUDIO	no	A compilation of Pokémon cries for gen1recomp pokemon
+Celadon Living District	https://github.com/1Jamie/celadon-living-district	1Jamie/celadon-living-district	CONTENT	yes	Gen1Recomp mod: Celadon City as a living district with ambient NPCs, hollow interiors, and dynamic occasions.
+Game Corner Community Hub	https://github.com/1Jamie/game-corner-hub	1Jamie/game-corner-hub	GAMEPLAY	yes	Online multiplayer lobbies in Game Corners
+Gen1 Bag Pockets	https://github.com/1Jamie/gen1_bag_pockets	1Jamie/gen1_bag_pockets	UI	yes	gen1recomp mod: Gen 1 bag pockets and capacity 60
+Kanto Reforged	https://github.com/1Jamie/Kanto-Reforged	1Jamie/Kanto-Reforged	TOTAL_CONVERSION	yes	Gen 2–3 for Red/Blue on gen1recomp. Same Kanto story, more Pokémon, abilities, held items, a berry farm, DexNav, and Qo, all built to feel like Gen 1 did it.
+mod-scanner	https://github.com/1Jamie/mod-scanner	1Jamie/mod-scanner	TOOL	no	Mod scanner for gen1recomp used to verify no Nintendo assets  are in the mod releases 
+Pokegear Cards	https://github.com/1Jamie/pokegear_cards	1Jamie/pokegear_cards	LIBRARY	yes	gen1recomp++ lib for adding custom cards to pokegear while playing gold version
+Right Stick Move	https://github.com/1Jamie/right_stick_move	1Jamie/right_stick_move	QOL	yes	gen1recomp mod: map controller right stick to movement for one-handed play
+Gold Item Spawner	https://github.com/35Bucks/bag-item-generator-pokemon-gold-gen2	35Bucks/bag-item-generator-pokemon-gold-gen2	QOL	yes	A Pokémon Gold Gen 2 mod for Gen1Recomp that lets you generate any in-game item, choose the quantity, and add it directly to your Bag.
+Gold Next Encounter Spawner	https://github.com/35Bucks/gold-next-encounter-spawner	35Bucks/gold-next-encounter-spawner	QOL	yes	A Pokémon Gold mod for Gen1Recomp that lets you choose the Pokémon and level of your next wild encounter.
+Gold Universal Fly	https://github.com/35Bucks/pokemon-gold-universal-fly	35Bucks/pokemon-gold-universal-fly	QOL	yes	A Pokémon Gold Gen 2 mod for Gen1Recomp that lets you Fly between previously visited locations across both Johto and Kanto, removing the original regional re...
+gen1recomp-fast-pokecenter	https://github.com/aaronjenkins/gen1recomp-fast-pokecenter	aaronjenkins/gen1recomp-fast-pokecenter	QOL	yes	Gen 2 fast Pokemon Center heal
+gen1recomp-levelmatch	https://github.com/aaronjenkins/gen1recomp-levelmatch	aaronjenkins/gen1recomp-levelmatch	BALANCE	yes	Crystal Clear style badge-count enemy scaling (Gen 2)
+No Bike Music	https://github.com/adhdandy/gen1recomp-no-bike-music	adhdandy/gen1recomp-no-bike-music	AUDIO	yes	Disables the bike music and keeps the regular overworld music playing [GEN 1 ONLY]
+STADIUM_BATTLE_FX_DS---DRAMATIC-SHAPE-AND-BATTLE-ART-COMPATIBLE	https://github.com/Aghanim-3C/STADIUM_BATTLE_FX_DS---DRAMATIC-SHAPE-AND-BATTLE-ART-COMPATIBLE	Aghanim-3C/STADIUM_BATTLE_FX_DS---DRAMATIC-SHAPE-AND-BATTLE-ART-COMPATIBLE	ART	yes	Unofficial fork of StadiumBattleFX for DRAMATIC_SHAPE / Battle Art
+silver_spike_recomp	https://github.com/AIGleam/silver_spike_recomp	AIGleam/silver_spike_recomp	VOXEL	yes	Gen2 Silver spike + DramaticShape voxel (experimental engine-shell fork)
+qol_suite	https://github.com/ainen/qol_suite	ainen/qol_suite	QOL	yes	QoL Suite is a collection of optional quality-of-life changes for Gen 1 and Gold. Enable the features you want from the mod's settings page.
+RBY Vehicles	https://github.com/alamops/RBYVehicles	alamops/RBYVehicles	GAMEPLAY	yes	A Gen1Recomp mod for vehicles
+TrimuiGen2Recomp	https://github.com/AleWiccan/TrimuiGen2Recomp	AleWiccan/TrimuiGen2Recomp	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (TrimUI, Gen2Recomp)
+Better Info	https://github.com/AlfonsPistoletti/gen1recomp-mod-better-info	AlfonsPistoletti/gen1recomp-mod-better-info	UI	yes	Menu Overhaul: Pokdex, Summary Menu, Battle Moves + Move Relearner
+Immersive Field Moves	https://github.com/AlfonsPistoletti/gen1recomp-mod-immersive-field-moves	AlfonsPistoletti/gen1recomp-mod-immersive-field-moves	GAMEPLAY	yes	Gen1Recomp Immersive Field Moves. No more HM slaves!
+gen1recomp-studio	https://github.com/AlfonsPistoletti/gen1recomp-studio	AlfonsPistoletti/gen1recomp-studio	TOOL	yes	Content Editor for the gen1recomp project
+CryReplacementMod	https://github.com/AlucardTheFirstHunter/CryReplacementMod	AlucardTheFirstHunter/CryReplacementMod	AUDIO	yes	This is a mod for the Pokemon gen1 recomp that replaces all 151 pokemon cries to be ones from the anime and from Fire Red/ leaf green, they can be toggled on...
+MusicReplacementMod	https://github.com/AlucardTheFirstHunter/MusicReplacementMod	AlucardTheFirstHunter/MusicReplacementMod	AUDIO	yes	This is a mod for the Pokemon gen1 recomp that replaces most if not all music and fanfare with music from Pokémon: Let's Go, Pikachu! & Let's Go, Eevee and F...
+Autofire A/B Button	https://github.com/Amey89/autofire-or-turbo-a-b-buttons-mod-for-gen-1-recomp-G1Rdelux-	Amey89/autofire-or-turbo-a-b-buttons-mod-for-gen-1-recomp-G1Rdelux-	QOL	yes	- Toggle auto-fire on or off via the native Options Menu (under the Mods section). - Choose the exact firing speed (from 0.50s down to 0.01s). - Fully suppor...
+Tchuimon Starter	https://github.com/Andremzzr/tchuimon	Andremzzr/tchuimon	GAMEPLAY	no	Substitui o Squirtle inicial no laboratorio do Carvalho pelo Tchuimon!
+myQualityOfLife	https://github.com/andrepecosta/myQualityOfLife	andrepecosta/myQualityOfLife	QOL	yes	A quality-of-life mod pack designed to provide what I believe is the best way to experience Pokémon Gen 1 using Gen1Recomp. Every feature can be toggled on o...
+flare_yellow	https://github.com/AnkokuFlare/flare_yellow	AnkokuFlare/flare_yellow	CART	yes	A QOLmaxing experience that includes QOL, Quests, Voxel, Gen 2 Sprites,UI Mods,and Shiny Mods.
+StadiumBattleFX	https://github.com/anxiousintrovert/StadiumBattleFX	anxiousintrovert/StadiumBattleFX	ART	yes	Pokemon Stadium battle move effects extracted from player's own cart
+Traducción al español — Pokémon FireRed	https://github.com/arcadematicas/traduccion-gen1recomp-firered-es	arcadematicas/traduccion-gen1recomp-firered-es	TRANSLATION	yes	🇪🇸 Traducción al español de Pokémon FireRed y LeafGreen para gen1recomp (Gen 3). Diálogos, menús, movimientos y objetos. Mod translation-es-firered.
+traduccion-gen1recomp-pokemon-espa-ol	https://github.com/arcadematicas/traduccion-gen1recomp-pokemon-espa-ol	arcadematicas/traduccion-gen1recomp-pokemon-espa-ol	TRANSLATION	yes	# Traducción al español — Pokémon Oro, Plata y Cristal (gen1recomp) Mod de traducción al español para **Pokémon Gold, Silver y Crystal** en [**gen1recomp**](...
+Traducción al español — Todos los juegos	https://github.com/arcadematicas/traduccion-gen1recomp-todos-es	arcadematicas/traduccion-gen1recomp-todos-es	TRANSLATION	yes	🇪🇸 Traducción al español de TODOS los juegos de gen1recomp (Rojo/Azul/Amarillo, Oro/Plata/Cristal, FireRed/LeafGreen) en un solo mod.
+Palworld Crafting	https://github.com/argallo/palworld_crafting	argallo/palworld_crafting	GAMEPLAY	yes	Palworld-style survival economy mod for gen1recomp (Gen 1 Pokemon Red): base building, working POKeMON, breeding, essence stars, street bosses
+gen2-clean-ui	https://github.com/ArmstrongThomas/gen2-clean-ui	ArmstrongThomas/gen2-clean-ui	UI	yes	# Gen2 Clean UI Early experimental public release of a clean, modular Pokémon Gold UI. Main, Start, Options, shared dialogue/choices, the active 0.2 gameplay...
+nacho-kanto	https://github.com/ArmstrongThomas/nacho-kanto	ArmstrongThomas/nacho-kanto	AUDIO	yes	nacho kanto, if you know what i mean
+Better Battles	https://github.com/arsdaemonia-design/Gen1Recomp-better-battles	arsdaemonia-design/Gen1Recomp-better-battles	GAMEPLAY	yes	Mejora de batallas para el port Gen1Recomp de Pokemon 
+Modern Bag	https://github.com/arsdaemonia-design/Gen1Recomp-ModernBag	arsdaemonia-design/Gen1Recomp-ModernBag	UI	yes	Reemplaza la mochila clásica por una interfaz con pestañas de categorías y barra de búsqueda en tiempo real.
+Vanilla+	https://github.com/arsdaemonia-design/Gen1Recomp-VanillaPlus	arsdaemonia-design/Gen1Recomp-VanillaPlus	CONTENT	yes	Proyecto en crecimiento para expandir la historia. Incluye 6 misiones: Running Shoes, Bulbasaur perdido, Squirtle problemático, Charmander (Túnel Roca), el m...
+Zone Display	https://github.com/arsdaemonia-design/Gen1Recomp-ZoneDisplay	arsdaemonia-design/Gen1Recomp-ZoneDisplay	UI	yes	Shows the current area briefly when entering a new map.
+ST_LinkCableItem	https://github.com/artyrambles/ST_LinkCableItem	artyrambles/ST_LinkCableItem	GAMEPLAY	yes	mod for gen1recomp
+Sprite Swapper by Stahl	https://github.com/artyrambles/ST_SPRITESWAPPER	artyrambles/ST_SPRITESWAPPER	ART	yes	Utility mod for gen1recomp.
+gen1recomp-frame	https://github.com/astromaddie/gen1recomp-frame	astromaddie/gen1recomp-frame	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (ARM64 Linux OpenXR / Steam Frame)
+Mods-Gen1Recomp	https://github.com/audris42/Mods-Gen1Recomp	audris42/Mods-Gen1Recomp	OTHER	yes	French author's mod collection repo
+kanto-gear	https://github.com/AverageConsumer/kanto-gear	AverageConsumer/kanto-gear	UI	yes	DS-style Pokegear/C-Gear second-screen companion (listed only via PR #333, not in index list)
+Gen1 Recomp Allgen Kaizo	https://github.com/AyeBathingApe/gen1recomp-allgen-kaizo	AyeBathingApe/gen1recomp-allgen-kaizo	TOTAL_CONVERSION	yes	Gen1 Recomp Allgen Kaizo: every generation inside Gen 1 - 900+ species on the modern type chart, region-select starters, legendary dens, mega evolution, them...
+gen1recomp-german-patch-red	https://github.com/badges3000/gen1recomp-german-patch-red	badges3000/gen1recomp-german-patch-red	TRANSLATION	no	Deutscher Sprach-Patch für gen1recomp (Pokémon Gen 1 Recompilation Project)
+Dual Screen (DS-style)	https://github.com/BartInTheField/gen1recomp-ds-mod	BartInTheField/gen1recomp-ds-mod	UI	yes	Mod for adding dual-screen (DS-style) functionality to the native LOVE2D Gen 1 Pokemon recreation.
+Floating Battle HUD	https://github.com/bass-dv/g1rFloatingBattleHUD	bass-dv/g1rFloatingBattleHUD	UI	yes	Floating battle UI for Gen 1 voxel hosts and Battle Art staged Gen 2 battles.
+Terrain Minimap	https://github.com/Battlica/gen1recomp-terrain-minimap	Battlica/gen1recomp-terrain-minimap	UI	yes	A clean, player-centred terrain minimap mod for Pokémon Red in Gen1Recomp.
+Party HUD Switcher	https://github.com/Battlica/party-hud-switcher	Battlica/party-hud-switcher	UI	yes	A pixel-art party HUD for Android Gen1Recomp 0.1.62. L2/R2 changes the lead, synchronizes compatible Wilds followers, and anchors to the real screen corner.
+1025Dex	https://github.com/Bentley734/1025Dex	Bentley734/1025Dex	CONTENT	yes	1025Dex expands Pokémon FireRed with a complete National Pokédex covering all 1,025 Pokémon, along with accurate cries, animated battle sprites, HD party ico...
+Battle UI Customizer	https://github.com/Bentley734/BattleUICustomizer	Bentley734/BattleUICustomizer	UI	yes	BattleUICustomizer
+Bedroom SNES	https://github.com/Bentley734/Bedroom-SNES	Bentley734/Bedroom-SNES	OTHER	yes	Experimental pure-Lua SNES emulator inside Gen1Recomp
+CodeBreaker	https://github.com/Bentley734/Codebreaker	Bentley734/Codebreaker	GAMEPLAY	yes	GameShark/ActionReplay/CodeBreaker cheats
+GS Ball	https://github.com/Bentley734/GSBall	Bentley734/GSBall	CONTENT	yes	Post-Elite Four native GS Ball and Celebi event unlock for Pokemon Crystal in gen1recomp
+HD Dynamic Battlefields (Kanto + Johto + Hoenn Beta)	https://github.com/Bentley734/HD-Dynamic-Battlefields	Bentley734/HD-Dynamic-Battlefields	ART	yes	Original battle scenery and independent mounds for gen1recomp. Alpha work in progress.
+Hoennto	https://github.com/Bentley734/Hoennto	Bentley734/Hoennto	TOTAL_CONVERSION	yes	One trainer across all 11 Kanto/Johto/Hoenn stories
+Menu Customizer	https://github.com/Bentley734/Menu-Customizer	Bentley734/Menu-Customizer	UI	yes	Menu and battle customization across eleven games, with Matrix rain borders/backgrounds, ultrawide Black Waterfall, independent Bag/Party styles, curated col...
+Party-Party	https://github.com/Bentley734/Party-Party	Bentley734/Party-Party	GAMEPLAY	yes	# Party Party 3.1.0 <img width="1254" height="1254" alt="ChatGPT Image Oct 6, 2026, 08_48_39 AM" src="https://github.com/user-attachments/assets/dcbfc94a-7f6...
+PC Games	https://github.com/Bentley734/PC-Solitaire	Bentley734/PC-Solitaire	GAMEPLAY	yes	Cross-generation Klondike Solitaire for every Gen1Recomp PC (Mod API v2)
+Screensaver	https://github.com/Bentley734/Screensaver	Bentley734/Screensaver	UI	yes	Five configurable idle screensavers for Gen1Recomp, with optional live world overlays.
+Tool Battle Music	https://github.com/Bentley734/ToolBattleMusic	Bentley734/ToolBattleMusic	AUDIO	yes	41 Tool MIDI battle themes for gen1recomp with automatic Gen 1–3 audio, separate Gym/League settings, and verified in-game asset downloads.
+WildFollowers	https://github.com/Bentley734/WildFollowers	Bentley734/WildFollowers	GAMEPLAY	yes	Wilds and follower system using Yellow's built-in follower system as the base.
+Traduzione ITA	https://github.com/Berniuz/Gen1Recomp-Italian-Translation	Berniuz/Gen1Recomp-Italian-Translation	TRANSLATION	yes	Trad. ITA di Berniuz. Benvenuto nel mondo dei POKéMON.
+red-ptbr-gen1recomp	https://github.com/bielsojo/red-ptbr-gen1recomp	bielsojo/red-ptbr-gen1recomp	TRANSLATION	yes	Tradução Completa em Português (Brasil) para Pokémon Red no Gen1Recomp (Windows e Android) com acentuação e suporte a mods 3D.
+Autosave Timer	https://github.com/blackwing182/autosave_timer	blackwing182/autosave_timer	QOL	yes	Auto-Save Feature with Time options (1 min, 3 min and 5 mins) and a native notification toast.
+Dramatic Shape Voxel Mod	https://github.com/blackwing182/DramaticShapeVoxelMod-test	blackwing182/DramaticShapeVoxelMod-test	VOXEL	no	Draws the overworld as a 3D diorama.
+PokemonStorageSystem	https://github.com/blackwing182/PokemonStorageSystem	blackwing182/PokemonStorageSystem	TOOL	no	Companion app to transfer Pokemon between devices/saves
+Gen1-Random-Starters	https://github.com/BlanketTomcat/Gen1-Random-Starters	BlanketTomcat/Gen1-Random-Starters	GAMEPLAY	yes	Adds the options to Gen1 Recomp Red/Blue to randomize starter Pokemon.
+Unified PC Move	https://github.com/blazor67/Unified-PC-Move	blazor67/Unified-PC-Move	QOL	yes	la single PC screen to with draw deposit Pokémon in gen1recomp
+Gen1recomp-IOS-Crystal-v1.1	https://github.com/BlinkingSun/Gen1recomp-IOS-Crystal-v1.1	BlinkingSun/Gen1recomp-IOS-Crystal-v1.1	VOXEL	no	Terrarium voxel mod on Crystal for iOS/macOS (engine patch + mod)
+Ghost Trainers	https://github.com/bobshark2/gen1recomp-ghost-trainers	bobshark2/gen1recomp-ghost-trainers	GAMEPLAY	yes	Ghost trainers for gen1recomp — fight snapshot teams from other playthroughs
+gen1recomp-kanto-challenge	https://github.com/bobshark2/gen1recomp-kanto-challenge	bobshark2/gen1recomp-kanto-challenge	BALANCE	yes	A collection of mods that will make gen1 kanto a little more challenging.
+gen1recomp-unplugged	https://github.com/BoLayerDev/gen1recomp-unplugged	BoLayerDev/gen1recomp-unplugged	VOXEL	no	Gen1Recomp Unplugged (VR/first-person project)
+Kanto First Person	https://github.com/BoLayerDev/kanto-first-person	BoLayerDev/kanto-first-person	VOXEL	no	Kanto First Person 2.0 rewrite for gen1recomp
+PokéPath Signs	https://github.com/BoLayerDev/pokepath-signs	BoLayerDev/pokepath-signs	CONTENT	no	Direction-aware, physical Generation I Kanto signs for Gen1Recomp—and the shared data foundation for PokéPath Atlas.
+unplugged-mod-library	https://github.com/BoLayerDev/unplugged-mod-library	BoLayerDev/unplugged-mod-library	TOOL	no	Quest mod catalog/compat workspace for Unplugged
+Expanded EXP Share Modes	https://github.com/Bookfan97/expanded_exp_share_modes	Bookfan97/expanded_exp_share_modes	QOL	yes	Fork of FAFF0x exp_share_modes
+Expanded EXP Share Modes	https://github.com/Bookfan97/gen1recomp_exp_share_modes	Bookfan97/gen1recomp_exp_share_modes	QOL	yes	Fork of FAFF0x exp_share_modes (duplicate repo)
+Kanto-Companion	https://github.com/BountyHunterKanden/Kanto-Companion	BountyHunterKanden/Kanto-Companion	TOOL	yes	Fork of Kanto Companion desktop companion
+StatDex	https://github.com/BountyHunterKanden/StatDex	BountyHunterKanden/StatDex	UI	yes	An addition to the pause menu that allows you to track many in-game stats. 
+Vanilla Sprites+	https://github.com/BountyHunterKanden/Vanilla-Sprites-Plus	BountyHunterKanden/Vanilla-Sprites-Plus	VOXEL	yes	A simple gen1recomp mod that targets vanilla sprites for use in voxel mods. This is a quick "fix" that allows pokemon sprites to show in the palette/color mo...
+SGB-GBC-borders	https://github.com/BrazilKing/SGB-GBC-borders	BrazilKing/SGB-GBC-borders	ART	yes	77 trillion overlay combinations from 332 hand-drawn PNG files — Customizable frames for Gen 1, 2, and 3 in gen1recomp. No AI art.
+1025Dex	https://github.com/brewstercm/1025Dex-FRLG	brewstercm/1025Dex-FRLG	CONTENT	yes	All 1025 Pokemon across all 11 Gen 1-3 games, with animated sprites, cries, habitat-aware encounters and expanded PC storage; event gifts and tickets in FRLG...
+FireRed & LeafGreen Johto & Hoenn Encounters	https://github.com/brewstercm/FireRed-Johto-Hoenn	brewstercm/FireRed-Johto-Hoenn	CONTENT	yes	Native FireRed encounter mod for Gen1Recomp: Johto and Hoenn wild Pokemon matched to Crystal/Emerald progression.
+Kanto National Dex	https://github.com/brewstercm/Kanto-Johto-National-Dex	brewstercm/Kanto-Johto-National-Dex	CONTENT	yes	National Dex content for Red, Blue, Yellow, Gold, Silver, and Crystal. R/B/Y retain the established Kanto tables; G/S/C spread progression-balanced Gen 1-9 e...
+Mega Evolution - FRLG	https://github.com/brewstercm/MegaEvolution-FRLG	brewstercm/MegaEvolution-FRLG	GAMEPLAY	yes	FireRed Mega Evolution gameplay mod for gen1recomp, built on 1025Dex-FRLG.
+Modern HM Learning	https://github.com/brewstercm/modern-hm-learning	brewstercm/modern-hm-learning	CONTENT	yes	Syncs Gen 4-6 Pokemon with their historical machine learnsets for Gen 3 HM moves. Uses species-appropriate adaptations for later Pokemon/forms. Preserves ord...
+g1r-cart-maker	https://github.com/bryanthaboi/g1r-cart-maker	bryanthaboi/g1r-cart-maker	TOOL	yes	Official desktop app for building custom carts (.g1rcart)
+Nuzlocke	https://github.com/bryanthaboi/nuzlocke	bryanthaboi/nuzlocke	GAMEPLAY	yes	A configurable Gen 1 Nuzlocke mod for gen1recomp: permanent death and area catches
+shin-red-recomp-mods	https://github.com/burningnite/shin-red-recomp-mods	burningnite/shin-red-recomp-mods	TOTAL_CONVERSION	no	Shin Red mod suite (recreates Shin Pokemon Red features)
+A New World	https://github.com/businessmachines02/a-new-world	businessmachines02/a-new-world	CONTENT	no	make kanto bigger and more spacious, as if you were revisiting it again for the first time
+Anime Realism	https://github.com/businessmachines02/anime-realism	businessmachines02/anime-realism	GAMEPLAY	yes	make battles feel more like the anime
+VS Pager - Trainer Rematches	https://github.com/ByronAndrade/gen1recomp-vs-pager	ByronAndrade/gen1recomp-vs-pager	QOL	yes	Automatic postgame trainer rematches for Pokemon Red in Gen1Recomp.
+One-Button Field Actions	https://github.com/CadeMH/gen1_field-actions	CadeMH/gen1_field-actions	QOL	yes	Mod for gen1recomp that adds the ability to use field actions with one button press
+gen1recomp-mod-releases	https://github.com/CapnJames95/gen1recomp-mod-releases	CapnJames95/gen1recomp-mod-releases	OTHER	yes	Collection release: 38 FireRed/LeafGreen mods + QoL tools (PR #248 to index)
+NextUI-Gen1Recomp-Pak	https://github.com/carroarmato0/NextUI-Gen1Recomp-Pak	carroarmato0/NextUI-Gen1Recomp-Pak	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (NextUI pak for TrimUI)
+Mew Glitch Mod	https://github.com/Chari69/mewmod	Chari69/mewmod	GAMEPLAY	yes	A mod that replicates the classic Trainer Fly / Teleport Mew Glitch from Pokémon Red and Blue natively in gen1recomp.
+gen1recomp-trimui	https://github.com/CheemaOTB/gen1recomp-trimui	CheemaOTB/gen1recomp-trimui	OTHER	no	Engine port/packaging of gen1recomp (not a mod) (RG34XXSP)
+Iron Nuzlocke	https://github.com/ChrisMckerracher/iron-nuzlocke	ChrisMckerracher/iron-nuzlocke	GAMEPLAY	no	Enforced Nuzlocke for Gen1Recomp: one catch chance per area, Gym and League level caps, permanent death, and runs that end on a party wipe.
+Quiet Please	https://github.com/ChrisMckerracher/quiet-please	ChrisMckerracher/quiet-please	QOL	no	Skips routine overworld dialogue in Gen1Recomp while keeping battle text, required choices, and story events.
+gen1recomp-mods	https://github.com/chrispanella/gen1recomp-mods	chrispanella/gen1recomp-mods	OTHER	yes	Personal mod collection/index for gen1recomp and gen1recomp++
+Dramatic Shape Voxel Mod	https://github.com/ChristianSilvermoon/DramaticShapeVoxelMod-Archive	ChristianSilvermoon/DramaticShapeVoxelMod-Archive	VOXEL	yes	Archive of Dramatic Shape source up to v1.6.0
+Pallet Chaos	https://github.com/cleverleviathan/Pallet-Chaos	cleverleviathan/Pallet-Chaos	GAMEPLAY	yes	New addition to pallet town for Gen1 Recomp
+gen1recomp-vita	https://github.com/Code-Grub/gen1recomp-vita	Code-Grub/gen1recomp-vita	OTHER	no	Engine port/packaging of gen1recomp (not a mod) (PS Vita)
+gen1recomp-lua-native-3ds-port	https://github.com/cohako/gen1recomp-lua-native-3ds-port	cohako/gen1recomp-lua-native-3ds-port	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (3DS)
+Auto Save	https://github.com/Czajo/gen1recomp-autosave	Czajo/gen1recomp-autosave	QOL	yes	A mod for Gen1Recomp that adds automatic saving at a user-defined time interval.  The game will automatically save only when no player action is being perfor...
+POKéMON Edycja Czerwona PL	https://github.com/Czajo/gen1recomp-polish	Czajo/gen1recomp-polish	TRANSLATION	yes	Polish translation for gen1recomp
+Babymon	https://github.com/DaCookieCakes/babymon-gen2	DaCookieCakes/babymon-gen2	CONTENT	yes	A mod to add baby pokemon to most, if not all species, for gen1recomp++! (gen 2)
+Poké Mart Premier Ball Bonus	https://github.com/daGoncs/premier-ball-bonus	daGoncs/premier-ball-bonus	GAMEPLAY	yes	A Gen1Recomp mod that backports the classic "Buy 10, get 1 free" Premier Ball mechanic, featuring a fully functional, throwable custom item.
+Gen1Recomp-Music1-FRLG	https://github.com/DarioMelo/Gen1Recomp-Music1-FRLG	DarioMelo/Gen1Recomp-Music1-FRLG	AUDIO	yes	Music mod for Gen1 [Gen1Recomp++](https://github.com/bryanthaboi/gen1recomp) [Discord Thread](https://discord.com/channels/1019387038820216882/15319418016010...
+Gen1Recomp-Music1-HGSS	https://github.com/DarioMelo/Gen1Recomp-Music1-HGSS	DarioMelo/Gen1Recomp-Music1-HGSS	AUDIO	yes	Music mod for Gen1 [Gen1Recomp++](https://github.com/bryanthaboi/gen1recomp) [Discord Thread](https://discord.com/channels/1019387038820216882/15319418016010...
+Gen1Recomp-Music1-LGPE	https://github.com/DarioMelo/Gen1Recomp-Music1-LGPE	DarioMelo/Gen1Recomp-Music1-LGPE	AUDIO	yes	Music mod for Gen1 [Gen1Recomp++](https://github.com/bryanthaboi/gen1recomp) [Discord Thread](https://discord.com/channels/1019387038820216882/15319418016010...
+Gen1Recomp-Music2-HGSS	https://github.com/DarioMelo/Gen1Recomp-Music2-HGSS	DarioMelo/Gen1Recomp-Music2-HGSS	AUDIO	yes	Music mod for Gen2 [Gen1Recomp++](https://github.com/bryanthaboi/gen1recomp) [Discord Thread](https://discord.com/channels/1019387038820216882/15319418016010...
+Dialogue Portraits (Gen 2)	https://github.com/DarkHeros09/gen2-dialogue-portraits	DarkHeros09/gen2-dialogue-portraits	ART	yes	Gold/Silver/Crystal port of the Gen 1 Dialogue Portraits mod: shows a portrait of whoever is talking, next to the dialogue box. INSET puts the art inside the...
+Dialogue Portraits (Gen 3)	https://github.com/DarkHeros09/gen3-dialogue-portraits	DarkHeros09/gen3-dialogue-portraits	ART	yes	FireRed/LeafGreen port of the Dialogue Portraits mod: shows a portrait of whoever is talking, next to the dialogue box. INSET puts the art inside the box in ...
+DramaticShapeVR	https://github.com/davidkalil10/DramaticShapeVR	davidkalil10/DramaticShapeVR	VOXEL	no	Official Dramatic Shape Release for Quest 3 Standalone -- Play Gen1 in VR or Mixed Reality
+Version Cristal	https://github.com/Davo1914/INCOMPLETA.-USO-DE-REFERENCIA.-VersionCristal-Gen2Recomped-Spanish	Davo1914/INCOMPLETA.-USO-DE-REFERENCIA.-VersionCristal-Gen2Recomped-Spanish	TRANSLATION	no	Version en español para Pokemon Crystal de Gen2Recomped. Traducción realizada por Davo1914 a partir de la traducción de LordSangreal.
+Crystal	https://github.com/dburton95/crystal	dburton95/crystal	ART	yes	Player sprite mod framework
+Its Clefairy	https://github.com/dburton95/its-clefairy	dburton95/its-clefairy	GAMEPLAY	yes	Mod for gen1recomp++. Give Pikachu a Moon Stone
+Secret Base	https://github.com/dburton95/secret-base	dburton95/secret-base	GAMEPLAY	yes	A gen1recomp++ mod that adds a secret base
+Toast Notifications	https://github.com/dburton95/toast-notifications	dburton95/toast-notifications	GAMEPLAY	no	A mod for gen1recomp that displays toast notifications
+Battle Dex	https://github.com/ddagent/gen1recomp-battle-dex	ddagent/gen1recomp-battle-dex	UI	yes	In-battle Pokedex access for gen1recomp: SELECT reads the opponent, a DEX row in the PKMN menu reads your own.
+Dex Pages	https://github.com/ddagent/gen1recomp-dex-pages	ddagent/gen1recomp-dex-pages	UI	yes	Extra POKeDEX pages for gen1recomp: type matchups, catch odds, locations, level moves, TM/HM and evolution. The vanilla entry page is untouched.
+Quick Save	https://github.com/ddagent/gen1recomp-quick-save	ddagent/gen1recomp-quick-save	QOL	yes	Save from the field with one button instead of the START menu, for gen1recomp.
+gen1recomp-flawless-pp-restoration	https://github.com/DeathTwist873/gen1recomp-flawless-pp-restoration	DeathTwist873/gen1recomp-flawless-pp-restoration	GAMEPLAY	no	A Gen1Recomp mod that rewards clean battle play by restoring move PP when defeating opponents without taking damage.
+gen1recomp-wild-rewards	https://github.com/DeathTwist873/gen1recomp-wild-rewards	DeathTwist873/gen1recomp-wild-rewards	GAMEPLAY	no	A Gen1Recomp mod that awards level-scaling cash bounties, and flawless victory multipliers for wild Pokémon battles.
+Evolution Man: FireRed	https://github.com/Debatesmith/EvolutionMan-Gen3	Debatesmith/EvolutionMan-Gen3	CONTENT	yes	Adding a simple NPC that allows for trade evolutions to happen in single player Fire Red
+Kanto Legacy Importer	https://github.com/Debatesmith/KantoLegacy	Debatesmith/KantoLegacy	TOOL	yes	Converts Gen1 save to FireRed save
+Project-Celebi	https://github.com/Debatesmith/Project-Celebi	Debatesmith/Project-Celebi	GAMEPLAY	yes	Continue your Gen 1 adventure in Gen 2 (PR #168)
+Crystal 251	https://github.com/Deftones565/gen1recomp-mod-crystal-251	Deftones565/gen1recomp-mod-crystal-251	CONTENT	yes	Requires your own English Pokemon Crystal ROM. Adds Generation II battles, 251 Pokemon, breeding, ecology, and legendary sanctuaries.
+Enhanced Music	https://github.com/Deftones565/gen1recomp-mod-enhanced-music	Deftones565/gen1recomp-mod-enhanced-music	AUDIO	yes	Streams ROM song commands through selectable SoundFonts in memory, with no generated music files.
+Quality of Life	https://github.com/Deftones565/gen1recomp-mod-quality-of-life	Deftones565/gen1recomp-mod-quality-of-life	QOL	yes	Field-move shortcuts, a Gen II-style Pack, and a battle EXP bar.
+Roaming Event Pokemon	https://github.com/Deftones565/gen1recomp-mod-roaming-events	Deftones565/gen1recomp-mod-roaming-events	CONTENT	yes	Historically distributed Gen I Pokemon roam Kanto as rare, persistent encounters.
+Gen II Shiny Indicators	https://github.com/Deftones565/gen1recomp-mod-shiny-indicators	Deftones565/gen1recomp-mod-shiny-indicators	ART	yes	Adds Gen II-style shiny entrance sparkles, a chime, and battle and status-screen indicators.
+Pokemon Stadium 2 Importer	https://github.com/Deftones565/gen1recomp-mod-stadium2-importer	Deftones565/gen1recomp-mod-stadium2-importer	VOXEL	yes	Stadium 2 3D models/arenas battle presentation from own ROM
+Pokemon Stadium 2 Battle UI	https://github.com/Deftones565/Stadium-2-UI	Deftones565/Stadium-2-UI	UI	yes	Pokemon Stadium 2's battle UI for Gen 1 and Gen 2, recreated in Lua (no ROM needed). Works on its own or with STADIUM2_IMPORTER's 3D battle, which adds live ...
+mmo	https://github.com/Denveous/mmo	Denveous/mmo	OTHER	no	Link Battle MMO proof of concept (relation to gen1recomp unclear)
+Advanced Voxel Mod	https://github.com/diegolix29/Advance-Shape-Mod-Gen1Recomp	diegolix29/Advance-Shape-Mod-Gen1Recomp	VOXEL	yes	A full 3D diorama overworld: extruded terrain, depth-buffered occlusion, voxel characters and a tilt-shift miniature pass -- and battles fought on the map it...
+Career Card	https://github.com/Dileppy/CareerCard	Dileppy/CareerCard	CONTENT	yes	A trainer salary for Pokemon Gen1Recomp. Earn badges, fill the POKeDEX and battle wild POKeMON to climb a six-sponsor career ladder.
+Catch Fix & Helper	https://github.com/diocarvalho/catch-fix-helper	diocarvalho/catch-fix-helper	QOL	yes	Show Capture fix and show Rate for Balls in inventory and in new menu
+crystal_animated_sprites_with_shiny_visuals	https://github.com/distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals	distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals	ART	yes	Crystal Animated Sprites with Shiny Visuals A combined visual and audio mod for Gen1Recomp v0.1.33+. It adds Pokémon Crystal-style animated battle sprites, a...
+gen1recomp-FireRed-FX	https://github.com/Dix01/gen1recomp-FireRed-FX	Dix01/gen1recomp-FireRed-FX	ART	yes	FireRed battle & item FX for Gen1Recomp.
+gen1recomp-mods	https://github.com/Dix01/gen1recomp-mods	Dix01/gen1recomp-mods	TOOL	no	Personal mod index (metadata)
+All Pokemon Catchable 251	https://github.com/doiscineastas-bit/All-Pokemon-Catchable-251-Mod-Crystal	doiscineastas-bit/All-Pokemon-Catchable-251-Mod-Crystal	CONTENT	yes	A Lua mod for Gen1Recomp that makes all 251 Pokémon naturally obtainable in a single playthrough of Pokémon Crystal.
+DScrete Items	https://github.com/dscrete/gen1recomp_dscrete-items	dscrete/gen1recomp_dscrete-items	CONTENT	yes	Gen 1-style experimental gadgets and items for Gen1Recomp.
+Mythmon	https://github.com/dscrete/mythemon	dscrete/mythemon	CONTENT	yes	Original myth-themed Pokemon for Gen1Recomp. Adds the unevolved Aeglet with refined true-color Gen 2-inspired static art and a Myth Charm encounter-testing u...
+Kanto Expansion	https://github.com/dscrete/recomp_additions	dscrete/recomp_additions	CONTENT	yes	A systems-first expansion layer for Gen 1: reactive trainers, Pokemon history, rumors, world events, ecology, reputation, and strange Kanto systems.
+recompModlist	https://github.com/Dudux42/recompModlist	Dudux42/recompModlist	OTHER	no	Invoker's mod collection: source/releases/audits for RBY mods
+pokemon-ptbr-voxel	https://github.com/dunclan/pokemon-ptbr-voxel	dunclan/pokemon-ptbr-voxel	VOXEL	yes	Pokémon Red + Yellow em PT-BR com Dramatic Shape Voxel Mod
+gen1recomp-mod-index	https://github.com/DuskPromised/gen1recomp-mod-index	DuskPromised/gen1recomp-mod-index	TOOL	yes	    Comprehensive GenRecomp-compatible index for FAFF0x/gen1recomp mods, dependencies, optional integrations, conflicts, and author-hosted downloads.
+gen2recomp-mod-index	https://github.com/DuskPromised/gen2recomp-mod-index	DuskPromised/gen2recomp-mod-index	TOOL	no	    Comprehensive GenRecomp-compatible index for FAFF0x/gen2recomp mods, dependencies, optional integrations, conflicts, and author-hosted downloads.
+Gen 2 Dex	https://github.com/eduardocalafell/gen1recomp-gen2-dex	eduardocalafell/gen1recomp-gen2-dex	CONTENT	yes	Complete Johto Pokedex (#152-251) for Gen1Recomp - real stats, Dark/Steel typing, Crystal sprites, thematic wild placement
+Mega Evolution	https://github.com/eduardocalafell/gen1recomp-mega-evolution	eduardocalafell/gen1recomp-mega-evolution	GAMEPLAY	yes	In-battle Mega Evolution for Gen1Recomp: all 21 Gen1/2 mega forms as a temporary battle transform with animation. Depends on gen2_dex.
+Performance Monitor	https://github.com/Ehren1337/gen1performancemonitor	Ehren1337/gen1performancemonitor	TOOL	yes	Advanced FPS/per-mod fluidity profiler with automatic JSON/TXT diagnostic exports for Gen1Recomp.
+Suomi	https://github.com/eioo/gen1recomp-finnish-mod	eioo/gen1recomp-finnish-mod	TRANSLATION	yes	Finnish translation mod for Gen1Recomp project
+gen1recomp-kanto-3d	https://github.com/Elirant/gen1recomp-kanto-3d	Elirant/gen1recomp-kanto-3d	TOOL	no	Curated personal mod index (metadata)
+Rotate Down After Heal	https://github.com/Elrcx/gen1recomp-mod-heal-rotate	Elrcx/gen1recomp-mod-heal-rotate	QOL	yes	Rotates the player down after Pokemon Center heal to prevent accidentally repeating the dialogue.
+Facets	https://github.com/ElvieBlooms/facets	ElvieBlooms/facets	ART	yes	An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp
+Rocket Edition	https://github.com/ElvieBlooms/rocket_edition	ElvieBlooms/rocket_edition	ART	yes	Player sprite pack
+trainer_talk_packager	https://github.com/ElvieBlooms/trainer_talk_packager	ElvieBlooms/trainer_talk_packager	TOOL	no	an asset packager for Trainer Talk that will pull audio files and bundle them, or allow users to package their own. 
+EriLab Bag Wrap	https://github.com/erereck/gen1recomp-bag-wrap	erereck/gen1recomp-bag-wrap	QOL	yes	Also on GameBanana (Bigger Bag + Wraparound Item Menu)
+EriLab Bottomless Bag	https://github.com/erereck/gen1recomp-bottomless-bag	erereck/gen1recomp-bottomless-bag	QOL	yes	Also on GameBanana (Bigger Bag + Wraparound Item Menu)
+Metric Pokédex	https://github.com/ez-me/metric_pokedex	ez-me/metric_pokedex	UI	yes	Displays Pokédex height and weight using metric units.
+kanto-rework-suite	https://github.com/Faendra/kanto-rework-suite	Faendra/kanto-rework-suite	CONTENT	yes	This is an early Release of what I was working on. The mod isn't finished yet, more is to come and it will be reworked. Use it as a sneak peak to my mod. And...
+gen1recomp	https://github.com/FAFF0x/gen1recomp	FAFF0x/gen1recomp	OTHER	no	Monorepo: ~46 Gen1 mod zips (quests, QoL, modern bag, achievements...) - FAFF0x suite
+gen2recomp	https://github.com/FAFF0x/gen2recomp	FAFF0x/gen2recomp	OTHER	no	Monorepo: ~31 Gen2 mod zips - FAFF0x suite
+gen2recomp-mod-index	https://github.com/FAFF0x/gen2recomp-mod-index	FAFF0x/gen2recomp-mod-index	TOOL	no	MOD INDEX
+gen3recomp	https://github.com/FAFF0x/gen3recomp	FAFF0x/gen3recomp	OTHER	no	Monorepo: ~46 Gen3 (FRLG/Emerald) mod zips - FAFF0x suite
+gen3recomp-mod-index	https://github.com/FAFF0x/gen3recomp-mod-index	FAFF0x/gen3recomp-mod-index	TOOL	no	# gen3recomp mod index Automated Gen 3 mod index synchronized from `FAFF0x/gen3recomp`. 
+1025Dex Crazy Randomizer	https://github.com/FaustMusteloidea/1025-Crazy-Randomizer	FaustMusteloidea/1025-Crazy-Randomizer	GAMEPLAY	yes	A feature-rich Pokémon randomizer for Gen1Recomp by Faust, developed with ChatGPT assistance. Randomizes wild encounters, trainers, starters, gifts, trades a...
+Pokémon Anime Cries	https://github.com/Faz540/pokemon-anime-cries-recomp-mod	Faz540/pokemon-anime-cries-recomp-mod	AUDIO	yes	Replaces in-game Pokémon cries with audio from the Pokémon anime series.
+poke	https://github.com/felipe2tecnologia/poke	felipe2tecnologia/poke	VOXEL	no	# poke — Pokémon do Stadium no overworld do Gen1Recomp Modelos 3D de **Pokémon Stadium** andando no mapa do [gen1recomp](https://github.com/bryanthaboi/gen1r...
+Gen1-Recomp-Mods	https://github.com/FelizNavidad-D/Gen1-Recomp-Mods	FelizNavidad-D/Gen1-Recomp-Mods	OTHER	yes	Author's mod collection repo
+Team EXP Share	https://github.com/FelizNavidad-D/Team-EXP-Share	FelizNavidad-D/Team-EXP-Share	QOL	yes	Share battle EXP with your whole party — no Exp. All item needed. Pick a Mode in the F10 mod manager: Off (vanilla), Classic Even Split (the battle's EXP is ...
+Developer Debug Menu	https://github.com/gamecorner-033/gen1debug	gamecorner-033/gen1debug	TOOL	yes	debug menu for gen1recomp
+Overworld Wild Encounters Mod	https://github.com/gamecorner-033/Gen1PC-OverworldEncounters	gamecorner-033/Gen1PC-OverworldEncounters	GAMEPLAY	yes	wild overworld encounters for the gen 1 recomp of RBY
+PokéPC Followers (Voxel Merge)	https://github.com/gamecorner-033/PokePCFollowers	gamecorner-033/PokePCFollowers	VOXEL	yes	A mod that includes gen 2 style follower sprites for the original 151 pokemon, brought to you by the makers of Crystal Clear
+gawdmode.github.io	https://github.com/GawdMode/gawdmode.github.io	GawdMode/gawdmode.github.io	TOOL	no	GawdMode mod hub website
+Pokemon Anime Brawler	https://github.com/GBurgardt/pokemon-anime-brawler	GBurgardt/pokemon-anime-brawler	GAMEPLAY	yes	Real-time wild Pokemon Red arena combat for Gen1Recomp: move, dodge, fire actual moves and fight a coordinated 2v1.
+Voxel Crafting	https://github.com/geezjonny/gen1-crafting	geezjonny/gen1-crafting	VOXEL	no	adds crafting to gen1recomp
+Pokemon Farm	https://github.com/geezjonny/gen1-farm	geezjonny/gen1-farm	GAMEPLAY	yes	adds a farm to send your pokemon that you can visit
+Voxel Hotbar	https://github.com/geezjonny/gen1-hotbar	geezjonny/gen1-hotbar	VOXEL	no	adds a mc style hotbar to gen1recomp
+Prop Placement	https://github.com/geezjonny/gen1-props	geezjonny/gen1-props	VOXEL	no	adds prop placement to gen1recomp
+Move Type Fixes	https://github.com/Gilles93/Move-Type-fix	Gilles93/Move-Type-fix	BALANCE	yes	Gen 1 had a few moves under the wrong type, and Gen 2 quietly corrected them. Gust was never really a Normal move, and neither was Karate Chop. This restores...
+Species Rebalance	https://github.com/Gilles93/Species-Rebalance	Gilles93/Species-Rebalance	BALANCE	yes	Gen 1 only has one Dragon move and it does a flat 40 damage, so Dragon types never really got to play like one. This adds Twister, Dragonbreath and a physica...
+Stronger Trainers	https://github.com/Gilles93/Stronger-Trainers	Gilles93/Stronger-Trainers	BALANCE	yes	Gym leaders, the Elite Four, the Champion, the rivals and Giovanni field full six-Pokemon teams with real type coverage, on a level curve computed from the e...
+Stronger Trainers (Gen 2)	https://github.com/Gilles93/Stronger-Trainers-Gen-2	Gilles93/Stronger-Trainers-Gen-2	BALANCE	yes	Gym leaders, the Elite Four, Lance, Red, your rival and Team Rocket all get new six Pokemon teams with real movesets, held items and trained stats. Every oth...
+Gen1 Co-op (prototype)	https://github.com/git-mrjoufflu/gen1coop	git-mrjoufflu/gen1coop	GAMEPLAY	yes	Experimental real-time overworld co-op prototype for gen1recomp
+Dex Expansion (Gen 2-5)	https://github.com/Glamurio/dex_expansion	Glamurio/dex_expansion	CONTENT	no	Registers National Dex 152-649 as real species, with the Gen 2-5 level-up moves they need and the STEEL / DARK / FAIRY types those moves require. Existence i...
+gmarcs Gen 2 Celebi Time Travel	https://github.com/gmarcmods/gmarcs_gen2_celebi_time_travel	gmarcmods/gmarcs_gen2_celebi_time_travel	CONTENT	yes	Open PR #336 to index
+gmarcs Gen 2 Johto in First Person	https://github.com/gmarcmods/gmarcs_gen2_johto_in_first_person	gmarcmods/gmarcs_gen2_johto_in_first_person	VOXEL	yes	Open PR #329 to index
+Kanto Ascendant	https://github.com/goofwear/kanto-ascendant	goofwear/kanto-ascendant	TOTAL_CONVERSION	no	A living Pokémon Gen 1 post-game expansion with evolving rematches, Master and Crown circuits, legendary events, research reports and a reactive Kanto.
+TCGRecomp	https://github.com/goofwear/TCGRecomp	goofwear/TCGRecomp	GAMEPLAY	no	A mod for Gen 1 Recomp that adds Pokemon TCG for GBC. 
+Voxel Ascendant	https://github.com/goofwear/voxel-ascendant	goofwear/voxel-ascendant	VOXEL	no	Sandbox-native voxel renderer for Gen1Recomp 0.1.90+, with voxel worlds, MAP/DISCS battles, tilt-shift, and a public wall-decal API.
+Alckie's Mod Pack	https://github.com/GuilhermeSa/g1r-mods	GuilhermeSa/g1r-mods	QOL	yes	Alckie's Gen 1 Recomp tweaks — Charizard Fly, configurable XP multiplier.
+Dramatic Shape Voxel Mod	https://github.com/Gummygamer/DramaticShapeVoxelMod	Gummygamer/DramaticShapeVoxelMod	VOXEL	yes	Preserved fork of Dramatic Shape voxel mod
+Voxel Overworld (FireRed / LeafGreen)	https://github.com/Gummygamer/gen1recomp-voxel-frlg	Gummygamer/gen1recomp-voxel-frlg	VOXEL	no	FireRed / LeafGreen 3D voxel overworld mod for Gen1Recomp Deluxe
+NVIDIA NIM NPC Chat	https://github.com/Gummygamer/nim-npc-chat	Gummygamer/nim-npc-chat	CONTENT	no	Lets the player type questions to ordinary NPCs and receives in-character replies from NVIDIA NIM. Works on Red, Blue, Yellow, FireRed and LeafGreen.
+NVIDIA Living Fakedex	https://github.com/Gummygamer/nvidia-fakemon	Gummygamer/nvidia-fakemon	CONTENT	no	Builds a persistent, save-specific Fakedex with NVIDIA metadata and optional Cloudflare Workers AI art. Works on Red, Blue, Yellow, FireRed and LeafGreen.
+Português (BR) - Crystal	https://github.com/guuhferiani/pokemon-crystal-ptbr	guuhferiani/pokemon-crystal-ptbr	TRANSLATION	yes	Tradução completa em Português do Brasil para Pokémon Crystal (Tradu-Roms v1.2 por R_Lopes & Fserve) + Expansão Kanto Full (251 Pokémon capturáveis, sem troc...
+RetroRecomp-Hub	https://github.com/guuhferiani/RetroRecomp-Hub	guuhferiani/RetroRecomp-Hub	TOOL	yes	Launcher/hub app for recomps
+Badge Boost Glitch	https://github.com/GymLeaderMatt/Badge_Boost_Glitch_Gen1_Recomp	GymLeaderMatt/Badge_Boost_Glitch_Gen1_Recomp	GAMEPLAY	yes	Recreating the badge boost glitch in the gen 1 recomp. A must have mechanic, in my opinion.
+Coalossal 196	https://github.com/GymLeaderMatt/Coalossal_Gen1_Recomp	GymLeaderMatt/Coalossal_Gen1_Recomp	CONTENT	yes	Adds Coalossal to the game. Dex number is 196 if you have any conflicts. Also adds new moves!
+Controller Disabler	https://github.com/GymLeaderMatt/Disable_Controller_Gen1_Recomp	GymLeaderMatt/Disable_Controller_Gen1_Recomp	QOL	yes	Disables auto-controller in the Gen1 Recomp.
+Farchamp Gen1 Recomp	https://github.com/GymLeaderMatt/Farchamp_Gen1_Recomp	GymLeaderMatt/Farchamp_Gen1_Recomp	CONTENT	yes	Adds in the fusion of Farfetch'd and Machamp into the game.
+GLM Pokepack	https://github.com/GymLeaderMatt/GLM_Pokepack_Gen1_Recomp	GymLeaderMatt/GLM_Pokepack_Gen1_Recomp	CONTENT	yes	A combined folder for the Pokemon I added or will add.
+Mega Rayquaza 152	https://github.com/GymLeaderMatt/Mega_Rayquaza_Gen1_Recomp	GymLeaderMatt/Mega_Rayquaza_Gen1_Recomp	CONTENT	yes	Adds Mega Rayquaza to the game along with a few extra moves.
+Mewthree 153	https://github.com/GymLeaderMatt/Mewthree_Gen1_Recomp	GymLeaderMatt/Mewthree_Gen1_Recomp	CONTENT	yes	Adds Mewthree from my latest fusion series.
+Solo Battle Mobile	https://github.com/GymLeaderMatt/Solo_Battle_Mobile_Gen1_Recomp	GymLeaderMatt/Solo_Battle_Mobile_Gen1_Recomp	GAMEPLAY	yes	A version of my battle mod made for my Anbernic RG34xxSP.
+Solo Battle Voxel	https://github.com/GymLeaderMatt/Solo_Battle_Voxel_Gen1_Recomp	GymLeaderMatt/Solo_Battle_Voxel_Gen1_Recomp	VOXEL	yes	A voxel mod but with a custom battle scene and some tweaks.
+Solo Run Modpack	https://github.com/GymLeaderMatt/Solo_Run_Modpack_Gen1_Recomp	GymLeaderMatt/Solo_Run_Modpack_Gen1_Recomp	QOL	yes	A collection of mods for the true solo running experience.
+Solo Overlay	https://github.com/GymLeaderMatt/Solo_Run_Overlay_Gen1_Recomp	GymLeaderMatt/Solo_Run_Overlay_Gen1_Recomp	UI	yes	An overlay with solo running in mind.
+Solo Run QoL	https://github.com/GymLeaderMatt/Solo_Run_QoL_Gen1_Recomp	GymLeaderMatt/Solo_Run_QoL_Gen1_Recomp	QOL	yes	Adds several modern features that I can't live without in the Gen1 Recomp.
+Solo Run Splits	https://github.com/GymLeaderMatt/Solo_Run_Splits_Gen1_Recomp	GymLeaderMatt/Solo_Run_Splits_Gen1_Recomp	UI	yes	Adds splits to the game via an overlay. Designed to work with my other overlay.
+Solo Run Stats	https://github.com/GymLeaderMatt/Solo_Run_Stats_Gen1_Recomp	GymLeaderMatt/Solo_Run_Stats_Gen1_Recomp	UI	yes	Another companion mod for my solo run overlay.
+Solo Run Visuals	https://github.com/GymLeaderMatt/Solo_Run_Visuals_Gen1_Recomp	GymLeaderMatt/Solo_Run_Visuals_Gen1_Recomp	ART	yes	A few visual changes. This mod is rough around the edges.
+Trash Can Puzzle Solve	https://github.com/GymLeaderMatt/Surge_Trash_Can_Puzzle_Gen1_Recomp	GymLeaderMatt/Surge_Trash_Can_Puzzle_Gen1_Recomp	QOL	yes	Automatically solves Lt. Surges brilliant trash can puzzle.
+Bag Stock Preview	https://github.com/harryw4444/bag_stock_preview_gen1recomp	harryw4444/bag_stock_preview_gen1recomp	UI	yes	Bag Stock Preview Mod for bryanthaboi's Gen1Recomp Project
+Fade Overlay Fix	https://github.com/harryw4444/fade_overlay_fix_gen1recomp	harryw4444/fade_overlay_fix_gen1recomp	UI	yes	Fade Overlay Fix for bryanthaboi's Gen1Recomp Project
+Fishing Minigame	https://github.com/harryw4444/fishing_mini_game_gen1recomp	harryw4444/fishing_mini_game_gen1recomp	GAMEPLAY	yes	Fishing Mini Game for bryanthaboi's Gen1Recomp Project
+Green's SGB Palette	https://github.com/harryw4444/green_sgb_palette_gen1recomp	harryw4444/green_sgb_palette_gen1recomp	ART	yes	Green SGB Palette Mod for bryanthaboi's Gen1Recomp Project
+Mute Low HP Alarm	https://github.com/harryw4444/mute_low_HP_alarm_gen1recomp	harryw4444/mute_low_HP_alarm_gen1recomp	AUDIO	yes	Mute Low HP Alarm Mod for bryanthaboi's Gen1Recomp Project
+Cheat Engine	https://github.com/hdbreaker/gen1recomp-mod-cheat_engine	hdbreaker/gen1recomp-mod-cheat_engine	GAMEPLAY	yes	Gen1Recomp mod: cheat engine with battle, field and pokemon powers
+Intro Bypass	https://github.com/hdbreaker/gen1recomp-mod-intro_bypass	hdbreaker/gen1recomp-mod-intro_bypass	QOL	yes	Gen1Recomp mod: skip Oak's intro and jump straight into the overworld
+Leaf-Gen1Recomp	https://github.com/Helaas/Leaf-Gen1Recomp	Helaas/Leaf-Gen1Recomp	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (Leaf / PortMaster plan)
+Gen1Linux	https://github.com/HellboundGlory/Gen1Linux	HellboundGlory/Gen1Linux	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (RPM packaging)
+gbromdiff	https://github.com/hernan0078/gbromdiff	hernan0078/gbromdiff	TOOL	no	Compares GB ROMs bank by bank (for localised Gen1 ROM support)
+voxeltrail-ios	https://github.com/hernan0078/voxeltrail-ios	hernan0078/voxeltrail-ios	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (native iOS build with voxel rendering)
+1GenPokemonVr	https://github.com/heurazy/1GenPokemonVr	heurazy/1GenPokemonVr	VOXEL	yes	a vibecoded vr mod for pokemon gen 1
+Colosseum-inspired-Crystal-custom-cart	https://github.com/HighDrexler/Colosseum-inspired-Crystal-custom-cart	HighDrexler/Colosseum-inspired-Crystal-custom-cart	CART	yes	This is a custom cart package for pokemon crystal, mainly utilizing mods like Colosseum inspired UI overhaul, Colosseum Battle Environments, potato voxel, an...
+Colosseum Inspired UI Overhaul	https://github.com/HighDrexler/Colosseum-Inspired-UI-Overhaul-V.1.0.0	HighDrexler/Colosseum-Inspired-UI-Overhaul-V.1.0.0	UI	yes	Colosseum Inspired UI Overhaul for Gen1Recomp V.1.0.0 
+Colosseum Overhaul	https://github.com/HighDrexler/Colosseum-Overhaul-V1.0-For-Gen1Recomp-	HighDrexler/Colosseum-Overhaul-V1.0-For-Gen1Recomp-	UI	yes	This is the official release of colosseum overhaul for Gen1Recomp. This is a merge of two existing mods, colosseum UI overhaul and Colosseum Battle Environme...
+Gen 3 Inspired UI Overhaul	https://github.com/HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp	HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp	UI	yes	Gen 3 inspired UI overhaul for Gen1Recomp. Download .zip and install into gen1recomp launcher.
+Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V1.1-w-updater	https://github.com/HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V1.1-w-updater	HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V1.1-w-updater	UI	yes	This is the same Gen 3 inspired UI overhaul for Gen1Recomp, with major bug fixes and also an updater within the gen1recomp launcher (accessible by clicking o...
+Gen 3 Inspired UI Overhaul	https://github.com/HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V2.0	HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V2.0	UI	yes	Gen 3 inspired UI overhaul for Gen1Recomp, version 2.0.0. Download .zip and install into gen1recomp launcher.
+FRLG-Voxel-Engine	https://github.com/HimioneGranger/FRLG-Voxel-Engine	HimioneGranger/FRLG-Voxel-Engine	VOXEL	yes	FireRed/LeafGreen voxel render engine evaluation beta. Compatible Gen 3 host and local game data required.
+Gen1recomp-Quest-Standalone	https://github.com/HimioneGranger/Gen1recomp-Quest-Standalone	HimioneGranger/Gen1recomp-Quest-Standalone	VOXEL	yes	Standalone first-person voxel Kanto for Meta Quest (port)
+gen1recomp-unplugged	https://github.com/HimioneGranger/gen1recomp-unplugged	HimioneGranger/gen1recomp-unplugged	OTHER	no	Website source for Gen1Recomp VR Unplugged
+Lightweight Weather & Skies	https://github.com/HimioneGranger/Lightweight-Weather-and-Skies	HimioneGranger/Lightweight-Weather-and-Skies	VOXEL	yes	Lightweight weather and sky effects for Battle Art on Gen1Recomp. Private release preparation.
+Phase Step	https://github.com/HubGit8/Gen1Recomp-Phase-Step	HubGit8/Gen1Recomp-Phase-Step	GAMEPLAY	yes	A Gen1Recomp mod that moves the player two spaces forward through blocked objects and doors.
+HM Anywhere (Gen 2)	https://github.com/hunter6571/hm_anywhere_gen2	hunter6571/hm_anywhere_gen2	QOL	yes	HM Anywhere mod ported for Gen2Recomp
+Max Bag Capacity	https://github.com/hunter6571/max_bag_capacity_gen2	hunter6571/max_bag_capacity_gen2	QOL	yes	Bottomless bag mod for Gen2Recomp
+Spaceworld's Back Sprites	https://github.com/hydhyro/gen1recompSpaceWorldSprites	hydhyro/gen1recompSpaceWorldSprites	ART	yes	SpaceWorldSprites
+Better Battle Visuals	https://github.com/HydroHomie31415/better_battle_visuals	HydroHomie31415/better_battle_visuals	ART	no	Adds particles, bloom, and authored visuals for Thundershock, Spark, Razor Wind, Cut, Bind, Fly, Bite, Quick Attack, Gust, Bubblebeam, Surf, Hyper Beam, Peck...
+mmo	https://github.com/IagoLast/mmo	IagoLast/mmo	OTHER	no	Link Battle MMO proof of concept (fork of Denveous/mmo)
+Encounter Guide	https://github.com/illanrego/gen1recomp-encounter-guide	illanrego/gen1recomp-encounter-guide	UI	no	Superseded by Will's Mod (archived)
+PocketVoxel Sync	https://github.com/imantheman/pvsync	imantheman/pvsync	TOOL	yes	Save sync with Pocket Voxel 3D (3DS)
+gen1recomp-web-pwa	https://github.com/inlasco/gen1recomp-web-pwa	inlasco/gen1recomp-web-pwa	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (Web/PWA)
+FireRed Kanto Visual Importer	https://github.com/inmento/FireRed-Kanto-Visual-Importer	inmento/FireRed-Kanto-Visual-Importer	ART	yes	Imports player-provided FireRed v1.0 battle art and map-aware visual profiles that preserve Gen 1 map geometry, collision, warps, events, scripts, and gameplay.
+FireRed Tilesheet Importer Prototype	https://github.com/inmento/FireRed-Tilesheet-Importer	inmento/FireRed-Tilesheet-Importer	ART	yes	Experimental FireRed-to-Gen1Recomp tilesheet-first visual importer
+Gen 2 Case Style	https://github.com/inmento/Gold-Silver-Case-Style	inmento/Gold-Silver-Case-Style	UI	yes	Presentation-only sentence-style casing for engine-authored Gold, Silver, and Crystal text, while preserving player-entered names.
+Gym Leader Rush + Shuffle	https://github.com/inmento/Gym-Leader-Rush-Plus	inmento/Gym-Leader-Rush-Plus	GAMEPLAY	yes	All-in-one sequential Gym Leader Rush with persistent Gym Leader Shuffle mechanics, shuffled gym NPC rosters, visiting-leader party scaling, per-save optiona...
+Inventory QoL	https://github.com/inmento/Inventory-QoL	inmento/Inventory-QoL	QOL	yes	Raises normal item stacks to 999, renders three-digit Bag quantities safely, remembers the Gen 1 Bag cursor, adds cap-aware MAX field use for Rare Candies, v...
+Red & Yellow Centered Layout	https://github.com/inmento/Red-Centered-Layout	inmento/Red-Centered-Layout	ART	yes	Centers the standard Red and Yellow overworld player framing; Red also receives a corrected title caption without changing save or gameplay data.
+Texture-Pack-Templates	https://github.com/inmento/Texture-Pack-Templates	inmento/Texture-Pack-Templates	TOOL	yes	Asset-free texture pack templates
+Typed Metronomes	https://github.com/inmento/Typed-Metronomes	inmento/Typed-Metronomes	GAMEPLAY	yes	Adds numbered TM-style moves that call a random move of the taught Pokémon type, sold through Type Academy shelves in Pewter and Violet Marts for Red, Blue, ...
+KantoBridge	https://github.com/ItchyMichi/KantoBridge	ItchyMichi/KantoBridge	OTHER	no	Runs hidden Gen1Recomp inside Minecraft 1.21.1 (Cobblemon)
+DRAMATIC_SHAPE-1.2.1-Android-Release	https://github.com/ItsNoctyss/DRAMATIC_SHAPE-1.2.1-Android-Release	ItsNoctyss/DRAMATIC_SHAPE-1.2.1-Android-Release	VOXEL	no	Note: This is not my official work rather a simple upload  to help those easily obtain the mod that has been since removed by the original author. I will not...
+Floating Glass Gen3	https://github.com/Jo5-K/floating-glass-gen3	Jo5-K/floating-glass-gen3	UI	yes	Interface de batalha para Gen1Recomp: cenários ultrawide, câmeras, HUD nativo e sombras animadas. Beta experimental para FRLG/RSE e engine >=0.3.93.
+GiveNationalDex	https://github.com/Jo5-K/GiveNationaldex---Gen1recomp-mod	Jo5-K/GiveNationaldex---Gen1recomp-mod	CONTENT	yes	Experimental Gen1Recomp mod expanding Pokémon Crystal with a modern National Dex, new Pokémon, types, moves, items, evolutions, abilities, stats, encounters ...
+pokemon-mods	https://github.com/johnjohto/pokemon-mods	johnjohto/pokemon-mods	OTHER	yes	Multi-mod repo (jj_* mods)
+Gen 2 Voxel Mod	https://github.com/jonboncovey/gen2_voxelmod	jonboncovey/gen2_voxelmod	VOXEL	no	voxel mod for gen1recomp gold game
+1TB Agenda	https://github.com/jramiresbrito/1tb-agenda	jramiresbrito/1tb-agenda	QOL	yes	A Pokemon Gold phone book that never fills - every rematch stays reachable. Gen1Recomp mod.
+Auto Field Moves	https://github.com/jramiresbrito/auto-field-moves	jramiresbrito/auto-field-moves	QOL	yes	Use CUT, SURF, FLY and every field move without spending a move slot. FLASH offers itself in dark caves. Gen1Recomp mod for Pokemon Gold.
+Gen2 3D Sprites Plus	https://github.com/jramiresbrito/Gen2-3D-Sprites	jramiresbrito/Gen2-3D-Sprites	VOXEL	yes	Gold/Silver Gen-2 voxel + Stadium 2 overworld models, forked from Stadium 2 Overworld Models v0.2.81 by randyadr and carrying four bug fixes that are still u...
+Heal Me Fast	https://github.com/jramiresbrito/heal-me-fast	jramiresbrito/heal-me-fast	QOL	yes	Say yes to the nurse and your Pokemon are healed. Six boxes of small talk become one question. Gen1Recomp mod for Pokemon Gold.
+House Always Lose	https://github.com/jramiresbrito/house-always-lose	jramiresbrito/house-always-lose	QOL	yes	Win every time at Goldenrod's Game Corner: slots always jackpot (three 7s, 300 coins) and Card Flip always matches your bet. A Gen1Recomp mod for Pokemon Gol...
+Infinite Haircuts	https://github.com/jramiresbrito/infinite-hair-cuts	jramiresbrito/infinite-hair-cuts	QOL	yes	Goldenrod's Haircut Brothers, as many times as you like: the Pokemon Salon's once-a-day lock lifted. A Gen1Recomp quality-of-life mod for Pokemon Gold, in th...
+jramiresbrito.github.io	https://github.com/jramiresbrito/jramiresbrito.github.io	jramiresbrito/jramiresbrito.github.io	TOOL	no	New Bark Mods personal index
+Kurt Bulk Apricorns	https://github.com/jramiresbrito/kurt-bulk-apricorns	jramiresbrito/kurt-bulk-apricorns	QOL	yes	Hand Kurt every apricorn you are carrying and collect every ball at once. A Gen1Recomp mod for Pokemon Gold.
+Mobile PC	https://github.com/jramiresbrito/mobile-pc	jramiresbrito/mobile-pc	QOL	yes	PC at the top of the START menu: the Pokemon storage system from anywhere. Gen1Recomp mod for Red/Blue/Yellow and Gold.
+One EXP Line	https://github.com/jramiresbrito/one-exp-line	jramiresbrito/one-exp-line	UI	yes	One EXP box instead of one per party member. Gen1Recomp mod for Pokemon Gold.
+Pokemon Auto Deposit	https://github.com/jramiresbrito/pokemon-auto-deposit	jramiresbrito/pokemon-auto-deposit	QOL	yes	Every Pokemon you catch goes straight to Bill's PC, even when your party has room. Gen1Recomp mod for Pokemon Gold.
+Sticky Zoom	https://github.com/jramiresbrito/sticky-zoom	jramiresbrito/sticky-zoom	QOL	yes	Pokemon Gold remembers the zoom you left the world at. Gen1Recomp mod.
+Unown Caught Mark	https://github.com/jramiresbrito/unown-caught-mark	jramiresbrito/unown-caught-mark	UI	yes	The caught mark asks whether you own THAT Unown form, and the HUD names the letter. Gen1Recomp mod for Pokemon Gold.
+Useful Marts for Gold	https://github.com/jramiresbrito/useful-marts-gold	jramiresbrito/useful-marts-gold	UI	yes	Pokemon Gold shop rows that show what you already carry and what things sell for. Gen1Recomp mod.
+Fair Battles	https://github.com/jrmsrs/fair-battles	jrmsrs/fair-battles	BALANCE	yes	Gen1Recomp mod: automatically limits your usable party size to match the number of Pokémon your opponent has.
+Kanto Life for Gen2Recomped	https://github.com/jtfresh90/kantolife-gen2recomped	jtfresh90/kantolife-gen2recomped	CONTENT	yes	Kanto Life ambient-NPC mod ported for Gen2Recomped — Gens 1-4 (Red/Blue/Yellow, Gold/Silver/Crystal, FireRed/LeafGreen/Emerald, Platinum experimental), 5th-i...
+Gen1Online+	https://github.com/jt-marte/Gen1Online	jt-marte/Gen1Online	GAMEPLAY	yes	an online mod for the Gen1Recomp
+Wide Menus	https://github.com/juancdominici/wide-menus	juancdominici/wide-menus	UI	yes	A UI mod for gen1recomp.
+3G Level Caps	https://github.com/Julien-B1/g1r_emerald_level_caps	Julien-B1/g1r_emerald_level_caps	BALANCE	yes	Emerald boss party selection, field PC storage, and optional level caps for Gen1Recomp.
+EXP QoL	https://github.com/Julien-B1/g1r_exp_qol	Julien-B1/g1r_exp_qol	QOL	yes	Emerald EXP multiplier mod for Gen1Recomp
+Shiny Odds	https://github.com/Julien-B1/g1r_shiny_odds	Julien-B1/g1r_shiny_odds	GAMEPLAY	yes	Shiny odds selector mod for Gen1Recomp
+dramatic-mini-modifications-mod	https://github.com/kaboggs/dramatic-mini-modifications-mod	kaboggs/dramatic-mini-modifications-mod	VOXEL	yes	Voxel compatibility fixes, packaged with Dramatic Shape 1.8.1 and pinned optional Stadium fixes.
+Easy Language Packs	https://github.com/kakhonn/g1r-easy-language-packs	kakhonn/g1r-easy-language-packs	TRANSLATION	yes	A vibecoded mod for adding and creating custom language packs for G1R Deluxe.
+Better Player Backsprite	https://github.com/Kamon137/betterback	Kamon137/betterback	ART	yes	Better default trainer backsprite for gen1recomp
+Button Shortcuts	https://github.com/keberos/button-shortcuts	keberos/button-shortcuts	UI	yes	Gen1Recomp mod: one-button BICYCLE, FLY, and battle ball throw. Experimental sibling to Quick Map.
+Color Saturation	https://github.com/keberos/color-saturation	keberos/color-saturation	ART	yes	One SATURATION dial for Gen1Recomp that scales how colourful the game is without shifting any hue.
+gen1recomp-index	https://github.com/keberos/gen1recomp-index	keberos/gen1recomp-index	TOOL	no	Personal mod index (metadata)
+Poison Notify	https://github.com/keberos/poison-notify	keberos/poison-notify	UI	yes	Replaces Gen1Recomp's full-screen field-poison flash with a corner PSN badge -- readable over a 3D renderer, with a PSN LOW warning before a blackout.
+Pokeball Colorfix	https://github.com/keberos/pokeball-colorfix	keberos/pokeball-colorfix	ART	yes	Colors the Poke Balls the game leaves gray: the thrown ball in battle (fixed per-ball palette -- red Poke, blue Great, gold Ultra, purple Master, green Safar...
+Pokedex Sprites (HGSS)	https://github.com/keberos/pokedex-sprites-hgss	keberos/pokedex-sprites-hgss	ART	yes	Pokedex art swap for Gen1Recomp using HeartGold/SoulSilver-style sprites
+Pokemove Colorfix	https://github.com/keberos/pokemove-colorfix	keberos/pokemove-colorfix	ART	yes	Battle move animations render two-tone white-and-black because their sprites use the f0 OBJ palette slot, which selects only the lightest and darkest shades ...
+Quick Map	https://github.com/keberos/quickmap	keberos/quickmap	UI	yes	Gen1Recomp mod: open the TOWN MAP with one button instead of START to ITEM to scroll to A.
+Raichu Unlock (Yellow)	https://github.com/keberos/raichu-unlock	keberos/raichu-unlock	GAMEPLAY	yes	Lets Yellow's starter PIKACHU evolve into RAICHU with a THUNDER STONE, and revert it back the same way. Gen1Recomp mod.
+Rename Character	https://github.com/keberos/rename-character	keberos/rename-character	UI	yes	Gen1Recomp mod: rename your character mid-game via a RENAME row on the START menu
+Autoplay	https://github.com/kevindjacobson/gen1recomp-autoplay	kevindjacobson/gen1recomp-autoplay	GAMEPLAY	no	Adaptive route autoplay mod for Gen1Recomp
+Dramatic Shape Voxel Mod	https://github.com/KhabirTheGoat/Voxel-mod-backup	KhabirTheGoat/Voxel-mod-backup	VOXEL	no	Backup of Dramatic Shape voxel mod
+gen1recomp-italian	https://github.com/klokkett90/gen1recomp-italian	klokkett90/gen1recomp-italian	TRANSLATION	yes	Traduzione italiana fan-made per Gen1Recomp — Red, Blue e Yellow. Feedback benvenuti!
+Exp Bar	https://github.com/KuroKratos/exp_bar	KuroKratos/exp_bar	UI	yes	A Gen 2 style experience bar under your Pokemon's status box, in both the classic and widescreen battle layouts.
+Full Dex	https://github.com/KuroKratos/full_dex	KuroKratos/full_dex	CONTENT	yes	Trade evolutions happen by level instead, and every species locked behind a version or a one-off choice gets a place in the wild.
+gen1recomp-mods	https://github.com/KuroKratos/gen1recomp-mods	KuroKratos/gen1recomp-mods	TOOL	no	Personal mod index (metadata)
+Level Caps	https://github.com/KuroKratos/level_caps	KuroKratos/level_caps	BALANCE	yes	Caps party levels at the next gym leader, Elite Four member or Champion, read live from their real rosters.
+Modern QoL	https://github.com/KuroKratos/modern_qol	KuroKratos/modern_qol	QOL	yes	Eight later-generation conveniences behind toggles, all off by default: party-wide exp, exp for a capture, critical captures, reusable TMs, forgettable HMs, ...
+New Types	https://github.com/KuroKratos/new_types	KuroKratos/new_types	BALANCE	yes	Adds the DARK, STEEL and FAIRY types with the modern chart, the official retypings, their moves, and ways to learn them.
+Trainer Career	https://github.com/l0rd92/gen1recomp-trainer-career	l0rd92/gen1recomp-trainer-career	GAMEPLAY	no	Observer-only career and playthrough history mod for Pokémon Red, Blue and Yellow on Gen1Recomp.
+Stadium-Cries	https://github.com/Lachie123456/Stadium-Cries	Lachie123456/Stadium-Cries	AUDIO	yes	Stadium Cries by Jappa Wakka Crystal. Audio mod for Gen1Recomp v0.1.33+.
+g1rd-mute-hp-beep-FR-LG	https://github.com/LaserRaver/g1rd-mute-hp-beep-FR-LG	LaserRaver/g1rd-mute-hp-beep-FR-LG	AUDIO	yes	100% chatgpt created basic mod to mute the annoying beeping in fire red and leaf green. no menu or anything, if it's installed, it's doing it's thing. I am n...
+gen1recomp-A-everywhere	https://github.com/leadaenima/gen1recomp-A-everywhere	leadaenima/gen1recomp-A-everywhere	UI	no	pokemon mod for touchpad A support anywhere on screen not occupied by another button
+Encounter Radar	https://github.com/leadaenima/gen2recomp-gen2-radar	leadaenima/gen2recomp-gen2-radar	UI	no	gen2recomp gen2 radar
+More Gymz	https://github.com/leftshoe18/more_gymz	leftshoe18/more_gymz	CONTENT	yes	A mod for Pokemon Gen1Recomp
+Auto Grass Battler	https://github.com/Leo0957/LevulUp-Bot	Leo0957/LevulUp-Bot	GAMEPLAY	yes	Auto grass-battle bot
+Cry Manager	https://github.com/Leoocast/cry-manager-gen1recomp-mod	Leoocast/cry-manager-gen1recomp-mod	AUDIO	yes	Manage cry packs for all 151 Gen 1 Pokemon from Options > Cry Manager. Mix packs by species, apply a whole pack, or restore original cries. Your choices pers...
+Open-Continent-Concept-Mod	https://github.com/LilNuggettBoi/Open-Continent-Concept-Mod	LilNuggettBoi/Open-Continent-Concept-Mod	CONTENT	no	A Gen1Recomp Crystal concept mod for an Open World take on the Pokemon World's Japan
+Sevii Routes	https://github.com/LilNuggettBoi/Sevii-Routes	LilNuggettBoi/Sevii-Routes	CONTENT	no	A G1R Deluxe mod that adds surfable routes between Cinnabar and the Sevii Islands
+Pretty Moves	https://github.com/LiNK200488/Pretty-Moves	LiNK200488/Pretty-Moves	ART	yes	FireRed battle animations for Gen 1, faithfully recreating moves with voxel mod compatibility.
+Stadium Announcer	https://github.com/LiNK200488/StadiumAnnouncer	LiNK200488/StadiumAnnouncer	AUDIO	yes	Generation-aware Pokemon Stadium announcer. Stadium 1 voices on Red/Blue/Yellow; Stadium 2 voices on Gold/Silver/Crystal.
+DramaticShapeVoxelModBackup	https://github.com/linkfy/DramaticShapeVoxelModBackup	linkfy/DramaticShapeVoxelModBackup	VOXEL	no	Backups of DramaticShapeVoxelMod
+buried-alive-battle-gen1recomp	https://github.com/LinkThePaleSystem64/buried-alive-battle-gen1recomp	LinkThePaleSystem64/buried-alive-battle-gen1recomp	GAMEPLAY	no	Self-explanatory
+gen1recomp-blue-kaizo-elite-4	https://github.com/LinkThePaleSystem64/gen1recomp-blue-kaizo-elite-4	LinkThePaleSystem64/gen1recomp-blue-kaizo-elite-4	BALANCE	no	it's on the tin
+linkthepales-mods-for-red-recomp	https://github.com/LinkThePaleSystem64/linkthepales-mods-for-red-recomp	LinkThePaleSystem64/linkthepales-mods-for-red-recomp	OTHER	no	Author's multi-mod repo
+2xGB-gen1recomp	https://github.com/LionHeartChiptuner/2xGB-gen1recomp	LionHeartChiptuner/2xGB-gen1recomp	AUDIO	yes	A work in progress recomposition of the original soundtrack onto two GameBoy soundchips.
+[PT-BR] Versão Brasileira (FRLG)	https://github.com/LordSangreal/gen3_frlg_pt-br_mod	LordSangreal/gen3_frlg_pt-br_mod	TRANSLATION	yes	Tradução de FireRed e LeafGreen para PT-BR. Portada da tradução de GBA feita por Breno em 2026.
+gen3-ptbr-firered-leafgreen-index	https://github.com/LordSangreal/gen3-ptbr-firered-leafgreen-index	LordSangreal/gen3-ptbr-firered-leafgreen-index	TRANSLATION	no	ÍNDICE DE TESTE (não oficial) — FireRed Legenda PT-BR para gen1recomp
+Turbo Mod	https://github.com/lovelydumpling/g1r-turbo-mod	lovelydumpling/g1r-turbo-mod	QOL	yes	Bind hold buttons for Turbo A or B and Speedup in Pokemon G1R.
+Legendary-3D-Character-Selector	https://github.com/ltzLegend/Legendary-3D-Character-Selector	ltzLegend/Legendary-3D-Character-Selector	VOXEL	yes	Legendary Bicycles and Battle Art-compatible 3D Character Selector for Gen1Recomp 0.2.53.
+Legendary-3D-NPCs	https://github.com/ltzLegend/Legendary-3D-NPCs	ltzLegend/Legendary-3D-NPCs	VOXEL	yes	Battle Art-compatible 3D NPC models and scale fixes for Gen1Recomp 0.2.53.
+Legendary-Battle-Cinematics-Compat	https://github.com/ltzLegend/Legendary-Battle-Cinematics-Compat	ltzLegend/Legendary-Battle-Cinematics-Compat	VOXEL	yes	Battle Cinematics v0.7.2 compatibility fork for Legendary Battle Art and Gen1Recomp 0.2.53.
+Legendary-Casino-Slots	https://github.com/ltzLegend/Legendary-Casino-Slots	ltzLegend/Legendary-Casino-Slots	ART	yes	Casino slot-machine visual overhaul for Gen1Recomp 0.2.60, featuring a burgundy-and-brass cabinet, detailed symbols, animated winning paylines, and payout pr...
+Legendary Visuals Grass and Flowers — TEST3 Performance	https://github.com/ltzLegend/Legendary-Grass-and-Flowers	ltzLegend/Legendary-Grass-and-Flowers	VOXEL	yes	Battle Art-compatible grass and flowers visuals for Gen1Recomp 0.2.53.
+Legendary-Stadium-Overworld-Models	https://github.com/ltzLegend/Legendary-Stadium-Overworld-Models	ltzLegend/Legendary-Stadium-Overworld-Models	VOXEL	yes	Battle Art-compatible Stadium overworld models for Gen1Recomp 0.2.53.
+Legendary-Visuals-	https://github.com/ltzLegend/Legendary-Visuals-	ltzLegend/Legendary-Visuals-	VOXEL	yes	Personal Gen1Recomp 0.2.53 visual fork based on Battle Art Voxel, featuring redesigned environments and battle presentation.
+gen1recomp-mods	https://github.com/LucianoNeo/gen1recomp-mods	LucianoNeo/gen1recomp-mods	ART	yes	HGSS Visual Overhaul for Gen1Recomp
+Smart Ai	https://github.com/luisvent/gen1recomp_smartai	luisvent/gen1recomp_smartai	BALANCE	no	A trainer AI for gen1recomp that plays Pokémon Red like someone who knows the game.
+kanto-gear	https://github.com/Madonnadenominational625/kanto-gear	Madonnadenominational625/kanto-gear	OTHER	no	Appears to be a re-upload/fork of AverageConsumer/kanto-gear (unverified, possibly spam)
+Battle EXP Bar	https://github.com/madramdesign/gen1recomp-battle-exp-bar	madramdesign/gen1recomp-battle-exp-bar	UI	yes	Gen1Recomp mod: Gen 3+ style battle EXP bar
+Exp Share	https://github.com/madramdesign/gen1recomp-exp-share	madramdesign/gen1recomp-exp-share	QOL	yes	Always-on Exp Share for Gen1Recomp (modern Gen 6+ or classic EXP.ALL)
+gen1recomp-mod-catalog	https://github.com/madramdesign/gen1recomp-mod-catalog	madramdesign/gen1recomp-mod-catalog	TOOL	no	Personal mod catalog/index (metadata)
+Professor Oak Challenge	https://github.com/madramdesign/gen1recomp-professor-oak-challenge	madramdesign/gen1recomp-professor-oak-challenge	GAMEPLAY	yes	Gen1Recomp mod: Professor Oak Challenge gym gates + checklist
+Settings Hotkeys	https://github.com/madramdesign/gen1recomp-settings-hotkeys	madramdesign/gen1recomp-settings-hotkeys	UI	yes	Gen1Recomp mod: show settings hotkeys on the title screen
+New Pokeballs	https://github.com/magalvao/custom-pokeballs	magalvao/custom-pokeballs	CONTENT	yes	Adds Quick, Timer, Net, Dusk, Heavy, Repeat, Dream, Level and Dive Balls to the Celadon Dept. Store 1F counter, plus a CATCH RULES toggle (GEN1 <-> MODERN) t...
+ItFindrPlus	https://github.com/magalvao/itemfinder-plus	magalvao/itemfinder-plus	GAMEPLAY	yes	A gen1recomp mod that improves one of the most useless Gen 1 item
+Kanto Mega Evolutions	https://github.com/magatsu64/Gen1RecompMegaEvolution	magatsu64/Gen1RecompMegaEvolution	GAMEPLAY	yes	Adds to mega evolution to Gen1Recomp
+Mars's Expanded Kanto	https://github.com/MarsCrowley/Mars-s-Expanded-Kanto	MarsCrowley/Mars-s-Expanded-Kanto	CONTENT	yes	Expands Kanto with new Pokemon, areas, quests, moves, tournaments, postgame stories, rematches, and custom battle animations.
+gen1recomp-3DS	https://github.com/marvynmesquita/gen1recomp-3DS	marvynmesquita/gen1recomp-3DS	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (3DS)
+Battle Move Info	https://github.com/masterwebx/gen1recomp-battle-move-info	masterwebx/gen1recomp-battle-move-info	UI	yes	gen1recomp mod: type matchup markers on battle move select
+HUNT Mode	https://github.com/masterwebx/gen1recomp-hunt-mode	masterwebx/gen1recomp-hunt-mode	GAMEPLAY	yes	POC: play as a Pokemon (requires Followers EX)
+Music Player	https://github.com/masterwebx/gen1recomp-music-player	masterwebx/gen1recomp-music-player	AUDIO	yes	Music Player mod for gen1recomp
+Modern Type Framework	https://github.com/MaybeGreg/modern_type_framework	MaybeGreg/modern_type_framework	BALANCE	yes	Updates the type chart to modern chart. Does not edit Pokémon or moves.
+vitaport	https://github.com/melomp4/vitaport	melomp4/vitaport	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (PS Vita)
+PokeTouch	https://github.com/millblues/PokeTouch	millblues/PokeTouch	UI	yes	Touch controls
+mod-index	https://github.com/mistermiracle3036/mod-index	mistermiracle3036/mod-index	TOOL	no	Personal mod index (metadata)
+NPC Inspector (dev tool)	https://github.com/mistermiracle3036/npc_inspector	mistermiracle3036/npc_inspector	TOOL	yes	Dev tool for mod authors
+Fast Pokemon Center	https://github.com/mjdenucci/fast-pokemon-center	mjdenucci/fast-pokemon-center	QOL	yes	Gen1Recomp mod: skip all Pokemon Center nurse dialogue - talk to the nurse and go straight into the healing-machine animation, no text.
+PkMultiplayer (Online Co-op)	https://github.com/Mochx-007/PkMultiplayer	Mochx-007/PkMultiplayer	GAMEPLAY	yes	Online co-op Gen1/Gen2; open PR #332 to index
+PM-Crystal-Android	https://github.com/Moglipapy/PM-Crystal-Android	Moglipapy/PM-Crystal-Android	OTHER	no	Engine port/packaging of gen1recomp (not a mod) (Crystal on Android)
+AUTOBIKE+	https://github.com/moocd123/gen1recomp-bicycle-plus	moocd123/gen1recomp-bicycle-plus	QOL	yes	Automatic cycling, custom bicycle colours and advanced cycling audio controls for Gen1ReComp++.
+gen1recomp-chinese	https://github.com/moodyawhvh/gen1recomp-chinese	moodyawhvh/gen1recomp-chinese	TRANSLATION	no	Chinese version of Gen1Recomp (engine fork with translation)
+pokemon-couch-multiplayer	https://github.com/moonfall-man/pokemon-couch-multiplayer	moonfall-man/pokemon-couch-multiplayer	GAMEPLAY	yes	# Couch multiplayer for gen1recomp Play Pokémon Red side by side — two to four people, one machine, one screen — on top of [gen1recomp](https://github.com/br...
+pokepack	https://github.com/moonfall-man/pokepack	moonfall-man/pokepack	TOOL	yes	Mod manager / modpack system
+Mash Catch	https://github.com/mresnick67/Gen1ReComp-ButtonMash	mresnick67/Gen1ReComp-ButtonMash	GAMEPLAY	yes	Mash buttons to improve the odds of catching. Like the old playground rules said.
+Tactical-Combat-Overhaul-Gen1Recomp-	https://github.com/mrgr8/Tactical-Combat-Overhaul-Gen1Recomp-	mrgr8/Tactical-Combat-Overhaul-Gen1Recomp-	GAMEPLAY	yes	Tactical Combat Overhaul transforms the classic Gen 1 battle system into a deep, RPG-inspired tactical combat engine for Gen1Recomp.  By nerfing raw super-ef...
+AI Rivals	https://github.com/MrKrisSatan/AIRivials	MrKrisSatan/AIRivials	GAMEPLAY	yes	AI Rivials for gen1recomp
+Gen1recomp-acheivements	https://github.com/MrKrisSatan/Gen1recomp-acheivements	MrKrisSatan/Gen1recomp-acheivements	GAMEPLAY	yes	acheivements for gen 1 recomp
+KANTO: STORMFORGED	https://github.com/MrKrisSatan/Kanto_Stormforged	MrKrisSatan/Kanto_Stormforged	CART	yes	A Yellow-first Stormforged Kanto with weather, WX Pokémon, autonomous robots and Battle Art.
+The_World	https://github.com/MrKrisSatan/The_World	MrKrisSatan/The_World	TOTAL_CONVERSION	yes	A six-region Pokémon campaign for Gen1Recomp++ with AI rivals, dynamic weather, WX Pokémon, achievements, and cross-region progression.
+Ultron	https://github.com/MrKrisSatan/Ultron	MrKrisSatan/Ultron	GAMEPLAY	yes	A single AI Rival called Ultron for Gen1recomp
+WXpokes	https://github.com/MrKrisSatan/WXpokes	MrKrisSatan/WXpokes	CONTENT	yes	WX Pokemon
+Kanto in First Person - Interiors and Tweaks	https://github.com/mrmushrooms11/kanto-first-person	mrmushrooms11/kanto-first-person	VOXEL	yes	Walls, ceilings, doors, a horizon for the   Dramatic Shape Voxel Mod.
+INDIGO//97	https://github.com/n47h4ni3l/gen2recomp-indigo97	n47h4ni3l/gen2recomp-indigo97	ART	yes	Anime-style true-colour player mod for Gen2Recomped
+3DSEmu	https://github.com/nahalewski/3DSEmu	nahalewski/3DSEmu	OTHER	yes	3DS emulator launcher that also runs gen1recomp (port)
+AeonDX	https://github.com/nahalewski/AeonDX	nahalewski/AeonDX	OTHER	yes	Emulator frontend that also runs gen1recomp (port)
+gen1recomp-Fold	https://github.com/nahalewski/gen1recomp-Fold	nahalewski/gen1recomp-Fold	OTHER	yes	Engine port/packaging of gen1recomp (not a mod) (foldable phone as 3DS)
+go-mod	https://github.com/Neburb/go-mod	Neburb/go-mod	GAMEPLAY	no	Go World - public releases of a gen1recomp mod
+legends	https://github.com/Neburb/legends	Neburb/legends	GAMEPLAY	yes	Release packages of gen1recomp-legends mod
+pokebox-sync-gen1recomp	https://github.com/Neburb/pokebox-sync-gen1recomp	Neburb/pokebox-sync-gen1recomp	TOOL	yes	PokeBox Sync release artifacts
+pokemonrgb-ds-location-banner	https://github.com/Neburb/pokemonrgb-ds-location-banner	Neburb/pokemonrgb-ds-location-banner	UI	no	# Pokémon RGB DS Location Banner A Kanto DualDex mod that shows a Pokémon Crystal-inspired location plaque whenever the active map changes. The mod contains ...
+Active System Pokemon	https://github.com/Nexhas28/active_system_pokemon	Nexhas28/active_system_pokemon	GAMEPLAY	yes	Active System Pokemon turns every battle moment into a skill minigame: the forge (stop the marker in the sweet spot before your attack to crit), the dodge (s...
+Crystal Legacy Changes	https://github.com/Nexhas28/crystal_legacy_changes	Nexhas28/crystal_legacy_changes	BALANCE	yes	Native reimplementation of the Crystal Legacy stat and move rebalance from TSP's design document.
+gen1recomp-mod-browser	https://github.com/Nexhas28/gen1recomp-mod-browser	Nexhas28/gen1recomp-mod-browser	TOOL	no	# Gen1Recomp++ Mod Browser 🎮 A fast, modern, zero-dependency web application designed for searching, filtering, and organizing Pokémon Gen1Recomp++ mods hos...
+Pokémon Version Violette	https://github.com/Nexhas28/gen1recomp-violette	Nexhas28/gen1recomp-violette	TOTAL_CONVERSION	no	Ports the data layer of the French romhack Pokemon Version Violette GBC onto gen1recomp in English: 166-dex species rework, Gen-2 type chart with DARK/STEEL,...
+my-mod-index	https://github.com/Nexhas28/my-mod-index	Nexhas28/my-mod-index	TOOL	no	Personal mod index for the Gen 1 recomp engine: feed for the launcher's Find mods tab
+Throw Ball Hotkey	https://github.com/Nexhas28/throw_ball_hotkey	Nexhas28/throw_ball_hotkey	QOL	yes	By Nexhas28 (=ShaneMcGovernIE renamed)
+Centered Camera	https://github.com/Nezara/gen1recomp-centered-camera	Nezara/gen1recomp-centered-camera	UI	yes	Centered Camera for gen1recomp: puts the player on the true horizontal centre of the screen (the GB's 10-tile-wide screen has no middle column, so the ROM si...
+Dialogue Portraits	https://github.com/Nezara/gen1recomp-dialogue-portraits	Nezara/gen1recomp-dialogue-portraits	ART	yes	Shows a portrait of whoever is talking next to the Gen 1 dialogue box, for the gen1recomp engine.
+oaks-lab	https://github.com/Nezara/oaks-lab	Nezara/oaks-lab	TOOL	yes	Novice modding tool (single HTML file)
+SilphScope-Tournament	https://github.com/Nezara/silph-scope-tournament	Nezara/silph-scope-tournament	GAMEPLAY	yes	A weekly themed tournament and a persistent Elite Four, played against other players real teams. Every week names a PAIR of types; bring six Pokemon that car...
+Gen1Recomp	https://github.com/NikoKatsu575/Gen1Recomp	NikoKatsu575/Gen1Recomp	CONTENT	yes	Adds Furret (author's recomp mods)
+gen1recomp_chn	https://github.com/nobrainmonkey/gen1recomp_chn	nobrainmonkey/gen1recomp_chn	TRANSLATION	yes	Gen1 recomp simplified chinese translation mod
+Double Battles	https://github.com/notquiteog/double-battles-gen2	notquiteog/double-battles-gen2	GAMEPLAY	yes	Double Battles fork for Crystal: real 2v2 over the engine's own Gen 2 battle sim
+Dramatic Sky Ride	https://github.com/notquiteog/dramatic-sky-ride	notquiteog/dramatic-sky-ride	GAMEPLAY	yes	Dramatic Sky Ride fork for JohtoDioramaCart
+Gen1Online+	https://github.com/notquiteog/gen1online-plus	notquiteog/gen1online-plus	GAMEPLAY	yes	Gen1Online+ fork for Johto Diorama cart
+Johto Diorama	https://github.com/notquiteog/JohtoDioramaCart	notquiteog/JohtoDioramaCart	CART	yes	A version-pinned Gen1Recomp cart for Pokemon Crystal: Johto as a 3D diorama, with battles staged on it.
+Modern Pokemon UI	https://github.com/notquiteog/modern-ui	notquiteog/modern-ui	UI	yes	Optional native-compatible battle presentation for Gen1Recomp across Gen 1, 2 and 3
+Voxel Red Preview	https://github.com/notquiteog/VoxelRed	notquiteog/VoxelRed	CART	yes	FireRed HD-2D preview cart for Gen1Recomp 0.2.73+, powered by Battle Art
+Yellow Online	https://github.com/notquiteog/yellow-online	notquiteog/yellow-online	CART	yes	Sealed Gen1Recomp cart for Pokemon Yellow: Gen1Online multiplayer core + the FAFF0x suite and the community's best mods, 58 pins
+Gen 2 Pokemon for Gen 1	https://github.com/odiegoalessandro/gen2_pokemon	odiegoalessandro/gen2_pokemon	CONTENT	no	Adds Generation 2 Pokemon and their required moves and mechanics to Generation 1 using imported Generation 2 datasets.
+Move Mania	https://github.com/oflatt/move-mania	oflatt/move-mania	GAMEPLAY	yes	Using a battle move opens a short microgame; how well you play scales the move's damage.
+Static Camera	https://github.com/ojsaucer/Advanced-Camera-Options	ojsaucer/Advanced-Camera-Options	VOXEL	yes	Camera options for FRLG (tilt/zoom)
+Menu Hotkeys	https://github.com/ojsaucer/gen1recomp-Menu-Hotkeys	ojsaucer/gen1recomp-Menu-Hotkeys	UI	yes	Quick menu hotkeys for Party, Pokédex, Bag, Save, and Trainer Card in gen1recomp with rebind submenus.
+gen1recomp-Radial-Menu	https://github.com/ojsaucer/gen1recomp-Radial-Menu	ojsaucer/gen1recomp-Radial-Menu	UI	yes	Creates a radial menu for all menus within the start menu. Works with mods such as Kanto Ascension that add menus to the start menu. Mmmmm. Menu.
+DV Colors	https://github.com/oldtriplesix/DVColors-2.1.0-PKMN-Gen1-ReComp-	oldtriplesix/DVColors-2.1.0-PKMN-Gen1-ReComp-	ART	yes	DVColors2.1.0, a mod for Pokemon Gen 1 Recomp for Android. Changes color palette slightly, or wildly (based on your preference) based on a Pokemon's DVs (IVs...
+Crystal-Clear-Sprite-Sheet-Converter	https://github.com/on1san/Crystal-Clear-Sprite-Sheet-Converter	on1san/Crystal-Clear-Sprite-Sheet-Converter	TOOL	no	Converts Crystal Clear Sprite sheets to separate assets for use with gen1recomp. 
+Custom Player Sprites	https://github.com/on1san/Custom-Player-Sprites-G1R	on1san/Custom-Player-Sprites-G1R	ART	yes	Mod for Gen1Recomp. Changes your player sprite in real time. Use existing Spritesheets or create your own! This mod makes it possible to change Walking, Batt...
+Pokémon Gold & Silver OST	https://github.com/OtaconRevengeance/gold_ost	OtaconRevengeance/gold_ost	AUDIO	yes	gold ost for gen1recomp
+Pokémon Gold & Silver Sprites	https://github.com/OtaconRevengeance/gold_sprites	OtaconRevengeance/gold_sprites	ART	yes	Gold & Silver Sprites For Gen1-Recomp
+Pokémon Green Sprites	https://github.com/OtaconRevengeance/green_sprites	OtaconRevengeance/green_sprites	ART	yes	green sprites for gen1recomp
+highlandermods	https://github.com/OtaconRevengeance/highlandermods	OtaconRevengeance/highlandermods	OTHER	no	Highlander1536 mod page (also posts on GameBanana)
+Red Translated	https://github.com/OtaconRevengeance/red_retranslated	OtaconRevengeance/red_retranslated	TRANSLATION	yes	Also on GameBanana as Highlander1536
+Pokémon Silver Sprites (True Color)	https://github.com/OtaconRevengeance/silver_sprites	OtaconRevengeance/silver_sprites	ART	yes	silver_sprites for gen1recomp
+Darkrai + Cresselia Events	https://github.com/Panduino/Darkrai-Cresselia-Event	Panduino/Darkrai-Cresselia-Event	CONTENT	yes	Adds postgame Darkrai and Cresselia events to FireRed and LeafGreen.
+Balanced EXP Share	https://github.com/Panduino/exp-shareGen3	Panduino/exp-shareGen3	QOL	no	Adds balanced party-wide catch-up EXP in FireRed, LeafGreen and Emerald.
+Battle Effect Colors	https://github.com/Panduino/gen1-battle-effects	Panduino/gen1-battle-effects	ART	yes	Recolors Gen 1 battle move-animation sprites by attack theme instead of leaving them monochrome.
+Gen 3 Ball Rarity	https://github.com/Panduino/gen3-ball-rarity	Panduino/gen3-ball-rarity	ART	yes	Changes FireRed, LeafGreen and Emerald overworld item pickup graphics according to item rarity.
+Gen 3 Party Icons + Shinies	https://github.com/Panduino/Gen-3-Party-Icons-Shinies	Panduino/Gen-3-Party-Icons-Shinies	ART	yes	Replaces FireRed, LeafGreen and Emerald party and PC icons with custom shiny-aware icon sheets, including National Dex species through Gen 4.
+Lake Trio Events	https://github.com/Panduino/lake-trio-event	Panduino/lake-trio-event	CONTENT	no	Adds Uxie, Mesprit, and Azelf as progressive legendary encounters across Kanto and Hoenn.
+Hoenn Latias + Latios Roamers	https://github.com/Panduino/Latios-and-Latias-Roamers	Panduino/Latios-and-Latias-Roamers	CONTENT	no	Adds Latias and Latios as simultaneous roaming legendary Pokemon throughout Hoenn.
+Choose Your Avatar	https://github.com/Panduino/leaf-avatar	Panduino/leaf-avatar	ART	yes	Adds a boy/girl question to Oak's intro and dresses the player in a female avatar: walking and cycling sheets, fishing poses, battle back pic and front pic, ...
+Level Up Trade Evolutions	https://github.com/Panduino/Level-Up-Evolutions-Gen-3	Panduino/Level-Up-Evolutions-Gen-3	GAMEPLAY	no	Replaces trade-based evolutions through Generation 4 with level-up evolutions in FireRed, LeafGreen and Emerald, including held-item trade evolutions.
+Manaphy + Phione Event	https://github.com/Panduino/manaphy-phione-event	Panduino/manaphy-phione-event	CONTENT	yes	Adds a post-Champion Manaphy Egg gift and Manaphy + Ditto breeding for Phione.
+Mew Event	https://github.com/Panduino/Mew-Under-Truck-Gen3	Panduino/Mew-Under-Truck-Gen3	CONTENT	yes	Standalone Mew truck event with access to the abandoned S.S. Anne dock after the ship sails.
+Navel Rock + Birth Island Restoration	https://github.com/Panduino/Navel-Rock-and-Birth-Island-Restoration	Panduino/Navel-Rock-and-Birth-Island-Restoration	CONTENT	yes	Restores access to Navel Rock and Birth Island through in-game unlock events and enables all three legendary beasts as roamers.
+Gen 1 / Gen 3 Quick Start	https://github.com/Panduino/oak-alternate-intro	Panduino/oak-alternate-intro	QOL	yes	Quick-start intros for Gen 1 and FireRed/LeafGreen, plus an Emerald Littleroot skip that preserves the Birch rescue and starter progression.
+Panduino-s-G1RDeluxe-Mod-Index	https://github.com/Panduino/Panduino-s-G1RDeluxe-Mod-Index	Panduino/Panduino-s-G1RDeluxe-Mod-Index	TOOL	no	Personal mod index (metadata)
+Auto Shiny Hunt	https://github.com/parkerallen1/gen1recomp-auto-shiny-hunt	parkerallen1/gen1recomp-auto-shiny-hunt	QOL	yes	Unattended shiny hunting mod for Gen1Recomp: auto-flees non-shiny wild encounters, shuffles in place to trigger them, alerts on a shiny.
+Realtimeclocktest	https://github.com/PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase	PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase	TOOL	yes	This is where I will be showing off the additions to the Real Time Clock tool in the Gen1recomp Editor tool found here https://github.com/zeak6464/Gen1Recomp...
+Red Gen 2.5	https://github.com/PashleyAUS/Red-Gen-2.5	PashleyAUS/Red-Gen-2.5	TOTAL_CONVERSION	yes	R/B story recreated in G/S with Johto postgame
+Modern Pokedex UI	https://github.com/piftee/gen1recomp-modern-pokedex-ui	piftee/gen1recomp-modern-pokedex-ui	UI	yes	Superseded by Modern UI Suite
+Modern Start Menu UI	https://github.com/piftee/gen1recomp-modern-start-menu-ui	piftee/gen1recomp-modern-start-menu-ui	UI	yes	Superseded by Modern UI Suite — legacy standalone START menu UI for Gen1Recomp
+Modern UI Suite	https://github.com/piftee/gen1recomp-modern-ui-suite	piftee/gen1recomp-modern-ui-suite	UI	yes	A responsive modern-retro interface for Pokémon menus, storage, Pokédex, battles, and moves in Gen1Recomp
+Pokemon-Yellow-Super-Rod-Fix-gen1recomp	https://github.com/pluto-94/Pokemon-Yellow-Super-Rod-Fix-gen1recomp	pluto-94/Pokemon-Yellow-Super-Rod-Fix-gen1recomp	GAMEPLAY	yes	Fixes Pokemon Yellow Super Rod encounter weighting in gen1recomp.
+pokemon-gen1-voxel-vr	https://github.com/polymathiclabs/pokemon-gen1-voxel-vr	polymathiclabs/pokemon-gen1-voxel-vr	VOXEL	yes	Unofficial voxel desktop/PC VR project (may be standalone)
+Cleaner Mod Options	https://github.com/poooooby/cleaner-mod-options	poooooby/cleaner-mod-options	UI	yes	UI mod for gen1recomp: hide disabled mods and mods for other games from the in-game mod list
+Modern Spawns	https://github.com/poooooby/g1r_modern_spawns	poooooby/g1r_modern_spawns	GAMEPLAY	yes	Dynamic Gen 1-9 wild encounter redistribution for Pokemon Red/Blue/Yellow/Gold/Silver/Crystal/FireRed/LeafGreen (gen1recomp)
+Gen 3 HD Sprites	https://github.com/poooooby/gen3-hd-sprites	poooooby/gen3-hd-sprites	LIBRARY	yes	Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size
+National Dex Gen 3	https://github.com/poooooby/national_dex_gen3	poooooby/national_dex_gen3	CONTENT	yes	National Dex species #387-1025 as data for Pokemon FireRed/LeafGreen (gen1recomp)
+PlayNav	https://github.com/poooooby/PlayNav	poooooby/PlayNav	GAMEPLAY	yes	gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from t...
+Wilds of Hoenn	https://github.com/poooooby/wilds-of-hoenn	poooooby/wilds-of-hoenn	GAMEPLAY	yes	Open PR #331 to index
+yapper-gen1recomp-mod-tool	https://github.com/poooooby/yapper-gen1recomp-mod-tool	poooooby/yapper-gen1recomp-mod-tool	TOOL	yes	Mod tool for Gen1Recomp
+Versione Italiana Gen1	https://github.com/primianocristino/Traduzione_Italiana_Gen1Recomp	primianocristino/Traduzione_Italiana_Gen1Recomp	TRANSLATION	no	Traduzione italiana a cura di Primiano Cristino
+Priston	https://github.com/prioa/priston	prioa/priston	CONTENT	yes	Follower dog + quests, German localization
+Stadium-Battles	https://github.com/quit-1337/Stadium-Battles	quit-1337/Stadium-Battles	GAMEPLAY	yes	Gen 1 Pokémon battles powered by a custom Pokémon Stadium runtime for Gen1Recomp.
+GameShark Compatibility	https://github.com/radeatsworld/PKM-Gen1Recomp-Gameshark-Mod	radeatsworld/PKM-Gen1Recomp-Gameshark-Mod	GAMEPLAY	yes	GameShark translations with Surfboard, trainer Pokemon capture, and selectable wild encounters for Gen1Recomp 0.1.47.
+Party Presets	https://github.com/RadekHM/party_presets_gen1recomp	RadekHM/party_presets_gen1recomp	QOL	yes	Save three unrestricted teams plus a preset for every Gen 1 type, and switch without depositing and withdrawing by hand.
+Exp Multiplier	https://github.com/RadekHM/xp_multiplier_gen1recomp	RadekHM/xp_multiplier_gen1recomp	GAMEPLAY	yes	Gen1Recomp Yellow mod: OPTIONS EXP multiplier (1.5x / 2x / 3x / SCALED) that stacks with Exp Share.
+pokemon_silver	https://github.com/radleynelson/pokemon_silver	radleynelson/pokemon_silver	OTHER	no	Engine port/packaging of gen1recomp (not a mod) (Silver iOS app on Gen2Recomped runtime)
+Pokemon Stadium Overworld Models	https://github.com/randyadr/3D-Pokemon-Sprites	randyadr/3D-Pokemon-Sprites	VOXEL	yes	Makes All Sprites into 3D Models
+Gen1 TRUE 3D Characters	https://github.com/randyadr/Gen-1-3D-NPC-s	randyadr/Gen-1-3D-NPC-s	VOXEL	yes	Gen 1 3D NPC's
+Gen1-Cheat-Menu	https://github.com/randyadr/Gen1-Cheat-Menu	randyadr/Gen1-Cheat-Menu	UI	yes	Gen1Recomp Cheat Menu 
+3D Character Selector - Mobile Touch (Gen 1 + Gen 2)	https://github.com/randyadr/Gen1Recomp-Character-Selector	randyadr/Gen1Recomp-Character-Selector	VOXEL	yes	Gen1Recomp Character Selector
+HD Grass + LGPE Wind Flowers	https://github.com/randyadr/Gen1-Recomp-HD-Grass	randyadr/Gen1-Recomp-HD-Grass	VOXEL	yes	Gen1Recomp HD Grass
+Pokemon Stadium 2 Overworld Models - Gold/Silver/Crystal (Gen 2)	https://github.com/randyadr/Gen2-3D-Sprites	randyadr/Gen2-3D-Sprites	VOXEL	yes	Gen2 Voxel + 3D Sprites
+Gen2 Gold Cheat Menu	https://github.com/randyadr/Gen2-Cheat-Menu	randyadr/Gen2-Cheat-Menu	UI	yes	Gen2 Cheat Menu
+Pokemon Stadium 2 UI Model Viewer	https://github.com/randyadr/Gen-2-Stadium-Model-Viewer-for-Pokedex	randyadr/Gen-2-Stadium-Model-Viewer-for-Pokedex	VOXEL	yes	Gen 2 Stadium Model Viewer for Pokedex
+Pokemon Stadium UI Model Viewer	https://github.com/randyadr/Stadium-Model-Viewer-for-Pokedex	randyadr/Stadium-Model-Viewer-for-Pokedex	VOXEL	yes	3D Model Viewer for Pokedex
+pokered-ptbr	https://github.com/raphabarreto/pokered-ptbr	raphabarreto/pokered-ptbr	TRANSLATION	yes	Traduções de mods de gameplay para Pokémon Red/Blue (gen1recomp) em PT-BR 🇧🇷
+VersãoVermelha (Moves in English)	https://github.com/raphabarreto/versaovermelha-moves-en	raphabarreto/versaovermelha-moves-en	TRANSLATION	yes	Mod híbrido PT-BR para Pokémon Red com nomes de golpes em inglês. Baseado em Hyd~Traduções v1.3.1. Ideal para streamers e competitivo.
+RepMonCustomizer	https://github.com/RepH3x/MonCustomizer	RepH3x/MonCustomizer	ART	no	A little Gen1Recomp mod project  that allows for the ability to set the color palette individually for each pokemon you own. 
+Summon	https://github.com/RimuruTorrent/FAFF0x-Summon	RimuruTorrent/FAFF0x-Summon	GAMEPLAY	yes	Updated FAFF0x Summon mod (Gen1+Gen2)
+NPC Independent Colors	https://github.com/robertyur/NPC_Color_Gen1_Recomp	robertyur/NPC_Color_Gen1_Recomp	ART	no	NPCs are not bound to vanilla color palettes. 
+pokevoxel	https://github.com/rolottr/pokevoxel	rolottr/pokevoxel	OTHER	no	Browser fork/integration of Dramatic Shape voxel (standalone)
+Pokevoxel Audio HD	https://github.com/rolottr/pokevoxel-audio-hd	rolottr/pokevoxel-audio-hd	AUDIO	no	An audio mod for the Pokémon Gen 1 Recompilation Project
+Gen-1-Recomp-Modern-Types-Moves	https://github.com/RonikBasnet/Gen-1-Recomp-Modern-Types-Moves	RonikBasnet/Gen-1-Recomp-Modern-Types-Moves	BALANCE	yes	Brings modern Pokémon typings (Steel, Dark, Fairy) to Gen 1 Recomp, complete with updated type matchups, retroactively patched vanilla Pokémon, and new signa...
+Origami Ascendant	https://github.com/Roxas2712/origami-ascendant	Roxas2712/origami-ascendant	VOXEL	yes	Origami Ascendant: paper diorama worlds and MAP / Terrarium battles for FireRed, LeafGreen and Emerald on gen1recomp.
+uni-language-ascendant	https://github.com/Roxas2712/uni-language-ascendant	Roxas2712/uni-language-ascendant	TRANSLATION	yes	Pokémon language and translation mod for Gen1Recomp, Gen 1–3: 41 localized profiles, ten menu languages, in-game ROM import and language switching. Ascendant...
+Secret Base Extras	https://github.com/samuelpietra/secret_base_extras	samuelpietra/secret_base_extras	CONTENT	yes	Adds an EXTRA category to the Secret Base DECORATE menu with furniture the game has elsewhere: the bedroom bed (rest in it to heal your party), a Pokemon Cen...
+Secret Base Warp	https://github.com/samuelpietra/secret_base_warp	samuelpietra/secret_base_warp	QOL	yes	Adds a Start menu entry that takes you straight to your own Secret Base. Walking out returns you to where you came from.
+Weakness Chart	https://github.com/samuelpietra/weakness_chart	samuelpietra/weakness_chart	UI	yes	Press R while choosing a command in battle to open a chart of every Pokemon on the field: its types, and which attacking types hit it for 4x, 2x, 1/2x, 1/4x ...
+Battle Forms	https://github.com/sanjinpepic/gen1recomp-battle-forms	sanjinpepic/gen1recomp-battle-forms	GAMEPLAY	yes	Form changes: mega evolution, Dynamax and Gigantamax, Terastallization, Z-Moves, primal reversion for Groudon and Kyogre, condition-driven forms for eight mo...
+gen1recomp-national-dex	https://github.com/sanjinpepic/gen1recomp-national-dex	sanjinpepic/gen1recomp-national-dex	CONTENT	yes	National Dex mod for Gen1Recomp - registers the full 1025-species dex with modern typing, abilities and dex entries, on Red/Blue/Yellow and Gold.
+Dramatic Shape Voxel Mod	https://github.com/scottcandy34/DramaticShapeVoxelMod-latest	scottcandy34/DramaticShapeVoxelMod-latest	VOXEL	yes	This is a faithful copy of the last update from DramaticShape's mod.
+VoxelVR	https://github.com/scottcandy34/VoxelVR	scottcandy34/VoxelVR	VOXEL	yes	PCVR / OpenXR companion for Dramatic Shape Voxel Mod (gen1recomp). Windows only.
+Scott's Battle Art Kanto	https://github.com/ScottExplores/gen1recomp-battle-art-kanto	ScottExplores/gen1recomp-battle-art-kanto	VOXEL	yes	Scott's Battle Art Kanto - Battle Art 1.9.2 + Kanto First Person fusion for Gen1Recomp: 3D voxel Kanto, staged overworld battles, first-person movement, weat...
+Kanto Dex Atlas	https://github.com/ScottExplores/gen1recomp-kanto-dex-atlas	ScottExplores/gen1recomp-kanto-dex-atlas	UI	yes	All-151 Start-menu Pokedex atlas and live habitat map for Gen1Recomp
+Let's Go Catch & Throw	https://github.com/ScottExplores/gen1recomp-lets-go-catch-throw	ScottExplores/gen1recomp-lets-go-catch-throw	VOXEL	yes	Let's Go-style interactive catching and AYN Thor overworld throws for Gen1Recomp.
+gen1recomp-mods-index	https://github.com/ScottExplores/gen1recomp-mods-index	ScottExplores/gen1recomp-mods-index	TOOL	no	Scott's personal Gen1Recomp mod index feed - add this in the launcher to install and update his mods over the air.
+Oak's Spare Starter	https://github.com/ScottExplores/gen1recomp-oaks-spare-starter	ScottExplores/gen1recomp-oaks-spare-starter	GAMEPLAY	yes	Claim Professor Oak's remaining starter after the lab rival battle in Gen1Recomp Red or Blue.
+Scott's Sprite Menu	https://github.com/ScottExplores/gen1recomp-scotts-sprite-hub	ScottExplores/gen1recomp-scotts-sprite-hub	UI	yes	A compact Gen1Recomp sprite ownership and settings menu for Battle Art and external sprite packs.
+Trainer Forfeit & Rematches	https://github.com/ScottExplores/gen1recomp-trainer-forfeit	ScottExplores/gen1recomp-trainer-forfeit	GAMEPLAY	yes	Paid trainer forfeits, safe rematches, and offline journey-aware dialogue for Gen1Recomp.
+Scott's Tweaks	https://github.com/ScottExplores/gen1recomp-voxel-run-bridge	ScottExplores/gen1recomp-voxel-run-bridge	VOXEL	yes	Scott's Gen1Recomp tweaks: badge-free HM field moves and voxel first/third-person run compatibility.
+FakeMon	https://github.com/Sebarosu/Fakemon	Sebarosu/Fakemon	CONTENT	yes	Adding new Pokegods, fanmade Pokémon or other one from rumors. A mod for Pokemon Gen 1 Recomp.
+Playable Luigi	https://github.com/Sebarosu/Luigi-in-gen1-recomp	Sebarosu/Luigi-in-gen1-recomp	ART	yes	I'm-a Luigi, mumber 1 Pokémon Master!
+safari-capture-minigame	https://github.com/setogabes/safari-capture-minigame	setogabes/safari-capture-minigame	GAMEPLAY	yes	g1r deluxe's mod that reworks the safari zone catching mechanic into a timing based minigame
+seto-battle-ui	https://github.com/setogabes/seto-battle-ui	setogabes/seto-battle-ui	UI	yes	customizable battle ui for pokémon gen1recomp
+S-J-s-AIO-Gen-2	https://github.com/shadowjackyl/S-J-s-AIO-Gen-2	shadowjackyl/S-J-s-AIO-Gen-2	OTHER	yes	All-in-one mod pack for Gen 2
+gen1recomp-mods	https://github.com/ShaneHudson/gen1recomp-mods	ShaneHudson/gen1recomp-mods	OTHER	yes	Legacy repo: final migration release (moved to shanehudson-gen1recomp-mods org)
+monorepo	https://github.com/shanehudson-gen1recomp-mods/monorepo	shanehudson-gen1recomp-mods/monorepo	OTHER	yes	Monorepo of 4 mods (sky mods, PMD sky art, double battles)
+pmd_sky_sprites	https://github.com/shanehudson-gen1recomp-mods/pmd_sky_sprites	shanehudson-gen1recomp-mods/pmd_sky_sprites	ART	yes	PMD Sky Sprites releases: 8-direction PMD air sheets for the gen1recomp sky mods; reads your own Explorers of Sky cartridge for full coverage
+Gen2Online	https://github.com/shaycomfort6-lab/gen2recomp---online	shaycomfort6-lab/gen2recomp---online	GAMEPLAY	no	Copy of Gen2Online (Gen2Recomped)
+gen1recomp-optimization-features	https://github.com/showpei1203/gen1recomp-optimization-features	showpei1203/gen1recomp-optimization-features	OTHER	no	Dev repo for optimization/compat work
+SilverShadow LCD	https://github.com/silvershadowkat/gen1comp-silvershadow-lcd	silvershadowkat/gen1comp-silvershadow-lcd	ART	yes	LCD display shader suite
+SilverShadow Mods	https://github.com/silvershadowkat/gen1recomp-minimal-cheats	silvershadowkat/gen1recomp-minimal-cheats	GAMEPLAY	yes	cheats for gen1recomp
+SilverShadow Touchpad	https://github.com/silvershadowkat/gen1recomp-silvershadow-touchpad	silvershadowkat/gen1recomp-silvershadow-touchpad	UI	yes	custom touch pad for gen1recomp
+Variable-Width Kerning	https://github.com/SliferDaG/TextKerningGen1Recomp	SliferDaG/TextKerningGen1Recomp	ART	yes	This is a mod that changes the text kerning for bryanthaboi's Gen 1 Pokemon Recomp. 
+gen1recompPSP	https://github.com/sloevhaug/gen1recompPSP	sloevhaug/gen1recompPSP	OTHER	no	Engine port/packaging of gen1recomp (not a mod) (PSP)
+PKMN_BLUE	https://github.com/SMCSarchive/gen1recomp_carts_and_mods	SMCSarchive/gen1recomp_carts_and_mods	CART	yes	offical IRL cart for pokemon red version
+CH-Quest-importer-Gen1	https://github.com/Smidja2/CH-Quest-importer-Gen1	Smidja2/CH-Quest-importer-Gen1	TOOL	no	CH quest importer for gen1recomp
+CH-Quest-importer-Gen2	https://github.com/Smidja2/CH-Quest-importer-Gen2	Smidja2/CH-Quest-importer-Gen2	TOOL	no	CH quest importer for gen1recomp
+Cobblemon-importer-for-Gen1---gen1recomp-	https://github.com/Smidja2/Cobblemon-importer-for-Gen1---gen1recomp-	Smidja2/Cobblemon-importer-for-Gen1---gen1recomp-	TOOL	no	Cobblemon Importer for Gen1 - gen1recomp.
+Cobblemon-importer-for-Gen2---gen1recomp-	https://github.com/Smidja2/Cobblemon-importer-for-Gen2---gen1recomp-	Smidja2/Cobblemon-importer-for-Gen2---gen1recomp-	TOOL	no	Importer for gen1recomp
+DX-386-Importer	https://github.com/Smidja2/DX-386-Importer	Smidja2/DX-386-Importer	TOOL	no	Importer for gen1recomp
+My-Pokemon-Ranch-Importer	https://github.com/Smidja2/My-Pokemon-Ranch-Importer	Smidja2/My-Pokemon-Ranch-Importer	TOOL	no	Importer for gen1recomp
+octocat.github.io	https://github.com/Smidja2/octocat.github.io	Smidja2/octocat.github.io	TOOL	no	Cobblemon importer for Gen2 (site)
+Ranch-Importer	https://github.com/Smidja2/Ranch-Importer	Smidja2/Ranch-Importer	TOOL	no	My Ranch importer for gen1recomp
+Rumble Unified	https://github.com/Smidja2/RUMBLE	Smidja2/RUMBLE	GAMEPLAY	no	Rumble Blast for gen1recomp
+Rumble-Blast-Exporter	https://github.com/Smidja2/Rumble-Blast-Exporter	Smidja2/Rumble-Blast-Exporter	TOOL	no	Exporter for Pii files for Rumble Blast (3ds)
+Gen 2 Moves & Learnsets 251	https://github.com/Spencer-Ross/gen1recomp-gen2-moves	Spencer-Ross/gen1recomp-gen2-moves	CONTENT	yes	A mod for the Pokemon gen1recomp, dependent upon gen2dex mod
+Gen 2 Types 251 (Modern Kanto Compat)	https://github.com/Spencer-Ross/gen1recomp-gen2-types	Spencer-Ross/gen1recomp-gen2-types	BALANCE	yes	A mod for the Pokemon gen1recomp
+More Attacks	https://github.com/Spencer-Ross/gen1recomp-more-attacks	Spencer-Ross/gen1recomp-more-attacks	CONTENT	yes	A mod for Pokemon gen1recomp for more move coverage for all types
+gen1recomp-android-sandbox-patches	https://github.com/stavrozo/gen1recomp-android-sandbox-patches	stavrozo/gen1recomp-android-sandbox-patches	OTHER	no	Android compat patches for mods after sandbox API changes
+recomp_mods	https://github.com/SterlingWhy/recomp_mods	SterlingWhy/recomp_mods	OTHER	no	Empty mod index/collection repo
+Custom Music Randomizer	https://github.com/Studioaecks/custom-music-randomizer	Studioaecks/custom-music-randomizer	AUDIO	no	Custom Music Randomizer for Gen1Recomp — drop tracks into context folders (battle, overworld, gym, etc.) and the mod randomly plays them when appropriate. Fu...
+gen1recomp-mod-engine	https://github.com/Studioaecks/gen1recomp-mod-engine	Studioaecks/gen1recomp-mod-engine	TOOL	no	XENO-MOD: Alien-intelligence Godot-style mod engine for Gen1Recomp. Scaffold, visual editor, predictive coding, packaging, and attribution for Pokemon Gen 1 ...
+Kanto Realism	https://github.com/Studioaecks/kanto-realism	Studioaecks/kanto-realism	TOTAL_CONVERSION	no	Kanto Realism — adult, non-sexual total conversion foundation for Gen1Recomp. Pokemon hunted as food, vices, mid-battle theft with permanent loss or jail con...
+Ultimate Arena Battles	https://github.com/Studioaecks/ultimate-arena-battles	Studioaecks/ultimate-arena-battles	GAMEPLAY	no	Ultimate Arena Battles for Gen1Recomp — dynamic location-matched, weather-aware, top-down style battles with auto-party progression, custom/Stadium/PokePC sp...
+Gen 4 Platinum Sprites	https://github.com/svaldesoliva/gen1recomp-gen4-platinum-sprites	svaldesoliva/gen1recomp-gen4-platinum-sprites	ART	yes	Pokémon Platinum battle sprites for Gen1Recomp, including official Gen 4 shinies.
+OmniQoL	https://github.com/swissguy/OmniQoL	swissguy/OmniQoL	QOL	yes	Open PR #316 to index
+Delta Pokemon	https://github.com/swuff-star/Gen1RecompDeltas	swuff-star/Gen1RecompDeltas	CONTENT	yes	adds delta pkmn to gen1 recomp
+dramatic-sky-ride	https://github.com/syybott/dramatic-sky-ride	syybott/dramatic-sky-ride	GAMEPLAY	no	Flight/ground ride/visible surf mounts (voxel compatible)
+Gen1Better	https://github.com/syybott/Gen1Better	syybott/Gen1Better	UI	yes	Comprehensive widescreen UI & presentation overhaul for Gen1Recomp: BetterPC, BetterBag, BetterParty, BetterBattle, BetterScenes cinematic staging, and 60+ d...
+Gen1BetterSprites	https://github.com/syybott/gen1-better-sprites	syybott/gen1-better-sprites	ART	yes	Gen1BetterSprites is a Gen1Recomp mod that locally derives Pokémon artwork from user-supplied Pokémon Gold, Silver, and Crystal ROMs
+Digimon-World-Gen-1-Recomp-mod	https://github.com/tai827/Digimon-World-Gen-1-Recomp-mod	tai827/Digimon-World-Gen-1-Recomp-mod	TOTAL_CONVERSION	yes	This Mod is for Emerald on Gen1recomp. This mod aims to add Digimon to the game. Add Tamers Digivoling Digivices and more. This mod is in its early stages.
+Encounter Tweaks	https://github.com/tailscreatesstuff32/Encounter_Tweaks_Gen1_Recomp	tailscreatesstuff32/Encounter_Tweaks_Gen1_Recomp	GAMEPLAY	yes	Adds pseudo any% speedrun manips to the game.
+Yellow Palette	https://github.com/tailscreatesstuff32/Red-With-Yellow-Palette-Gen1-Recomp	tailscreatesstuff32/Red-With-Yellow-Palette-Gen1-Recomp	ART	yes	Make Pokemon Red pop with Pokemon Yellow's vibrant color palette.
+Starter Change	https://github.com/tailscreatesstuff32/Starter_Change_Gen1_Recomp	tailscreatesstuff32/Starter_Change_Gen1_Recomp	GAMEPLAY	yes	Change your starter to anything in the game. Also give it perfect DVs.
+gen1recomp-mod-browser	https://github.com/tcsenpai/gen1recomp-mod-browser	tcsenpai/gen1recomp-mod-browser	TOOL	no	Self-updating mod browser site
+gen1recomp-mods	https://github.com/tebwritescode/gen1recomp-mods	tebwritescode/gen1recomp-mods	TOOL	no	Personal mod index (metadata)
+Battle Speed	https://github.com/tectorifter/Battle_Spees_Mod	tectorifter/Battle_Spees_Mod	QOL	yes	Battle Speed modifier isolated from normal game speed setting of gen1recomp project.
+Dynamax_4_Recomp	https://github.com/tectorifter/Dynamax_4_Recomp	tectorifter/Dynamax_4_Recomp	GAMEPLAY	yes	A dynamax mod for gen1recomp
+g9-battle-scene	https://github.com/tectorifter/g9-battle-scenes	tectorifter/g9-battle-scenes	GAMEPLAY	yes	modern battle layouts, doubles, triples, 4v1 boss fight
+g9-battle-suit	https://github.com/tectorifter/g9-battle-suit	tectorifter/g9-battle-suit	TOOL	no	Index for g9 battle mods
+50-box PC storage	https://github.com/tectorifter/g9-boxes	tectorifter/g9-boxes	GAMEPLAY	yes	gen 1 and 2 g1r pc box extension to 50
+modern UI & stats	https://github.com/tectorifter/g9-gui	tectorifter/g9-gui	UI	yes	modernized GUI for g9 battle engine stats
+Dramatic Shape Voxel Mod	https://github.com/TeJota1337/DramaticShapeVoxelMod	TeJota1337/DramaticShapeVoxelMod	VOXEL	no	A full 3D diorama overworld: extruded terrain, depth-buffered occlusion, voxel characters and a tilt-shift miniature pass. Registers two render pipelines and...
+gen1recomp-beginner-mods	https://github.com/TempestTensei/gen1recomp-beginner-mods	TempestTensei/gen1recomp-beginner-mods	QOL	yes	Two beginner-friendly mods for Gen1Recomp (Pokemon Red): in-battle type-effectiveness hints and a START-menu story guide.
+Gen1recomp-Nexus-UI	https://github.com/THCrazy420/Gen1recomp-Nexus-UI	THCrazy420/Gen1recomp-Nexus-UI	UI	yes	11 in 1 UI replacement
+Gen1recomp-Player-Selector	https://github.com/THCrazy420/Gen1recomp-Player-Selector	THCrazy420/Gen1recomp-Player-Selector	ART	yes	Chacter player selector 
+Gen1recomp-Poke-Music-Player	https://github.com/THCrazy420/Gen1recomp-Poke-Music-Player	THCrazy420/Gen1recomp-Poke-Music-Player	AUDIO	no	Play your own music
+Gen1recomp-Poke-Rave	https://github.com/THCrazy420/Gen1recomp-Poke-Rave	THCrazy420/Gen1recomp-Poke-Rave	AUDIO	yes	Ravers Unite
+Gen1recomp-Voxel-Stereo-3D	https://github.com/THCrazy420/Gen1recomp-Voxel-Stereo-3D	THCrazy420/Gen1recomp-Voxel-Stereo-3D	VOXEL	yes	Voxel Stereo 3D Effect
+Gen1recomp-WeatherFX-Simulator	https://github.com/THCrazy420/Gen1recomp-WeatherFX-Simulator	THCrazy420/Gen1recomp-WeatherFX-Simulator	ART	yes	Mods
+Pokémon Heart & Soul - Exploration Prototype	https://github.com/TheEelYT/g1r-hns	TheEelYT/g1r-hns	TOTAL_CONVERSION	yes	Total Conversion mod for Gen1Recomp Emerald based on pokehns-expansion 2.0.6
+Gen1Recomp---KeyHUD-Mod-for-Dramatic-Shape-Voxel-Mod	https://github.com/TheWaffleSmasher/Gen1Recomp---KeyHUD-Mod-for-Dramatic-Shape-Voxel-Mod	TheWaffleSmasher/Gen1Recomp---KeyHUD-Mod-for-Dramatic-Shape-Voxel-Mod	UI	yes	Adds an on-screen Key Map HUD for basic Dramatic Shape Voxel Mod controls for RBY on Gen1Recomp. Press 'H' to toggle the overlay on or off. 
+gen1recomp-translation-mod-generator	https://github.com/thibautbus/gen1recomp-translation-mod-generator	thibautbus/gen1recomp-translation-mod-generator	TOOL	yes	Generate ready-to-import multilingual translation mods for gen1recomp using your own dumps of the US cartridges.
+Effective Markers	https://github.com/thorkdev/gen1recomp-effective-markers	thorkdev/gen1recomp-effective-markers	UI	yes	Draws a small icon in the FIGHT menu's TYPE/PP info panel for the currently selected move's effectiveness.
+Evolution Man	https://github.com/thorkdev/gen1recomp-evolution-man	thorkdev/gen1recomp-evolution-man	CONTENT	yes	An NPC who evolves a trade-only POKéMON for $4000, no link cable needed.
+Happiness	https://github.com/thorkdev/gen1recomp-happiness	thorkdev/gen1recomp-happiness	GAMEPLAY	yes	Every caught Pokémon — not just Pikachu — tracks a hidden 0-255 happiness value!
+Move Deleter	https://github.com/thorkdev/gen1recomp-move-deleter	thorkdev/gen1recomp-move-deleter	GAMEPLAY	yes	A free NPC on the Celadon Mart roof who deletes any one move from a party POKéMON — HM moves included.
+Mystery Gift	https://github.com/thorkdev/gen1recomp-mystery-gift	thorkdev/gen1recomp-mystery-gift	CONTENT	yes	Adds a MYSTERY GIFT row to the START menu.
+Pokérus	https://github.com/thorkdev/gen1recomp-pokerus	thorkdev/gen1recomp-pokerus	GAMEPLAY	yes	A rare Gen 2-style infection: wild battles have a small chance to give your lead Pokémon Pokérus!
+Radio	https://github.com/thorkdev/gen1recomp-radio	thorkdev/gen1recomp-radio	AUDIO	yes	Adds a RADIO to the START menu!
+Running Shoes	https://github.com/thorkdev/gen1recomp-running-shoes	thorkdev/gen1recomp-running-shoes	GAMEPLAY	yes	A mod to get running shoes from your Mom!
+Screen Effects	https://github.com/thorkdev/gen1recomp-screen-effects	thorkdev/gen1recomp-screen-effects	ART	yes	Adds a CRT/film-grain look (scanlines, a corner vignette, mild edge chromatic aberration and animated grain).
+Gen-2-Chiptune-Music	https://github.com/tomastienegilbert/gen1recomp_gen2chiptuneKantoMusic	tomastienegilbert/gen1recomp_gen2chiptuneKantoMusic	AUDIO	no	Musica de Kanto en version Gen 2 (GSC)
+Unique Fly/Surf Sprites	https://github.com/Tonedawg1/gen1recomp-unique-fly-surf-sprites	Tonedawg1/gen1recomp-unique-fly-surf-sprites	ART	yes	Shows the accurate pokemon sprite when using fly or surf hm's for pokemon Gen1Recomp.
+Gen1-Recomp-Norwegian-Translate-Yellow	https://github.com/Tooandorisu/Gen1-Recomp-Norwegian-Translate-Yellow	Tooandorisu/Gen1-Recomp-Norwegian-Translate-Yellow	TRANSLATION	yes	Norsk bokmål-oversettelse av Pokémon Yellow for Gen1Recomp. Basert på Norsk bokmål for Red/Blue.
+Wild DV Display	https://github.com/Tophiero/Wild-DV-Display	Tophiero/Wild-DV-Display	UI	yes	Displays wild Pokémon DVs during battle in Gen1Recomp. Requires Dramatic Shape.
+Choose Your Hero	https://github.com/TranswarpTechnologies/choose-your-hero-mod-gen1recomp	TranswarpTechnologies/choose-your-hero-mod-gen1recomp	ART	yes	Mod to replace protagonist/rival sprites with female counterparts
+G1R Deluxe - Roddsoft Edition	https://github.com/twgrodd/G1R-Deluxe_Gen1_cartridge_red_roddsoft_edition	twgrodd/G1R-Deluxe_Gen1_cartridge_red_roddsoft_edition	CART	yes	G1R-Deluxe_Gen1_cartridge_red_roddsoft_edition
+G1R Deluxe - Yellow Roddsoft Edition	https://github.com/twgrodd/G1R-Deluxe_Gen1_cartridge_yellow_roddsoft_edition	twgrodd/G1R-Deluxe_Gen1_cartridge_yellow_roddsoft_edition	CART	yes	Pokemon Yellow RoddSoft Edition
+Modern Bag Roddsoft	https://github.com/twgrodd/G1R-Deluxe_Gen1_mod_fork_Modern-Bag-Roddsoftver	twgrodd/G1R-Deluxe_Gen1_mod_fork_Modern-Bag-Roddsoftver	UI	yes	Roddsoft version of the modern bag mod
+New Game Plus Roddsoft	https://github.com/twgrodd/G1R-Deluxe_Gen1_mod_fork_new-game-plus-Roddsoftver	twgrodd/G1R-Deluxe_Gen1_mod_fork_new-game-plus-Roddsoftver	GAMEPLAY	yes	Fork of new_game_plus v1.0.0 (FAFF0x/gen1recomp) Roddsoft version adds features rodd likes
+RoddSoft Edition Title Screen	https://github.com/twgrodd/G1R-Deluxe_Gen1_mod_StartScreenRoddsoft	twgrodd/G1R-Deluxe_Gen1_mod_StartScreenRoddsoft	ART	yes	G1R-Deluxe_Gen1_mod_StartScreenRoddsoft
+HM Anywhere (Gen 2)	https://github.com/twgrodd/G1R-Deluxe_Gen2_mod_HM-Master	twgrodd/G1R-Deluxe_Gen2_mod_HM-Master	QOL	yes	Gen1recomp++ Mod for Gen2 - Use HM Without Teaching to a Pokemon
+G1R-Deluxe_Gen2_mod_Move-Inspector_RoddSoft_Version	https://github.com/twgrodd/G1R-Deluxe_Gen2_mod_Move-Inspector_RoddSoft_Version	twgrodd/G1R-Deluxe_Gen2_mod_Move-Inspector_RoddSoft_Version	UI	no	gen1recomp-Mod-Gen2-Move-Inspector
+Gen 2 - Remove Slow Level-Up Group	https://github.com/twgrodd/G1R-Deluxe_Gen2_mod_Remove-Slow-Levelup-Group	twgrodd/G1R-Deluxe_Gen2_mod_Remove-Slow-Levelup-Group	BALANCE	no	gen1recomp-Mod-Gen2-Remove-Slow-Levelup-Group
+Custom Video Intro	https://github.com/ty-mcdk/custom-video-intro	ty-mcdk/custom-video-intro	ART	yes	Lets users replace the intro video on Gen1Recomp
+Replace Poke Centre Theme	https://github.com/ty-mcdk/replace-poke-centre-theme	ty-mcdk/replace-poke-centre-theme	AUDIO	yes	Replaces the Pokemon Center theme with the Wii Shop Theme
+Safari Zone Infinite Steps	https://github.com/ty-mcdk/safari-zone-infinite-steps	ty-mcdk/safari-zone-infinite-steps	QOL	yes	Infinite steps in Safari Zone
+Gen2Recomp Dramatic Shape Voxel Mod (gen1recomp)	https://github.com/UNDERdecoded/G1RDeluxe-Gen2Recomp-DramaticShapesVoxels	UNDERdecoded/G1RDeluxe-Gen2Recomp-DramaticShapesVoxels	VOXEL	yes	Voxel overworld port for gen1recomp: Red, Blue, Yellow and native Emerald. Select VOXEL in Emerald's Options or Mod Options, or press 3 in the field to cycle...
+Gen2Recomped-DramaticShapes Voxel Mod	https://github.com/UNDERdecoded/Gen2Recomped-DramaticShapes	UNDERdecoded/Gen2Recomped-DramaticShapes	VOXEL	yes	Dramatic Shape port for Gen2Recomped fork
+Gen2Online	https://github.com/UNDERdecoded/Gen2Recomp---Online	UNDERdecoded/Gen2Recomp---Online	GAMEPLAY	yes	Gen2Online for Gen2Recomped
+KantoGearBottom	https://github.com/venatrix-ritz/KantoGearBottom	venatrix-ritz/KantoGearBottom	UI	no	Kanto Gear on AYN Thor bottom screen (Decky plugin + mod)
+gen1recomp-mod-index-personal	https://github.com/VentusXTM/gen1recomp-mod-index-personal	VentusXTM/gen1recomp-mod-index-personal	TOOL	no	Personal mod index (metadata)
+Pokémon Bank	https://github.com/VRM97/pokemon-bank	VRM97/pokemon-bank	TOOL	yes	A gen1recomp cross-save storage system mod.
+Mapamap	https://github.com/Vuelos/mapamap	Vuelos/mapamap	TOOL	yes	on-map map editor: paint blocks directly on the map with hotbar and inventory.
+Map Editor	https://github.com/Vuelos/poke-gen1-love2d-map-editor-mod	Vuelos/poke-gen1-love2d-map-editor-mod	TOOL	yes	Map editor Mod for love2d implementation of pokemon 1st Gen
+G1R-Frontend	https://github.com/Waifu4Life/G1R-Frontend	Waifu4Life/G1R-Frontend	TOOL	yes	A Frontend for Gen1 Recomp Deluxe
+Project Highlander - A Modern UI Suite Fork	https://github.com/Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork	Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork	UI	yes	Project Highlander — a Modern UI Suite fork for Gen1Recomp (QoL, All PKMN, Steel/Fairy, Crystal sprites).
+Hardcore-Nuzlocke	https://github.com/weskestis/Hardcore-Nuzlocke	weskestis/Hardcore-Nuzlocke	BALANCE	yes	Fully enforced Hardcore Nuzlocke rules for Gen1Recomp with permadeath, DEAD storage, encounter limits, evolution-line Dupes Clause, level caps, SET battles, ...
+Kaizo-Ultimate	https://github.com/weskestis/Kaizo-Ultimate	weskestis/Kaizo-Ultimate	BALANCE	yes	Integrated KAIZO mods for Gen 1and 2 for gen1recomp, gen one is built from blue Kaizo, Gen 2 is built from crystal Kaizo
+Radical-Red-Recomp	https://github.com/weskestis/Radical-Red-Recomp	weskestis/Radical-Red-Recomp	OTHER	yes	Private Radical Red recompilation workspace (no mod content confirmed)
+UniversalRandomizer	https://github.com/weskestis/UniversalRandomizer	weskestis/UniversalRandomizer	GAMEPLAY	yes	Universal Pokémon Randomizer for Gen1Recomp — Red, Blue, Yellow, Gold & Silver with Pokémon #001–493, Random Start, Gen 1–4 rulesets, abilities, natures, enc...
+Universal-Randomizer	https://github.com/weskestis/Universal-Randomizer	weskestis/Universal-Randomizer	GAMEPLAY	yes	This is a Universal Randomizer built for Gen 1 and 2
+Wild Green	https://github.com/wild1walker/Gen1MakeItGreen	wild1walker/Gen1MakeItGreen	ART	yes	Wild Green identity mod (part of Wild Green cart)
+Gen1Wild	https://github.com/wild1walker/Gen1Wild	wild1walker/Gen1Wild	TOOL	yes	Personal mod index (wild1walker)
+Gen1recomp-Perfect-Start	https://github.com/Windwrecker/Gen1recomp-Perfect-Start	Windwrecker/Gen1recomp-Perfect-Start	GAMEPLAY	yes	A Gen1Recomp mod that gives the player Chikorita, Cyndaquil, and Totodile after choosing a starter in Pokémon Gold.
+Gym Leader for a Week	https://github.com/Windwrecker/Gym-Leader-for-a-Week	Windwrecker/Gym-Leader-for-a-Week	GAMEPLAY	no	Gym leader for a week
+Mew Under the Truck	https://github.com/Windwrecker/Mew-Under-the-Truck	Windwrecker/Mew-Under-the-Truck	CONTENT	yes	A Gen1Recomp mod that brings the classic playground rumour to life. Speak to the sailor at the Vermilion City harbour to access a hidden maintenance route le...
+PKMN-G123R-HoldToScroll-Mod	https://github.com/WizzStar/PKMN-G123R-HoldToScroll-Mod	WizzStar/PKMN-G123R-HoldToScroll-Mod	QOL	yes	Hold D-pad in Gen1Recomp menus to auto-scroll — lists, options, and other mods’ UI. Never on the overworld.
+PKMN-G1R-Gender-Mod	https://github.com/WizzStar/PKMN-G1R-Gender-Mod	WizzStar/PKMN-G1R-Gender-Mod	GAMEPLAY	yes	Pokemon Gen1Recomp - Gender Mod
+PKMN-G1R-Immersive-Bicycle-Mod	https://github.com/WizzStar/PKMN-G1R-Immersive-Bicycle-Mod	WizzStar/PKMN-G1R-Immersive-Bicycle-Mod	GAMEPLAY	yes	Your bicycle dream becomes reality.  And if you don’t need it anymore, just dump it somewhere.
+PKMN-G1R-PokeLog	https://github.com/WizzStar/PKMN-G1R-PokeLog	WizzStar/PKMN-G1R-PokeLog	UI	yes	The Essential Pokélog
+PKMN-G1R-Pokemon-Arenas-Mod	https://github.com/WizzStar/PKMN-G1R-Pokemon-Arenas-Mod	WizzStar/PKMN-G1R-Pokemon-Arenas-Mod	CONTENT	no	Pokémon Arenas Mod expends the endgame significantly
+gen1recomp-scripting	https://github.com/workspacedive/gen1recomp-scripting	workspacedive/gen1recomp-scripting	GAMEPLAY	no	# Gen1Recomp for Scripting iOS Architektur- und Implementierungsbasis für einen **Free-Tier-kompatiblen** Gen1Recomp-Host in der [Scripting iOS App](https://...
+All Pokemon Catchable 151 Mod	https://github.com/wowabox/All_Pokemon_Catchable_151_Mod	wowabox/All_Pokemon_Catchable_151_Mod	CONTENT	yes	Gen 1 Kanto encounter expansion mod that makes all 151 Pokemon obtainable without trading.
+gen1recomp-polish-generator	https://github.com/Xaardaaz/gen1recomp-polish-generator	Xaardaaz/gen1recomp-polish-generator	TOOL	no	Polish translation mod generator for Gen1Recomp
+Crystal GameShark	https://github.com/Xansur/Crystal-Gameshark	Xansur/Crystal-Gameshark	GAMEPLAY	yes	GameShark-style codes for Pokemon Crystal.
+Silver Encounters	https://github.com/Xansur/SilverEncounters	Xansur/SilverEncounters	CONTENT	yes	# SilverEncounters SilverEncounters expands the wild Pokémon available in Pokémon Gold by adding Pokémon that are normally unavailable or exclusive to Pokémo...
+Character Sprite Selection	https://github.com/xkrisl/Character-Sprite-Selection	xkrisl/Character-Sprite-Selection	ART	yes	Choose character sprite from the Start menu. Affects overworld, battle, Trainer Card, Hall of Fame, etc. Gen1recomp mod.
+Fast Pokemon Center Heal	https://github.com/xkrisl/Fast-Pokemon-Center-Heal	xkrisl/Fast-Pokemon-Center-Heal	QOL	yes	Skips the pokemon center nurse intro, animation, etc. Gen1recomp mod.
+NoClip	https://github.com/xtreemmasheen3k2/gen1recomp-noclip	xtreemmasheen3k2/gen1recomp-noclip	GAMEPLAY	no	NoClip mod for Gen1Recomp (Pokémon Red/Blue PC port)
+K89 Pokemon Red & Blue JP	https://github.com/yaizoo/K89-Pokemon-Gen1-JP	yaizoo/K89-Pokemon-Gen1-JP	TRANSLATION	yes	Japanese localization and preservation project for Pokémon Gen I recompilation by K89 / 記憶倉庫.
+K89 Pokemon Gold JP	https://github.com/yaizoo/K89-Pokemon-Gen2-JP	yaizoo/K89-Pokemon-Gen2-JP	TRANSLATION	yes	Japanese localization and preservation project for Pokémon Gold on Gen1Recomp by K89 / 記憶倉庫.
+Infinite / Toggleable Repel	https://github.com/yedidiapery/gen1recomp-infinite-repel	yedidiapery/gen1recomp-infinite-repel	QOL	yes	a toggleable infinite repel mod for pokemon1recomp
+Exp Multiplier	https://github.com/yopox/gen1recomp-exp-multiplier	yopox/gen1recomp-exp-multiplier	GAMEPLAY	yes	Multiplies exp won in battle by a 0-10x factor.
+gen1recomp-trimui	https://github.com/yousafc3/gen1recomp-trimui	yousafc3/gen1recomp-trimui	OTHER	no	Engine port/packaging of gen1recomp (not a mod) (TrimUI)
+Gen1Recomp-translation-jp-mod	https://github.com/yyoossk/Gen1Recomp-translation-jp-mod	yyoossk/Gen1Recomp-translation-jp-mod	TRANSLATION	yes	Gen1Recomp translation jp mod
+G1RecompMods	https://github.com/zeak6464/G1RecompMods	zeak6464/G1RecompMods	OTHER	yes	Author's mod collection
+Gen1Recomp-Content-Editor	https://github.com/zeak6464/Gen1Recomp-Content-Editor	zeak6464/Gen1Recomp-Content-Editor	TOOL	yes	Pokemon Gen 1 Content Editor
+Bag and PC 999 Item Slots	https://github.com/Zeikar-Ethereal/gen1recomp_bag_pc_999	Zeikar-Ethereal/gen1recomp_bag_pc_999	QOL	yes	Bag and PC hold 999 items.
+Revert-Yellow-Palette	https://github.com/Zeikar-Ethereal/Revert-Yellow-Palette	Zeikar-Ethereal/Revert-Yellow-Palette	ART	no	Reverts Pokemon Yellow's palette lookup from before gen1recomp e88f2ef: ROM SuperPalettes (and Red++ / ADVANCED) instead of always preferring data/palettes_y...
+LEGENDARY YELLOW!	https://github.com/ZEROstigYT/Legendary-Yellow-Custom-Cart	ZEROstigYT/Legendary-Yellow-Custom-Cart	CART	yes	Pokémon Yellow visual showcase cart featuring Battle Art Voxel and Legendary Visuals.
+Ultimate Kanto	https://github.com/ZEROstigYT/Ultimate-Kanto-Custom-Cart	ZEROstigYT/Ultimate-Kanto-Custom-Cart	CART	yes	# Ultimate Kanto Custom Cart  Custom Gen 1 Recomp cart based on the Ultimate Kanto setup.  ## Installation  1. Download the `.g1rcart` file below. 2. Open Ge...
+Dex Radar	https://github.com/Zetto22/dex_radar	Zetto22/dex_radar	UI	yes	Dex Radar - Lists wild Pokémon available on the current map (grass, water, fishing).
+Move Learn Plus	https://github.com/Zetto22/move_learn_plus	Zetto22/move_learn_plus	GAMEPLAY	yes	Move Learn Plus — power & PP on the forget-move screen (gen1recomp)
+Sweet Share	https://github.com/Zetto22/sweet_share	Zetto22/sweet_share	QOL	yes	Sweet Share — party EXP share for gen1recomp (full for fighters, half for the bench).
+Wild Ecology	https://github.com/zgierisch/Wild-Ecology	zgierisch/Wild-Ecology	GAMEPLAY	no	a gen1recomp mod that transforms pokemon wildlife into a living simulation
+Catch 'em All Gen 2	https://github.com/zingamau-dev/catch_em_all_gen2	zingamau-dev/catch_em_all_gen2	CONTENT	yes	Mod fo Gen1recomp gen2 that merges Gold/Silver exclusives, adds Kanto/Johto starters, Fossils, Trade Evolutions, and Legendaries as wild encounters.
+Self Trade	https://github.com/zingamau-dev/self_trade_gen2	zingamau-dev/self_trade_gen2	GAMEPLAY	yes	Mod fo Gen1recomp gen2 that that allows you to evolve Pokémon that normally require trading (like Kadabra, Haunter, Graveler, Machoke, Scyther, Onix, etc.) e...
+Time Switcher	https://github.com/zingamau-dev/time_switcher_gen2	zingamau-dev/time_switcher_gen2	QOL	yes	Mod fo Gen1recomp gen2 that adds a simple, convenient sub-menu to your START menu, allowing you to change the game's time of day at will.
+Zone Radar	https://github.com/zingamau-dev/zone_radar_gen2	zingamau-dev/zone_radar_gen2	UI	yes	Mod fo Gen1recomp gen2 that allows you to check the wild grass and cave encounters of your current location directly from your party menu.
+Always Escape	https://github.com/ZyranCZ/Can-Always-Escape	ZyranCZ/Can-Always-Escape	GAMEPLAY	yes	Can Always Escape Wild Pokémon in GEN1RECOMPILE
+Evolve in Battle	https://github.com/ZyranCZ/Evolve-in-Battle	ZyranCZ/Evolve-in-Battle	GAMEPLAY	yes	A small mod for Gen1Recomp that allows Pokémon to evolve directly during battle for a more anime-like experience.
+STEEL/FAIRY AND TYPING CHARTS	https://github.com/ZyranCZ/Fairy-Steel-Dark-and-Typing-Charts	ZyranCZ/Fairy-Steel-Dark-and-Typing-Charts	BALANCE	yes	Adds newer types to the game: Fairy, Steel and Dark. Compatible now with Crystal 251 Mod. Can also change WEAK/RESIST Charts between Vanilla, GEN II and GEN VI
+HELP - Story Guide	https://github.com/ZyranCZ/HELP-Story-Guide	ZyranCZ/HELP-Story-Guide	UI	yes	Gives START MENU the option to ask for HELP, what to do next in the game
+B to Escape Encounters	https://github.com/ZyranCZ/Press-B-to-Escape-Wild-Encounters	ZyranCZ/Press-B-to-Escape-Wild-Encounters	QOL	yes	Back in the day, I and my friends believed that holding B reduced wild encounter. This mod makes the urban legend real. Hold the B and the encounter rate can...
+Professor Oak's Pokemon Appraisal	https://github.com/ZyranCZ/Professor-Oak-DV-STAT-Evaluation	ZyranCZ/Professor-Oak-DV-STAT-Evaluation	UI	yes	Let's you ask Professor Oak for DV/STAT Evaluation either directly in the PokePC or personally in Pallet Town. 
+Special Stat Split	https://github.com/ZyranCZ/Special-Stat-Split	ZyranCZ/Special-Stat-Split	BALANCE	yes	Splits the simple SPECIAL into two SPATK and SPDEF as it was from GEN II onward. Also splits the MOVEs themselves as GEN IV onwards. 
+Tap to Move	https://github.com/ZyranCZ/Tap-to-Move	ZyranCZ/Tap-to-Move	QOL	yes	You can now Tap to Move, the game hhas functional pathfinding and functional interactions. To avoid unwanted interactions midway, interactions are limited to...
+Trainers Let You Choose Lead Pokemon	https://github.com/ZyranCZ/Trainers-Let-You-Choose-Lead-Pokemon	ZyranCZ/Trainers-Let-You-Choose-Lead-Pokemon	GAMEPLAY	yes	Trainers Let You Choose Lead Pokemon, you don't have to always send out the first one in the party
+STADIUM_OVERWORLD_MODELS-AND-STADIUM_UI_MODEL_VIEWER---CRYSTAL-251-MOD-COMPATIBLE	https://github.com/Aghanim-3C/STADIUM_OVERWORLD_MODELS-AND-STADIUM_UI_MODEL_VIEWER---CRYSTAL-251-MOD-COMPATIBLE	Aghanim-3C/STADIUM_OVERWORLD_MODELS-AND-STADIUM_UI_MODEL_VIEWER---CRYSTAL-251-MOD-COMPATIBLE	VOXEL	yes	Fork of Stadium overworld models + UI model viewer, Crystal 251 compatible
+Pokemon Companion	https://github.com/TheOriginalDrJ/FireRed-Companion	TheOriginalDrJ/FireRed-Companion	GAMEPLAY	yes	FireRed follower companion (manifest present)
+HiddenStats	https://github.com/miguelcjalmeida/HiddenStats	miguelcjalmeida/HiddenStats	UI	yes	Reveals each Pokemon's hidden stats on its Summary screen: IVs (converted from DVs, 0-31) and EVs (converted from Stat Exp, 0-255). Works standalone on the n...
+Gen2-Recomp-Time-Date-Selector	https://github.com/BlanketTomcat/Gen2-Recomp-Time-Date-Selector	BlanketTomcat/Gen2-Recomp-Time-Date-Selector	QOL	yes	
+Gen2-Recomp-Automatic-Clock-	https://github.com/BlanketTomcat/Gen2-Recomp-Automatic-Clock-	BlanketTomcat/Gen2-Recomp-Automatic-Clock-	QOL	yes	# Gen2-Recomp-Automatic-Clock- Automatic Clock streamlines the beginning of Pokémon Gold by syncing the game's clock with your device's local date and time. ...
+Ascendant sprite / HD package	https://github.com/Ascedent-Omega/kanto-ascendant	Ascedent-Omega/kanto-ascendant	TOTAL_CONVERSION	yes	Archive/continuation of Kanto Ascendant 6.7.32
+Hoenn-Journey	https://github.com/TheOriginalDrJ/Hoenn-Journey	TheOriginalDrJ/Hoenn-Journey	TOTAL_CONVERSION	yes	Hoenn expansion for FireRed Recomp
+FireRed-MP3	https://github.com/TheOriginalDrJ/FireRed-MP3	TheOriginalDrJ/FireRed-MP3	AUDIO	yes	# FireRed MP3 A standalone FireRed Recomp music-player mod, with the custom PULSE interface and optional soundtrack mods. Current version: **2.2.1**. ## Feat...
+gen-1-recomp-deltamon	https://github.com/thingy-debug/gen-1-recomp-deltamon	thingy-debug/gen-1-recomp-deltamon	CONTENT	yes	# Gen 1 Recomp MISFIT PACK This is a mod that aims to add silly characters from VARIOUS PIECES OF MEDIA as Pokemon 
+kanto-coastal-ferry	https://github.com/Polotas/kanto-coastal-ferry	Polotas/kanto-coastal-ferry	CONTENT	yes	# Kanto Coastal Ferry A Pokémon Gen 1 Recomp mod that adds a coastal ferry service between Pallet Town, Cinnabar Island, and the beach area near Fuchsia City...
+dynamax-pokemon-league	https://github.com/tectorifter/dynamax-pokemon-league	tectorifter/dynamax-pokemon-league	BALANCE	yes	# dynamax-pokemon-league makes the final pokemon of gym leaders and elite four be dynamax these last until defeated, no three turns countdown. REQUIRES: for ...
+safari-plus	https://github.com/tectorifter/safari-	tectorifter/safari-	GAMEPLAY	yes	Emerald Safari overhaul: wild and fated encounters run safari mode.
+Mezase Pokemon Master (Title Screen)	https://github.com/Sebarosu/JP-anime-opening-title	Sebarosu/JP-anime-opening-title	AUDIO	yes	POKéMON, GETTO DA ZE！
+FM Music Conversion	https://gamebanana.com/mods/699242		AUDIO	yes	GameBanana only (by _NetNomad); FM conversion of Gen1 music made with GF2MID; author plans to convert it to an SGB MSU hack
+[GEN1&GEN2] Gameboy Skins (With Touch Controls)	https://gamebanana.com/mods/709003		ART	yes	GameBanana only (Highlander1536 = OtaconRevengeance); 7 GB/GBC skin zips for the engine skin feature
+[GEN1&GEN2] Gen1Recomp Overlay SGB Borders	https://gamebanana.com/mods/708752		ART	yes	GameBanana only (Highlander1536); 20 SGB border skins (RBGY, GSC, Spaceworld betas, etc.)
+[GEN1] Start Menu Extras	https://gamebanana.com/mods/706233		UI	yes	GameBanana only (Highlander1536); moves extra mod menu entries to a second Start menu page
+[GEN1] Gold & Silver Soundtrack (GameBanana)	https://gamebanana.com/mods/706225	OtaconRevengeance/gold_ost	AUDIO	yes	GameBanana mirror of OtaconRevengeance/gold_ost
+[GEN1] Gold & Silver Sprites (GameBanana)	https://gamebanana.com/mods/706221	OtaconRevengeance/gold_sprites	ART	yes	GameBanana mirror of OtaconRevengeance/gold_sprites (animated)
+[GEN1] Green Sprites (GameBanana)	https://gamebanana.com/mods/706236	OtaconRevengeance/green_sprites	ART	yes	GameBanana mirror of OtaconRevengeance/green_sprites
+[GEN1] Red ReTranslated (GameBanana)	https://gamebanana.com/mods/706230	OtaconRevengeance/red_retranslated	TRANSLATION	yes	GameBanana mirror of OtaconRevengeance/red_retranslated

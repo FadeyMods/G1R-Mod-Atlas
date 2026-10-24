@@ -1,0 +1,39 @@
+Repositories that were linked on Discord or found by search but are no longer reachable on GitHub.
+Some were only renamed and are already in the list under their new name.
+
+- Pok-mon-Cries: https://github.com/1D3G0/Pok-mon-Cries
+- gen1recomp-unplugged: https://github.com/BoLayerDev/gen1recomp-unplugged
+- G1R-Deluxe_Gen2_mod_Move-Inspector_RoddSoft_Version: https://github.com/twgrodd/G1R-Deluxe_Gen2_mod_Move-Inspector_RoddSoft_Version
+- gen1recomp-trimui: https://github.com/yousafc3/gen1recomp-trimui
+- Kanto Expansion Pak Port: https://github.com/swuff-star/kep-recomp-port
+- Kanto Badge Screen for Gen2: https://github.com/lsdmthc420/yellowkantobadgescreen
+- Dramatic Sky Ride (mfrtechconsult): https://github.com/mfrtechconsult/dramatic-sky-ride
+- Kanto Dive: https://github.com/mfrtechconsult/kanto-gen1-dive
+- Region Travel + 1025 Pokedex: https://github.com/lsdmthc420/kanto-johto-region-travel
+- Voxel Ultimate (discontinued): https://github.com/lsdmthc420/voxelultimate
+- Skies of Johto: https://github.com/lsdmthc420/skies-of-johto
+- Catch Mew in Bills Backyard: https://github.com/lsdmthc420/billsbackyard
+- Anytime Rename: https://github.com/roxas2712/pokemon-gen1-recomp-mod-anytime-rename
+- Better Options Menu: https://github.com/danikh1/better-options-menu-gen1recomp
+- Reusable TMs Forgettable HMs: https://github.com/feliznavidad-d/gen-1-recompilation-infinite-tm-use-mod
+- Gen 2 Save Screen for Gen 1: https://github.com/danikh1/gen-2-save-screen-gen1recomp
+- Kanto Ascendant: https://github.com/roxas2712/kanto-ascendant
+- Traduction FR etendue: https://github.com/antoniman31/trad-fr-extended
+- Solo Run - Starter Change: https://github.com/gymleadermatt/starter_change_gen1_recomp
+- Solo Run - Encounter Tweaks: https://github.com/gymleadermatt/encounter_tweaks_gen1_recomp
+- Solo Run - Instant Text: https://github.com/gymleadermatt/instant_text_gen1_recomp
+- Solo Run - Remove Overworld Poison: https://github.com/gymleadermatt/remove_overworld_poison_gen1_recomp
+- Solo Run - Rock Tunnel Flash Removal: https://github.com/gymleadermatt/rock_tunnel_flash_removal_gen1_recomp
+- Solo Run - Character Swap: https://github.com/gymleadermatt/character_swap_gen1_recomp
+- Solo Run - Red with Yellow Palette: https://github.com/gymleadermatt/red-with-yellow-palette-gen1-recomp
+- Solo Run - NPC Color: https://github.com/gymleadermatt/npc_color_gen1_recomp
+- Reikos Enhancements: https://github.com/reikolul/reikos-enhancements-mod
+- KASC Cards: https://github.com/roxas2712/kasc-cards
+- Digimon in Kanto (discontinued): https://github.com/thejaydizzle/gen1recomp-digimon
+- Rumble - PII Exporter: https://github.com/smidja2/pii-exporter-for-rumble
+- Rumble Importer for Dramaless: https://github.com/smidja2/rumble-importer-for-dramaless
+- Pokemon Rumble Follower: https://github.com/smidja2/rumble-follower
+- Rumble Overworld Wilds: https://github.com/smidja2/rumble-overworld-wilds
+- Flying Rumble Overworld: https://github.com/smidja2/flying-rumble-overworld
+- Pokemon Quest 151 for Rumble: https://github.com/smidja2/pokemon-quest-151-for-rumble
+- Heal Ball Reposition: https://github.com/canadax21/gen1recomp-heal_ball_reposition

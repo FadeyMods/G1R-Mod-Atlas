@@ -1,0 +1,307 @@
+# BOI'S CLUB GAMES Discord (Server 1019387038820216882), Stand 2026-10-24
+# Format: thread_id|forum|repo (owner/name, leer = nur auf Discord)|Titel
+1535740081971662951|mods|swuff-star/kep-recomp-port|Kanto Expansion Pak Port (WIP Release)
+1530382668317986858|mods|otaconrevengeance/gold_sprites|[GEN1] Pokémon Gold & Silver Sprites
+1532204494891258036|mods|feliznavidad-d/gen1-recomp-mods|DexNav
+1543347849994043453|mods|gawdmode/anglers-cove-aquarium|Angler's Cove Aquarium
+1541003341767774228|mods|piftee/gen1recomp-modern-pokedex-ui|Modern Pokedex UI
+1551246504763719881|mods|darkheros09/celebi-event|Celebi Event
+1548778250409607168|mods|gawdmode/phasmopokea|PhasmoPokéa (Ghost Hunting Sim)
+1545951884001542265|mods|gawdmode/mutant-monster-lab|Mutant Monster Lab
+1551132514448572416|mods||Wilds of Gen3
+1535678592296558762|mods|faff0x/gen1recomp|Performance Monitor
+1533378021304565760|mods|masterwebx/gen1recomp-shiny-pokemon|Shiny Pokemon
+1551378217795850310|mods||Unown king and Ghost encounter
+1540226160825466930|mods||Gotta Catch 'Em All (discontinued)
+1549035352013017098|mods||(OUTDATED) Radial Menu
+1548927053028392990|mods||(OUTDATED) Menu Hotkeys
+1537970466470232135|mods||Gen 2 Randomizer+
+1538997151336636536|mods|dburton95/its-clefairy|It's Clefairy!
+1536885074660823092|mods|blankettomcat/gen2-recomp-time-date-selector|[Gen2] Time & Date Selector
+1548612979354894346|mods|tonedawg1/gen1recomp-unique-fly-surf-sprites|Unique Fly/Surf Sprites
+1546060226996862996|mods|thcrazy420/gen1recomp-player-selector|Player Model Loader
+1532860817844731994|mods|yodrehdenswagauf/overworld-spawn-mod|Wilds of Kanto
+1542031513099698267|mods|campavao/kanto-battle-royale|Pokemon Battle Royale
+1535982264062582944|mods||Better Buildings
+1544942980337635348|mods|tonedawg1/gen1recomp-tm-hm-names|TM / HM Move Names
+1533560708682223636|mods|shanemcgovernie/useful-marts|Useful Marts
+1538650476923461652|mods|dragoon-103/level_caps_adjustment|Level Cap Adjustments +More
+1548719524298231858|mods|link200488/stadiumannouncer|Stadium Announcer Gen1 & Gen2
+1535666458590449765|mods|mistermiracle3036/kanto_ribbons|Ribbons
+1535496928257777695|mods|randyadr/gen1recomp-character-selector|Character Selector (Cross Gen)
+1546576454693818388|mods|leoocast/cry-manager-gen1recomp-mod|Anime Cries Mod
+1546830793706307646|mods|lsdmthc420/yellowkantobadgescreen|Kanto Badge Screen for Gen2
+1537503280257699950|mods|zeak6464/g1recompmods|Debug - Gen 2
+1535680241283113000|mods|mistermiracle3036/pokeball-colors|Pokeball Colors
+1534854360557944834|mods|harryw4444/mute_low_hp_alarm_gen1recomp|Mute Low Health Warning Sound
+1533616107196387509|mods|otaconrevengeance/start_menu_extras|[GEN1] Start Menu Extras
+1541538481220751461|mods|1jamie/gen1_bag_pockets|Bag Pockets
+1545908129869594725|mods|bobshark2/gen1recomp-ghost-trainers|Ghost Trainers
+1537516839138238636|mods|randyadr/gen-2-stadium-model-viewer-for-pokedex|Gen 2 Stadium 3D Models for Pokedex
+1542622919451217952|mods|mrkrissatan/ultron|Ultron
+1537962710245838848|mods|ty-mcdk/easy-custom-music|Easy Custom Music
+1544326368798449735|mods|artyrambles/st_purergb_pokemontypes|PureRGB Pokemon Types
+1535535201201954917|mods|mistermiracle3036/pokemon-snag|Pokemon Snag
+1542634224861839420|mods|35bucks/pokemon-gold-universal-fly|Universal Fly (Kanto + Johto)
+1535362211550339204|mods|wizzstar/pkmn-g1r-immersive-bicycle-mod|Bicycle Mod
+1536999838615478272|mods|randyadr/gen2-3d-sprites|Gen2 Voxel with 3D Sprites
+1536241417544802324|mods|piftee/gen1recomp-typed-move-colors|Typed Move Colors
+1536895214290079837|mods|swuff-star/gen1recompdeltas|Delta Pokemon
+1539493029986172980|mods|weskestis/kaizo-ultimate|Kaizo Ultimate
+1544776768139952188|mods|stone696/toast-notifications|Toast Notifications 1.0.0
+1536470525138702377|mods|piftee/gen1recomp-modern-bag-ui|Modern Bag UI
+1540796010719215627|mods|piftee/gen1recomp-modern-pc-ui|Modern PC UI
+1533275976291848212|mods|myfriendpkmn/whos-that-trainer|Who's That Trainer?
+1533380702853398709|mods|masterwebx/gen1recomp-access-pc-anywhere|Access PC Anywhere
+1542957239143374920|mods|aaronjenkins/gen1recomp-levelmatch|Level Match Mod [Gen2]
+1537248476457345114|mods|on1san/crystal-clear-sprite-sheet-converter|CCSS Converter
+1535012911783870485|mods|dburton95/toast-notifications|Toast Notifications
+1542851659980607549|mods||Wild Green - A Complete Gen 1 Experience
+1535832959968485466|mods|thorkdev/gen1recomp-evolution-man|Evolution Man
+1535036616781992067|mods|mfrtechconsult/kanto-gen1-dive|Kanto Dive (Alpha)
+1541477707832107098|mods|35bucks/bag-item-generator-pokemon-gold-gen2|Bag Item Generator (Gen 2)
+1539042234068893766|mods|czajo/gen1recomp-autosave|Autosave
+1541085639955714141|mods|35bucks/gold-next-encounter-spawner|Next Encounter Spawner (Gen 2)
+1542840148625199134|mods|linkthepalesystem64/gen1recomp-blue-kaizo-elite-4|Blue Kaizo Elite 4
+1533719247165849741|mods|transwarptechnologies/choose-your-hero-mod-gen1recomp|Choose Your Hero Mod
+1541061533176701031|mods|lsdmthc420/kanto-johto-region-travel|Region Travel + 1025 Pokedex
+1533644702690185348|mods|shanemcgovernie/mods_hotkeys|Mod Hotkey In-Game Changer
+1532402597204463817|mods|mresnick67/gen1recomp-pokewalker|Pokewalker
+1535926565286842468|mods|nezara/silph-scope-network|Silph Scope Network
+1536375209190359120|mods|harryw4444/fishing_mini_game_gen1recomp|Fishing Mini Game
+1542206870901497896|mods|pluto-94/pokemon-yellow-super-rod-fix-gen1recomp|Yellow Super Rod Fix
+1536246670386532542|mods||Ironmon Classic
+1536917303470456832|mods|blankettomcat/random-starters-gen-2|[Gen 2] Random Starters
+1541951190936330302|mods|lsdmthc420/voxelultimate|Voxel Ultimate (discontinued)
+1536465199513468978|mods|piftee/gen1recomp-battle-info-hud|Battle Info HUD
+1533931049778679999|mods|mrmushrooms11/kanto-first-person|Kanto in First Person
+1540150459791052922|mods|zeikar-ethereal/gen1recomp_bag_pc_999|Yellow Palette Reversion, 999 Items
+1541410973653667871|mods|lsdmthc420/skies-of-johto|Skies of Johto
+1540614297435115590|mods|inmento/red-centered-layout|Centered Player Sprite
+1537303994706427974|mods|randyadr/gen2-cheat-menu|Gen2 Cheat Menu
+1535321377375264849|mods|randyadr/gen1-cheat-menu|Gen 1 Cheat Menu
+1536967568433352726|mods|randyadr/gen-1-3d-npc-s|Gen1 3D NPCs
+1541366472650006608|mods|shanemcgovernie/pixelgen1_font|PixelGen1 Font
+1539687183584075787|mods|mjdenucci/fast-pokemon-center|Fast Pokemon Center
+1540881909335466084|mods||Gotta Catch Some of 'Em
+1535438028515057745|mods|ddagent/gen1recomp-npc-bubbles|NPC Bubbles
+1540862419314933870|mods|swuff-star/swuff_qol|Misc. Quality of Life
+1536344249186910360|mods|sedatb23/recomp_cartographer|Recomp Cartographer
+1540477346455490671|mods|tectorifter/learn_any_move|Learn any move
+1540465605763928105|mods|ty-mcdk/safari-zone-infinite-steps|Safari Zone Infinite Steps
+1537919954937057300|mods|mrkrissatan/airivials|AI Rivals
+1539666127255375902|mods||Modern UI (RavBralor)
+1539253085590003813|mods|lsdmthc420/billsbackyard|Catch Mew in Bill's Backyard
+1535478411869421618|mods|randyadr/3d-pokemon-sprites|3D Pokemon Sprites
+1532852564712882366|mods|p2pikaa/pika-s-accurate-anime-sprites|Pika's Accurate Anime Sprites
+1536844018820849734|mods|berniuz/gen1recomp-italian-translation|Italian Translation (Gen 1)
+1531013010406113290|mods||Team EXP Share
+1532631324236714125|mods|masterwebx/gen1recomp-music-player|Sound test / music player
+1531695892858409151|mods|johnjohto/pokemon-mods|Caught Indicator
+1536815481259036762|mods||Pokémon RBY Remix
+1538014927866826782|mods|arsdaemonia-design/gen1recomp-better-battles|Better Battles Updated
+1537191000852660235|mods|linkthepalesystem64/buried-alive-battle-gen1recomp|Buried Alive
+1537219357170733158|mods|tanukitooks/quest-menu|[Gen 1 & 2] Quest Menu
+1536986168015585370|mods|weskestis/gen-1-randomizer-251-support|Gen 1 Rando
+1533378527242616983|mods|roxas2712/pokemon-gen1-recomp-mod-anytime-rename|Anytime Rename
+1538802323571220500|mods||Heart Gold Inspired Intro
+1538400921401167933|mods|hydhyro/gen1recompspaceworldsprites|Space World Demo Back Sprites
+1534015225270108352|mods||Gen1 Modern UI (retired)
+1533201861233082420|mods|shanemcgovernie/surround-audio|Stereo Sound
+1535401211501744190|mods||Soullink Companion
+1537102956149604494|mods||Gen 2 rando
+1537478321753948321|mods||Simple Auto Battle
+1533528180219183174|mods|alucardthefirsthunter/musicreplacementmod|Music, SFX and Cry Replacement Mods
+1536539653778440252|mods|weskestis/classic-ironmon-kaizo|Ironmon Kaizo
+1533406852916969512|mods|blazor67/unified-pc-move|Unified PC Move
+1529820541844848800|mods||B/W-esque Battle Sprites
+1532613550500221028|mods|windwrecker/gym-leader-for-a-week|Gym Leader for a while
+1538227396954689627|mods|danikh1/better-options-menu-gen1recomp|Better Options Menu
+1534537025167036456|mods|castdrian/gen1-kr|Knight Rider
+1531396593742512330|mods|bryanthaboi/versaovermelha|Pokemon Versão Vermelha
+1532815215740321823|mods|bartinthefield/gen1recomp-ds-mod|Dual-screen Mod
+1531477365971095632|mods|feliznavidad-d/gen-1-recompilation-infinite-tm-use-mod|Reusable TMs Forgettable HMs
+1535844112123564072|mods|bountyhunterkanden/statdex|StatDex
+1536781981407252613|mods||Instant Text Speed
+1538098497805352960|mods|danikh1/gen-2-save-screen-gen1recomp|Gen 2 Save Screen for Gen 1
+1532824891856912404|mods||FM Music Conversion
+1532884459815309462|mods||Overworld Encounters
+1531828354498560073|mods|bryanthaboi/bookers_heaven|Booker's Heaven
+1536565135433408522|mods|jrmsrs/fair-battles|Fair Battles
+1536863119580725278|mods|1jamie/pokegear_cards|Pokegear Cards Lib
+1534571296636141620|mods|cleverleviathan/pallet-chaos|Pallet Chaos
+1537715054752047225|mods|eioo/gen1recomp-finnish-mod|Finnish Translation (Gen 1)
+1536743851123941469|mods|dagoncs/premier-ball-bonus|Poké Mart Premier Ball Bonus
+1534118143486722248|mods|blackwing182/autosave_timer|Autosave Timer
+1537617723058552873|mods|mistermiracle3036/gold-records|Gold Records
+1532632598348562503|mods|masterwebx/gen1recomp-controller-rumble|Controller Rumble
+1534695551055036549|mods|ty-mcdk/additional-story-healers|Additional Story Healers
+1535637361751359529|mods|dburton95/non-binary-mode|Non-Binary Mode
+1535636983169286154|mods|dburton95/girl-mode|Girl Mode
+1534259604471418941|mods|wizzstar/pkmn-g1r-gender-mod|Gender Mod
+1536116589357703169|mods|tanukitooks/candy-jar|Candy Jar
+1537305030007464056|mods||Wide Menus (old)
+1537223741891682354|mods|ty-mcdk/replace-poke-centre-theme|Wii Shop Pokemon Center Music
+1536147735692976170|mods|thorkdev/gen1recomp-screen-effects|Screen Effects (CRT, grain)
+1536131575178207372|mods||Better Battles
+1535200473248956456|mods|chari69/mewmod|Mew Glitch Mod
+1536088164098121768|mods|thorkdev/gen1recomp-effective-markers|Effective Markers
+1536199437783662592|mods||Early Bike Quest
+1533762444152016934|mods|magatsu64/gen1recompmegaevolution|Mega Evolution
+1536230073638719558|mods|thorkdev/gen1recomp-pokerus|Pokérus
+1536180926944649236|mods|thorkdev/gen1recomp-move-deleter|Move Deleter
+1535668258341134456|mods|gamecorner-033/gen1debug|Gen1Debug
+1536050777070632960|mods||"Unbound" Field HMs
+1534936352154714112|mods||Game Speed Shortcut
+1534138998828564560|mods|antoniman31/trad-fr-extended|Traduction FR étendue
+1536121191549640838|mods|thorkdev/gen1recomp-radio|Radio
+1536096168805924996|mods|blankettomcat/gen1-random-starters|Starter Randomizer for Red/Blue
+1535541473859080242|mods|thorkdev/gen1recomp-mystery-gift|Mystery Gift
+1535720448552206406|mods|wizzstar/pkmn-g1r-pokelog|PokéLog Mod
+1529942624604000366|mods||Sonic the Hedgehog (incomplete)
+1531826878912921781|mods||Shantae - Player Character
+1532528115149181049|mods||Wes complete rework
+1530767978092560474|mods||Kanto Companion (Retired)
+1534285725535572079|mods|zetto22/move_learn_plus|Move Learn Plus
+1535315355294240849|mods|gilles93/species-rebalance|Species Rebalance
+1535071830753411222|mods|kamon137/betterback|Better Trainer Backsprite
+1534249561449824398|mods|gymleadermatt/solo_run_overlay_gen1_recomp|Solo Run Mods
+1534854556511502336|mods|harryw4444/bag_stock_preview_gen1recomp|Bag Stock Preview
+1534853630782476298|mods|harryw4444/fade_overlay_fix_gen1recomp|Fade Overlay Fix
+1534694810219188434|mods|armstrongthomas/nacho-kanto|Nacho Kanto
+1532053438614077450|mods||German Translation - Rot / Blau / Gelb
+1532589701503123627|mods||Overworld Repel Counter
+1532898599048974346|mods||Instant Heal when entering Pokecenter
+1533645794685489312|mods|thewafflesmasher/gen1recomp---keyhud-mod-for-dramatic-shape-voxel-mod|KeyHUD Mod for Dramatic Shape
+1533477118254776450|mods|mresnick67/gen1recomp-buttonmash|Mash A/B to Improve Catch Rate
+1533212782135083179|mods|shanemcgovernie/gen1recomp-widescreen-battle-intro|Full Screen Battle Intro Effect
+1533978885694423122|mods|shanemcgovernie/throw_ball_hotkey|Throw Pokeball Hotkey
+1533709718021869702|mods|hubgit8/gen1recomp-phase-step|Phase Step (Giovanni Door Fix)
+1532776860214362143|mods|reikolul/reikos-enhancements-mod|Reiko's Enhancements
+1532630434469511338|mods|masterwebx/gen1recomp-run-mode|Don't walk, run!
+1532424831457296586|mods|sebarosu/luigi-in-gen1-recomp|Luigi as Red
+1531840246193590422|mods|gamecorner-033/gen1co-op|Pokemon Red Single Screen Co-Op
+1531780109172867144|mods|sebarosu/jp-anime-opening-title|Mezase Pokémon Master (Title Screen)
+1533240475329368336|wip|vuelos/poke-gen1-love2d-map-editor-mod|16x16 Map Blocks
+1533633610681286746|wip|masterwebx/gen1recomp-hunt-mode|Pokemon the HUNT mode
+1532317688016277607|wip|unxpected-uxp/pokemon-gen1-recomp-mod-qol|Pokémon 151 version port
+1546603221487722526|carts|roxas2712/kasc-cards|KASC Cards
+1542967022948847746|carts|gamecorner-033/gen1online|Crystal plus - Gen1online++
+1546379769577349142|carts|wild1walker/gen1wildcrystal|Wild Crystal
+1545923708856696832|carts|ankokuflare/flare_yellow|Flare Yellow - QOLmaxing Modpack
+1546265761855574027|carts|smcsarchive/gen1recomp_carts_and_mods|just like the real thing
+1543810195749347329|carts|highdrexler/colosseum-inspired-crystal-custom-cart|Colosseum Inspired Overhaul V2
+1543318737531314176|carts||Kanto Stormforged
+1556515847592349746|wip||Zallax Voxel (VR/1st/3rd Person) Gen 3
+1563150133053366362|wip|elvieblooms/facets|Facets - Gen 3 NPC Sprites
+1562886865982324806|wip||Pokémon Dreams
+1556776710387666995|wip|fadeymods/definitiv-german-gen-1|Definitiv German
+1555928154571276299|wip||Overwild
+1554140962748502207|wip||Papermon (2.5D / 2D-HD)
+1560393326727925860|wip|lordsangreal/gen3_frlg_pt-br_mod|Legenda PT-BR FireRed & LeafGreen
+1547398963651551272|wip|imantheman/pocket-voxel3d|PocketVoxel 3DS
+1539111690107490404|wip||[Gen2] PokeRPG (Mechanics)
+1556657748957986868|wip||Red 3D (N64 style)
+1558885252070514749|wip|poooooby/playnav|Super Training / Amie (ORAS)
+1560032702307237898|wip|notquiteog/dramaticshapevoxelmod|notquiteog Voxel/followers/online
+1543155371017773096|wip|nezara/oaks-lab|Oak's Lab Content Editor
+1562028068602646619|wip|tai827/oceanblue|Pokemon Ocean Blue
+1560288563537641583|wip|bentley734/hd-dynamic-battlefields|HD Battle Backgrounds
+1535981002516602890|wip|faendra/kanto-rework-suite|KRS (Kanto Rework Suite)
+1535200584360271902|wip|artyrambles/dramaless_shape|Dramaless Shape
+1559569383594926270|wip||Dragon Quest Mode
+1559575510193807390|wip||Voxel Diorama FireRed (flixflux123)
+1557161738573455381|wip|quit-1337/stadium-battles|Stadium Battles
+1557790285289881610|wip|argallo/blockbuster-hub|Blockbuster Hub
+1555238022591549591|wip|alfonspistoletti/gen1recomp-mod-second-screen-companion|Second Screen Companion
+1557864899206717440|wip|tooandorisu/voxel-diorama|Voxel World / Diorama Gen 3
+1554178131517116596|wip|tooandorisu/cleanui-gen3|Clean UI Gen 3
+1536249341231243345|wip||Gen1Recomp++: VR Unplugged
+1538256969901805639|wip||Project Full N64 + SNES OST
+1556577374362148945|wip|tai827/digimon-world-gen-1-recomp-mod|Digimon Gen 3 Mod
+1542184065203961876|wip|nexhas28/crystal_legacy_changes|Crystal Legacy Changes
+1553480764388024360|wip|goldenroddeptstore/untamed-advanced|Untamed Advanced
+1538388909829001296|wip|pashleyaus/red-gen-2.5|Pokemon Red: Gen 2.5
+1554150325189877801|wip|theoriginaldrj/hoenn-journey|FireRed Hoenn Journey
+1551517350002692177|wip|smidja2/dx-realtime-and-overworld-for-gen1|DX Realtime and Overworld
+1554331163961597972|wip||Mega Evolution For Gen 2
+1554999870841028708|wip||Emerald OST Remix
+1537029489131786360|wip|deftones565/gen1recomp-mod-stadium2-importer|Stadium2 Importer
+1553622478478254161|wip||Advanced Camera Settings
+1532710639972253706|wip|thejaydizzle/gen1recomp-digimon|Digimon in Kanto (discontinued)
+1537082237504331896|wip||Clean UI
+1552392575019913266|wip||Solstice
+1543301828291207228|wip||Flamarix's UI Overhaul
+1545302719907106826|wip||Pokopia Pokemon Conservation Project
+1531338985656553582|wip|cmapex/crystalclearstaticrecomp|Alternate Start / Open World
+1557446733980770414|wip|elvieblooms/emerald_lens|Emerald Lens
+1537158860564074536|wip||Stahl's Sprite Swapper
+1556130942500864101|wip|tectorifter/safari-|[Emerald only] Safari +
+1549642461050044416|wip|ojsaucer/gen1recomp-hotkey-suite|Hotkey Suite
+1548023754112770118|wip|goldenroddeptstore/untamed-tohjo|Untamed Tohjo
+1535857421006667929|wip||Gen 9 Battle Engine
+1541213082037264485|wip||Shadow Bound - Dark Kanto
+1539991548119224320|wip|alfonspistoletti/gen1recomp-mod-immersive-field-moves|Immersive Field Moves
+1545392276015026176|wip|alfonspistoletti/gen1recomp-mod-better-info|Better Info
+1536050885816221716|wip|deftones565/gen1recomp-mod-crystal-251|Crystal 251
+1539284372400644168|wip||Hoenn Map for your Mods
+1548580924751478844|wip|ninte86hl/gen-2-battle-widescreen|Gen2 Widescreen Battle
+1548200027346837604|wip|jo5-k/buynationaldex-jo5|BuyYourNationaldex
+1536018958669451264|wip|mistermiracle3036/kanto-contests|Kanto Contests
+1544539446613909584|wip|reph3x/moncustomizer|Mon Palette Customizer
+1537307461671714816|wip|juancdominici/wide-menus|Wide Menus
+1536025895985221644|wip||Split Screen 2-4 Player Co-Op
+1546314105873498122|wip||Stahl's Pokemon Editor
+1545657691127554088|wip|smidja2/quest|Pokemon Rumble Follower
+1536846040488091698|wip||Project Celebi (Gen1 to Gen2 Legacy Tool)
+1536682114223710248|wip|aghanim-3c/stadium_overworld_models-and-stadium_ui_model_viewer---crystal-251-mod-compatible|Stadium Overworld Models (Crystal 251)
+1540650106410369064|wip||Gen1Arena by Wild
+1543475336740733040|wip||[Gen 2 Crystal] Open Continent Concept
+1540286285095243786|wip||3D Overworld Characters (Curly G)
+1535584669670707250|wip|averageconsumer/kanto-gear|Kanto Gear
+1536319540936450068|wip||Pokemon Cool Red
+1542675594901327992|wip||Voxel Realism
+1536117160898986024|wip||2x GB Music Recomposition
+1540908774661820547|wip||FireRed Overworld Texture Importer
+1537124376112005141|wip||New Bark Chaos
+1541523546466160750|wip||Pokémon RBY Remix
+1538336153084764201|wip||Pokemon Red in Classical Chinese
+1538629325589446686|wip|mistermiracle3036/expanded-species|Expanded Species
+1539106354235445249|wip|inmento/sound-effect-replacer|Sound Effect Replacer
+1534860368650829875|wip||Active Systems Pokemon (QTE Battles)
+1535679178668642454|wip||Shaders and Particles
+1540867482397577226|wip|diocarvalho/catch-fix-helper|Gen2 Catch Fix & Helper
+1536554284777214084|wip|nezara/gen1recomp-dialogue-portraits|NPC Dialogue Portraits
+1535086884223582370|wip|leftshoe18/more_gymz|More Gymz
+1539373997639336006|wip|inmento/gen1-shedinja|Shedinja
+1538645861159010344|wip|maybegreg/g2_sprites_for_natdex|GSC Style Recolorisation
+1535110773745913916|wip||Doom in Pokemon Mod
+1539260136307171369|wip|dburton95/secret-base|Secret Base
+1537862032840200344|wip|dacookiecakes/babymon-gen2|BabyMon
+1537612199995121735|wip||RBY Gen 2 Battle Systems
+1538348093672525834|wip||Multiplayer Mod (April)
+1532559426328989890|wip||Pocket PC
+1538556474689855529|wip|inmento/randomized-gym-challenge|Randomized Gym Challenge
+1538609512091746344|wip||Type Bound
+1538562986707386498|wip||Rogue Bound
+1537797851747459194|wip|ciddmandude/pokemonrecomprandomizer|Gen 2-5 Retro Dex Expansion
+1538234490722197635|wip||Pirate Speak Language Mod
+1537810658635157604|wip|tooandorisu/gen1-recomp-norwegian-translate|Norwegian Translation
+1536038269723213855|wip|argallo/palworld_crafting|Pokemon Palworld Mod
+1537964639873138688|wip|inmento/starter-picker|Starter Picker
+1537863574892970035|wip|inmento/gym-leader-shuffle|Gym Leader Shuffle
+1537965390557093908|wip|inmento/item-randomizer|Item Randomizer
+1537309578914693202|wip|dburton95/crystal|Gen 2 Looker Quest Mod
+1536688324452945991|wip||Global National Pokedex / Dual Typing
+1536945166609420389|wip||[Gen 2] Hoenn 386
+1536664051453788281|wip|aghanim-3c/stadium_battle_fx_ds---unofficial-compatibility-fork|Stadium Battle FX DS
+1536068539381841961|wip|canadax21/gen1recomp-heal_ball_reposition|Heal Ball Reposition
+1535840720500424714|wip|mistermiracle3036/kanto-balls|Kanto Balls
+1536127258211782728|wip||Indigo Plateau Conference
+1535448740297445466|wip||(Unofficial) Kanto Expansion Pak Port
+1535709892160004268|wip||Kanto Redux
+1535345067701571604|wip||Kanto Life Mod
+1535328355400941739|wip||Stadium Attack Animations
+1535222853492801626|wip||Mute Danger Alarm
+1532820320216416427|wip||Native Achievements
+1531202609611018352|wip||National Dex Framework

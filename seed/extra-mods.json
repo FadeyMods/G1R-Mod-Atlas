@@ -1,0 +1,3458 @@
+﻿{
+    "voxel_ids_from_index":  [
+                                 "absol89/DramaticShapeVoxelMod",
+                                 "ShaneMcGovernIE/potato_voxel",
+                                 "Tooandorisu/Voxel-Diorama",
+                                 "last-swagger/gen1recomp-voxel-characters",
+                                 "CurlyG004/porygonal-overworld-characters",
+                                 "DavidSchuchert/gen1-voxel-dex",
+                                 "EnterPlayerOne/Battle-Cinematics-Stadium-Camera"
+                             ],
+    "mods":  [
+                 {
+                     "name":  "Dramaless Shape",
+                     "category":  "VOXEL",
+                     "repo":  "artyrambles/DRAMALESS_SHAPE"
+                 },
+                 {
+                     "name":  "Terrarium",
+                     "category":  "VOXEL",
+                     "repo":  "BrenoBertucci/Terrarium"
+                 },
+                 {
+                     "name":  "Gmarcs Gen2 Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "gmarcmods/gmarcs_gen2_voxel_mod"
+                 },
+                 {
+                     "name":  "Battle Art Voxel Gen2",
+                     "category":  "VOXEL",
+                     "repo":  "absol89/Gen2Recomped-DramaticShapes"
+                 },
+                 {
+                     "name":  "notquiteog DramaticShapeVoxelMod",
+                     "category":  "VOXEL",
+                     "repo":  "notquiteog/DramaticShapeVoxelMod"
+                 },
+                 {
+                     "name":  "Celadon Living District",
+                     "category":  "CONTENT",
+                     "repo":  "1Jamie/celadon-living-district"
+                 },
+                 {
+                     "name":  "Game Corner Community Hub",
+                     "category":  "GAMEPLAY",
+                     "repo":  "1Jamie/game-corner-hub"
+                 },
+                 {
+                     "name":  "Gen1 Bag Pockets",
+                     "category":  "UI",
+                     "repo":  "1Jamie/gen1_bag_pockets"
+                 },
+                 {
+                     "name":  "Kanto Reforged",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "1Jamie/Kanto-Reforged"
+                 },
+                 {
+                     "name":  "mod-scanner",
+                     "category":  "TOOL",
+                     "repo":  "1Jamie/mod-scanner"
+                 },
+                 {
+                     "name":  "Pokegear Cards",
+                     "category":  "LIBRARY",
+                     "repo":  "1Jamie/pokegear_cards"
+                 },
+                 {
+                     "name":  "Right Stick Move",
+                     "category":  "QOL",
+                     "repo":  "1Jamie/right_stick_move"
+                 },
+                 {
+                     "name":  "Gold Item Spawner",
+                     "category":  "QOL",
+                     "repo":  "35Bucks/bag-item-generator-pokemon-gold-gen2"
+                 },
+                 {
+                     "name":  "Gold Next Encounter Spawner",
+                     "category":  "QOL",
+                     "repo":  "35Bucks/gold-next-encounter-spawner"
+                 },
+                 {
+                     "name":  "Gold Universal Fly",
+                     "category":  "QOL",
+                     "repo":  "35Bucks/pokemon-gold-universal-fly"
+                 },
+                 {
+                     "name":  "gen1recomp-fast-pokecenter",
+                     "category":  "QOL",
+                     "repo":  "aaronjenkins/gen1recomp-fast-pokecenter"
+                 },
+                 {
+                     "name":  "gen1recomp-levelmatch",
+                     "category":  "BALANCE",
+                     "repo":  "aaronjenkins/gen1recomp-levelmatch"
+                 },
+                 {
+                     "name":  "No Bike Music",
+                     "category":  "AUDIO",
+                     "repo":  "adhdandy/gen1recomp-no-bike-music"
+                 },
+                 {
+                     "name":  "STADIUM_BATTLE_FX_DS---DRAMATIC-SHAPE-AND-BATTLE-ART-COMPATIBLE",
+                     "category":  "ART",
+                     "repo":  "Aghanim-3C/STADIUM_BATTLE_FX_DS---DRAMATIC-SHAPE-AND-BATTLE-ART-COMPATIBLE"
+                 },
+                 {
+                     "name":  "silver_spike_recomp",
+                     "category":  "VOXEL",
+                     "repo":  "AIGleam/silver_spike_recomp"
+                 },
+                 {
+                     "name":  "qol_suite",
+                     "category":  "QOL",
+                     "repo":  "ainen/qol_suite"
+                 },
+                 {
+                     "name":  "RBY Vehicles",
+                     "category":  "GAMEPLAY",
+                     "repo":  "alamops/RBYVehicles"
+                 },
+                 {
+                     "name":  "TrimuiGen2Recomp",
+                     "category":  "OTHER",
+                     "repo":  "AleWiccan/TrimuiGen2Recomp"
+                 },
+                 {
+                     "name":  "Better Info",
+                     "category":  "UI",
+                     "repo":  "AlfonsPistoletti/gen1recomp-mod-better-info"
+                 },
+                 {
+                     "name":  "Immersive Field Moves",
+                     "category":  "GAMEPLAY",
+                     "repo":  "AlfonsPistoletti/gen1recomp-mod-immersive-field-moves"
+                 },
+                 {
+                     "name":  "gen1recomp-studio",
+                     "category":  "TOOL",
+                     "repo":  "AlfonsPistoletti/gen1recomp-studio"
+                 },
+                 {
+                     "name":  "CryReplacementMod",
+                     "category":  "AUDIO",
+                     "repo":  "AlucardTheFirstHunter/CryReplacementMod"
+                 },
+                 {
+                     "name":  "MusicReplacementMod",
+                     "category":  "AUDIO",
+                     "repo":  "AlucardTheFirstHunter/MusicReplacementMod"
+                 },
+                 {
+                     "name":  "Autofire A/B Button",
+                     "category":  "QOL",
+                     "repo":  "Amey89/autofire-or-turbo-a-b-buttons-mod-for-gen-1-recomp-G1Rdelux-"
+                 },
+                 {
+                     "name":  "Tchuimon Starter",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Andremzzr/tchuimon"
+                 },
+                 {
+                     "name":  "myQualityOfLife",
+                     "category":  "QOL",
+                     "repo":  "andrepecosta/myQualityOfLife"
+                 },
+                 {
+                     "name":  "flare_yellow",
+                     "category":  "CART",
+                     "repo":  "AnkokuFlare/flare_yellow"
+                 },
+                 {
+                     "name":  "StadiumBattleFX",
+                     "category":  "ART",
+                     "repo":  "anxiousintrovert/StadiumBattleFX"
+                 },
+                 {
+                     "name":  "Traducción al español — Pokémon FireRed",
+                     "category":  "TRANSLATION",
+                     "repo":  "arcadematicas/traduccion-gen1recomp-firered-es"
+                 },
+                 {
+                     "name":  "traduccion-gen1recomp-pokemon-espa-ol",
+                     "category":  "TRANSLATION",
+                     "repo":  "arcadematicas/traduccion-gen1recomp-pokemon-espa-ol"
+                 },
+                 {
+                     "name":  "Traducción al español — Todos los juegos",
+                     "category":  "TRANSLATION",
+                     "repo":  "arcadematicas/traduccion-gen1recomp-todos-es"
+                 },
+                 {
+                     "name":  "Palworld Crafting",
+                     "category":  "GAMEPLAY",
+                     "repo":  "argallo/palworld_crafting"
+                 },
+                 {
+                     "name":  "gen2-clean-ui",
+                     "category":  "UI",
+                     "repo":  "ArmstrongThomas/gen2-clean-ui"
+                 },
+                 {
+                     "name":  "nacho-kanto",
+                     "category":  "AUDIO",
+                     "repo":  "ArmstrongThomas/nacho-kanto"
+                 },
+                 {
+                     "name":  "Better Battles",
+                     "category":  "GAMEPLAY",
+                     "repo":  "arsdaemonia-design/Gen1Recomp-better-battles"
+                 },
+                 {
+                     "name":  "Modern Bag",
+                     "category":  "UI",
+                     "repo":  "arsdaemonia-design/Gen1Recomp-ModernBag"
+                 },
+                 {
+                     "name":  "Vanilla+",
+                     "category":  "CONTENT",
+                     "repo":  "arsdaemonia-design/Gen1Recomp-VanillaPlus"
+                 },
+                 {
+                     "name":  "Zone Display",
+                     "category":  "UI",
+                     "repo":  "arsdaemonia-design/Gen1Recomp-ZoneDisplay"
+                 },
+                 {
+                     "name":  "ST_LinkCableItem",
+                     "category":  "GAMEPLAY",
+                     "repo":  "artyrambles/ST_LinkCableItem"
+                 },
+                 {
+                     "name":  "Sprite Swapper by Stahl",
+                     "category":  "ART",
+                     "repo":  "artyrambles/ST_SPRITESWAPPER"
+                 },
+                 {
+                     "name":  "gen1recomp-frame",
+                     "category":  "OTHER",
+                     "repo":  "astromaddie/gen1recomp-frame"
+                 },
+                 {
+                     "name":  "Mods-Gen1Recomp",
+                     "category":  "OTHER",
+                     "repo":  "audris42/Mods-Gen1Recomp"
+                 },
+                 {
+                     "name":  "kanto-gear",
+                     "category":  "UI",
+                     "repo":  "AverageConsumer/kanto-gear"
+                 },
+                 {
+                     "name":  "Gen1 Recomp Allgen Kaizo",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "AyeBathingApe/gen1recomp-allgen-kaizo"
+                 },
+                 {
+                     "name":  "gen1recomp-german-patch-red",
+                     "category":  "TRANSLATION",
+                     "repo":  "badges3000/gen1recomp-german-patch-red"
+                 },
+                 {
+                     "name":  "Dual Screen (DS-style)",
+                     "category":  "UI",
+                     "repo":  "BartInTheField/gen1recomp-ds-mod"
+                 },
+                 {
+                     "name":  "Floating Battle HUD",
+                     "category":  "UI",
+                     "repo":  "bass-dv/g1rFloatingBattleHUD"
+                 },
+                 {
+                     "name":  "Terrain Minimap",
+                     "category":  "UI",
+                     "repo":  "Battlica/gen1recomp-terrain-minimap"
+                 },
+                 {
+                     "name":  "Party HUD Switcher",
+                     "category":  "UI",
+                     "repo":  "Battlica/party-hud-switcher"
+                 },
+                 {
+                     "name":  "1025Dex",
+                     "category":  "CONTENT",
+                     "repo":  "Bentley734/1025Dex"
+                 },
+                 {
+                     "name":  "Battle UI Customizer",
+                     "category":  "UI",
+                     "repo":  "Bentley734/BattleUICustomizer"
+                 },
+                 {
+                     "name":  "Bedroom SNES",
+                     "category":  "OTHER",
+                     "repo":  "Bentley734/Bedroom-SNES"
+                 },
+                 {
+                     "name":  "CodeBreaker",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Bentley734/Codebreaker"
+                 },
+                 {
+                     "name":  "GS Ball",
+                     "category":  "CONTENT",
+                     "repo":  "Bentley734/GSBall"
+                 },
+                 {
+                     "name":  "HD Dynamic Battlefields (Kanto + Johto + Hoenn Beta)",
+                     "category":  "ART",
+                     "repo":  "Bentley734/HD-Dynamic-Battlefields"
+                 },
+                 {
+                     "name":  "Hoennto",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "Bentley734/Hoennto"
+                 },
+                 {
+                     "name":  "Menu Customizer",
+                     "category":  "UI",
+                     "repo":  "Bentley734/Menu-Customizer"
+                 },
+                 {
+                     "name":  "Party-Party",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Bentley734/Party-Party"
+                 },
+                 {
+                     "name":  "PC Games",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Bentley734/PC-Solitaire"
+                 },
+                 {
+                     "name":  "Screensaver",
+                     "category":  "UI",
+                     "repo":  "Bentley734/Screensaver"
+                 },
+                 {
+                     "name":  "Tool Battle Music",
+                     "category":  "AUDIO",
+                     "repo":  "Bentley734/ToolBattleMusic"
+                 },
+                 {
+                     "name":  "WildFollowers",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Bentley734/WildFollowers"
+                 },
+                 {
+                     "name":  "Traduzione ITA",
+                     "category":  "TRANSLATION",
+                     "repo":  "Berniuz/Gen1Recomp-Italian-Translation"
+                 },
+                 {
+                     "name":  "red-ptbr-gen1recomp",
+                     "category":  "TRANSLATION",
+                     "repo":  "bielsojo/red-ptbr-gen1recomp"
+                 },
+                 {
+                     "name":  "Autosave Timer",
+                     "category":  "QOL",
+                     "repo":  "blackwing182/autosave_timer"
+                 },
+                 {
+                     "name":  "Dramatic Shape Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "blackwing182/DramaticShapeVoxelMod-test"
+                 },
+                 {
+                     "name":  "PokemonStorageSystem",
+                     "category":  "TOOL",
+                     "repo":  "blackwing182/PokemonStorageSystem"
+                 },
+                 {
+                     "name":  "Gen1-Random-Starters",
+                     "category":  "GAMEPLAY",
+                     "repo":  "BlanketTomcat/Gen1-Random-Starters"
+                 },
+                 {
+                     "name":  "Unified PC Move",
+                     "category":  "QOL",
+                     "repo":  "blazor67/Unified-PC-Move"
+                 },
+                 {
+                     "name":  "Gen1recomp-IOS-Crystal-v1.1",
+                     "category":  "VOXEL",
+                     "repo":  "BlinkingSun/Gen1recomp-IOS-Crystal-v1.1"
+                 },
+                 {
+                     "name":  "Ghost Trainers",
+                     "category":  "GAMEPLAY",
+                     "repo":  "bobshark2/gen1recomp-ghost-trainers"
+                 },
+                 {
+                     "name":  "gen1recomp-kanto-challenge",
+                     "category":  "BALANCE",
+                     "repo":  "bobshark2/gen1recomp-kanto-challenge"
+                 },
+                 {
+                     "name":  "Kanto First Person",
+                     "category":  "VOXEL",
+                     "repo":  "BoLayerDev/kanto-first-person"
+                 },
+                 {
+                     "name":  "PokéPath Signs",
+                     "category":  "CONTENT",
+                     "repo":  "BoLayerDev/pokepath-signs"
+                 },
+                 {
+                     "name":  "unplugged-mod-library",
+                     "category":  "TOOL",
+                     "repo":  "BoLayerDev/unplugged-mod-library"
+                 },
+                 {
+                     "name":  "Expanded EXP Share Modes",
+                     "category":  "QOL",
+                     "repo":  "Bookfan97/expanded_exp_share_modes"
+                 },
+                 {
+                     "name":  "Expanded EXP Share Modes",
+                     "category":  "QOL",
+                     "repo":  "Bookfan97/gen1recomp_exp_share_modes"
+                 },
+                 {
+                     "name":  "Kanto-Companion",
+                     "category":  "TOOL",
+                     "repo":  "BountyHunterKanden/Kanto-Companion"
+                 },
+                 {
+                     "name":  "StatDex",
+                     "category":  "UI",
+                     "repo":  "BountyHunterKanden/StatDex"
+                 },
+                 {
+                     "name":  "Vanilla Sprites+",
+                     "category":  "VOXEL",
+                     "repo":  "BountyHunterKanden/Vanilla-Sprites-Plus"
+                 },
+                 {
+                     "name":  "SGB-GBC-borders",
+                     "category":  "ART",
+                     "repo":  "BrazilKing/SGB-GBC-borders"
+                 },
+                 {
+                     "name":  "1025Dex",
+                     "category":  "CONTENT",
+                     "repo":  "brewstercm/1025Dex-FRLG"
+                 },
+                 {
+                     "name":  "FireRed \u0026 LeafGreen Johto \u0026 Hoenn Encounters",
+                     "category":  "CONTENT",
+                     "repo":  "brewstercm/FireRed-Johto-Hoenn"
+                 },
+                 {
+                     "name":  "Kanto National Dex",
+                     "category":  "CONTENT",
+                     "repo":  "brewstercm/Kanto-Johto-National-Dex"
+                 },
+                 {
+                     "name":  "Mega Evolution - FRLG",
+                     "category":  "GAMEPLAY",
+                     "repo":  "brewstercm/MegaEvolution-FRLG"
+                 },
+                 {
+                     "name":  "Modern HM Learning",
+                     "category":  "CONTENT",
+                     "repo":  "brewstercm/modern-hm-learning"
+                 },
+                 {
+                     "name":  "g1r-cart-maker",
+                     "category":  "TOOL",
+                     "repo":  "bryanthaboi/g1r-cart-maker"
+                 },
+                 {
+                     "name":  "Nuzlocke",
+                     "category":  "GAMEPLAY",
+                     "repo":  "bryanthaboi/nuzlocke"
+                 },
+                 {
+                     "name":  "shin-red-recomp-mods",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "burningnite/shin-red-recomp-mods"
+                 },
+                 {
+                     "name":  "A New World",
+                     "category":  "CONTENT",
+                     "repo":  "businessmachines02/a-new-world"
+                 },
+                 {
+                     "name":  "Anime Realism",
+                     "category":  "GAMEPLAY",
+                     "repo":  "businessmachines02/anime-realism"
+                 },
+                 {
+                     "name":  "VS Pager - Trainer Rematches",
+                     "category":  "QOL",
+                     "repo":  "ByronAndrade/gen1recomp-vs-pager"
+                 },
+                 {
+                     "name":  "One-Button Field Actions",
+                     "category":  "QOL",
+                     "repo":  "CadeMH/gen1_field-actions"
+                 },
+                 {
+                     "name":  "gen1recomp-mod-releases",
+                     "category":  "OTHER",
+                     "repo":  "CapnJames95/gen1recomp-mod-releases"
+                 },
+                 {
+                     "name":  "NextUI-Gen1Recomp-Pak",
+                     "category":  "OTHER",
+                     "repo":  "carroarmato0/NextUI-Gen1Recomp-Pak"
+                 },
+                 {
+                     "name":  "Mew Glitch Mod",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Chari69/mewmod"
+                 },
+                 {
+                     "name":  "Iron Nuzlocke",
+                     "category":  "GAMEPLAY",
+                     "repo":  "ChrisMckerracher/iron-nuzlocke"
+                 },
+                 {
+                     "name":  "Quiet Please",
+                     "category":  "QOL",
+                     "repo":  "ChrisMckerracher/quiet-please"
+                 },
+                 {
+                     "name":  "gen1recomp-mods",
+                     "category":  "OTHER",
+                     "repo":  "chrispanella/gen1recomp-mods"
+                 },
+                 {
+                     "name":  "Dramatic Shape Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "ChristianSilvermoon/DramaticShapeVoxelMod-Archive"
+                 },
+                 {
+                     "name":  "Pallet Chaos",
+                     "category":  "GAMEPLAY",
+                     "repo":  "cleverleviathan/Pallet-Chaos"
+                 },
+                 {
+                     "name":  "gen1recomp-vita",
+                     "category":  "OTHER",
+                     "repo":  "Code-Grub/gen1recomp-vita"
+                 },
+                 {
+                     "name":  "gen1recomp-lua-native-3ds-port",
+                     "category":  "OTHER",
+                     "repo":  "cohako/gen1recomp-lua-native-3ds-port"
+                 },
+                 {
+                     "name":  "Auto Save",
+                     "category":  "QOL",
+                     "repo":  "Czajo/gen1recomp-autosave"
+                 },
+                 {
+                     "name":  "POKéMON Edycja Czerwona PL",
+                     "category":  "TRANSLATION",
+                     "repo":  "Czajo/gen1recomp-polish"
+                 },
+                 {
+                     "name":  "Babymon",
+                     "category":  "CONTENT",
+                     "repo":  "DaCookieCakes/babymon-gen2"
+                 },
+                 {
+                     "name":  "Poké Mart Premier Ball Bonus",
+                     "category":  "GAMEPLAY",
+                     "repo":  "daGoncs/premier-ball-bonus"
+                 },
+                 {
+                     "name":  "Gen1Recomp-Music1-FRLG",
+                     "category":  "AUDIO",
+                     "repo":  "DarioMelo/Gen1Recomp-Music1-FRLG"
+                 },
+                 {
+                     "name":  "Gen1Recomp-Music1-HGSS",
+                     "category":  "AUDIO",
+                     "repo":  "DarioMelo/Gen1Recomp-Music1-HGSS"
+                 },
+                 {
+                     "name":  "Gen1Recomp-Music1-LGPE",
+                     "category":  "AUDIO",
+                     "repo":  "DarioMelo/Gen1Recomp-Music1-LGPE"
+                 },
+                 {
+                     "name":  "Gen1Recomp-Music2-HGSS",
+                     "category":  "AUDIO",
+                     "repo":  "DarioMelo/Gen1Recomp-Music2-HGSS"
+                 },
+                 {
+                     "name":  "Dialogue Portraits (Gen 2)",
+                     "category":  "ART",
+                     "repo":  "DarkHeros09/gen2-dialogue-portraits"
+                 },
+                 {
+                     "name":  "Dialogue Portraits (Gen 3)",
+                     "category":  "ART",
+                     "repo":  "DarkHeros09/gen3-dialogue-portraits"
+                 },
+                 {
+                     "name":  "DramaticShapeVR",
+                     "category":  "VOXEL",
+                     "repo":  "davidkalil10/DramaticShapeVR"
+                 },
+                 {
+                     "name":  "Version Cristal",
+                     "category":  "TRANSLATION",
+                     "repo":  "Davo1914/INCOMPLETA.-USO-DE-REFERENCIA.-VersionCristal-Gen2Recomped-Spanish"
+                 },
+                 {
+                     "name":  "Crystal",
+                     "category":  "ART",
+                     "repo":  "dburton95/crystal"
+                 },
+                 {
+                     "name":  "Its Clefairy",
+                     "category":  "GAMEPLAY",
+                     "repo":  "dburton95/its-clefairy"
+                 },
+                 {
+                     "name":  "Secret Base",
+                     "category":  "GAMEPLAY",
+                     "repo":  "dburton95/secret-base"
+                 },
+                 {
+                     "name":  "Toast Notifications",
+                     "category":  "GAMEPLAY",
+                     "repo":  "dburton95/toast-notifications"
+                 },
+                 {
+                     "name":  "Battle Dex",
+                     "category":  "UI",
+                     "repo":  "ddagent/gen1recomp-battle-dex"
+                 },
+                 {
+                     "name":  "Dex Pages",
+                     "category":  "UI",
+                     "repo":  "ddagent/gen1recomp-dex-pages"
+                 },
+                 {
+                     "name":  "Quick Save",
+                     "category":  "QOL",
+                     "repo":  "ddagent/gen1recomp-quick-save"
+                 },
+                 {
+                     "name":  "gen1recomp-flawless-pp-restoration",
+                     "category":  "GAMEPLAY",
+                     "repo":  "DeathTwist873/gen1recomp-flawless-pp-restoration"
+                 },
+                 {
+                     "name":  "gen1recomp-wild-rewards",
+                     "category":  "GAMEPLAY",
+                     "repo":  "DeathTwist873/gen1recomp-wild-rewards"
+                 },
+                 {
+                     "name":  "Evolution Man: FireRed",
+                     "category":  "CONTENT",
+                     "repo":  "Debatesmith/EvolutionMan-Gen3"
+                 },
+                 {
+                     "name":  "Kanto Legacy Importer",
+                     "category":  "TOOL",
+                     "repo":  "Debatesmith/KantoLegacy"
+                 },
+                 {
+                     "name":  "Project-Celebi",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Debatesmith/Project-Celebi"
+                 },
+                 {
+                     "name":  "Crystal 251",
+                     "category":  "CONTENT",
+                     "repo":  "Deftones565/gen1recomp-mod-crystal-251"
+                 },
+                 {
+                     "name":  "Enhanced Music",
+                     "category":  "AUDIO",
+                     "repo":  "Deftones565/gen1recomp-mod-enhanced-music"
+                 },
+                 {
+                     "name":  "Quality of Life",
+                     "category":  "QOL",
+                     "repo":  "Deftones565/gen1recomp-mod-quality-of-life"
+                 },
+                 {
+                     "name":  "Roaming Event Pokemon",
+                     "category":  "CONTENT",
+                     "repo":  "Deftones565/gen1recomp-mod-roaming-events"
+                 },
+                 {
+                     "name":  "Gen II Shiny Indicators",
+                     "category":  "ART",
+                     "repo":  "Deftones565/gen1recomp-mod-shiny-indicators"
+                 },
+                 {
+                     "name":  "Pokemon Stadium 2 Importer",
+                     "category":  "VOXEL",
+                     "repo":  "Deftones565/gen1recomp-mod-stadium2-importer"
+                 },
+                 {
+                     "name":  "Pokemon Stadium 2 Battle UI",
+                     "category":  "UI",
+                     "repo":  "Deftones565/Stadium-2-UI"
+                 },
+                 {
+                     "name":  "mmo",
+                     "category":  "OTHER",
+                     "repo":  "Denveous/mmo"
+                 },
+                 {
+                     "name":  "Advanced Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "diegolix29/Advance-Shape-Mod-Gen1Recomp"
+                 },
+                 {
+                     "name":  "Career Card",
+                     "category":  "CONTENT",
+                     "repo":  "Dileppy/CareerCard"
+                 },
+                 {
+                     "name":  "Catch Fix \u0026 Helper",
+                     "category":  "QOL",
+                     "repo":  "diocarvalho/catch-fix-helper"
+                 },
+                 {
+                     "name":  "crystal_animated_sprites_with_shiny_visuals",
+                     "category":  "ART",
+                     "repo":  "distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals"
+                 },
+                 {
+                     "name":  "gen1recomp-FireRed-FX",
+                     "category":  "ART",
+                     "repo":  "Dix01/gen1recomp-FireRed-FX"
+                 },
+                 {
+                     "name":  "gen1recomp-mods",
+                     "category":  "TOOL",
+                     "repo":  "Dix01/gen1recomp-mods"
+                 },
+                 {
+                     "name":  "All Pokemon Catchable 251",
+                     "category":  "CONTENT",
+                     "repo":  "doiscineastas-bit/All-Pokemon-Catchable-251-Mod-Crystal"
+                 },
+                 {
+                     "name":  "DScrete Items",
+                     "category":  "CONTENT",
+                     "repo":  "dscrete/gen1recomp_dscrete-items"
+                 },
+                 {
+                     "name":  "Mythmon",
+                     "category":  "CONTENT",
+                     "repo":  "dscrete/mythemon"
+                 },
+                 {
+                     "name":  "Kanto Expansion",
+                     "category":  "CONTENT",
+                     "repo":  "dscrete/recomp_additions"
+                 },
+                 {
+                     "name":  "recompModlist",
+                     "category":  "OTHER",
+                     "repo":  "Dudux42/recompModlist"
+                 },
+                 {
+                     "name":  "pokemon-ptbr-voxel",
+                     "category":  "VOXEL",
+                     "repo":  "dunclan/pokemon-ptbr-voxel"
+                 },
+                 {
+                     "name":  "gen1recomp-mod-index",
+                     "category":  "TOOL",
+                     "repo":  "DuskPromised/gen1recomp-mod-index"
+                 },
+                 {
+                     "name":  "gen2recomp-mod-index",
+                     "category":  "TOOL",
+                     "repo":  "DuskPromised/gen2recomp-mod-index"
+                 },
+                 {
+                     "name":  "Gen 2 Dex",
+                     "category":  "CONTENT",
+                     "repo":  "eduardocalafell/gen1recomp-gen2-dex"
+                 },
+                 {
+                     "name":  "Mega Evolution",
+                     "category":  "GAMEPLAY",
+                     "repo":  "eduardocalafell/gen1recomp-mega-evolution"
+                 },
+                 {
+                     "name":  "Performance Monitor",
+                     "category":  "TOOL",
+                     "repo":  "Ehren1337/gen1performancemonitor"
+                 },
+                 {
+                     "name":  "Suomi",
+                     "category":  "TRANSLATION",
+                     "repo":  "eioo/gen1recomp-finnish-mod"
+                 },
+                 {
+                     "name":  "gen1recomp-kanto-3d",
+                     "category":  "TOOL",
+                     "repo":  "Elirant/gen1recomp-kanto-3d"
+                 },
+                 {
+                     "name":  "Rotate Down After Heal",
+                     "category":  "QOL",
+                     "repo":  "Elrcx/gen1recomp-mod-heal-rotate"
+                 },
+                 {
+                     "name":  "Facets",
+                     "category":  "ART",
+                     "repo":  "ElvieBlooms/facets"
+                 },
+                 {
+                     "name":  "Rocket Edition",
+                     "category":  "ART",
+                     "repo":  "ElvieBlooms/rocket_edition"
+                 },
+                 {
+                     "name":  "trainer_talk_packager",
+                     "category":  "TOOL",
+                     "repo":  "ElvieBlooms/trainer_talk_packager"
+                 },
+                 {
+                     "name":  "EriLab Bag Wrap",
+                     "category":  "QOL",
+                     "repo":  "erereck/gen1recomp-bag-wrap"
+                 },
+                 {
+                     "name":  "EriLab Bottomless Bag",
+                     "category":  "QOL",
+                     "repo":  "erereck/gen1recomp-bottomless-bag"
+                 },
+                 {
+                     "name":  "Metric Pokédex",
+                     "category":  "UI",
+                     "repo":  "ez-me/metric_pokedex"
+                 },
+                 {
+                     "name":  "kanto-rework-suite",
+                     "category":  "CONTENT",
+                     "repo":  "Faendra/kanto-rework-suite"
+                 },
+                 {
+                     "name":  "gen1recomp",
+                     "category":  "OTHER",
+                     "repo":  "FAFF0x/gen1recomp"
+                 },
+                 {
+                     "name":  "gen2recomp",
+                     "category":  "OTHER",
+                     "repo":  "FAFF0x/gen2recomp"
+                 },
+                 {
+                     "name":  "gen2recomp-mod-index",
+                     "category":  "TOOL",
+                     "repo":  "FAFF0x/gen2recomp-mod-index"
+                 },
+                 {
+                     "name":  "gen3recomp",
+                     "category":  "OTHER",
+                     "repo":  "FAFF0x/gen3recomp"
+                 },
+                 {
+                     "name":  "gen3recomp-mod-index",
+                     "category":  "TOOL",
+                     "repo":  "FAFF0x/gen3recomp-mod-index"
+                 },
+                 {
+                     "name":  "1025Dex Crazy Randomizer",
+                     "category":  "GAMEPLAY",
+                     "repo":  "FaustMusteloidea/1025-Crazy-Randomizer"
+                 },
+                 {
+                     "name":  "Pokémon Anime Cries",
+                     "category":  "AUDIO",
+                     "repo":  "Faz540/pokemon-anime-cries-recomp-mod"
+                 },
+                 {
+                     "name":  "poke",
+                     "category":  "VOXEL",
+                     "repo":  "felipe2tecnologia/poke"
+                 },
+                 {
+                     "name":  "Gen1-Recomp-Mods",
+                     "category":  "OTHER",
+                     "repo":  "FelizNavidad-D/Gen1-Recomp-Mods"
+                 },
+                 {
+                     "name":  "Team EXP Share",
+                     "category":  "QOL",
+                     "repo":  "FelizNavidad-D/Team-EXP-Share"
+                 },
+                 {
+                     "name":  "Developer Debug Menu",
+                     "category":  "TOOL",
+                     "repo":  "gamecorner-033/gen1debug"
+                 },
+                 {
+                     "name":  "Overworld Wild Encounters Mod",
+                     "category":  "GAMEPLAY",
+                     "repo":  "gamecorner-033/Gen1PC-OverworldEncounters"
+                 },
+                 {
+                     "name":  "PokéPC Followers (Voxel Merge)",
+                     "category":  "VOXEL",
+                     "repo":  "gamecorner-033/PokePCFollowers"
+                 },
+                 {
+                     "name":  "gawdmode.github.io",
+                     "category":  "TOOL",
+                     "repo":  "GawdMode/gawdmode.github.io"
+                 },
+                 {
+                     "name":  "Pokemon Anime Brawler",
+                     "category":  "GAMEPLAY",
+                     "repo":  "GBurgardt/pokemon-anime-brawler"
+                 },
+                 {
+                     "name":  "Voxel Crafting",
+                     "category":  "VOXEL",
+                     "repo":  "geezjonny/gen1-crafting"
+                 },
+                 {
+                     "name":  "Pokemon Farm",
+                     "category":  "GAMEPLAY",
+                     "repo":  "geezjonny/gen1-farm"
+                 },
+                 {
+                     "name":  "Voxel Hotbar",
+                     "category":  "VOXEL",
+                     "repo":  "geezjonny/gen1-hotbar"
+                 },
+                 {
+                     "name":  "Prop Placement",
+                     "category":  "VOXEL",
+                     "repo":  "geezjonny/gen1-props"
+                 },
+                 {
+                     "name":  "Move Type Fixes",
+                     "category":  "BALANCE",
+                     "repo":  "Gilles93/Move-Type-fix"
+                 },
+                 {
+                     "name":  "Species Rebalance",
+                     "category":  "BALANCE",
+                     "repo":  "Gilles93/Species-Rebalance"
+                 },
+                 {
+                     "name":  "Stronger Trainers",
+                     "category":  "BALANCE",
+                     "repo":  "Gilles93/Stronger-Trainers"
+                 },
+                 {
+                     "name":  "Stronger Trainers (Gen 2)",
+                     "category":  "BALANCE",
+                     "repo":  "Gilles93/Stronger-Trainers-Gen-2"
+                 },
+                 {
+                     "name":  "Gen1 Co-op (prototype)",
+                     "category":  "GAMEPLAY",
+                     "repo":  "git-mrjoufflu/gen1coop"
+                 },
+                 {
+                     "name":  "Dex Expansion (Gen 2-5)",
+                     "category":  "CONTENT",
+                     "repo":  "Glamurio/dex_expansion"
+                 },
+                 {
+                     "name":  "gmarcs Gen 2 Celebi Time Travel",
+                     "category":  "CONTENT",
+                     "repo":  "gmarcmods/gmarcs_gen2_celebi_time_travel"
+                 },
+                 {
+                     "name":  "gmarcs Gen 2 Johto in First Person",
+                     "category":  "VOXEL",
+                     "repo":  "gmarcmods/gmarcs_gen2_johto_in_first_person"
+                 },
+                 {
+                     "name":  "TCGRecomp",
+                     "category":  "GAMEPLAY",
+                     "repo":  "goofwear/TCGRecomp"
+                 },
+                 {
+                     "name":  "Voxel Ascendant",
+                     "category":  "VOXEL",
+                     "repo":  "goofwear/voxel-ascendant"
+                 },
+                 {
+                     "name":  "Alckie\u0027s Mod Pack",
+                     "category":  "QOL",
+                     "repo":  "GuilhermeSa/g1r-mods"
+                 },
+                 {
+                     "name":  "Dramatic Shape Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "Gummygamer/DramaticShapeVoxelMod"
+                 },
+                 {
+                     "name":  "Voxel Overworld (FireRed / LeafGreen)",
+                     "category":  "VOXEL",
+                     "repo":  "Gummygamer/gen1recomp-voxel-frlg"
+                 },
+                 {
+                     "name":  "NVIDIA NIM NPC Chat",
+                     "category":  "CONTENT",
+                     "repo":  "Gummygamer/nim-npc-chat"
+                 },
+                 {
+                     "name":  "NVIDIA Living Fakedex",
+                     "category":  "CONTENT",
+                     "repo":  "Gummygamer/nvidia-fakemon"
+                 },
+                 {
+                     "name":  "Português (BR) - Crystal",
+                     "category":  "TRANSLATION",
+                     "repo":  "guuhferiani/pokemon-crystal-ptbr"
+                 },
+                 {
+                     "name":  "RetroRecomp-Hub",
+                     "category":  "TOOL",
+                     "repo":  "guuhferiani/RetroRecomp-Hub"
+                 },
+                 {
+                     "name":  "Badge Boost Glitch",
+                     "category":  "GAMEPLAY",
+                     "repo":  "GymLeaderMatt/Badge_Boost_Glitch_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Coalossal 196",
+                     "category":  "CONTENT",
+                     "repo":  "GymLeaderMatt/Coalossal_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Controller Disabler",
+                     "category":  "QOL",
+                     "repo":  "GymLeaderMatt/Disable_Controller_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Farchamp Gen1 Recomp",
+                     "category":  "CONTENT",
+                     "repo":  "GymLeaderMatt/Farchamp_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "GLM Pokepack",
+                     "category":  "CONTENT",
+                     "repo":  "GymLeaderMatt/GLM_Pokepack_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Mega Rayquaza 152",
+                     "category":  "CONTENT",
+                     "repo":  "GymLeaderMatt/Mega_Rayquaza_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Mewthree 153",
+                     "category":  "CONTENT",
+                     "repo":  "GymLeaderMatt/Mewthree_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Battle Mobile",
+                     "category":  "GAMEPLAY",
+                     "repo":  "GymLeaderMatt/Solo_Battle_Mobile_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Battle Voxel",
+                     "category":  "VOXEL",
+                     "repo":  "GymLeaderMatt/Solo_Battle_Voxel_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Run Modpack",
+                     "category":  "QOL",
+                     "repo":  "GymLeaderMatt/Solo_Run_Modpack_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Overlay",
+                     "category":  "UI",
+                     "repo":  "GymLeaderMatt/Solo_Run_Overlay_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Run QoL",
+                     "category":  "QOL",
+                     "repo":  "GymLeaderMatt/Solo_Run_QoL_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Run Splits",
+                     "category":  "UI",
+                     "repo":  "GymLeaderMatt/Solo_Run_Splits_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Run Stats",
+                     "category":  "UI",
+                     "repo":  "GymLeaderMatt/Solo_Run_Stats_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Solo Run Visuals",
+                     "category":  "ART",
+                     "repo":  "GymLeaderMatt/Solo_Run_Visuals_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Trash Can Puzzle Solve",
+                     "category":  "QOL",
+                     "repo":  "GymLeaderMatt/Surge_Trash_Can_Puzzle_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Bag Stock Preview",
+                     "category":  "UI",
+                     "repo":  "harryw4444/bag_stock_preview_gen1recomp"
+                 },
+                 {
+                     "name":  "Fade Overlay Fix",
+                     "category":  "UI",
+                     "repo":  "harryw4444/fade_overlay_fix_gen1recomp"
+                 },
+                 {
+                     "name":  "Fishing Minigame",
+                     "category":  "GAMEPLAY",
+                     "repo":  "harryw4444/fishing_mini_game_gen1recomp"
+                 },
+                 {
+                     "name":  "Green\u0027s SGB Palette",
+                     "category":  "ART",
+                     "repo":  "harryw4444/green_sgb_palette_gen1recomp"
+                 },
+                 {
+                     "name":  "Mute Low HP Alarm",
+                     "category":  "AUDIO",
+                     "repo":  "harryw4444/mute_low_HP_alarm_gen1recomp"
+                 },
+                 {
+                     "name":  "Cheat Engine",
+                     "category":  "GAMEPLAY",
+                     "repo":  "hdbreaker/gen1recomp-mod-cheat_engine"
+                 },
+                 {
+                     "name":  "Intro Bypass",
+                     "category":  "QOL",
+                     "repo":  "hdbreaker/gen1recomp-mod-intro_bypass"
+                 },
+                 {
+                     "name":  "Leaf-Gen1Recomp",
+                     "category":  "OTHER",
+                     "repo":  "Helaas/Leaf-Gen1Recomp"
+                 },
+                 {
+                     "name":  "Gen1Linux",
+                     "category":  "OTHER",
+                     "repo":  "HellboundGlory/Gen1Linux"
+                 },
+                 {
+                     "name":  "gbromdiff",
+                     "category":  "TOOL",
+                     "repo":  "hernan0078/gbromdiff"
+                 },
+                 {
+                     "name":  "voxeltrail-ios",
+                     "category":  "OTHER",
+                     "repo":  "hernan0078/voxeltrail-ios"
+                 },
+                 {
+                     "name":  "1GenPokemonVr",
+                     "category":  "VOXEL",
+                     "repo":  "heurazy/1GenPokemonVr"
+                 },
+                 {
+                     "name":  "Colosseum-inspired-Crystal-custom-cart",
+                     "category":  "CART",
+                     "repo":  "HighDrexler/Colosseum-inspired-Crystal-custom-cart"
+                 },
+                 {
+                     "name":  "Colosseum Inspired UI Overhaul",
+                     "category":  "UI",
+                     "repo":  "HighDrexler/Colosseum-Inspired-UI-Overhaul-V.1.0.0"
+                 },
+                 {
+                     "name":  "Colosseum Overhaul",
+                     "category":  "UI",
+                     "repo":  "HighDrexler/Colosseum-Overhaul-V1.0-For-Gen1Recomp-"
+                 },
+                 {
+                     "name":  "Gen 3 Inspired UI Overhaul",
+                     "category":  "UI",
+                     "repo":  "HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp"
+                 },
+                 {
+                     "name":  "Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V1.1-w-updater",
+                     "category":  "UI",
+                     "repo":  "HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V1.1-w-updater"
+                 },
+                 {
+                     "name":  "Gen 3 Inspired UI Overhaul",
+                     "category":  "UI",
+                     "repo":  "HighDrexler/Gen-3-inspired-UI-overhaul-for-Gen1Recomp-V2.0"
+                 },
+                 {
+                     "name":  "FRLG-Voxel-Engine",
+                     "category":  "VOXEL",
+                     "repo":  "HimioneGranger/FRLG-Voxel-Engine"
+                 },
+                 {
+                     "name":  "Gen1recomp-Quest-Standalone",
+                     "category":  "VOXEL",
+                     "repo":  "HimioneGranger/Gen1recomp-Quest-Standalone"
+                 },
+                 {
+                     "name":  "Lightweight Weather \u0026 Skies",
+                     "category":  "VOXEL",
+                     "repo":  "HimioneGranger/Lightweight-Weather-and-Skies"
+                 },
+                 {
+                     "name":  "Phase Step",
+                     "category":  "GAMEPLAY",
+                     "repo":  "HubGit8/Gen1Recomp-Phase-Step"
+                 },
+                 {
+                     "name":  "HM Anywhere (Gen 2)",
+                     "category":  "QOL",
+                     "repo":  "hunter6571/hm_anywhere_gen2"
+                 },
+                 {
+                     "name":  "Max Bag Capacity",
+                     "category":  "QOL",
+                     "repo":  "hunter6571/max_bag_capacity_gen2"
+                 },
+                 {
+                     "name":  "Spaceworld\u0027s Back Sprites",
+                     "category":  "ART",
+                     "repo":  "hydhyro/gen1recompSpaceWorldSprites"
+                 },
+                 {
+                     "name":  "Better Battle Visuals",
+                     "category":  "ART",
+                     "repo":  "HydroHomie31415/better_battle_visuals"
+                 },
+                 {
+                     "name":  "mmo",
+                     "category":  "OTHER",
+                     "repo":  "IagoLast/mmo"
+                 },
+                 {
+                     "name":  "Encounter Guide",
+                     "category":  "UI",
+                     "repo":  "illanrego/gen1recomp-encounter-guide"
+                 },
+                 {
+                     "name":  "PocketVoxel Sync",
+                     "category":  "TOOL",
+                     "repo":  "imantheman/pvsync"
+                 },
+                 {
+                     "name":  "gen1recomp-web-pwa",
+                     "category":  "OTHER",
+                     "repo":  "inlasco/gen1recomp-web-pwa"
+                 },
+                 {
+                     "name":  "FireRed Kanto Visual Importer",
+                     "category":  "ART",
+                     "repo":  "inmento/FireRed-Kanto-Visual-Importer"
+                 },
+                 {
+                     "name":  "FireRed Tilesheet Importer Prototype",
+                     "category":  "ART",
+                     "repo":  "inmento/FireRed-Tilesheet-Importer"
+                 },
+                 {
+                     "name":  "Gen 2 Case Style",
+                     "category":  "UI",
+                     "repo":  "inmento/Gold-Silver-Case-Style"
+                 },
+                 {
+                     "name":  "Gym Leader Rush + Shuffle",
+                     "category":  "GAMEPLAY",
+                     "repo":  "inmento/Gym-Leader-Rush-Plus"
+                 },
+                 {
+                     "name":  "Inventory QoL",
+                     "category":  "QOL",
+                     "repo":  "inmento/Inventory-QoL"
+                 },
+                 {
+                     "name":  "Red \u0026 Yellow Centered Layout",
+                     "category":  "ART",
+                     "repo":  "inmento/Red-Centered-Layout"
+                 },
+                 {
+                     "name":  "Texture-Pack-Templates",
+                     "category":  "TOOL",
+                     "repo":  "inmento/Texture-Pack-Templates"
+                 },
+                 {
+                     "name":  "Typed Metronomes",
+                     "category":  "GAMEPLAY",
+                     "repo":  "inmento/Typed-Metronomes"
+                 },
+                 {
+                     "name":  "KantoBridge",
+                     "category":  "OTHER",
+                     "repo":  "ItchyMichi/KantoBridge"
+                 },
+                 {
+                     "name":  "DRAMATIC_SHAPE-1.2.1-Android-Release",
+                     "category":  "VOXEL",
+                     "repo":  "ItsNoctyss/DRAMATIC_SHAPE-1.2.1-Android-Release"
+                 },
+                 {
+                     "name":  "Floating Glass Gen3",
+                     "category":  "UI",
+                     "repo":  "Jo5-K/floating-glass-gen3"
+                 },
+                 {
+                     "name":  "GiveNationalDex",
+                     "category":  "CONTENT",
+                     "repo":  "Jo5-K/GiveNationaldex---Gen1recomp-mod"
+                 },
+                 {
+                     "name":  "pokemon-mods",
+                     "category":  "OTHER",
+                     "repo":  "johnjohto/pokemon-mods"
+                 },
+                 {
+                     "name":  "Gen 2 Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "jonboncovey/gen2_voxelmod"
+                 },
+                 {
+                     "name":  "1TB Agenda",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/1tb-agenda"
+                 },
+                 {
+                     "name":  "Auto Field Moves",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/auto-field-moves"
+                 },
+                 {
+                     "name":  "Gen2 3D Sprites Plus",
+                     "category":  "VOXEL",
+                     "repo":  "jramiresbrito/Gen2-3D-Sprites"
+                 },
+                 {
+                     "name":  "Heal Me Fast",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/heal-me-fast"
+                 },
+                 {
+                     "name":  "House Always Lose",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/house-always-lose"
+                 },
+                 {
+                     "name":  "Infinite Haircuts",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/infinite-hair-cuts"
+                 },
+                 {
+                     "name":  "jramiresbrito.github.io",
+                     "category":  "TOOL",
+                     "repo":  "jramiresbrito/jramiresbrito.github.io"
+                 },
+                 {
+                     "name":  "Kurt Bulk Apricorns",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/kurt-bulk-apricorns"
+                 },
+                 {
+                     "name":  "Mobile PC",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/mobile-pc"
+                 },
+                 {
+                     "name":  "One EXP Line",
+                     "category":  "UI",
+                     "repo":  "jramiresbrito/one-exp-line"
+                 },
+                 {
+                     "name":  "Pokemon Auto Deposit",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/pokemon-auto-deposit"
+                 },
+                 {
+                     "name":  "Sticky Zoom",
+                     "category":  "QOL",
+                     "repo":  "jramiresbrito/sticky-zoom"
+                 },
+                 {
+                     "name":  "Unown Caught Mark",
+                     "category":  "UI",
+                     "repo":  "jramiresbrito/unown-caught-mark"
+                 },
+                 {
+                     "name":  "Useful Marts for Gold",
+                     "category":  "UI",
+                     "repo":  "jramiresbrito/useful-marts-gold"
+                 },
+                 {
+                     "name":  "Fair Battles",
+                     "category":  "BALANCE",
+                     "repo":  "jrmsrs/fair-battles"
+                 },
+                 {
+                     "name":  "Kanto Life for Gen2Recomped",
+                     "category":  "CONTENT",
+                     "repo":  "jtfresh90/kantolife-gen2recomped"
+                 },
+                 {
+                     "name":  "Gen1Online+",
+                     "category":  "GAMEPLAY",
+                     "repo":  "jt-marte/Gen1Online"
+                 },
+                 {
+                     "name":  "Wide Menus",
+                     "category":  "UI",
+                     "repo":  "juancdominici/wide-menus"
+                 },
+                 {
+                     "name":  "3G Level Caps",
+                     "category":  "BALANCE",
+                     "repo":  "Julien-B1/g1r_emerald_level_caps"
+                 },
+                 {
+                     "name":  "EXP QoL",
+                     "category":  "QOL",
+                     "repo":  "Julien-B1/g1r_exp_qol"
+                 },
+                 {
+                     "name":  "Shiny Odds",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Julien-B1/g1r_shiny_odds"
+                 },
+                 {
+                     "name":  "dramatic-mini-modifications-mod",
+                     "category":  "VOXEL",
+                     "repo":  "kaboggs/dramatic-mini-modifications-mod"
+                 },
+                 {
+                     "name":  "Easy Language Packs",
+                     "category":  "TRANSLATION",
+                     "repo":  "kakhonn/g1r-easy-language-packs"
+                 },
+                 {
+                     "name":  "Better Player Backsprite",
+                     "category":  "ART",
+                     "repo":  "Kamon137/betterback"
+                 },
+                 {
+                     "name":  "Button Shortcuts",
+                     "category":  "UI",
+                     "repo":  "keberos/button-shortcuts"
+                 },
+                 {
+                     "name":  "Color Saturation",
+                     "category":  "ART",
+                     "repo":  "keberos/color-saturation"
+                 },
+                 {
+                     "name":  "gen1recomp-index",
+                     "category":  "TOOL",
+                     "repo":  "keberos/gen1recomp-index"
+                 },
+                 {
+                     "name":  "Poison Notify",
+                     "category":  "UI",
+                     "repo":  "keberos/poison-notify"
+                 },
+                 {
+                     "name":  "Pokeball Colorfix",
+                     "category":  "ART",
+                     "repo":  "keberos/pokeball-colorfix"
+                 },
+                 {
+                     "name":  "Pokedex Sprites (HGSS)",
+                     "category":  "ART",
+                     "repo":  "keberos/pokedex-sprites-hgss"
+                 },
+                 {
+                     "name":  "Pokemove Colorfix",
+                     "category":  "ART",
+                     "repo":  "keberos/pokemove-colorfix"
+                 },
+                 {
+                     "name":  "Quick Map",
+                     "category":  "UI",
+                     "repo":  "keberos/quickmap"
+                 },
+                 {
+                     "name":  "Raichu Unlock (Yellow)",
+                     "category":  "GAMEPLAY",
+                     "repo":  "keberos/raichu-unlock"
+                 },
+                 {
+                     "name":  "Rename Character",
+                     "category":  "UI",
+                     "repo":  "keberos/rename-character"
+                 },
+                 {
+                     "name":  "Autoplay",
+                     "category":  "GAMEPLAY",
+                     "repo":  "kevindjacobson/gen1recomp-autoplay"
+                 },
+                 {
+                     "name":  "Dramatic Shape Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "KhabirTheGoat/Voxel-mod-backup"
+                 },
+                 {
+                     "name":  "gen1recomp-italian",
+                     "category":  "TRANSLATION",
+                     "repo":  "klokkett90/gen1recomp-italian"
+                 },
+                 {
+                     "name":  "Exp Bar",
+                     "category":  "UI",
+                     "repo":  "KuroKratos/exp_bar"
+                 },
+                 {
+                     "name":  "Full Dex",
+                     "category":  "CONTENT",
+                     "repo":  "KuroKratos/full_dex"
+                 },
+                 {
+                     "name":  "gen1recomp-mods",
+                     "category":  "TOOL",
+                     "repo":  "KuroKratos/gen1recomp-mods"
+                 },
+                 {
+                     "name":  "Level Caps",
+                     "category":  "BALANCE",
+                     "repo":  "KuroKratos/level_caps"
+                 },
+                 {
+                     "name":  "Modern QoL",
+                     "category":  "QOL",
+                     "repo":  "KuroKratos/modern_qol"
+                 },
+                 {
+                     "name":  "New Types",
+                     "category":  "BALANCE",
+                     "repo":  "KuroKratos/new_types"
+                 },
+                 {
+                     "name":  "Trainer Career",
+                     "category":  "GAMEPLAY",
+                     "repo":  "l0rd92/gen1recomp-trainer-career"
+                 },
+                 {
+                     "name":  "Stadium-Cries",
+                     "category":  "AUDIO",
+                     "repo":  "Lachie123456/Stadium-Cries"
+                 },
+                 {
+                     "name":  "g1rd-mute-hp-beep-FR-LG",
+                     "category":  "AUDIO",
+                     "repo":  "LaserRaver/g1rd-mute-hp-beep-FR-LG"
+                 },
+                 {
+                     "name":  "gen1recomp-A-everywhere",
+                     "category":  "UI",
+                     "repo":  "leadaenima/gen1recomp-A-everywhere"
+                 },
+                 {
+                     "name":  "Encounter Radar",
+                     "category":  "UI",
+                     "repo":  "leadaenima/gen2recomp-gen2-radar"
+                 },
+                 {
+                     "name":  "More Gymz",
+                     "category":  "CONTENT",
+                     "repo":  "leftshoe18/more_gymz"
+                 },
+                 {
+                     "name":  "Auto Grass Battler",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Leo0957/LevulUp-Bot"
+                 },
+                 {
+                     "name":  "Cry Manager",
+                     "category":  "AUDIO",
+                     "repo":  "Leoocast/cry-manager-gen1recomp-mod"
+                 },
+                 {
+                     "name":  "Open-Continent-Concept-Mod",
+                     "category":  "CONTENT",
+                     "repo":  "LilNuggettBoi/Open-Continent-Concept-Mod"
+                 },
+                 {
+                     "name":  "Sevii Routes",
+                     "category":  "CONTENT",
+                     "repo":  "LilNuggettBoi/Sevii-Routes"
+                 },
+                 {
+                     "name":  "Pretty Moves",
+                     "category":  "ART",
+                     "repo":  "LiNK200488/Pretty-Moves"
+                 },
+                 {
+                     "name":  "Stadium Announcer",
+                     "category":  "AUDIO",
+                     "repo":  "LiNK200488/StadiumAnnouncer"
+                 },
+                 {
+                     "name":  "DramaticShapeVoxelModBackup",
+                     "category":  "VOXEL",
+                     "repo":  "linkfy/DramaticShapeVoxelModBackup"
+                 },
+                 {
+                     "name":  "buried-alive-battle-gen1recomp",
+                     "category":  "GAMEPLAY",
+                     "repo":  "LinkThePaleSystem64/buried-alive-battle-gen1recomp"
+                 },
+                 {
+                     "name":  "gen1recomp-blue-kaizo-elite-4",
+                     "category":  "BALANCE",
+                     "repo":  "LinkThePaleSystem64/gen1recomp-blue-kaizo-elite-4"
+                 },
+                 {
+                     "name":  "linkthepales-mods-for-red-recomp",
+                     "category":  "OTHER",
+                     "repo":  "LinkThePaleSystem64/linkthepales-mods-for-red-recomp"
+                 },
+                 {
+                     "name":  "2xGB-gen1recomp",
+                     "category":  "AUDIO",
+                     "repo":  "LionHeartChiptuner/2xGB-gen1recomp"
+                 },
+                 {
+                     "name":  "[PT-BR] Versão Brasileira (FRLG)",
+                     "category":  "TRANSLATION",
+                     "repo":  "LordSangreal/gen3_frlg_pt-br_mod"
+                 },
+                 {
+                     "name":  "gen3-ptbr-firered-leafgreen-index",
+                     "category":  "TRANSLATION",
+                     "repo":  "LordSangreal/gen3-ptbr-firered-leafgreen-index"
+                 },
+                 {
+                     "name":  "Turbo Mod",
+                     "category":  "QOL",
+                     "repo":  "lovelydumpling/g1r-turbo-mod"
+                 },
+                 {
+                     "name":  "Legendary-3D-Character-Selector",
+                     "category":  "VOXEL",
+                     "repo":  "ltzLegend/Legendary-3D-Character-Selector"
+                 },
+                 {
+                     "name":  "Legendary-3D-NPCs",
+                     "category":  "VOXEL",
+                     "repo":  "ltzLegend/Legendary-3D-NPCs"
+                 },
+                 {
+                     "name":  "Legendary-Battle-Cinematics-Compat",
+                     "category":  "VOXEL",
+                     "repo":  "ltzLegend/Legendary-Battle-Cinematics-Compat"
+                 },
+                 {
+                     "name":  "Legendary-Casino-Slots",
+                     "category":  "ART",
+                     "repo":  "ltzLegend/Legendary-Casino-Slots"
+                 },
+                 {
+                     "name":  "Legendary Visuals Grass and Flowers — TEST3 Performance",
+                     "category":  "VOXEL",
+                     "repo":  "ltzLegend/Legendary-Grass-and-Flowers"
+                 },
+                 {
+                     "name":  "Legendary-Stadium-Overworld-Models",
+                     "category":  "VOXEL",
+                     "repo":  "ltzLegend/Legendary-Stadium-Overworld-Models"
+                 },
+                 {
+                     "name":  "Legendary-Visuals-",
+                     "category":  "VOXEL",
+                     "repo":  "ltzLegend/Legendary-Visuals-"
+                 },
+                 {
+                     "name":  "gen1recomp-mods",
+                     "category":  "ART",
+                     "repo":  "LucianoNeo/gen1recomp-mods"
+                 },
+                 {
+                     "name":  "Smart Ai",
+                     "category":  "BALANCE",
+                     "repo":  "luisvent/gen1recomp_smartai"
+                 },
+                 {
+                     "name":  "Battle EXP Bar",
+                     "category":  "UI",
+                     "repo":  "madramdesign/gen1recomp-battle-exp-bar"
+                 },
+                 {
+                     "name":  "Exp Share",
+                     "category":  "QOL",
+                     "repo":  "madramdesign/gen1recomp-exp-share"
+                 },
+                 {
+                     "name":  "gen1recomp-mod-catalog",
+                     "category":  "TOOL",
+                     "repo":  "madramdesign/gen1recomp-mod-catalog"
+                 },
+                 {
+                     "name":  "Professor Oak Challenge",
+                     "category":  "GAMEPLAY",
+                     "repo":  "madramdesign/gen1recomp-professor-oak-challenge"
+                 },
+                 {
+                     "name":  "Settings Hotkeys",
+                     "category":  "UI",
+                     "repo":  "madramdesign/gen1recomp-settings-hotkeys"
+                 },
+                 {
+                     "name":  "New Pokeballs",
+                     "category":  "CONTENT",
+                     "repo":  "magalvao/custom-pokeballs"
+                 },
+                 {
+                     "name":  "ItFindrPlus",
+                     "category":  "GAMEPLAY",
+                     "repo":  "magalvao/itemfinder-plus"
+                 },
+                 {
+                     "name":  "Kanto Mega Evolutions",
+                     "category":  "GAMEPLAY",
+                     "repo":  "magatsu64/Gen1RecompMegaEvolution"
+                 },
+                 {
+                     "name":  "Mars\u0027s Expanded Kanto",
+                     "category":  "CONTENT",
+                     "repo":  "MarsCrowley/Mars-s-Expanded-Kanto"
+                 },
+                 {
+                     "name":  "gen1recomp-3DS",
+                     "category":  "OTHER",
+                     "repo":  "marvynmesquita/gen1recomp-3DS"
+                 },
+                 {
+                     "name":  "Battle Move Info",
+                     "category":  "UI",
+                     "repo":  "masterwebx/gen1recomp-battle-move-info"
+                 },
+                 {
+                     "name":  "HUNT Mode",
+                     "category":  "GAMEPLAY",
+                     "repo":  "masterwebx/gen1recomp-hunt-mode"
+                 },
+                 {
+                     "name":  "Music Player",
+                     "category":  "AUDIO",
+                     "repo":  "masterwebx/gen1recomp-music-player"
+                 },
+                 {
+                     "name":  "Modern Type Framework",
+                     "category":  "BALANCE",
+                     "repo":  "MaybeGreg/modern_type_framework"
+                 },
+                 {
+                     "name":  "vitaport",
+                     "category":  "OTHER",
+                     "repo":  "melomp4/vitaport"
+                 },
+                 {
+                     "name":  "PokeTouch",
+                     "category":  "UI",
+                     "repo":  "millblues/PokeTouch"
+                 },
+                 {
+                     "name":  "mod-index",
+                     "category":  "TOOL",
+                     "repo":  "mistermiracle3036/mod-index"
+                 },
+                 {
+                     "name":  "NPC Inspector (dev tool)",
+                     "category":  "TOOL",
+                     "repo":  "mistermiracle3036/npc_inspector"
+                 },
+                 {
+                     "name":  "Fast Pokemon Center",
+                     "category":  "QOL",
+                     "repo":  "mjdenucci/fast-pokemon-center"
+                 },
+                 {
+                     "name":  "PkMultiplayer (Online Co-op)",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Mochx-007/PkMultiplayer"
+                 },
+                 {
+                     "name":  "PM-Crystal-Android",
+                     "category":  "OTHER",
+                     "repo":  "Moglipapy/PM-Crystal-Android"
+                 },
+                 {
+                     "name":  "AUTOBIKE+",
+                     "category":  "QOL",
+                     "repo":  "moocd123/gen1recomp-bicycle-plus"
+                 },
+                 {
+                     "name":  "gen1recomp-chinese",
+                     "category":  "TRANSLATION",
+                     "repo":  "moodyawhvh/gen1recomp-chinese"
+                 },
+                 {
+                     "name":  "pokemon-couch-multiplayer",
+                     "category":  "GAMEPLAY",
+                     "repo":  "moonfall-man/pokemon-couch-multiplayer"
+                 },
+                 {
+                     "name":  "pokepack",
+                     "category":  "TOOL",
+                     "repo":  "moonfall-man/pokepack"
+                 },
+                 {
+                     "name":  "Mash Catch",
+                     "category":  "GAMEPLAY",
+                     "repo":  "mresnick67/Gen1ReComp-ButtonMash"
+                 },
+                 {
+                     "name":  "Tactical-Combat-Overhaul-Gen1Recomp-",
+                     "category":  "GAMEPLAY",
+                     "repo":  "mrgr8/Tactical-Combat-Overhaul-Gen1Recomp-"
+                 },
+                 {
+                     "name":  "AI Rivals",
+                     "category":  "GAMEPLAY",
+                     "repo":  "MrKrisSatan/AIRivials"
+                 },
+                 {
+                     "name":  "Gen1recomp-acheivements",
+                     "category":  "GAMEPLAY",
+                     "repo":  "MrKrisSatan/Gen1recomp-acheivements"
+                 },
+                 {
+                     "name":  "KANTO: STORMFORGED",
+                     "category":  "CART",
+                     "repo":  "MrKrisSatan/Kanto_Stormforged"
+                 },
+                 {
+                     "name":  "The_World",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "MrKrisSatan/The_World"
+                 },
+                 {
+                     "name":  "Ultron",
+                     "category":  "GAMEPLAY",
+                     "repo":  "MrKrisSatan/Ultron"
+                 },
+                 {
+                     "name":  "WXpokes",
+                     "category":  "CONTENT",
+                     "repo":  "MrKrisSatan/WXpokes"
+                 },
+                 {
+                     "name":  "Kanto in First Person - Interiors and Tweaks",
+                     "category":  "VOXEL",
+                     "repo":  "mrmushrooms11/kanto-first-person"
+                 },
+                 {
+                     "name":  "INDIGO//97",
+                     "category":  "ART",
+                     "repo":  "n47h4ni3l/gen2recomp-indigo97"
+                 },
+                 {
+                     "name":  "3DSEmu",
+                     "category":  "OTHER",
+                     "repo":  "nahalewski/3DSEmu"
+                 },
+                 {
+                     "name":  "AeonDX",
+                     "category":  "OTHER",
+                     "repo":  "nahalewski/AeonDX"
+                 },
+                 {
+                     "name":  "gen1recomp-Fold",
+                     "category":  "OTHER",
+                     "repo":  "nahalewski/gen1recomp-Fold"
+                 },
+                 {
+                     "name":  "go-mod",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Neburb/go-mod"
+                 },
+                 {
+                     "name":  "legends",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Neburb/legends"
+                 },
+                 {
+                     "name":  "pokebox-sync-gen1recomp",
+                     "category":  "TOOL",
+                     "repo":  "Neburb/pokebox-sync-gen1recomp"
+                 },
+                 {
+                     "name":  "pokemonrgb-ds-location-banner",
+                     "category":  "UI",
+                     "repo":  "Neburb/pokemonrgb-ds-location-banner"
+                 },
+                 {
+                     "name":  "Active System Pokemon",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Nexhas28/active_system_pokemon"
+                 },
+                 {
+                     "name":  "Crystal Legacy Changes",
+                     "category":  "BALANCE",
+                     "repo":  "Nexhas28/crystal_legacy_changes"
+                 },
+                 {
+                     "name":  "gen1recomp-mod-browser",
+                     "category":  "TOOL",
+                     "repo":  "Nexhas28/gen1recomp-mod-browser"
+                 },
+                 {
+                     "name":  "Pokémon Version Violette",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "Nexhas28/gen1recomp-violette"
+                 },
+                 {
+                     "name":  "my-mod-index",
+                     "category":  "TOOL",
+                     "repo":  "Nexhas28/my-mod-index"
+                 },
+                 {
+                     "name":  "Throw Ball Hotkey",
+                     "category":  "QOL",
+                     "repo":  "Nexhas28/throw_ball_hotkey"
+                 },
+                 {
+                     "name":  "Centered Camera",
+                     "category":  "UI",
+                     "repo":  "Nezara/gen1recomp-centered-camera"
+                 },
+                 {
+                     "name":  "Dialogue Portraits",
+                     "category":  "ART",
+                     "repo":  "Nezara/gen1recomp-dialogue-portraits"
+                 },
+                 {
+                     "name":  "oaks-lab",
+                     "category":  "TOOL",
+                     "repo":  "Nezara/oaks-lab"
+                 },
+                 {
+                     "name":  "SilphScope-Tournament",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Nezara/silph-scope-tournament"
+                 },
+                 {
+                     "name":  "Gen1Recomp",
+                     "category":  "CONTENT",
+                     "repo":  "NikoKatsu575/Gen1Recomp"
+                 },
+                 {
+                     "name":  "gen1recomp_chn",
+                     "category":  "TRANSLATION",
+                     "repo":  "nobrainmonkey/gen1recomp_chn"
+                 },
+                 {
+                     "name":  "Double Battles",
+                     "category":  "GAMEPLAY",
+                     "repo":  "notquiteog/double-battles-gen2"
+                 },
+                 {
+                     "name":  "Dramatic Sky Ride",
+                     "category":  "GAMEPLAY",
+                     "repo":  "notquiteog/dramatic-sky-ride"
+                 },
+                 {
+                     "name":  "Gen1Online+",
+                     "category":  "GAMEPLAY",
+                     "repo":  "notquiteog/gen1online-plus"
+                 },
+                 {
+                     "name":  "Johto Diorama",
+                     "category":  "CART",
+                     "repo":  "notquiteog/JohtoDioramaCart"
+                 },
+                 {
+                     "name":  "Modern Pokemon UI",
+                     "category":  "UI",
+                     "repo":  "notquiteog/modern-ui"
+                 },
+                 {
+                     "name":  "Voxel Red Preview",
+                     "category":  "CART",
+                     "repo":  "notquiteog/VoxelRed"
+                 },
+                 {
+                     "name":  "Yellow Online",
+                     "category":  "CART",
+                     "repo":  "notquiteog/yellow-online"
+                 },
+                 {
+                     "name":  "Gen 2 Pokemon for Gen 1",
+                     "category":  "CONTENT",
+                     "repo":  "odiegoalessandro/gen2_pokemon"
+                 },
+                 {
+                     "name":  "Move Mania",
+                     "category":  "GAMEPLAY",
+                     "repo":  "oflatt/move-mania"
+                 },
+                 {
+                     "name":  "Static Camera",
+                     "category":  "VOXEL",
+                     "repo":  "ojsaucer/Advanced-Camera-Options"
+                 },
+                 {
+                     "name":  "Menu Hotkeys",
+                     "category":  "UI",
+                     "repo":  "ojsaucer/gen1recomp-Menu-Hotkeys"
+                 },
+                 {
+                     "name":  "gen1recomp-Radial-Menu",
+                     "category":  "UI",
+                     "repo":  "ojsaucer/gen1recomp-Radial-Menu"
+                 },
+                 {
+                     "name":  "DV Colors",
+                     "category":  "ART",
+                     "repo":  "oldtriplesix/DVColors-2.1.0-PKMN-Gen1-ReComp-"
+                 },
+                 {
+                     "name":  "Crystal-Clear-Sprite-Sheet-Converter",
+                     "category":  "TOOL",
+                     "repo":  "on1san/Crystal-Clear-Sprite-Sheet-Converter"
+                 },
+                 {
+                     "name":  "Custom Player Sprites",
+                     "category":  "ART",
+                     "repo":  "on1san/Custom-Player-Sprites-G1R"
+                 },
+                 {
+                     "name":  "Pokémon Gold \u0026 Silver OST",
+                     "category":  "AUDIO",
+                     "repo":  "OtaconRevengeance/gold_ost"
+                 },
+                 {
+                     "name":  "Pokémon Gold \u0026 Silver Sprites",
+                     "category":  "ART",
+                     "repo":  "OtaconRevengeance/gold_sprites"
+                 },
+                 {
+                     "name":  "Pokémon Green Sprites",
+                     "category":  "ART",
+                     "repo":  "OtaconRevengeance/green_sprites"
+                 },
+                 {
+                     "name":  "highlandermods",
+                     "category":  "OTHER",
+                     "repo":  "OtaconRevengeance/highlandermods"
+                 },
+                 {
+                     "name":  "Red Translated",
+                     "category":  "TRANSLATION",
+                     "repo":  "OtaconRevengeance/red_retranslated"
+                 },
+                 {
+                     "name":  "Pokémon Silver Sprites (True Color)",
+                     "category":  "ART",
+                     "repo":  "OtaconRevengeance/silver_sprites"
+                 },
+                 {
+                     "name":  "Darkrai + Cresselia Events",
+                     "category":  "CONTENT",
+                     "repo":  "Panduino/Darkrai-Cresselia-Event"
+                 },
+                 {
+                     "name":  "Balanced EXP Share",
+                     "category":  "QOL",
+                     "repo":  "Panduino/exp-shareGen3"
+                 },
+                 {
+                     "name":  "Battle Effect Colors",
+                     "category":  "ART",
+                     "repo":  "Panduino/gen1-battle-effects"
+                 },
+                 {
+                     "name":  "Gen 3 Ball Rarity",
+                     "category":  "ART",
+                     "repo":  "Panduino/gen3-ball-rarity"
+                 },
+                 {
+                     "name":  "Gen 3 Party Icons + Shinies",
+                     "category":  "ART",
+                     "repo":  "Panduino/Gen-3-Party-Icons-Shinies"
+                 },
+                 {
+                     "name":  "Lake Trio Events",
+                     "category":  "CONTENT",
+                     "repo":  "Panduino/lake-trio-event"
+                 },
+                 {
+                     "name":  "Hoenn Latias + Latios Roamers",
+                     "category":  "CONTENT",
+                     "repo":  "Panduino/Latios-and-Latias-Roamers"
+                 },
+                 {
+                     "name":  "Choose Your Avatar",
+                     "category":  "ART",
+                     "repo":  "Panduino/leaf-avatar"
+                 },
+                 {
+                     "name":  "Level Up Trade Evolutions",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Panduino/Level-Up-Evolutions-Gen-3"
+                 },
+                 {
+                     "name":  "Manaphy + Phione Event",
+                     "category":  "CONTENT",
+                     "repo":  "Panduino/manaphy-phione-event"
+                 },
+                 {
+                     "name":  "Mew Event",
+                     "category":  "CONTENT",
+                     "repo":  "Panduino/Mew-Under-Truck-Gen3"
+                 },
+                 {
+                     "name":  "Navel Rock + Birth Island Restoration",
+                     "category":  "CONTENT",
+                     "repo":  "Panduino/Navel-Rock-and-Birth-Island-Restoration"
+                 },
+                 {
+                     "name":  "Gen 1 / Gen 3 Quick Start",
+                     "category":  "QOL",
+                     "repo":  "Panduino/oak-alternate-intro"
+                 },
+                 {
+                     "name":  "Panduino-s-G1RDeluxe-Mod-Index",
+                     "category":  "TOOL",
+                     "repo":  "Panduino/Panduino-s-G1RDeluxe-Mod-Index"
+                 },
+                 {
+                     "name":  "Auto Shiny Hunt",
+                     "category":  "QOL",
+                     "repo":  "parkerallen1/gen1recomp-auto-shiny-hunt"
+                 },
+                 {
+                     "name":  "Realtimeclocktest",
+                     "category":  "TOOL",
+                     "repo":  "PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase"
+                 },
+                 {
+                     "name":  "Red Gen 2.5",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "PashleyAUS/Red-Gen-2.5"
+                 },
+                 {
+                     "name":  "Modern Pokedex UI",
+                     "category":  "UI",
+                     "repo":  "piftee/gen1recomp-modern-pokedex-ui"
+                 },
+                 {
+                     "name":  "Modern Start Menu UI",
+                     "category":  "UI",
+                     "repo":  "piftee/gen1recomp-modern-start-menu-ui"
+                 },
+                 {
+                     "name":  "Modern UI Suite",
+                     "category":  "UI",
+                     "repo":  "piftee/gen1recomp-modern-ui-suite"
+                 },
+                 {
+                     "name":  "Pokemon-Yellow-Super-Rod-Fix-gen1recomp",
+                     "category":  "GAMEPLAY",
+                     "repo":  "pluto-94/Pokemon-Yellow-Super-Rod-Fix-gen1recomp"
+                 },
+                 {
+                     "name":  "pokemon-gen1-voxel-vr",
+                     "category":  "VOXEL",
+                     "repo":  "polymathiclabs/pokemon-gen1-voxel-vr"
+                 },
+                 {
+                     "name":  "Cleaner Mod Options",
+                     "category":  "UI",
+                     "repo":  "poooooby/cleaner-mod-options"
+                 },
+                 {
+                     "name":  "Modern Spawns",
+                     "category":  "GAMEPLAY",
+                     "repo":  "poooooby/g1r_modern_spawns"
+                 },
+                 {
+                     "name":  "Gen 3 HD Sprites",
+                     "category":  "LIBRARY",
+                     "repo":  "poooooby/gen3-hd-sprites"
+                 },
+                 {
+                     "name":  "National Dex Gen 3",
+                     "category":  "CONTENT",
+                     "repo":  "poooooby/national_dex_gen3"
+                 },
+                 {
+                     "name":  "PlayNav",
+                     "category":  "GAMEPLAY",
+                     "repo":  "poooooby/PlayNav"
+                 },
+                 {
+                     "name":  "Wilds of Hoenn",
+                     "category":  "GAMEPLAY",
+                     "repo":  "poooooby/wilds-of-hoenn"
+                 },
+                 {
+                     "name":  "yapper-gen1recomp-mod-tool",
+                     "category":  "TOOL",
+                     "repo":  "poooooby/yapper-gen1recomp-mod-tool"
+                 },
+                 {
+                     "name":  "Versione Italiana Gen1",
+                     "category":  "TRANSLATION",
+                     "repo":  "primianocristino/Traduzione_Italiana_Gen1Recomp"
+                 },
+                 {
+                     "name":  "Priston",
+                     "category":  "CONTENT",
+                     "repo":  "prioa/priston"
+                 },
+                 {
+                     "name":  "Stadium-Battles",
+                     "category":  "GAMEPLAY",
+                     "repo":  "quit-1337/Stadium-Battles"
+                 },
+                 {
+                     "name":  "GameShark Compatibility",
+                     "category":  "GAMEPLAY",
+                     "repo":  "radeatsworld/PKM-Gen1Recomp-Gameshark-Mod"
+                 },
+                 {
+                     "name":  "Party Presets",
+                     "category":  "QOL",
+                     "repo":  "RadekHM/party_presets_gen1recomp"
+                 },
+                 {
+                     "name":  "Exp Multiplier",
+                     "category":  "GAMEPLAY",
+                     "repo":  "RadekHM/xp_multiplier_gen1recomp"
+                 },
+                 {
+                     "name":  "pokemon_silver",
+                     "category":  "OTHER",
+                     "repo":  "radleynelson/pokemon_silver"
+                 },
+                 {
+                     "name":  "Pokemon Stadium Overworld Models",
+                     "category":  "VOXEL",
+                     "repo":  "randyadr/3D-Pokemon-Sprites"
+                 },
+                 {
+                     "name":  "Gen1 TRUE 3D Characters",
+                     "category":  "VOXEL",
+                     "repo":  "randyadr/Gen-1-3D-NPC-s"
+                 },
+                 {
+                     "name":  "Gen1-Cheat-Menu",
+                     "category":  "UI",
+                     "repo":  "randyadr/Gen1-Cheat-Menu"
+                 },
+                 {
+                     "name":  "3D Character Selector - Mobile Touch (Gen 1 + Gen 2)",
+                     "category":  "VOXEL",
+                     "repo":  "randyadr/Gen1Recomp-Character-Selector"
+                 },
+                 {
+                     "name":  "HD Grass + LGPE Wind Flowers",
+                     "category":  "VOXEL",
+                     "repo":  "randyadr/Gen1-Recomp-HD-Grass"
+                 },
+                 {
+                     "name":  "Pokemon Stadium 2 Overworld Models - Gold/Silver/Crystal (Gen 2)",
+                     "category":  "VOXEL",
+                     "repo":  "randyadr/Gen2-3D-Sprites"
+                 },
+                 {
+                     "name":  "Gen2 Gold Cheat Menu",
+                     "category":  "UI",
+                     "repo":  "randyadr/Gen2-Cheat-Menu"
+                 },
+                 {
+                     "name":  "Pokemon Stadium 2 UI Model Viewer",
+                     "category":  "VOXEL",
+                     "repo":  "randyadr/Gen-2-Stadium-Model-Viewer-for-Pokedex"
+                 },
+                 {
+                     "name":  "Pokemon Stadium UI Model Viewer",
+                     "category":  "VOXEL",
+                     "repo":  "randyadr/Stadium-Model-Viewer-for-Pokedex"
+                 },
+                 {
+                     "name":  "pokered-ptbr",
+                     "category":  "TRANSLATION",
+                     "repo":  "raphabarreto/pokered-ptbr"
+                 },
+                 {
+                     "name":  "VersãoVermelha (Moves in English)",
+                     "category":  "TRANSLATION",
+                     "repo":  "raphabarreto/versaovermelha-moves-en"
+                 },
+                 {
+                     "name":  "RepMonCustomizer",
+                     "category":  "ART",
+                     "repo":  "RepH3x/MonCustomizer"
+                 },
+                 {
+                     "name":  "Summon",
+                     "category":  "GAMEPLAY",
+                     "repo":  "RimuruTorrent/FAFF0x-Summon"
+                 },
+                 {
+                     "name":  "NPC Independent Colors",
+                     "category":  "ART",
+                     "repo":  "robertyur/NPC_Color_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "pokevoxel",
+                     "category":  "OTHER",
+                     "repo":  "rolottr/pokevoxel"
+                 },
+                 {
+                     "name":  "Pokevoxel Audio HD",
+                     "category":  "AUDIO",
+                     "repo":  "rolottr/pokevoxel-audio-hd"
+                 },
+                 {
+                     "name":  "Gen-1-Recomp-Modern-Types-Moves",
+                     "category":  "BALANCE",
+                     "repo":  "RonikBasnet/Gen-1-Recomp-Modern-Types-Moves"
+                 },
+                 {
+                     "name":  "Origami Ascendant",
+                     "category":  "VOXEL",
+                     "repo":  "Roxas2712/origami-ascendant"
+                 },
+                 {
+                     "name":  "uni-language-ascendant",
+                     "category":  "TRANSLATION",
+                     "repo":  "Roxas2712/uni-language-ascendant"
+                 },
+                 {
+                     "name":  "Secret Base Extras",
+                     "category":  "CONTENT",
+                     "repo":  "samuelpietra/secret_base_extras"
+                 },
+                 {
+                     "name":  "Secret Base Warp",
+                     "category":  "QOL",
+                     "repo":  "samuelpietra/secret_base_warp"
+                 },
+                 {
+                     "name":  "Weakness Chart",
+                     "category":  "UI",
+                     "repo":  "samuelpietra/weakness_chart"
+                 },
+                 {
+                     "name":  "Battle Forms",
+                     "category":  "GAMEPLAY",
+                     "repo":  "sanjinpepic/gen1recomp-battle-forms"
+                 },
+                 {
+                     "name":  "gen1recomp-national-dex",
+                     "category":  "CONTENT",
+                     "repo":  "sanjinpepic/gen1recomp-national-dex"
+                 },
+                 {
+                     "name":  "Dramatic Shape Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "scottcandy34/DramaticShapeVoxelMod-latest"
+                 },
+                 {
+                     "name":  "VoxelVR",
+                     "category":  "VOXEL",
+                     "repo":  "scottcandy34/VoxelVR"
+                 },
+                 {
+                     "name":  "Scott\u0027s Battle Art Kanto",
+                     "category":  "VOXEL",
+                     "repo":  "ScottExplores/gen1recomp-battle-art-kanto"
+                 },
+                 {
+                     "name":  "Kanto Dex Atlas",
+                     "category":  "UI",
+                     "repo":  "ScottExplores/gen1recomp-kanto-dex-atlas"
+                 },
+                 {
+                     "name":  "Let\u0027s Go Catch \u0026 Throw",
+                     "category":  "VOXEL",
+                     "repo":  "ScottExplores/gen1recomp-lets-go-catch-throw"
+                 },
+                 {
+                     "name":  "gen1recomp-mods-index",
+                     "category":  "TOOL",
+                     "repo":  "ScottExplores/gen1recomp-mods-index"
+                 },
+                 {
+                     "name":  "Oak\u0027s Spare Starter",
+                     "category":  "GAMEPLAY",
+                     "repo":  "ScottExplores/gen1recomp-oaks-spare-starter"
+                 },
+                 {
+                     "name":  "Scott\u0027s Sprite Menu",
+                     "category":  "UI",
+                     "repo":  "ScottExplores/gen1recomp-scotts-sprite-hub"
+                 },
+                 {
+                     "name":  "Trainer Forfeit \u0026 Rematches",
+                     "category":  "GAMEPLAY",
+                     "repo":  "ScottExplores/gen1recomp-trainer-forfeit"
+                 },
+                 {
+                     "name":  "Scott\u0027s Tweaks",
+                     "category":  "VOXEL",
+                     "repo":  "ScottExplores/gen1recomp-voxel-run-bridge"
+                 },
+                 {
+                     "name":  "FakeMon",
+                     "category":  "CONTENT",
+                     "repo":  "Sebarosu/Fakemon"
+                 },
+                 {
+                     "name":  "Playable Luigi",
+                     "category":  "ART",
+                     "repo":  "Sebarosu/Luigi-in-gen1-recomp"
+                 },
+                 {
+                     "name":  "safari-capture-minigame",
+                     "category":  "GAMEPLAY",
+                     "repo":  "setogabes/safari-capture-minigame"
+                 },
+                 {
+                     "name":  "seto-battle-ui",
+                     "category":  "UI",
+                     "repo":  "setogabes/seto-battle-ui"
+                 },
+                 {
+                     "name":  "S-J-s-AIO-Gen-2",
+                     "category":  "OTHER",
+                     "repo":  "shadowjackyl/S-J-s-AIO-Gen-2"
+                 },
+                 {
+                     "name":  "gen1recomp-mods",
+                     "category":  "OTHER",
+                     "repo":  "ShaneHudson/gen1recomp-mods"
+                 },
+                 {
+                     "name":  "monorepo",
+                     "category":  "OTHER",
+                     "repo":  "shanehudson-gen1recomp-mods/monorepo"
+                 },
+                 {
+                     "name":  "pmd_sky_sprites",
+                     "category":  "ART",
+                     "repo":  "shanehudson-gen1recomp-mods/pmd_sky_sprites"
+                 },
+                 {
+                     "name":  "Gen2Online",
+                     "category":  "GAMEPLAY",
+                     "repo":  "shaycomfort6-lab/gen2recomp---online"
+                 },
+                 {
+                     "name":  "gen1recomp-optimization-features",
+                     "category":  "OTHER",
+                     "repo":  "showpei1203/gen1recomp-optimization-features"
+                 },
+                 {
+                     "name":  "SilverShadow LCD",
+                     "category":  "ART",
+                     "repo":  "silvershadowkat/gen1comp-silvershadow-lcd"
+                 },
+                 {
+                     "name":  "SilverShadow Mods",
+                     "category":  "GAMEPLAY",
+                     "repo":  "silvershadowkat/gen1recomp-minimal-cheats"
+                 },
+                 {
+                     "name":  "SilverShadow Touchpad",
+                     "category":  "UI",
+                     "repo":  "silvershadowkat/gen1recomp-silvershadow-touchpad"
+                 },
+                 {
+                     "name":  "Variable-Width Kerning",
+                     "category":  "ART",
+                     "repo":  "SliferDaG/TextKerningGen1Recomp"
+                 },
+                 {
+                     "name":  "gen1recompPSP",
+                     "category":  "OTHER",
+                     "repo":  "sloevhaug/gen1recompPSP"
+                 },
+                 {
+                     "name":  "PKMN_BLUE",
+                     "category":  "CART",
+                     "repo":  "SMCSarchive/gen1recomp_carts_and_mods"
+                 },
+                 {
+                     "name":  "CH-Quest-importer-Gen1",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/CH-Quest-importer-Gen1"
+                 },
+                 {
+                     "name":  "CH-Quest-importer-Gen2",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/CH-Quest-importer-Gen2"
+                 },
+                 {
+                     "name":  "Cobblemon-importer-for-Gen1---gen1recomp-",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/Cobblemon-importer-for-Gen1---gen1recomp-"
+                 },
+                 {
+                     "name":  "Cobblemon-importer-for-Gen2---gen1recomp-",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/Cobblemon-importer-for-Gen2---gen1recomp-"
+                 },
+                 {
+                     "name":  "DX-386-Importer",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/DX-386-Importer"
+                 },
+                 {
+                     "name":  "My-Pokemon-Ranch-Importer",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/My-Pokemon-Ranch-Importer"
+                 },
+                 {
+                     "name":  "octocat.github.io",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/octocat.github.io"
+                 },
+                 {
+                     "name":  "Ranch-Importer",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/Ranch-Importer"
+                 },
+                 {
+                     "name":  "Rumble Unified",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Smidja2/RUMBLE"
+                 },
+                 {
+                     "name":  "Rumble-Blast-Exporter",
+                     "category":  "TOOL",
+                     "repo":  "Smidja2/Rumble-Blast-Exporter"
+                 },
+                 {
+                     "name":  "Gen 2 Moves \u0026 Learnsets 251",
+                     "category":  "CONTENT",
+                     "repo":  "Spencer-Ross/gen1recomp-gen2-moves"
+                 },
+                 {
+                     "name":  "Gen 2 Types 251 (Modern Kanto Compat)",
+                     "category":  "BALANCE",
+                     "repo":  "Spencer-Ross/gen1recomp-gen2-types"
+                 },
+                 {
+                     "name":  "More Attacks",
+                     "category":  "CONTENT",
+                     "repo":  "Spencer-Ross/gen1recomp-more-attacks"
+                 },
+                 {
+                     "name":  "gen1recomp-android-sandbox-patches",
+                     "category":  "OTHER",
+                     "repo":  "stavrozo/gen1recomp-android-sandbox-patches"
+                 },
+                 {
+                     "name":  "recomp_mods",
+                     "category":  "OTHER",
+                     "repo":  "SterlingWhy/recomp_mods"
+                 },
+                 {
+                     "name":  "Custom Music Randomizer",
+                     "category":  "AUDIO",
+                     "repo":  "Studioaecks/custom-music-randomizer"
+                 },
+                 {
+                     "name":  "gen1recomp-mod-engine",
+                     "category":  "TOOL",
+                     "repo":  "Studioaecks/gen1recomp-mod-engine"
+                 },
+                 {
+                     "name":  "Kanto Realism",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "Studioaecks/kanto-realism"
+                 },
+                 {
+                     "name":  "Ultimate Arena Battles",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Studioaecks/ultimate-arena-battles"
+                 },
+                 {
+                     "name":  "Gen 4 Platinum Sprites",
+                     "category":  "ART",
+                     "repo":  "svaldesoliva/gen1recomp-gen4-platinum-sprites"
+                 },
+                 {
+                     "name":  "OmniQoL",
+                     "category":  "QOL",
+                     "repo":  "swissguy/OmniQoL"
+                 },
+                 {
+                     "name":  "Delta Pokemon",
+                     "category":  "CONTENT",
+                     "repo":  "swuff-star/Gen1RecompDeltas"
+                 },
+                 {
+                     "name":  "dramatic-sky-ride",
+                     "category":  "GAMEPLAY",
+                     "repo":  "syybott/dramatic-sky-ride"
+                 },
+                 {
+                     "name":  "Gen1Better",
+                     "category":  "UI",
+                     "repo":  "syybott/Gen1Better"
+                 },
+                 {
+                     "name":  "Gen1BetterSprites",
+                     "category":  "ART",
+                     "repo":  "syybott/gen1-better-sprites"
+                 },
+                 {
+                     "name":  "Digimon-World-Gen-1-Recomp-mod",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "tai827/Digimon-World-Gen-1-Recomp-mod"
+                 },
+                 {
+                     "name":  "Encounter Tweaks",
+                     "category":  "GAMEPLAY",
+                     "repo":  "tailscreatesstuff32/Encounter_Tweaks_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "Yellow Palette",
+                     "category":  "ART",
+                     "repo":  "tailscreatesstuff32/Red-With-Yellow-Palette-Gen1-Recomp"
+                 },
+                 {
+                     "name":  "Starter Change",
+                     "category":  "GAMEPLAY",
+                     "repo":  "tailscreatesstuff32/Starter_Change_Gen1_Recomp"
+                 },
+                 {
+                     "name":  "gen1recomp-mod-browser",
+                     "category":  "TOOL",
+                     "repo":  "tcsenpai/gen1recomp-mod-browser"
+                 },
+                 {
+                     "name":  "gen1recomp-mods",
+                     "category":  "TOOL",
+                     "repo":  "tebwritescode/gen1recomp-mods"
+                 },
+                 {
+                     "name":  "Battle Speed",
+                     "category":  "QOL",
+                     "repo":  "tectorifter/Battle_Spees_Mod"
+                 },
+                 {
+                     "name":  "Dynamax_4_Recomp",
+                     "category":  "GAMEPLAY",
+                     "repo":  "tectorifter/Dynamax_4_Recomp"
+                 },
+                 {
+                     "name":  "g9-battle-scene",
+                     "category":  "GAMEPLAY",
+                     "repo":  "tectorifter/g9-battle-scenes"
+                 },
+                 {
+                     "name":  "g9-battle-suit",
+                     "category":  "TOOL",
+                     "repo":  "tectorifter/g9-battle-suit"
+                 },
+                 {
+                     "name":  "50-box PC storage",
+                     "category":  "GAMEPLAY",
+                     "repo":  "tectorifter/g9-boxes"
+                 },
+                 {
+                     "name":  "modern UI \u0026 stats",
+                     "category":  "UI",
+                     "repo":  "tectorifter/g9-gui"
+                 },
+                 {
+                     "name":  "Dramatic Shape Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "TeJota1337/DramaticShapeVoxelMod"
+                 },
+                 {
+                     "name":  "gen1recomp-beginner-mods",
+                     "category":  "QOL",
+                     "repo":  "TempestTensei/gen1recomp-beginner-mods"
+                 },
+                 {
+                     "name":  "Gen1recomp-Nexus-UI",
+                     "category":  "UI",
+                     "repo":  "THCrazy420/Gen1recomp-Nexus-UI"
+                 },
+                 {
+                     "name":  "Gen1recomp-Player-Selector",
+                     "category":  "ART",
+                     "repo":  "THCrazy420/Gen1recomp-Player-Selector"
+                 },
+                 {
+                     "name":  "Gen1recomp-Poke-Music-Player",
+                     "category":  "AUDIO",
+                     "repo":  "THCrazy420/Gen1recomp-Poke-Music-Player"
+                 },
+                 {
+                     "name":  "Gen1recomp-Poke-Rave",
+                     "category":  "AUDIO",
+                     "repo":  "THCrazy420/Gen1recomp-Poke-Rave"
+                 },
+                 {
+                     "name":  "Gen1recomp-Voxel-Stereo-3D",
+                     "category":  "VOXEL",
+                     "repo":  "THCrazy420/Gen1recomp-Voxel-Stereo-3D"
+                 },
+                 {
+                     "name":  "Gen1recomp-WeatherFX-Simulator",
+                     "category":  "ART",
+                     "repo":  "THCrazy420/Gen1recomp-WeatherFX-Simulator"
+                 },
+                 {
+                     "name":  "Pokémon Heart \u0026 Soul - Exploration Prototype",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "TheEelYT/g1r-hns"
+                 },
+                 {
+                     "name":  "Gen1Recomp---KeyHUD-Mod-for-Dramatic-Shape-Voxel-Mod",
+                     "category":  "UI",
+                     "repo":  "TheWaffleSmasher/Gen1Recomp---KeyHUD-Mod-for-Dramatic-Shape-Voxel-Mod"
+                 },
+                 {
+                     "name":  "gen1recomp-translation-mod-generator",
+                     "category":  "TOOL",
+                     "repo":  "thibautbus/gen1recomp-translation-mod-generator"
+                 },
+                 {
+                     "name":  "Effective Markers",
+                     "category":  "UI",
+                     "repo":  "thorkdev/gen1recomp-effective-markers"
+                 },
+                 {
+                     "name":  "Evolution Man",
+                     "category":  "CONTENT",
+                     "repo":  "thorkdev/gen1recomp-evolution-man"
+                 },
+                 {
+                     "name":  "Happiness",
+                     "category":  "GAMEPLAY",
+                     "repo":  "thorkdev/gen1recomp-happiness"
+                 },
+                 {
+                     "name":  "Move Deleter",
+                     "category":  "GAMEPLAY",
+                     "repo":  "thorkdev/gen1recomp-move-deleter"
+                 },
+                 {
+                     "name":  "Mystery Gift",
+                     "category":  "CONTENT",
+                     "repo":  "thorkdev/gen1recomp-mystery-gift"
+                 },
+                 {
+                     "name":  "Pokérus",
+                     "category":  "GAMEPLAY",
+                     "repo":  "thorkdev/gen1recomp-pokerus"
+                 },
+                 {
+                     "name":  "Radio",
+                     "category":  "AUDIO",
+                     "repo":  "thorkdev/gen1recomp-radio"
+                 },
+                 {
+                     "name":  "Running Shoes",
+                     "category":  "GAMEPLAY",
+                     "repo":  "thorkdev/gen1recomp-running-shoes"
+                 },
+                 {
+                     "name":  "Screen Effects",
+                     "category":  "ART",
+                     "repo":  "thorkdev/gen1recomp-screen-effects"
+                 },
+                 {
+                     "name":  "Gen-2-Chiptune-Music",
+                     "category":  "AUDIO",
+                     "repo":  "tomastienegilbert/gen1recomp_gen2chiptuneKantoMusic"
+                 },
+                 {
+                     "name":  "Unique Fly/Surf Sprites",
+                     "category":  "ART",
+                     "repo":  "Tonedawg1/gen1recomp-unique-fly-surf-sprites"
+                 },
+                 {
+                     "name":  "Gen1-Recomp-Norwegian-Translate-Yellow",
+                     "category":  "TRANSLATION",
+                     "repo":  "Tooandorisu/Gen1-Recomp-Norwegian-Translate-Yellow"
+                 },
+                 {
+                     "name":  "Wild DV Display",
+                     "category":  "UI",
+                     "repo":  "Tophiero/Wild-DV-Display"
+                 },
+                 {
+                     "name":  "Choose Your Hero",
+                     "category":  "ART",
+                     "repo":  "TranswarpTechnologies/choose-your-hero-mod-gen1recomp"
+                 },
+                 {
+                     "name":  "G1R Deluxe - Roddsoft Edition",
+                     "category":  "CART",
+                     "repo":  "twgrodd/G1R-Deluxe_Gen1_cartridge_red_roddsoft_edition"
+                 },
+                 {
+                     "name":  "G1R Deluxe - Yellow Roddsoft Edition",
+                     "category":  "CART",
+                     "repo":  "twgrodd/G1R-Deluxe_Gen1_cartridge_yellow_roddsoft_edition"
+                 },
+                 {
+                     "name":  "Modern Bag Roddsoft",
+                     "category":  "UI",
+                     "repo":  "twgrodd/G1R-Deluxe_Gen1_mod_fork_Modern-Bag-Roddsoftver"
+                 },
+                 {
+                     "name":  "New Game Plus Roddsoft",
+                     "category":  "GAMEPLAY",
+                     "repo":  "twgrodd/G1R-Deluxe_Gen1_mod_fork_new-game-plus-Roddsoftver"
+                 },
+                 {
+                     "name":  "RoddSoft Edition Title Screen",
+                     "category":  "ART",
+                     "repo":  "twgrodd/G1R-Deluxe_Gen1_mod_StartScreenRoddsoft"
+                 },
+                 {
+                     "name":  "HM Anywhere (Gen 2)",
+                     "category":  "QOL",
+                     "repo":  "twgrodd/G1R-Deluxe_Gen2_mod_HM-Master"
+                 },
+                 {
+                     "name":  "Gen 2 - Remove Slow Level-Up Group",
+                     "category":  "BALANCE",
+                     "repo":  "twgrodd/G1R-Deluxe_Gen2_mod_Remove-Slow-Levelup-Group"
+                 },
+                 {
+                     "name":  "Custom Video Intro",
+                     "category":  "ART",
+                     "repo":  "ty-mcdk/custom-video-intro"
+                 },
+                 {
+                     "name":  "Replace Poke Centre Theme",
+                     "category":  "AUDIO",
+                     "repo":  "ty-mcdk/replace-poke-centre-theme"
+                 },
+                 {
+                     "name":  "Safari Zone Infinite Steps",
+                     "category":  "QOL",
+                     "repo":  "ty-mcdk/safari-zone-infinite-steps"
+                 },
+                 {
+                     "name":  "Gen2Recomp Dramatic Shape Voxel Mod (gen1recomp)",
+                     "category":  "VOXEL",
+                     "repo":  "UNDERdecoded/G1RDeluxe-Gen2Recomp-DramaticShapesVoxels"
+                 },
+                 {
+                     "name":  "Gen2Recomped-DramaticShapes Voxel Mod",
+                     "category":  "VOXEL",
+                     "repo":  "UNDERdecoded/Gen2Recomped-DramaticShapes"
+                 },
+                 {
+                     "name":  "Gen2Online",
+                     "category":  "GAMEPLAY",
+                     "repo":  "UNDERdecoded/Gen2Recomp---Online"
+                 },
+                 {
+                     "name":  "KantoGearBottom",
+                     "category":  "UI",
+                     "repo":  "venatrix-ritz/KantoGearBottom"
+                 },
+                 {
+                     "name":  "gen1recomp-mod-index-personal",
+                     "category":  "TOOL",
+                     "repo":  "VentusXTM/gen1recomp-mod-index-personal"
+                 },
+                 {
+                     "name":  "Pokémon Bank",
+                     "category":  "TOOL",
+                     "repo":  "VRM97/pokemon-bank"
+                 },
+                 {
+                     "name":  "Mapamap",
+                     "category":  "TOOL",
+                     "repo":  "Vuelos/mapamap"
+                 },
+                 {
+                     "name":  "Map Editor",
+                     "category":  "TOOL",
+                     "repo":  "Vuelos/poke-gen1-love2d-map-editor-mod"
+                 },
+                 {
+                     "name":  "G1R-Frontend",
+                     "category":  "TOOL",
+                     "repo":  "Waifu4Life/G1R-Frontend"
+                 },
+                 {
+                     "name":  "Project Highlander - A Modern UI Suite Fork",
+                     "category":  "UI",
+                     "repo":  "Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork"
+                 },
+                 {
+                     "name":  "Hardcore-Nuzlocke",
+                     "category":  "BALANCE",
+                     "repo":  "weskestis/Hardcore-Nuzlocke"
+                 },
+                 {
+                     "name":  "Kaizo-Ultimate",
+                     "category":  "BALANCE",
+                     "repo":  "weskestis/Kaizo-Ultimate"
+                 },
+                 {
+                     "name":  "Radical-Red-Recomp",
+                     "category":  "OTHER",
+                     "repo":  "weskestis/Radical-Red-Recomp"
+                 },
+                 {
+                     "name":  "UniversalRandomizer",
+                     "category":  "GAMEPLAY",
+                     "repo":  "weskestis/UniversalRandomizer"
+                 },
+                 {
+                     "name":  "Universal-Randomizer",
+                     "category":  "GAMEPLAY",
+                     "repo":  "weskestis/Universal-Randomizer"
+                 },
+                 {
+                     "name":  "Wild Green",
+                     "category":  "ART",
+                     "repo":  "wild1walker/Gen1MakeItGreen"
+                 },
+                 {
+                     "name":  "Gen1Wild",
+                     "category":  "TOOL",
+                     "repo":  "wild1walker/Gen1Wild"
+                 },
+                 {
+                     "name":  "Gen1recomp-Perfect-Start",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Windwrecker/Gen1recomp-Perfect-Start"
+                 },
+                 {
+                     "name":  "Gym Leader for a Week",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Windwrecker/Gym-Leader-for-a-Week"
+                 },
+                 {
+                     "name":  "Mew Under the Truck",
+                     "category":  "CONTENT",
+                     "repo":  "Windwrecker/Mew-Under-the-Truck"
+                 },
+                 {
+                     "name":  "PKMN-G123R-HoldToScroll-Mod",
+                     "category":  "QOL",
+                     "repo":  "WizzStar/PKMN-G123R-HoldToScroll-Mod"
+                 },
+                 {
+                     "name":  "PKMN-G1R-Gender-Mod",
+                     "category":  "GAMEPLAY",
+                     "repo":  "WizzStar/PKMN-G1R-Gender-Mod"
+                 },
+                 {
+                     "name":  "PKMN-G1R-Immersive-Bicycle-Mod",
+                     "category":  "GAMEPLAY",
+                     "repo":  "WizzStar/PKMN-G1R-Immersive-Bicycle-Mod"
+                 },
+                 {
+                     "name":  "PKMN-G1R-PokeLog",
+                     "category":  "UI",
+                     "repo":  "WizzStar/PKMN-G1R-PokeLog"
+                 },
+                 {
+                     "name":  "PKMN-G1R-Pokemon-Arenas-Mod",
+                     "category":  "CONTENT",
+                     "repo":  "WizzStar/PKMN-G1R-Pokemon-Arenas-Mod"
+                 },
+                 {
+                     "name":  "gen1recomp-scripting",
+                     "category":  "GAMEPLAY",
+                     "repo":  "workspacedive/gen1recomp-scripting"
+                 },
+                 {
+                     "name":  "All Pokemon Catchable 151 Mod",
+                     "category":  "CONTENT",
+                     "repo":  "wowabox/All_Pokemon_Catchable_151_Mod"
+                 },
+                 {
+                     "name":  "gen1recomp-polish-generator",
+                     "category":  "TOOL",
+                     "repo":  "Xaardaaz/gen1recomp-polish-generator"
+                 },
+                 {
+                     "name":  "Crystal GameShark",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Xansur/Crystal-Gameshark"
+                 },
+                 {
+                     "name":  "Silver Encounters",
+                     "category":  "CONTENT",
+                     "repo":  "Xansur/SilverEncounters"
+                 },
+                 {
+                     "name":  "Character Sprite Selection",
+                     "category":  "ART",
+                     "repo":  "xkrisl/Character-Sprite-Selection"
+                 },
+                 {
+                     "name":  "Fast Pokemon Center Heal",
+                     "category":  "QOL",
+                     "repo":  "xkrisl/Fast-Pokemon-Center-Heal"
+                 },
+                 {
+                     "name":  "NoClip",
+                     "category":  "GAMEPLAY",
+                     "repo":  "xtreemmasheen3k2/gen1recomp-noclip"
+                 },
+                 {
+                     "name":  "K89 Pokemon Red \u0026 Blue JP",
+                     "category":  "TRANSLATION",
+                     "repo":  "yaizoo/K89-Pokemon-Gen1-JP"
+                 },
+                 {
+                     "name":  "K89 Pokemon Gold JP",
+                     "category":  "TRANSLATION",
+                     "repo":  "yaizoo/K89-Pokemon-Gen2-JP"
+                 },
+                 {
+                     "name":  "Infinite / Toggleable Repel",
+                     "category":  "QOL",
+                     "repo":  "yedidiapery/gen1recomp-infinite-repel"
+                 },
+                 {
+                     "name":  "Exp Multiplier",
+                     "category":  "GAMEPLAY",
+                     "repo":  "yopox/gen1recomp-exp-multiplier"
+                 },
+                 {
+                     "name":  "Gen1Recomp-translation-jp-mod",
+                     "category":  "TRANSLATION",
+                     "repo":  "yyoossk/Gen1Recomp-translation-jp-mod"
+                 },
+                 {
+                     "name":  "G1RecompMods",
+                     "category":  "OTHER",
+                     "repo":  "zeak6464/G1RecompMods"
+                 },
+                 {
+                     "name":  "Gen1Recomp-Content-Editor",
+                     "category":  "TOOL",
+                     "repo":  "zeak6464/Gen1Recomp-Content-Editor"
+                 },
+                 {
+                     "name":  "Bag and PC 999 Item Slots",
+                     "category":  "QOL",
+                     "repo":  "Zeikar-Ethereal/gen1recomp_bag_pc_999"
+                 },
+                 {
+                     "name":  "Revert-Yellow-Palette",
+                     "category":  "ART",
+                     "repo":  "Zeikar-Ethereal/Revert-Yellow-Palette"
+                 },
+                 {
+                     "name":  "LEGENDARY YELLOW!",
+                     "category":  "CART",
+                     "repo":  "ZEROstigYT/Legendary-Yellow-Custom-Cart"
+                 },
+                 {
+                     "name":  "Ultimate Kanto",
+                     "category":  "CART",
+                     "repo":  "ZEROstigYT/Ultimate-Kanto-Custom-Cart"
+                 },
+                 {
+                     "name":  "Dex Radar",
+                     "category":  "UI",
+                     "repo":  "Zetto22/dex_radar"
+                 },
+                 {
+                     "name":  "Move Learn Plus",
+                     "category":  "GAMEPLAY",
+                     "repo":  "Zetto22/move_learn_plus"
+                 },
+                 {
+                     "name":  "Sweet Share",
+                     "category":  "QOL",
+                     "repo":  "Zetto22/sweet_share"
+                 },
+                 {
+                     "name":  "Wild Ecology",
+                     "category":  "GAMEPLAY",
+                     "repo":  "zgierisch/Wild-Ecology"
+                 },
+                 {
+                     "name":  "Catch \u0027em All Gen 2",
+                     "category":  "CONTENT",
+                     "repo":  "zingamau-dev/catch_em_all_gen2"
+                 },
+                 {
+                     "name":  "Self Trade",
+                     "category":  "GAMEPLAY",
+                     "repo":  "zingamau-dev/self_trade_gen2"
+                 },
+                 {
+                     "name":  "Time Switcher",
+                     "category":  "QOL",
+                     "repo":  "zingamau-dev/time_switcher_gen2"
+                 },
+                 {
+                     "name":  "Zone Radar",
+                     "category":  "UI",
+                     "repo":  "zingamau-dev/zone_radar_gen2"
+                 },
+                 {
+                     "name":  "Always Escape",
+                     "category":  "GAMEPLAY",
+                     "repo":  "ZyranCZ/Can-Always-Escape"
+                 },
+                 {
+                     "name":  "Evolve in Battle",
+                     "category":  "GAMEPLAY",
+                     "repo":  "ZyranCZ/Evolve-in-Battle"
+                 },
+                 {
+                     "name":  "STEEL/FAIRY AND TYPING CHARTS",
+                     "category":  "BALANCE",
+                     "repo":  "ZyranCZ/Fairy-Steel-Dark-and-Typing-Charts"
+                 },
+                 {
+                     "name":  "HELP - Story Guide",
+                     "category":  "UI",
+                     "repo":  "ZyranCZ/HELP-Story-Guide"
+                 },
+                 {
+                     "name":  "B to Escape Encounters",
+                     "category":  "QOL",
+                     "repo":  "ZyranCZ/Press-B-to-Escape-Wild-Encounters"
+                 },
+                 {
+                     "name":  "Professor Oak\u0027s Pokemon Appraisal",
+                     "category":  "UI",
+                     "repo":  "ZyranCZ/Professor-Oak-DV-STAT-Evaluation"
+                 },
+                 {
+                     "name":  "Special Stat Split",
+                     "category":  "BALANCE",
+                     "repo":  "ZyranCZ/Special-Stat-Split"
+                 },
+                 {
+                     "name":  "Tap to Move",
+                     "category":  "QOL",
+                     "repo":  "ZyranCZ/Tap-to-Move"
+                 },
+                 {
+                     "name":  "Trainers Let You Choose Lead Pokemon",
+                     "category":  "GAMEPLAY",
+                     "repo":  "ZyranCZ/Trainers-Let-You-Choose-Lead-Pokemon"
+                 },
+                 {
+                     "name":  "STADIUM_OVERWORLD_MODELS-AND-STADIUM_UI_MODEL_VIEWER---CRYSTAL-251-MOD-COMPATIBLE",
+                     "category":  "VOXEL",
+                     "repo":  "Aghanim-3C/STADIUM_OVERWORLD_MODELS-AND-STADIUM_UI_MODEL_VIEWER---CRYSTAL-251-MOD-COMPATIBLE"
+                 },
+                 {
+                     "name":  "Pokemon Companion",
+                     "category":  "GAMEPLAY",
+                     "repo":  "TheOriginalDrJ/FireRed-Companion"
+                 },
+                 {
+                     "name":  "HiddenStats",
+                     "category":  "UI",
+                     "repo":  "miguelcjalmeida/HiddenStats"
+                 },
+                 {
+                     "name":  "Gen2-Recomp-Time-Date-Selector",
+                     "category":  "QOL",
+                     "repo":  "BlanketTomcat/Gen2-Recomp-Time-Date-Selector"
+                 },
+                 {
+                     "name":  "Gen2-Recomp-Automatic-Clock-",
+                     "category":  "QOL",
+                     "repo":  "BlanketTomcat/Gen2-Recomp-Automatic-Clock-"
+                 },
+                 {
+                     "name":  "Ascendant sprite / HD package",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "Ascedent-Omega/kanto-ascendant"
+                 },
+                 {
+                     "name":  "Hoenn-Journey",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "TheOriginalDrJ/Hoenn-Journey"
+                 },
+                 {
+                     "name":  "FireRed-MP3",
+                     "category":  "AUDIO",
+                     "repo":  "TheOriginalDrJ/FireRed-MP3"
+                 },
+                 {
+                     "name":  "gen-1-recomp-deltamon",
+                     "category":  "CONTENT",
+                     "repo":  "thingy-debug/gen-1-recomp-deltamon"
+                 },
+                 {
+                     "name":  "kanto-coastal-ferry",
+                     "category":  "CONTENT",
+                     "repo":  "Polotas/kanto-coastal-ferry"
+                 },
+                 {
+                     "name":  "dynamax-pokemon-league",
+                     "category":  "BALANCE",
+                     "repo":  "tectorifter/dynamax-pokemon-league"
+                 },
+                 {
+                     "name":  "safari-plus",
+                     "category":  "GAMEPLAY",
+                     "repo":  "tectorifter/safari-"
+                 },
+                 {
+                     "name":  "Mezase Pokemon Master (Title Screen)",
+                     "category":  "AUDIO",
+                     "repo":  "Sebarosu/JP-anime-opening-title"
+                 },
+                 {
+                     "name":  "FM Music Conversion",
+                     "category":  "AUDIO",
+                     "gamebanana":  "699242"
+                 },
+                 {
+                     "name":  "[GEN1\u0026GEN2] Gameboy Skins (With Touch Controls)",
+                     "category":  "ART",
+                     "gamebanana":  "709003"
+                 },
+                 {
+                     "name":  "[GEN1\u0026GEN2] Gen1Recomp Overlay SGB Borders",
+                     "category":  "ART",
+                     "gamebanana":  "708752"
+                 },
+                 {
+                     "name":  "[GEN1] Start Menu Extras",
+                     "category":  "UI",
+                     "gamebanana":  "706233"
+                 },
+                 {
+                     "name":  "Celebi Event",
+                     "category":  "CONTENT",
+                     "repo":  "darkheros09/celebi-event"
+                 },
+                 {
+                     "name":  "FelizNavidad Gen 2 Mods (Limit Break u.a.)",
+                     "category":  "GAMEPLAY",
+                     "repo":  "feliznavidad-d/gen-2-recomp-mods"
+                 },
+                 {
+                     "name":  "Level Cap Adjustments",
+                     "category":  "BALANCE",
+                     "repo":  "dragoon-103/level_caps_adjustment"
+                 },
+                 {
+                     "name":  "Kanto Ribbons",
+                     "category":  "CONTENT",
+                     "repo":  "mistermiracle3036/kanto_ribbons"
+                 },
+                 {
+                     "name":  "Kanto Balls",
+                     "category":  "CONTENT",
+                     "repo":  "mistermiracle3036/kanto-balls"
+                 },
+                 {
+                     "name":  "Start Menu Extras",
+                     "category":  "QOL",
+                     "repo":  "otaconrevengeance/start_menu_extras"
+                 },
+                 {
+                     "name":  "PureRGB Pokemon Types",
+                     "category":  "BALANCE",
+                     "repo":  "artyrambles/st_purergb_pokemontypes"
+                 },
+                 {
+                     "name":  "Toast Notifications (stone696)",
+                     "category":  "UI",
+                     "repo":  "stone696/toast-notifications"
+                 },
+                 {
+                     "name":  "Shiny Pokemon (stone696)",
+                     "category":  "CONTENT",
+                     "repo":  "stone696/gen1recomp-shiny-pokemon"
+                 },
+                 {
+                     "name":  "Random Starters Gen 2",
+                     "category":  "GAMEPLAY",
+                     "repo":  "blankettomcat/random-starters-gen-2"
+                 },
+                 {
+                     "name":  "Swuff Misc QoL",
+                     "category":  "QOL",
+                     "repo":  "swuff-star/swuff_qol"
+                 },
+                 {
+                     "name":  "Learn any move",
+                     "category":  "GAMEPLAY",
+                     "repo":  "tectorifter/learn_any_move"
+                 },
+                 {
+                     "name":  "Pikas Accurate Anime Sprites",
+                     "category":  "ART",
+                     "repo":  "p2pikaa/pika-s-accurate-anime-sprites"
+                 },
+                 {
+                     "name":  "Gen 1 Randomizer 251",
+                     "category":  "GAMEPLAY",
+                     "repo":  "weskestis/gen-1-randomizer-251-support"
+                 },
+                 {
+                     "name":  "Classic Ironmon Kaizo",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "weskestis/classic-ironmon-kaizo"
+                 },
+                 {
+                     "name":  "Knight Rider",
+                     "category":  "OTHER",
+                     "repo":  "castdrian/gen1-kr"
+                 },
+                 {
+                     "name":  "Pokemon Red Single Screen Co-Op",
+                     "category":  "GAMEPLAY",
+                     "repo":  "gamecorner-033/gen1co-op"
+                 },
+                 {
+                     "name":  "PocketVoxel 3DS",
+                     "category":  "VOXEL",
+                     "repo":  "imantheman/pocket-voxel3d"
+                 },
+                 {
+                     "name":  "Wild Skies (notquiteog)",
+                     "category":  "VOXEL",
+                     "repo":  "notquiteog/wild_skies"
+                 },
+                 {
+                     "name":  "Overworld Spawn Mod (notquiteog)",
+                     "category":  "GAMEPLAY",
+                     "repo":  "notquiteog/overworld-spawn-mod"
+                 },
+                 {
+                     "name":  "Pokemon Ocean Blue",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "tai827/oceanblue"
+                 },
+                 {
+                     "name":  "Remove BattleArt UI",
+                     "category":  "UI",
+                     "repo":  "opidox/remove-battleartui"
+                 },
+                 {
+                     "name":  "Blockbuster Hub",
+                     "category":  "TOOL",
+                     "repo":  "argallo/blockbuster-hub"
+                 },
+                 {
+                     "name":  "Clean UI Gen 3",
+                     "category":  "UI",
+                     "repo":  "tooandorisu/cleanui-gen3"
+                 },
+                 {
+                     "name":  "Crystal Clear Static Recomp",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "cmapex/crystalclearstaticrecomp"
+                 },
+                 {
+                     "name":  "Gen2 Widescreen Battle",
+                     "category":  "UI",
+                     "repo":  "ninte86hl/gen-2-battle-widescreen"
+                 },
+                 {
+                     "name":  "BuyYourNationaldex",
+                     "category":  "CONTENT",
+                     "repo":  "jo5-k/buynationaldex-jo5"
+                 },
+                 {
+                     "name":  "Gen 1 Shedinja",
+                     "category":  "CONTENT",
+                     "repo":  "inmento/gen1-shedinja"
+                 },
+                 {
+                     "name":  "GSC Style Recolorisation for Gen 1",
+                     "category":  "ART",
+                     "repo":  "maybegreg/g2_sprites_for_natdex"
+                 },
+                 {
+                     "name":  "Stadium Battle FX DS (Compat Fork)",
+                     "category":  "VOXEL",
+                     "repo":  "aghanim-3c/stadium_battle_fx_ds---unofficial-compatibility-fork"
+                 },
+                 {
+                     "name":  "Shop Tools - Custom Balls",
+                     "category":  "LIBRARY",
+                     "repo":  "mistermiracle3036/shop-tools---custom-balls"
+                 },
+                 {
+                     "name":  "Tiled Map Editor for Gen1Recomp",
+                     "category":  "TOOL",
+                     "repo":  "bryanthaboi/tiled_gen1recomp"
+                 },
+                 {
+                     "category":  "VOXEL",
+                     "name":  "DX Realtime and Overworld (Gen 1)",
+                     "repo":  "smidja2/DX-Realtime-and-Overworld-for-gen1"
+                 },
+                 {
+                     "category":  "VOXEL",
+                     "name":  "DX Realtime and Overworld (Gen 2)",
+                     "repo":  "smidja2/DX-Realtime-and-Overworld-for-Gen2"
+                 },
+                 {
+                     "category":  "VOXEL",
+                     "name":  "Rumble Quest Mod",
+                     "repo":  "smidja2/QUEST"
+                 },
+                 {
+                     "category":  "VOXEL",
+                     "name":  "Rumble Stadium Models Importer",
+                     "repo":  "smidja2/STADIUM"
+                 },
+                 {
+                     "category":  "TOOL",
+                     "name":  "Red 3D NPC Viewer",
+                     "repo":  "smidja2/RED-3d-NPC-viewer"
+                 },
+                 {
+                     "category":  "CONTENT",
+                     "name":  "Cobblemon for Recomp",
+                     "repo":  "smidja2/Cobblemon-for-recomp"
+                 },
+                 {
+                     "category":  "TOOL",
+                     "name":  "Chinese Quest Viewer Exporter",
+                     "repo":  "smidja2/Chinese-Quest-Viewer-Exporter"
+                 },
+                 {
+                     "category":  "OTHER",
+                     "name":  "RG 34XXSP Recomp Turbo (Controls)",
+                     "repo":  "gymleadermatt/RG_34XXSP_Recomp_Turbo"
+                 },
+                 {
+                     "name":  "gen1recomp-trimui",
+                     "category":  "OTHER",
+                     "repo":  "CheemaOTB/gen1recomp-trimui"
+                 },
+                 {
+                     "name":  "Kanto Ascendant",
+                     "category":  "TOTAL_CONVERSION",
+                     "repo":  "goofwear/kanto-ascendant"
+                 },
+                 {
+                     "name":  "gen1recomp-unplugged",
+                     "category":  "OTHER",
+                     "repo":  "HimioneGranger/gen1recomp-unplugged"
+                 }
+             ]
+}
