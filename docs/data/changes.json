@@ -1,5 +1,84 @@
 [
  {
+  "date": "2026-10-24T04:41:49Z",
+  "new": [
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:drglitchyphd/aio-recomp",
+    "name": "aio recomp",
+    "from": "v0.9.53",
+    "to": "v0.9.56"
+   },
+   {
+    "id": "gh:notquiteog/double-battles-gen2",
+    "name": "Double Battles",
+    "from": "v0.14.8",
+    "to": "v0.14.9"
+   },
+   {
+    "id": "gh:himionegranger/frlg-voxel-engine",
+    "name": "FRLG-Voxel-Engine",
+    "from": "commit-4ead7fb",
+    "to": "commit-a049c9e"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-d56c4c3",
+    "to": "commit-c8dd951"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-4002f86",
+    "to": "commit-e76e433"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-2759973",
+    "to": "commit-609bfe9"
+   },
+   {
+    "id": "gh:notquiteog/dramaticshapevoxelmod",
+    "name": "notquiteog DramaticShapeVoxelMod",
+    "from": "v1.57.12",
+    "to": "v1.58.3"
+   },
+   {
+    "id": "gh:notquiteog/overworld-spawn-mod",
+    "name": "Overworld Spawn Mod (notquiteog)",
+    "from": "v2.6.9",
+    "to": "v2.6.10"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v0.6.2",
+    "to": "v0.7.0"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-b730d06",
+    "to": "commit-a40f2e7"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:goofwear/kanto-ascendant",
+    "name": "Kanto Ascendant",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-10-24T00:06:13Z",
   "new": [
    {
