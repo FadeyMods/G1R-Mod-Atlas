@@ -1,0 +1,97 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@500;600;700;800&display=swap">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1280px; height: 640px; overflow: hidden; background: #0d1016; }
+  body { font-family: Inter, sans-serif; color: #f3f1ea; position: relative; }
+  .bg { position: absolute; inset: 0;
+    background:
+      radial-gradient(600px 420px at 18% 30%, rgba(227,53,13,.16), transparent 70%),
+      radial-gradient(520px 420px at 78% 40%, rgba(61,125,202,.22), transparent 70%),
+      radial-gradient(500px 360px at 92% 95%, rgba(255,203,5,.12), transparent 70%),
+      linear-gradient(180deg, #10141c, #0b0d12); }
+  .split { position: absolute; top: 0; bottom: 0; left: 600px; width: 1px; transform: skewX(-8deg); background: linear-gradient(transparent, rgba(255,255,255,.08), transparent); }
+  .dots { position: absolute; inset: 0; background-image: radial-gradient(rgba(255,255,255,.05) 1px, transparent 1px); background-size: 22px 22px; mask-image: linear-gradient(90deg, transparent 45%, #000 70%); }
+  .left { position: absolute; left: 84px; top: 74px; width: 560px; }
+  .pill { display: inline-flex; align-items: center; gap: 10px; border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 9px 18px; background: rgba(255,255,255,.04);
+    font-weight: 800; font-size: 14px; letter-spacing: .16em; }
+  .pill i { width: 14px; height: 14px; border-radius: 50%; border: 2px solid #111; background: linear-gradient(#e3350d 0 45%, #111 45% 55%, #fff 55%); }
+  .kicker { margin-top: 44px; font-size: 15px; font-weight: 600; letter-spacing: .42em; color: #9aa1ad; }
+  h1 { font-family: "Archivo Black", Inter, sans-serif; font-size: 128px; line-height: .92; letter-spacing: -.01em; margin-top: 10px; }
+  h1 span { background: linear-gradient(180deg, #e3350d 0%, #3d7dca 55%, #ffcb05 100%); -webkit-background-clip: text; color: transparent; }
+  .bars { display: flex; gap: 6px; margin-top: 30px; width: 420px; }
+  .bars b { height: 4px; flex: 1; border-radius: 2px; }
+  .src { display: flex; gap: 26px; margin-top: 26px; font-weight: 800; font-size: 19px; letter-spacing: .08em; }
+  .src span::before { content: ""; display: inline-block; width: 12px; height: 12px; margin-right: 10px; border-radius: 2px; background: var(--c); }
+  .foot { position: absolute; left: 84px; bottom: 62px; display: flex; align-items: center; gap: 18px; font-size: 14px; font-weight: 600; letter-spacing: .3em; color: #9aa1ad; }
+  .foot::after { content: ""; width: 120px; height: 1px; background: rgba(255,255,255,.25); }
+  .foot em { font-style: normal; color: #ffcb05; }
+
+  .stage { position: absolute; left: 690px; top: 120px; width: 520px; height: 420px; }
+  .card { position: absolute; width: 230px; height: 290px; border-radius: 18px; background: #1b2029; border: 1px solid #2c3442; overflow: hidden;
+    box-shadow: 0 30px 60px rgba(0,0,0,.55), 0 0 0 1px rgba(255,255,255,.03) inset; }
+  .card .top { height: 150px; display: grid; place-items: center; }
+  .card .t { margin: 16px 18px 6px; height: 14px; width: 70%; border-radius: 4px; background: #e9ecf2; opacity: .9; }
+  .card .s { margin: 8px 18px 0; height: 9px; width: 85%; border-radius: 4px; background: #4a5363; }
+  .card .s2 { width: 60%; }
+  .card .tags { display: flex; gap: 8px; margin: 18px 18px 0; }
+  .card .tags i { height: 20px; width: 56px; border-radius: 6px; background: #2a313d; }
+  .card .btn { position: absolute; right: 16px; bottom: 16px; height: 26px; width: 84px; border-radius: 8px; background: #e3350d; }
+  .c1 { left: 0; top: 40px; transform: rotate(-11deg); } .c1 .top { background: linear-gradient(135deg, #b91c1c, #f87171); }
+  .c3 { left: 290px; top: 40px; transform: rotate(11deg); } .c3 .top { background: linear-gradient(135deg, #b45309, #fcd34d); }
+  .c2 { left: 145px; top: 0; z-index: 2; } .c2 .top { background: linear-gradient(135deg, #1d4ed8, #60a5fa); }
+  .c3 .btn { background: #ffcb05; } .c2 .btn { background: #3ecf8e; }
+  .ring { position: absolute; left: -40px; top: 120px; width: 620px; height: 230px; border: 1px solid rgba(255,255,255,.08); border-radius: 50%; transform: rotate(-8deg); }
+  .spark { position: absolute; width: 8px; height: 8px; background: var(--c); box-shadow: 8px 0 var(--c), -8px 0 var(--c), 0 8px var(--c), 0 -8px var(--c); opacity: .9; }
+  .sq { position: absolute; width: 10px; height: 10px; background: var(--c); }
+  .ribbon { position: absolute; right: -58px; top: 38px; transform: rotate(35deg); background: #ffcb05; color: #15171c; font-weight: 800; letter-spacing: .14em; font-size: 14px; padding: 8px 70px; }
+</style></head>
+<body>
+<div class="bg"></div><div class="dots"></div><div class="split"></div>
+<div class="ribbon">FORK ME</div>
+
+<div class="left">
+  <div class="pill"><i></i>GEN1RECOMP</div>
+  <div class="kicker">EVERY MOD · EVERY SOURCE</div>
+  <h1>MOD<br><span>ATLAS</span></h1>
+  <div class="bars"><b style="background:#e3350d"></b><b style="background:#3d7dca"></b><b style="background:#ffcb05"></b></div>
+  <div class="src">
+    <span style="--c:#e3350d">INDEX</span><span style="--c:#3d7dca">GITHUB</span><span style="--c:#ffcb05">GAMEBANANA</span><span style="--c:#7aa2ff">DISCORD</span>
+  </div>
+</div>
+<div class="foot">WEBSITE + APP · <em>UNMAINTAINED · FREE TO FORK</em></div>
+
+<div class="stage">
+  <div class="ring"></div>
+  <div class="card c1"><div class="top"><svg width="96" height="96" viewBox="0 0 12 12" shape-rendering="crispEdges"><g id="ball"></g></svg></div><div class="t"></div><div class="s"></div><div class="s s2"></div><div class="tags"><i></i><i></i></div><div class="btn"></div></div>
+  <div class="card c3"><div class="top"><svg width="96" height="96" viewBox="0 0 12 12" shape-rendering="crispEdges"><g class="ball"></g></svg></div><div class="t"></div><div class="s"></div><div class="s s2"></div><div class="tags"><i></i><i></i></div><div class="btn"></div></div>
+  <div class="card c2"><div class="top"><svg width="96" height="96" viewBox="0 0 12 12" shape-rendering="crispEdges"><g class="ball"></g></svg></div><div class="t"></div><div class="s"></div><div class="s s2"></div><div class="tags"><i></i><i></i></div><div class="btn"></div></div>
+</div>
+<div class="spark" style="--c:#e3350d; left:640px; top:110px"></div>
+<div class="spark" style="--c:#ffcb05; left:1190px; top:96px"></div>
+<div class="spark" style="--c:#3d7dca; left:1200px; top:560px"></div>
+<div class="sq" style="--c:#e3350d; left:676px; top:470px"></div>
+<div class="sq" style="--c:#ffcb05; left:1236px; top:300px"></div>
+<div class="sq" style="--c:#3d7dca; left:990px; top:60px"></div>
+<script>
+  // Pixel-Pokéball 12x12: K schwarz, R rot, W weiß, H Glanzlicht
+  const P = [
+    "....KKKK....",
+    "..KKRRRRKK..",
+    ".KRRHHRRRRK.",
+    ".KRHRRRRRRK.",
+    "KRRRRRRRRRRK",
+    "KKKKKWWKKKKK",
+    "KKKKWKKWKKKK",
+    "KWWWKWWKWWWK",
+    ".KWWWKKWWWK.",
+    ".KWWWWWWWWK.",
+    "..KKWWWWKK..",
+    "....KKKK....",
+  ];
+  const C = { K: "#141414", R: "#e3350d", W: "#f4f4f4", H: "#ff8a6a" };
+  const svg = P.flatMap((row, y) => [...row].map((c, x) => C[c] ? `<rect x="${x}" y="${y}" width="1" height="1" fill="${C[c]}"/>` : "")).join("");
+  document.querySelectorAll("#ball, .ball").forEach((g) => (g.innerHTML = svg));
+</script>
+</body></html>
