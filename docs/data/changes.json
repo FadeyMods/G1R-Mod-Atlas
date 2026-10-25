@@ -1,5 +1,242 @@
 [
  {
+  "date": "2026-10-25T04:42:10Z",
+  "new": [
+   {
+    "id": "gh:cchrkk/gen1recomp-move-damage-info",
+    "name": "gen1recomp move damage info"
+   },
+   {
+    "id": "gh:tooandorisu/perfect-start",
+    "name": "Perfect Start"
+   },
+   {
+    "id": "gh:mapsstudiophotography/7-must-know-modeling-tips-for-beginners",
+    "name": "7 Must Know Modeling Tips for Beginners"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:shanemcgovernie/exp_share",
+    "name": "Exp Share (Gen 1 / Gen 5+ styles)",
+    "from": "v0.1.10",
+    "to": "v0.1.11"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.1.0",
+    "to": "v0.3.1"
+   },
+   {
+    "id": "gh:jo5-k/floating-glass-gen3",
+    "name": "Floating Glass Gen3",
+    "from": "v1.2.9",
+    "to": "v1.2.14"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-e9d08cf",
+    "to": "commit-cf9f3a9"
+   },
+   {
+    "id": "gh:himionegranger/frlg-voxel-engine",
+    "name": "FRLG-Voxel-Engine",
+    "from": "commit-a049c9e",
+    "to": "commit-552ab51"
+   },
+   {
+    "id": "gh:tooandorisu/gen1-recomp-norwegian-translate-yellow",
+    "name": "Gen1-Recomp-Norwegian-Translate-Yellow",
+    "from": "1.0.0",
+    "to": "1.0.2"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.165",
+    "to": "content-editor-v0.1.166"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-c8dd951",
+    "to": "commit-eff17db"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-058f883",
+    "to": "commit-40fd820"
+   },
+   {
+    "id": "gh:duskpromised/gen1recomp-mod-index",
+    "name": "gen1recomp-mod-index",
+    "from": "commit-272c5cb",
+    "to": "commit-308d39d"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-e76e433",
+    "to": "commit-8050378"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-14c8bbb",
+    "to": "commit-271e1b3"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-609bfe9",
+    "to": "commit-ed539b9"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_voxel_mod",
+    "name": "Gmarcs Gen2 Voxel Mod",
+    "from": "v1.0.7",
+    "to": "v1.0.14"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-d28efde",
+    "to": "commit-4da5b22"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-702acc1",
+    "to": "commit-ee0bb19"
+   },
+   {
+    "id": "gh:tooandorisu/gen1-recomp-norwegian-translate",
+    "name": "Norwegian Bokmål Translation",
+    "from": "1.0.45",
+    "to": "1.0.47"
+   },
+   {
+    "id": "gh:swissguy/omniqol",
+    "name": "OmniQoL",
+    "from": "v0.2.1",
+    "to": "v0.2.2"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-d8616cc",
+    "to": "commit-45db5bc"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v0.7.0",
+    "to": "v0.8.1"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "beta5",
+    "to": "beta9"
+   },
+   {
+    "id": "gh:theeelyt/g1r-hns",
+    "name": "Pokémon Heart & Soul - Exploration Prototype",
+    "from": "v0.7.20",
+    "to": "v0.7.23"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-a40f2e7",
+    "to": "commit-644b05a"
+   },
+   {
+    "id": "gh:artyrambles/st_spriteswapper",
+    "name": "Sprite Swapper by Stahl",
+    "from": "v1.2.0",
+    "to": "v1.3.0"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v1.10.1-hgss-pmd",
+    "to": "v1.10.3-hgss-pmd"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:shanemcgovernie/exp_share",
+    "name": "Exp Share (Gen 1 / Gen 5+ styles)",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:ankokuflare/flare_yellow",
+    "name": "flare_yellow",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:highdrexler/gen-3-inspired-ui-overhaul-for-gen1recomp",
+    "name": "Gen 3 Inspired UI Overhaul",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:thcrazy420/gen1recomp-nexus-ui",
+    "name": "Gen1recomp-Nexus-UI",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:mistermiracle3036/kanto-balls",
+    "name": "Kanto Balls",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:marscrowley/mars-s-expanded-kanto",
+    "name": "Mars's Expanded Kanto",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:javi5cript/gen1recomp-mouse-adventure",
+    "name": "Mouse Adventure",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:mistermiracle3036/pokeball-colors",
+    "name": "Pokeball Colors",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:smidja2/stadium",
+    "name": "Rumble Stadium Models Importer",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:mistermiracle3036/shop-tools---custom-balls",
+    "name": "Shop Tools - Custom Balls",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:mistermiracle3036/too-many-balls",
+    "name": "Too Many Balls",
+    "from": "inactive",
+    "to": "active"
+   }
+  ]
+ },
+ {
   "date": "2026-10-24T04:41:49Z",
   "new": [
    {

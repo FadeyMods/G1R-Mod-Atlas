@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T04:41:49Z",
- "count": 434,
+ "generated_at": "2026-10-25T04:42:10Z",
+ "count": 436,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3440,7 +3440,7 @@
    "id": "floating_glass_frlg",
    "title": "Floating Glass Gen3",
    "author": "Jo5-K",
-   "version": "1.2.9",
+   "version": "1.2.14",
    "categories": [
     "UI"
    ],
@@ -3449,18 +3449,18 @@
    ],
    "summary": "Interface de batalha para Gen1Recomp: cenários ultrawide, câmeras, HUD nativo e sombras animadas. Beta experimental para FRLG/RSE e engine >=0.3.93.",
    "latest": {
-    "version": "1.2.9",
-    "tag": "v1.2.9",
-    "name": "v1.2.9",
+    "version": "1.2.14",
+    "tag": "v1.2.14",
+    "name": "v1.2.14",
     "prerelease": false,
-    "published_at": "2026-10-23T16:21:02Z",
+    "published_at": "2026-10-24T16:21:23Z",
     "zip": {
-     "name": "floating_glass_frlg-1.2.9.zip",
-     "url": "https://github.com/Jo5-K/floating-glass-gen3/releases/download/v1.2.9/floating_glass_frlg-1.2.9.zip"
+     "name": "floating_glass_frlg-1.2.14.zip",
+     "url": "https://github.com/Jo5-K/floating-glass-gen3/releases/download/v1.2.14/floating_glass_frlg-1.2.14.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T16:21:02Z",
+   "last_release": "2026-10-24T16:21:23Z",
    "games": [
     "firered",
     "leafgreen",
@@ -4109,7 +4109,7 @@
    "id": "gen1_recomp_norwegian_translate_yellow",
    "title": "Gen1-Recomp-Norwegian-Translate-Yellow",
    "author": "Tooandorisu",
-   "version": "1.0.0",
+   "version": "1.0.2",
    "categories": [
     "TRANSLATION"
    ],
@@ -4118,18 +4118,18 @@
    ],
    "summary": "Norsk bokmål-oversettelse av Pokémon Yellow for Gen1Recomp. Basert på Norsk bokmål for Red/Blue.",
    "latest": {
-    "version": "1.0.0",
-    "tag": "1.0.0",
-    "name": "1.0.0",
+    "version": "1.0.2",
+    "tag": "1.0.2",
+    "name": "1.0.2",
     "prerelease": false,
-    "published_at": "2026-10-14T12:19:14Z",
+    "published_at": "2026-10-24T15:22:08Z",
     "zip": {
-     "name": "Norsk-bokmal-yellow-v1_0_0.zip",
-     "url": "https://github.com/Tooandorisu/Gen1-Recomp-Norwegian-Translate-Yellow/releases/download/1.0.0/Norsk-bokmal-yellow-v1_0_0.zip"
+     "name": "Norsk-bokmal-yellow-v1_0_2.zip",
+     "url": "https://github.com/Tooandorisu/Gen1-Recomp-Norwegian-Translate-Yellow/releases/download/1.0.2/Norsk-bokmal-yellow-v1_0_2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-14T12:19:14Z",
+   "last_release": "2026-10-24T15:22:08Z",
    "repo": "https://github.com/Tooandorisu/Gen1-Recomp-Norwegian-Translate-Yellow",
    "github": "Tooandorisu/Gen1-Recomp-Norwegian-Translate-Yellow"
   },
@@ -4227,6 +4227,35 @@
    "github": "KhabirTheGoat/gen1recomp-backup"
   },
   {
+   "folder": "cchrkk@gen1recomp_move_damage_info",
+   "id": "gen1recomp_move_damage_info",
+   "title": "gen1recomp move damage info",
+   "author": "cchrkk",
+   "version": "1.2.0",
+   "categories": [
+    "BALANCE"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Gen1Recomp mod: damage range, stats and a short description of the move you are selecting in battle",
+   "latest": {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "name": "v1.2.0",
+    "prerelease": false,
+    "published_at": "2026-10-24T22:44:04Z",
+    "zip": {
+     "name": "move_damage_info-1.2.0.zip",
+     "url": "https://github.com/cchrkk/gen1recomp-move-damage-info/releases/download/v1.2.0/move_damage_info-1.2.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-24T22:44:04Z",
+   "repo": "https://github.com/cchrkk/gen1recomp-move-damage-info",
+   "github": "cchrkk/gen1recomp-move-damage-info"
+  },
+  {
    "folder": "MrKrisSatan@gen1recomp_acheivements",
    "id": "gen1recomp_acheivements",
    "title": "Gen1recomp-acheivements",
@@ -4289,7 +4318,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.165",
+   "version": "content-editor-v0.1.166",
    "categories": [
     "TOOL"
    ],
@@ -4298,18 +4327,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.165",
-    "tag": "content-editor-v0.1.165",
-    "name": "content-editor-v0.1.165",
+    "version": "content-editor-v0.1.166",
+    "tag": "content-editor-v0.1.166",
+    "name": "content-editor-v0.1.166",
     "prerelease": false,
-    "published_at": "2026-10-23T20:39:38Z",
+    "published_at": "2026-10-24T17:46:34Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.165/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.166/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T20:39:38Z",
+   "last_release": "2026-10-24T17:46:34Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5214,7 +5243,7 @@
    "id": "gmarcs_gen2_voxel_mod",
    "title": "Gmarcs Gen2 Voxel Mod",
    "author": "gmarcmods",
-   "version": "1.0.7",
+   "version": "1.0.14",
    "categories": [
     "ART"
    ],
@@ -5224,18 +5253,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "1.0.7",
-    "tag": "v1.0.7",
-    "name": "v1.0.7",
+    "version": "1.0.14",
+    "tag": "v1.0.14",
+    "name": "v1.0.14",
     "prerelease": false,
-    "published_at": "2026-10-23T00:08:06Z",
+    "published_at": "2026-10-25T00:46:18Z",
     "zip": {
      "name": "gmarcs_gen2_voxel_mod.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.7/gmarcs_gen2_voxel_mod.zip"
+     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.14/gmarcs_gen2_voxel_mod.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T00:08:06Z",
+   "last_release": "2026-10-25T00:46:18Z",
    "games": [
     "gen2"
    ],
@@ -8304,7 +8333,7 @@
    "id": "omniqol",
    "title": "OmniQoL",
    "author": "swissguy",
-   "version": "0.2.1",
+   "version": "0.2.2",
    "categories": [
     "QOL"
    ],
@@ -8313,18 +8342,18 @@
    ],
    "summary": "All-in-one modular Quality of Life mod suite for bryanthaboi/gen1recomp (Red/Blue, Yellow, Gen 2, Gen 3)",
    "latest": {
-    "version": "0.2.1",
-    "tag": "v0.2.1",
-    "name": "v0.2.1",
+    "version": "0.2.2",
+    "tag": "v0.2.2",
+    "name": "v0.2.2",
     "prerelease": false,
-    "published_at": "2026-10-23T15:55:43Z",
+    "published_at": "2026-10-24T19:28:32Z",
     "zip": {
-     "name": "omni-qol-v0.2.1.zip",
-     "url": "https://github.com/swissguy/OmniQoL/releases/download/v0.2.1/omni-qol-v0.2.1.zip"
+     "name": "omni-qol-v0.2.2.zip",
+     "url": "https://github.com/swissguy/OmniQoL/releases/download/v0.2.2/omni-qol-v0.2.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T15:55:43Z",
+   "last_release": "2026-10-24T19:28:32Z",
    "repo": "https://github.com/swissguy/OmniQoL",
    "github": "swissguy/OmniQoL"
   },
@@ -8619,6 +8648,35 @@
    "github": "Bentley734/PC-Solitaire"
   },
   {
+   "folder": "Tooandorisu@perfect_start",
+   "id": "perfect_start",
+   "title": "Perfect Start",
+   "author": "Tooandorisu",
+   "version": "2.2.2",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Get the perfect start! Choose any starter Pokémon, and the other two will automatically be added to your party.",
+   "latest": {
+    "version": "2.2.2",
+    "tag": "2.2.2",
+    "name": "2.2.2",
+    "prerelease": false,
+    "published_at": "2026-10-24T14:49:43Z",
+    "zip": {
+     "name": "Perfect_Start-2.2.2.zip",
+     "url": "https://github.com/Tooandorisu/Perfect-Start/releases/download/2.2.2/Perfect_Start-2.2.2.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-24T14:49:43Z",
+   "repo": "https://github.com/Tooandorisu/Perfect-Start",
+   "github": "Tooandorisu/Perfect-Start"
+  },
+  {
    "folder": "Ehren1337@performance_monitor",
    "id": "performance_monitor",
    "title": "Performance Monitor",
@@ -8855,7 +8913,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "0.7.0",
+   "version": "0.8.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -8864,18 +8922,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "0.7.0",
-    "tag": "v0.7.0",
-    "name": "v0.7.0",
+    "version": "0.8.1",
+    "tag": "v0.8.1",
+    "name": "v0.8.1",
     "prerelease": false,
-    "published_at": "2026-10-24T04:36:49Z",
+    "published_at": "2026-10-25T04:39:53Z",
     "zip": {
-     "name": "play_nav-0.7.0.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v0.7.0/play_nav-0.7.0.zip"
+     "name": "play_nav-0.8.1.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v0.8.1/play_nav-0.8.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-24T04:36:49Z",
+   "last_release": "2026-10-25T04:39:53Z",
    "games": [
     "gen3"
    ],
@@ -9252,7 +9310,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "beta5",
+   "version": "beta9",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9261,18 +9319,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "beta5",
-    "tag": "beta5",
-    "name": "beta5",
+    "version": "beta9",
+    "tag": "beta9",
+    "name": "beta9",
     "prerelease": false,
-    "published_at": "2026-10-23T07:11:04Z",
+    "published_at": "2026-10-25T00:19:38Z",
     "zip": {
-     "name": "Ocean_Blue-20261023-030829-8.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/beta5/Ocean_Blue-20261023-030829-8.zip"
+     "name": "Ocean_Blue-20261024-200946-1.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/beta9/Ocean_Blue-20261024-200946-1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T07:11:04Z",
+   "last_release": "2026-10-25T00:19:38Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -9810,7 +9868,7 @@
    "id": "hns_exploration",
    "title": "Pokémon Heart & Soul - Exploration Prototype",
    "author": "TheEelYT",
-   "version": "0.7.20",
+   "version": "0.7.23",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9819,18 +9877,18 @@
    ],
    "summary": "Total Conversion mod for Gen1Recomp Emerald based on pokehns-expansion 2.0.6",
    "latest": {
-    "version": "0.7.20",
-    "tag": "v0.7.20",
-    "name": "v0.7.20",
+    "version": "0.7.23",
+    "tag": "v0.7.23",
+    "name": "v0.7.23",
     "prerelease": false,
-    "published_at": "2026-10-23T22:23:41Z",
+    "published_at": "2026-10-25T03:32:42Z",
     "zip": {
-     "name": "hns_exploration-0.7.20.zip",
-     "url": "https://github.com/TheEelYT/g1r-hns/releases/download/v0.7.20/hns_exploration-0.7.20.zip"
+     "name": "hns_exploration-0.7.23.zip",
+     "url": "https://github.com/TheEelYT/g1r-hns/releases/download/v0.7.23/hns_exploration-0.7.23.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T22:23:41Z",
+   "last_release": "2026-10-25T03:32:42Z",
    "games": [
     "emerald"
    ],
@@ -11550,7 +11608,7 @@
    "id": "ST_SPRITESWAPPER",
    "title": "Sprite Swapper by Stahl",
    "author": "artyrambles",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "categories": [
     "ART"
    ],
@@ -11559,18 +11617,18 @@
    ],
    "summary": "Utility mod for gen1recomp.",
    "latest": {
-    "version": "1.2.0",
-    "tag": "v1.2.0",
-    "name": "v1.2.0",
+    "version": "1.3.0",
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
     "prerelease": false,
-    "published_at": "2026-10-09T17:03:41Z",
+    "published_at": "2026-10-24T10:37:59Z",
     "zip": {
-     "name": "ST_SPRITESWAPPER_1-2-0.zip",
-     "url": "https://github.com/artyrambles/ST_SPRITESWAPPER/releases/download/v1.2.0/ST_SPRITESWAPPER_1-2-0.zip"
+     "name": "ST_SPRITESWAPPER_1-3-0.zip",
+     "url": "https://github.com/artyrambles/ST_SPRITESWAPPER/releases/download/v1.3.0/ST_SPRITESWAPPER_1-3-0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-09T17:03:41Z",
+   "last_release": "2026-10-24T10:37:59Z",
    "games": [
     "gen1",
     "gen2",
@@ -13353,7 +13411,7 @@
    "id": "wilds_of_hoenn",
    "title": "Wilds of Hoenn",
    "author": "poooooby",
-   "version": "1.10.1-hgss-pmd",
+   "version": "1.10.3-hgss-pmd",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13362,18 +13420,18 @@
    ],
    "summary": "Visible, reactive wild Pokemon for the Gen3 overworld (Fire Red, Leaf Green, Ruby, Sapphire, Emerald) -- a Gen1Recomp mod",
    "latest": {
-    "version": "1.10.1-hgss-pmd",
-    "tag": "v1.10.1-hgss-pmd",
-    "name": "v1.10.1-hgss-pmd",
+    "version": "1.10.3-hgss-pmd",
+    "tag": "v1.10.3-hgss-pmd",
+    "name": "v1.10.3-hgss-pmd",
     "prerelease": false,
-    "published_at": "2026-10-21T06:09:29Z",
+    "published_at": "2026-10-25T04:26:48Z",
     "zip": {
-     "name": "wilds-of-hoenn-v1.10.1-hgss-pmd.zip",
-     "url": "https://github.com/poooooby/wilds-of-hoenn/releases/download/v1.10.1-hgss-pmd/wilds-of-hoenn-v1.10.1-hgss-pmd.zip"
+     "name": "wilds-of-hoenn-v1.10.3-hgss-pmd.zip",
+     "url": "https://github.com/poooooby/wilds-of-hoenn/releases/download/v1.10.3-hgss-pmd/wilds-of-hoenn-v1.10.3-hgss-pmd.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-21T06:09:29Z",
+   "last_release": "2026-10-25T04:26:48Z",
    "games": [
     "gen3"
    ],
