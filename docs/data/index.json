@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-25T04:42:10Z",
- "count": 436,
+ "generated_at": "2026-10-26T04:45:53Z",
+ "count": 439,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -981,6 +981,39 @@
    "last_release": "2026-08-02T21:01:28Z",
    "repo": "https://github.com/harryw4444/bag_stock_preview_gen1recomp",
    "github": "harryw4444/bag_stock_preview_gen1recomp"
+  },
+  {
+   "folder": "absol89@BATTLE_ART_VOXEL_FORK",
+   "id": "BATTLE_ART_VOXEL_FORK",
+   "title": "Battle Art Voxel Fork",
+   "author": "absol89",
+   "version": "1.11.2",
+   "categories": [
+    "ART",
+    "UI"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "A fork of the Dramatic Shape voxel mod aimed at battle art: animated back sprites, selectable sprite generations, and sprite fallback for other sprite mods.",
+   "latest": {
+    "version": "1.11.2",
+    "tag": "1.11.2",
+    "name": "1.11.2",
+    "prerelease": false,
+    "published_at": "2026-10-25T22:01:41Z",
+    "zip": {
+     "name": "BATTLE_ART_VOXEL_FORK-1.11.2.zip",
+     "url": "https://github.com/absol89/DramaticShapeVoxelMod/releases/download/1.11.2/BATTLE_ART_VOXEL_FORK-1.11.2.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-25T22:01:41Z",
+   "games": [
+    "gen1"
+   ],
+   "repo": "https://github.com/absol89/DramaticShapeVoxelMod",
+   "github": "absol89/DramaticShapeVoxelMod"
   },
   {
    "folder": "absol89@BATTLE_ART_VOXEL_GEN2",
@@ -2217,35 +2250,6 @@
    "github": "ty-mcdk/custom-video-intro"
   },
   {
-   "folder": "swuff-star@deltas",
-   "id": "deltas",
-   "title": "Delta Pokemon",
-   "author": "swuff-star",
-   "version": "1.0.0",
-   "categories": [
-    "CONTENT"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "adds delta pkmn to gen1 recomp",
-   "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
-    "prerelease": false,
-    "published_at": "2026-08-12T00:31:20Z",
-    "zip": {
-     "name": "delta-pokemon-v1.0.0.zip",
-     "url": "https://github.com/swuff-star/Gen1RecompDeltas/releases/download/v1.0.0/delta-pokemon-v1.0.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-08-12T00:31:20Z",
-   "repo": "https://github.com/swuff-star/Gen1RecompDeltas",
-   "github": "swuff-star/Gen1RecompDeltas"
-  },
-  {
    "folder": "gamecorner-033@DebugMenu",
    "id": "DebugMenu",
    "title": "Developer Debug Menu",
@@ -3106,7 +3110,7 @@
    "id": "facets",
    "title": "Facets",
    "author": "ElvieBlooms",
-   "version": "0.2.0",
+   "version": "0.5.0",
    "categories": [
     "ART"
    ],
@@ -3115,18 +3119,18 @@
    ],
    "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
    "latest": {
-    "version": "0.2.0",
-    "tag": "v0.2.0",
-    "name": "v0.2.0",
+    "version": "0.5.0",
+    "tag": "v0.5.0",
+    "name": "v0.5.0",
     "prerelease": false,
-    "published_at": "2026-10-23T16:45:52Z",
+    "published_at": "2026-10-25T21:57:33Z",
     "zip": {
-     "name": "facets-0.2.0.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v0.2.0/facets-0.2.0.zip"
+     "name": "facets-0.5.0.zip",
+     "url": "https://github.com/ElvieBlooms/facets/releases/download/v0.5.0/facets-0.5.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T16:45:52Z",
+   "last_release": "2026-10-25T21:57:33Z",
    "games": [
     "gen3"
    ],
@@ -3440,7 +3444,7 @@
    "id": "floating_glass_frlg",
    "title": "Floating Glass Gen3",
    "author": "Jo5-K",
-   "version": "1.2.14",
+   "version": "1.2.15",
    "categories": [
     "UI"
    ],
@@ -3449,18 +3453,18 @@
    ],
    "summary": "Interface de batalha para Gen1Recomp: cenários ultrawide, câmeras, HUD nativo e sombras animadas. Beta experimental para FRLG/RSE e engine >=0.3.93.",
    "latest": {
-    "version": "1.2.14",
-    "tag": "v1.2.14",
-    "name": "v1.2.14",
+    "version": "1.2.15",
+    "tag": "v1.2.15",
+    "name": "v1.2.15",
     "prerelease": false,
-    "published_at": "2026-10-24T16:21:23Z",
+    "published_at": "2026-10-25T19:09:39Z",
     "zip": {
-     "name": "floating_glass_frlg-1.2.14.zip",
-     "url": "https://github.com/Jo5-K/floating-glass-gen3/releases/download/v1.2.14/floating_glass_frlg-1.2.14.zip"
+     "name": "floating_glass_frlg-1.2.15.zip",
+     "url": "https://github.com/Jo5-K/floating-glass-gen3/releases/download/v1.2.15/floating_glass_frlg-1.2.15.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-24T16:21:23Z",
+   "last_release": "2026-10-25T19:09:39Z",
    "games": [
     "firered",
     "leafgreen",
@@ -3588,6 +3592,35 @@
    "last_release": "2026-10-01T09:46:28Z",
    "repo": "https://github.com/LaserRaver/g1rd-mute-hp-beep-FR-LG",
    "github": "LaserRaver/g1rd-mute-hp-beep-FR-LG"
+  },
+  {
+   "folder": "PandaKisor@g3_coop",
+   "id": "g3_coop",
+   "title": "g3 coop",
+   "author": "PandaKisor",
+   "version": "0.8.4",
+   "categories": [
+    "BALANCE"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Two-player co-op, Soul Link and level caps for Gen1Recomp's Gen 3 games",
+   "latest": {
+    "version": "0.8.4",
+    "tag": "v0.8.4",
+    "name": "v0.8.4",
+    "prerelease": false,
+    "published_at": "2026-10-26T02:49:52Z",
+    "zip": {
+     "name": "g3_coop-0.8.4.zip",
+     "url": "https://github.com/PandaKisor/g3-coop/releases/download/v0.8.4/g3_coop-0.8.4.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-26T02:49:52Z",
+   "repo": "https://github.com/PandaKisor/g3-coop",
+   "github": "PandaKisor/g3-coop"
   },
   {
    "folder": "tectorifter@g9-Battle-Scene",
@@ -3808,7 +3841,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.4.6",
+   "version": "0.4.8",
    "categories": [
     "LIBRARY"
    ],
@@ -3817,18 +3850,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.4.6",
-    "tag": "v0.4.6",
-    "name": "v0.4.6",
+    "version": "0.4.8",
+    "tag": "v0.4.8",
+    "name": "v0.4.8",
     "prerelease": false,
-    "published_at": "2026-10-23T00:16:05Z",
+    "published_at": "2026-10-25T16:54:20Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.4.6.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.6/gen3-hd-sprites-0.4.6.zip"
+     "name": "gen3-hd-sprites-0.4.8.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.8/gen3-hd-sprites-0.4.8.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T00:16:05Z",
+   "last_release": "2026-10-25T16:54:20Z",
    "games": [
     "gen3"
    ],
@@ -4318,7 +4351,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.166",
+   "version": "content-editor-v0.1.168",
    "categories": [
     "TOOL"
    ],
@@ -4327,18 +4360,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.166",
-    "tag": "content-editor-v0.1.166",
-    "name": "content-editor-v0.1.166",
+    "version": "content-editor-v0.1.168",
+    "tag": "content-editor-v0.1.168",
+    "name": "content-editor-v0.1.168",
     "prerelease": false,
-    "published_at": "2026-10-24T17:46:34Z",
+    "published_at": "2026-10-26T00:46:44Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.166/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.168/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-24T17:46:34Z",
+   "last_release": "2026-10-26T00:46:44Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5055,7 +5088,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.45",
+   "version": "0.8.46",
    "categories": [
     "TRANSLATION"
    ],
@@ -5064,18 +5097,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.45",
-    "tag": "v0.8.45",
-    "name": "v0.8.45",
+    "version": "0.8.46",
+    "tag": "v0.8.46",
+    "name": "v0.8.46",
     "prerelease": false,
-    "published_at": "2026-10-20T08:08:08Z",
+    "published_at": "2026-10-26T01:01:06Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.45-macos.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.45/Gen2Recomped-0.8.45-macos.zip"
+     "name": "Gen2Recomped-0.8.46-macos.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.46/Gen2Recomped-0.8.46-macos.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-20T08:08:08Z",
+   "last_release": "2026-10-26T01:01:06Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -5948,6 +5981,35 @@
    "github": "jramiresbrito/infinite-hair-cuts"
   },
   {
+   "folder": "hugo-cacciatori@instant_text",
+   "id": "instant_text",
+   "title": "instant text",
+   "author": "hugo-cacciatori",
+   "version": "0.1.0",
+   "categories": [
+    "QOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-10-25T16:24:00Z",
+    "zip": {
+     "name": "instant_text-0.1.0.zip",
+     "url": "https://github.com/hugo-cacciatori/instant_text/releases/download/v0.1.0/instant_text-0.1.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-25T16:24:00Z",
+   "repo": "https://github.com/hugo-cacciatori/instant_text",
+   "github": "hugo-cacciatori/instant_text"
+  },
+  {
    "folder": "hdbreaker@intro_bypass",
    "id": "intro_bypass",
    "title": "Intro Bypass",
@@ -6412,7 +6474,7 @@
    "id": "kanto_gear",
    "title": "kanto-gear",
    "author": "AverageConsumer",
-   "version": "4.4.1",
+   "version": "4.5.1",
    "categories": [
     "UI"
    ],
@@ -6421,18 +6483,18 @@
    ],
    "summary": "DS-inspired Pokégear and C-Gear companion mod for Pokémon Gen 1-3 in Gen1Recomp. Live maps, Pokédex, touch battle controls and local phone display on Android, Windows and Linux.",
    "latest": {
-    "version": "4.4.1",
-    "tag": "v4.4.1",
-    "name": "v4.4.1",
+    "version": "4.5.1",
+    "tag": "v4.5.1",
+    "name": "v4.5.1",
     "prerelease": false,
-    "published_at": "2026-10-22T23:17:58Z",
+    "published_at": "2026-10-25T21:27:51Z",
     "zip": {
-     "name": "kanto_gear-4.4.1.zip",
-     "url": "https://github.com/AverageConsumer/kanto-gear/releases/download/v4.4.1/kanto_gear-4.4.1.zip"
+     "name": "kanto_gear-4.5.1.zip",
+     "url": "https://github.com/AverageConsumer/kanto-gear/releases/download/v4.5.1/kanto_gear-4.5.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T23:17:58Z",
+   "last_release": "2026-10-25T21:27:51Z",
    "repo": "https://github.com/AverageConsumer/kanto-gear",
    "github": "AverageConsumer/kanto-gear"
   },
@@ -8267,6 +8329,35 @@
    "github": "mistermiracle3036/npc_inspector"
   },
   {
+   "folder": "tarnowskyy@nuzlocke_fr",
+   "id": "nuzlocke_fr",
+   "title": "nuzlocke fr",
+   "author": "tarnowskyy",
+   "version": "1.0.0",
+   "categories": [
+    "GAMEPLAY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Gen1Recomp mod: enforced, randomized, harder Nuzlocke for Pokemon FireRed",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-10-25T19:50:35Z",
+    "zip": {
+     "name": "nuzlocke_fr-1.0.0.zip",
+     "url": "https://github.com/tarnowskyy/nuzlocke-fr/releases/download/v1.0.0/nuzlocke_fr-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-25T19:50:35Z",
+   "repo": "https://github.com/tarnowskyy/nuzlocke-fr",
+   "github": "tarnowskyy/nuzlocke-fr"
+  },
+  {
    "folder": "ScottExplores@oak_spare_starter",
    "id": "oak_spare_starter",
    "title": "Oak's Spare Starter",
@@ -8913,7 +9004,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "0.8.1",
+   "version": "0.9.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -8922,18 +9013,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "0.8.1",
-    "tag": "v0.8.1",
-    "name": "v0.8.1",
+    "version": "0.9.0",
+    "tag": "v0.9.0",
+    "name": "v0.9.0",
     "prerelease": false,
-    "published_at": "2026-10-25T04:39:53Z",
+    "published_at": "2026-10-26T03:54:27Z",
     "zip": {
-     "name": "play_nav-0.8.1.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v0.8.1/play_nav-0.8.1.zip"
+     "name": "play_nav-0.9.0.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v0.9.0/play_nav-0.9.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T04:39:53Z",
+   "last_release": "2026-10-26T03:54:27Z",
    "games": [
     "gen3"
    ],
@@ -9310,7 +9401,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "beta9",
+   "version": "beta11",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9319,18 +9410,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "beta9",
-    "tag": "beta9",
-    "name": "beta9",
+    "version": "beta11",
+    "tag": "beta11",
+    "name": "beta11",
     "prerelease": false,
-    "published_at": "2026-10-25T00:19:38Z",
+    "published_at": "2026-10-25T20:32:28Z",
     "zip": {
-     "name": "Ocean_Blue-20261024-200946-1.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/beta9/Ocean_Blue-20261024-200946-1.zip"
+     "name": "Ocean_Blue-20261025-162949-4.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/beta11/Ocean_Blue-20261025-162949-4.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T00:19:38Z",
+   "last_release": "2026-10-25T20:32:28Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -10116,7 +10207,7 @@
    "id": "project_highlander",
    "title": "Project Highlander - A Modern UI Suite Fork",
    "author": "Waifu4Life",
-   "version": "3.61.0",
+   "version": "3.67.0",
    "categories": [
     "UI"
    ],
@@ -10125,18 +10216,18 @@
    ],
    "summary": "Project Highlander — a Modern UI Suite fork for Gen1Recomp (QoL, All PKMN, Steel/Fairy, Crystal sprites).",
    "latest": {
-    "version": "3.61.0",
-    "tag": "3.61.0",
-    "name": "3.61.0",
+    "version": "3.67.0",
+    "tag": "3.67.0",
+    "name": "3.67.0",
     "prerelease": false,
-    "published_at": "2026-10-19T05:54:42Z",
+    "published_at": "2026-10-25T21:52:51Z",
     "zip": {
-     "name": "project_highlander-3.61.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork/releases/download/3.61.0/project_highlander-3.61.0.zip"
+     "name": "project_highlander-3.67.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork/releases/download/3.67.0/project_highlander-3.67.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-19T05:54:42Z",
+   "last_release": "2026-10-25T21:52:51Z",
    "games": [
     "gen1",
     "gen2"
@@ -10825,6 +10916,35 @@
    "last_release": "2026-08-08T20:56:03Z",
    "repo": "https://github.com/Elrcx/gen1recomp-mod-heal-rotate",
    "github": "Elrcx/gen1recomp-mod-heal-rotate"
+  },
+  {
+   "folder": "hugo-cacciatori@running_freedom",
+   "id": "running_freedom",
+   "title": "running freedom",
+   "author": "hugo-cacciatori",
+   "version": "0.2.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Run indoors and before receiving Running Shoes in gen1recomp",
+   "latest": {
+    "version": "0.2.0",
+    "tag": "v0.2.0",
+    "name": "v0.2.0",
+    "prerelease": false,
+    "published_at": "2026-10-25T16:07:58Z",
+    "zip": {
+     "name": "running_freedom-0.2.0.zip",
+     "url": "https://github.com/hugo-cacciatori/running_freedom/releases/download/v0.2.0/running_freedom-0.2.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-25T16:07:58Z",
+   "repo": "https://github.com/hugo-cacciatori/running_freedom",
+   "github": "hugo-cacciatori/running_freedom"
   },
   {
    "folder": "shadowjackyl@s_j_s_aio_gen_2",
@@ -12159,38 +12279,6 @@
    "github": "Zetto22/sweet_share"
   },
   {
-   "folder": "swuff-star@swuff_qol",
-   "id": "swuff_qol",
-   "title": "Swuff Misc QoL",
-   "author": "swuff-star",
-   "version": "1.0.0",
-   "categories": [
-    "QOL"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "",
-   "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
-    "prerelease": false,
-    "published_at": "2026-08-22T23:07:32Z",
-    "zip": {
-     "name": "swuff_qol_v1.0.0.zip",
-     "url": "https://github.com/swuff-star/swuff_qol/releases/download/v1.0.0/swuff_qol_v1.0.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-08-22T23:07:32Z",
-   "games": [
-    "gen1"
-   ],
-   "repo": "https://github.com/swuff-star/swuff_qol",
-   "github": "swuff-star/swuff_qol"
-  },
-  {
    "folder": "mrgr8@tactical_combat_overhaul_gen1recomp",
    "id": "tactical_combat_overhaul_gen1recomp",
    "title": "Tactical-Combat-Overhaul-Gen1Recomp-",
@@ -13411,7 +13499,7 @@
    "id": "wilds_of_hoenn",
    "title": "Wilds of Hoenn",
    "author": "poooooby",
-   "version": "1.10.3-hgss-pmd",
+   "version": "1.11.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13420,18 +13508,18 @@
    ],
    "summary": "Visible, reactive wild Pokemon for the Gen3 overworld (Fire Red, Leaf Green, Ruby, Sapphire, Emerald) -- a Gen1Recomp mod",
    "latest": {
-    "version": "1.10.3-hgss-pmd",
-    "tag": "v1.10.3-hgss-pmd",
-    "name": "v1.10.3-hgss-pmd",
+    "version": "1.11.0",
+    "tag": "v1.11.0",
+    "name": "v1.11.0",
     "prerelease": false,
-    "published_at": "2026-10-25T04:26:48Z",
+    "published_at": "2026-10-26T04:29:54Z",
     "zip": {
-     "name": "wilds-of-hoenn-v1.10.3-hgss-pmd.zip",
-     "url": "https://github.com/poooooby/wilds-of-hoenn/releases/download/v1.10.3-hgss-pmd/wilds-of-hoenn-v1.10.3-hgss-pmd.zip"
+     "name": "wilds-of-hoenn-v1.11.0.zip",
+     "url": "https://github.com/poooooby/wilds-of-hoenn/releases/download/v1.11.0/wilds-of-hoenn-v1.11.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T04:26:48Z",
+   "last_release": "2026-10-26T04:29:54Z",
    "games": [
     "gen3"
    ],

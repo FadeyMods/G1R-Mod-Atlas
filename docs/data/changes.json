@@ -1,5 +1,232 @@
 [
  {
+  "date": "2026-10-26T04:45:53Z",
+  "new": [
+   {
+    "id": "gh:pandakisor/emerald-doubles-soullink",
+    "name": "emerald doubles soullink"
+   },
+   {
+    "id": "gh:pandakisor/g3-coop",
+    "name": "g3 coop"
+   },
+   {
+    "id": "gh:tarnowskyy/nuzlocke-fr",
+    "name": "nuzlocke fr"
+   },
+   {
+    "id": "gh:klx1204/types-mod-gen1recomp",
+    "name": "types mod gen1recomp"
+   },
+   {
+    "id": "gh:hugo-cacciatori/running_freedom",
+    "name": "running freedom"
+   },
+   {
+    "id": "gh:colimbuli/theos",
+    "name": "TheOS"
+   },
+   {
+    "id": "gh:hugo-cacciatori/instant_text",
+    "name": "instant text"
+   },
+   {
+    "id": "gh:kat-titter/vanitas-veritas",
+    "name": "vanitas veritas"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:absol89/dramaticshapevoxelmod",
+    "name": "Battle Art Voxel Fork",
+    "from": "1.11.1",
+    "to": "1.11.2"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v0.5.0",
+    "to": "v0.6.0"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v0.2.0",
+    "to": "v0.5.0"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.3.1",
+    "to": "v0.3.7"
+   },
+   {
+    "id": "gh:jo5-k/floating-glass-gen3",
+    "name": "Floating Glass Gen3",
+    "from": "v1.2.14",
+    "to": "v1.2.15"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-cf9f3a9",
+    "to": "commit-d9c2435"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.4.6",
+    "to": "v0.4.8"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.166",
+    "to": "content-editor-v0.1.168"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-eff17db",
+    "to": "commit-648d405"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-40fd820",
+    "to": "commit-7307564"
+   },
+   {
+    "id": "gh:duskpromised/gen1recomp-mod-index",
+    "name": "gen1recomp-mod-index",
+    "from": "commit-308d39d",
+    "to": "commit-55656d7"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-8050378",
+    "to": "commit-7db8fbc"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-271e1b3",
+    "to": "commit-4d3d620"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-ed539b9",
+    "to": "commit-b72b5d7"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.45",
+    "to": "v0.8.46"
+   },
+   {
+    "id": "gh:averageconsumer/kanto-gear",
+    "name": "kanto-gear",
+    "from": "v4.4.1",
+    "to": "v4.5.1"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-4da5b22",
+    "to": "commit-3988751"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-ee0bb19",
+    "to": "commit-354c148"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-45db5bc",
+    "to": "commit-2d9d450"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v0.8.1",
+    "to": "v0.9.0"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "beta9",
+    "to": "beta11"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-644b05a",
+    "to": "commit-b9f7f66"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-a-modern-ui-suite-fork",
+    "name": "Project Highlander - A Modern UI Suite Fork",
+    "from": "3.61.0",
+    "to": "3.67.0"
+   },
+   {
+    "id": "gh:tooandorisu/voxel-diorama",
+    "name": "Voxel Diorama",
+    "from": "1.26.1",
+    "to": "1.29.0"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v1.10.3-hgss-pmd",
+    "to": "v1.11.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:swuff-star/gen1recompdeltas",
+    "name": "Delta Pokemon",
+    "from": "inactive",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:mistermiracle3036/kanto_ribbons",
+    "name": "Kanto Ribbons",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:oflatt/move-mania",
+    "name": "Move Mania",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:mistermiracle3036/ribbons",
+    "name": "Ribbons",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-running-shoes",
+    "name": "Running Shoes",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:swuff-star/swuff_qol",
+    "name": "Swuff Misc QoL",
+    "from": "inactive",
+    "to": "deleted"
+   }
+  ]
+ },
+ {
   "date": "2026-10-25T04:42:10Z",
   "new": [
    {
