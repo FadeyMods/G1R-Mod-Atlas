@@ -1,5 +1,244 @@
 [
  {
+  "date": "2026-10-27T09:49:02Z",
+  "new": [
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "recomp achievements"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids"
+   },
+   {
+    "id": "gh:pustal/webmon",
+    "name": "Webmon"
+   },
+   {
+    "id": "gh:bentley734/noloadreport",
+    "name": "NoLoadReport"
+   },
+   {
+    "id": "gh:silvamenu/relaunch",
+    "name": "Relaunch"
+   },
+   {
+    "id": "gh:hugo-cacciatori/roguelike_mode",
+    "name": "roguelike mode"
+   },
+   {
+    "id": "gh:danielnash1611/jumpingoncoalsgame",
+    "name": "jumpingoncoalsgame"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:drglitchyphd/aio-recomp",
+    "name": "aio recomp",
+    "from": "v0.9.56",
+    "to": "v0.9.57"
+   },
+   {
+    "id": "gh:tooandorisu/cleanui-gen3",
+    "name": "Clean UI Gen 3",
+    "from": "0.14.2",
+    "to": "0.16.1"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v0.6.0",
+    "to": "v0.6.1"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v0.5.0",
+    "to": "v0.5.3"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.3.7",
+    "to": "v0.3.9"
+   },
+   {
+    "id": "gh:jo5-k/floating-glass-gen3",
+    "name": "Floating Glass Gen3",
+    "from": "v1.2.15",
+    "to": "v1.2.18"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-d9c2435",
+    "to": "commit-985fd10"
+   },
+   {
+    "id": "gh:himionegranger/frlg-voxel-engine",
+    "name": "FRLG-Voxel-Engine",
+    "from": "commit-552ab51",
+    "to": "commit-21ac0de"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.168",
+    "to": "content-editor-v0.1.170"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-648d405",
+    "to": "commit-57a32e9"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-7307564",
+    "to": "commit-c67abf3"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-7db8fbc",
+    "to": "commit-900f931"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-4d3d620",
+    "to": "commit-7516b42"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-b72b5d7",
+    "to": "commit-bfc83ea"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.46",
+    "to": "v0.8.47"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_voxel_mod",
+    "name": "Gmarcs Gen2 Voxel Mod",
+    "from": "v1.0.14",
+    "to": "v1.0.16"
+   },
+   {
+    "id": "gh:bentley734/hoennto",
+    "name": "Hoennto",
+    "from": "v0.2.9",
+    "to": "v0.3.0-prepared.2"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-3988751",
+    "to": "commit-e72ad26"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-354c148",
+    "to": "commit-e710433"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "National Dex Gen 3",
+    "from": "v1.2.0",
+    "to": "v1.3.0"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-2d9d450",
+    "to": "commit-7c5cbf4"
+   },
+   {
+    "id": "gh:mochx-007/pkmultiplayer",
+    "name": "PkMultiplayer (Online Co-op)",
+    "from": "v1.4.0",
+    "to": "v1.6.1"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v0.9.0",
+    "to": "v0.9.6"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "beta11",
+    "to": "charlie3"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-b9f7f66",
+    "to": "commit-f45c82e"
+   },
+   {
+    "id": "gh:satori7kensho/gen1recomp-shiny-starters-gifts",
+    "name": "Shiny Starters, Gifts, NPC Trades & Day Care Eggs",
+    "from": "v1.4.0",
+    "to": "v1.6.3"
+   },
+   {
+    "id": "gh:klx1204/types-mod-gen1recomp",
+    "name": "types mod gen1recomp",
+    "from": "commit-8fefc93",
+    "to": "v0.1.0"
+   },
+   {
+    "id": "gh:kat-titter/vanitas-veritas",
+    "name": "vanitas veritas",
+    "from": "commit-a909492",
+    "to": "commit-7c70b48"
+   },
+   {
+    "id": "gh:tooandorisu/voxel-diorama",
+    "name": "Voxel Diorama",
+    "from": "1.29.0",
+    "to": "1.30.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:thcrazy420/gen1recomp-weatherfx-simulator",
+    "name": "Gen1recomp-WeatherFX-Simulator",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:weskestis/universalrandomizer",
+    "name": "UniversalRandomizer",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:shanemcgovernie/useful-bag",
+    "name": "Useful Bag",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:juancdominici/wide-menus",
+    "name": "Wide Menus",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-10-26T04:45:53Z",
   "new": [
    {

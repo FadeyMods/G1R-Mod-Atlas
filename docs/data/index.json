@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T04:45:53Z",
- "count": 439,
+ "generated_at": "2026-10-27T09:49:02Z",
+ "count": 444,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -452,7 +452,7 @@
    "id": "aio_recomp",
    "title": "aio recomp",
    "author": "drglitchyphd",
-   "version": "0.9.56",
+   "version": "0.9.57",
    "categories": [
     "ART"
    ],
@@ -462,18 +462,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.9.56",
-    "tag": "v0.9.56",
-    "name": "v0.9.56",
+    "version": "0.9.57",
+    "tag": "v0.9.57",
+    "name": "v0.9.57",
     "prerelease": false,
-    "published_at": "2026-10-24T02:00:03Z",
+    "published_at": "2026-10-26T23:58:34Z",
     "zip": {
-     "name": "gen2-aio-0.9.56.zip",
-     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.56/gen2-aio-0.9.56.zip"
+     "name": "gen2-aio-0.9.57.zip",
+     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.57/gen2-aio-0.9.57.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-24T02:00:03Z",
+   "last_release": "2026-10-26T23:58:34Z",
    "repo": "https://github.com/drglitchyphd/aio-recomp",
    "github": "drglitchyphd/aio-recomp"
   },
@@ -1768,7 +1768,7 @@
    "id": "cleanui_gen3",
    "title": "Clean UI Gen 3",
    "author": "Tooandorisu",
-   "version": "0.14.2",
+   "version": "0.16.1",
    "categories": [
     "UI"
    ],
@@ -1777,18 +1777,18 @@
    ],
    "summary": "CleanUI for Gen3",
    "latest": {
-    "version": "0.14.2",
-    "tag": "0.14.2",
-    "name": "0.14.2",
+    "version": "0.16.1",
+    "tag": "0.16.1",
+    "name": "0.16.1",
     "prerelease": false,
-    "published_at": "2026-10-15T13:06:03Z",
+    "published_at": "2026-10-26T11:45:07Z",
     "zip": {
-     "name": "CleanUI-Gen3-v0_14_2.zip",
-     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.14.2/CleanUI-Gen3-v0_14_2.zip"
+     "name": "CleanUI-Gen3-v0_16_1.zip",
+     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.16.1/CleanUI-Gen3-v0_16_1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-15T13:06:03Z",
+   "last_release": "2026-10-26T11:45:07Z",
    "repo": "https://github.com/Tooandorisu/CleanUI-Gen3",
    "github": "Tooandorisu/CleanUI-Gen3"
   },
@@ -3110,7 +3110,7 @@
    "id": "facets",
    "title": "Facets",
    "author": "ElvieBlooms",
-   "version": "0.5.0",
+   "version": "0.5.3",
    "categories": [
     "ART"
    ],
@@ -3119,18 +3119,18 @@
    ],
    "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
    "latest": {
-    "version": "0.5.0",
-    "tag": "v0.5.0",
-    "name": "v0.5.0",
+    "version": "0.5.3",
+    "tag": "v0.5.3",
+    "name": "v0.5.3",
     "prerelease": false,
-    "published_at": "2026-10-25T21:57:33Z",
+    "published_at": "2026-10-26T18:29:02Z",
     "zip": {
-     "name": "facets-0.5.0.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v0.5.0/facets-0.5.0.zip"
+     "name": "facets-0.5.3.zip",
+     "url": "https://github.com/ElvieBlooms/facets/releases/download/v0.5.3/facets-0.5.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T21:57:33Z",
+   "last_release": "2026-10-26T18:29:02Z",
    "games": [
     "gen3"
    ],
@@ -3444,7 +3444,7 @@
    "id": "floating_glass_frlg",
    "title": "Floating Glass Gen3",
    "author": "Jo5-K",
-   "version": "1.2.15",
+   "version": "1.2.18",
    "categories": [
     "UI"
    ],
@@ -3453,18 +3453,18 @@
    ],
    "summary": "Interface de batalha para Gen1Recomp: cenários ultrawide, câmeras, HUD nativo e sombras animadas. Beta experimental para FRLG/RSE e engine >=0.3.93.",
    "latest": {
-    "version": "1.2.15",
-    "tag": "v1.2.15",
-    "name": "v1.2.15",
+    "version": "1.2.18",
+    "tag": "v1.2.18",
+    "name": "v1.2.18",
     "prerelease": false,
-    "published_at": "2026-10-25T19:09:39Z",
+    "published_at": "2026-10-26T16:16:05Z",
     "zip": {
-     "name": "floating_glass_frlg-1.2.15.zip",
-     "url": "https://github.com/Jo5-K/floating-glass-gen3/releases/download/v1.2.15/floating_glass_frlg-1.2.15.zip"
+     "name": "floating_glass_frlg-1.2.18.zip",
+     "url": "https://github.com/Jo5-K/floating-glass-gen3/releases/download/v1.2.18/floating_glass_frlg-1.2.18.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T19:09:39Z",
+   "last_release": "2026-10-26T16:16:05Z",
    "games": [
     "firered",
     "leafgreen",
@@ -4351,7 +4351,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.168",
+   "version": "content-editor-v0.1.170",
    "categories": [
     "TOOL"
    ],
@@ -4360,18 +4360,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.168",
-    "tag": "content-editor-v0.1.168",
-    "name": "content-editor-v0.1.168",
+    "version": "content-editor-v0.1.170",
+    "tag": "content-editor-v0.1.170",
+    "name": "content-editor-v0.1.170",
     "prerelease": false,
-    "published_at": "2026-10-26T00:46:44Z",
+    "published_at": "2026-10-26T19:42:58Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.168/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.170/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T00:46:44Z",
+   "last_release": "2026-10-26T19:42:58Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5088,7 +5088,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.46",
+   "version": "0.8.47",
    "categories": [
     "TRANSLATION"
    ],
@@ -5097,18 +5097,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.46",
-    "tag": "v0.8.46",
-    "name": "v0.8.46",
+    "version": "0.8.47",
+    "tag": "v0.8.47",
+    "name": "v0.8.47",
     "prerelease": false,
-    "published_at": "2026-10-26T01:01:06Z",
+    "published_at": "2026-10-26T17:25:35Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.46-macos.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.46/Gen2Recomped-0.8.46-macos.zip"
+     "name": "Gen2Recomped-0.8.47-rg34xxsp-stockos64-mod.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.47/Gen2Recomped-0.8.47-rg34xxsp-stockos64-mod.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T01:01:06Z",
+   "last_release": "2026-10-26T17:25:35Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -5276,7 +5276,7 @@
    "id": "gmarcs_gen2_voxel_mod",
    "title": "Gmarcs Gen2 Voxel Mod",
    "author": "gmarcmods",
-   "version": "1.0.14",
+   "version": "1.0.16",
    "categories": [
     "ART"
    ],
@@ -5286,18 +5286,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "1.0.14",
-    "tag": "v1.0.14",
-    "name": "v1.0.14",
+    "version": "1.0.16",
+    "tag": "v1.0.16",
+    "name": "v1.0.16",
     "prerelease": false,
-    "published_at": "2026-10-25T00:46:18Z",
+    "published_at": "2026-10-26T22:58:04Z",
     "zip": {
      "name": "gmarcs_gen2_voxel_mod.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.14/gmarcs_gen2_voxel_mod.zip"
+     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.16/gmarcs_gen2_voxel_mod.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T00:46:18Z",
+   "last_release": "2026-10-26T22:58:04Z",
    "games": [
     "gen2"
    ],
@@ -5786,7 +5786,7 @@
    "id": "kanto_hoenn",
    "title": "Hoennto",
    "author": "Bentley734",
-   "version": "0.2.9",
+   "version": "0.3.0-prepared.2",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -5795,18 +5795,18 @@
    ],
    "summary": "One trainer across all 11 Kanto, Johto, and Hoenn stories, with shared Pokemon and Pokedex, independent regional progress, and fast travel from the start menu.",
    "latest": {
-    "version": "0.2.9",
-    "tag": "v0.2.9",
-    "name": "v0.2.9",
+    "version": "0.3.0-prepared.2",
+    "tag": "v0.3.0-prepared.2",
+    "name": "v0.3.0-prepared.2",
     "prerelease": false,
-    "published_at": "2026-10-23T07:25:58Z",
+    "published_at": "2026-10-26T09:40:19Z",
     "zip": {
-     "name": "kanto_hoenn-0.2.9.zip",
-     "url": "https://github.com/Bentley734/Hoennto/releases/download/v0.2.9/kanto_hoenn-0.2.9.zip"
+     "name": "Hoennto-0.3.0-prepared.2.zip",
+     "url": "https://github.com/Bentley734/Hoennto/releases/download/v0.3.0-prepared.2/Hoennto-0.3.0-prepared.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T07:25:58Z",
+   "last_release": "2026-10-26T09:40:19Z",
    "games": [
     "red",
     "blue",
@@ -7113,6 +7113,35 @@
    "github": "hunter6571/max_bag_capacity_gen2"
   },
   {
+   "folder": "poooooby@max_raids",
+   "id": "max_raids",
+   "title": "max raids",
+   "author": "poooooby",
+   "version": "0.1.0",
+   "categories": [
+    "GAMEPLAY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-10-27T07:20:58Z",
+    "zip": {
+     "name": "max_raids-0.1.0.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.1.0/max_raids-0.1.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-27T07:20:58Z",
+   "repo": "https://github.com/poooooby/max-raids",
+   "github": "poooooby/max-raids"
+  },
+  {
    "folder": "eduardocalafell@mega_evolution",
    "id": "mega_evolution",
    "title": "Mega Evolution",
@@ -8123,7 +8152,7 @@
    "id": "national_dex_gen3",
    "title": "National Dex Gen 3",
    "author": "poooooby",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "categories": [
     "CONTENT"
    ],
@@ -8132,18 +8161,18 @@
    ],
    "summary": "National Dex species #387-1025 as data for Pokemon FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "1.2.0",
-    "tag": "v1.2.0",
-    "name": "v1.2.0",
+    "version": "1.3.0",
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
     "prerelease": false,
-    "published_at": "2026-10-21T04:02:25Z",
+    "published_at": "2026-10-27T07:20:04Z",
     "zip": {
-     "name": "national_dex_gen3-1.2.0.zip",
-     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.2.0/national_dex_gen3-1.2.0.zip"
+     "name": "national_dex_gen3-1.3.0.zip",
+     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.3.0/national_dex_gen3-1.3.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-21T04:02:25Z",
+   "last_release": "2026-10-27T07:20:04Z",
    "games": [
     "gen3"
    ],
@@ -8298,6 +8327,35 @@
    "last_release": "2026-08-15T17:15:30Z",
    "repo": "https://github.com/adhdandy/gen1recomp-no-bike-music",
    "github": "adhdandy/gen1recomp-no-bike-music"
+  },
+  {
+   "folder": "Bentley734@noloadreport",
+   "id": "noloadreport",
+   "title": "NoLoadReport",
+   "author": "Bentley734",
+   "version": "1.0.0",
+   "categories": [
+    "UI"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Automatically skip gen1recomp's load report screen across all eleven games",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-10-26T09:46:25Z",
+    "zip": {
+     "name": "NoLoadReport-1.0.0.zip",
+     "url": "https://github.com/Bentley734/NoLoadReport/releases/download/v1.0.0/NoLoadReport-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-26T09:46:25Z",
+   "repo": "https://github.com/Bentley734/NoLoadReport",
+   "github": "Bentley734/NoLoadReport"
   },
   {
    "folder": "mistermiracle3036@npc_inspector",
@@ -8946,7 +9004,7 @@
    "id": "PkMultiplayer",
    "title": "PkMultiplayer (Online Co-op)",
    "author": "Mochx-007",
-   "version": "1.4.0",
+   "version": "1.6.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -8955,18 +9013,18 @@
    ],
    "summary": "Online co-op mod for Gen2Recomped (Pokemon Gold/Silver/Crystal): two players, one Johto, 2-vs-2 double battles. LAN / ZeroTier.",
    "latest": {
-    "version": "1.4.0",
-    "tag": "v1.4.0",
-    "name": "v1.4.0",
+    "version": "1.6.1",
+    "tag": "v1.6.1",
+    "name": "v1.6.1",
     "prerelease": false,
-    "published_at": "2026-10-22T17:46:44Z",
+    "published_at": "2026-10-27T09:46:49Z",
     "zip": {
-     "name": "PkMultiplayer-1.4.0.zip",
-     "url": "https://github.com/Mochx-007/PkMultiplayer/releases/download/v1.4.0/PkMultiplayer-1.4.0.zip"
+     "name": "PkMultiplayer-1.6.1.zip",
+     "url": "https://github.com/Mochx-007/PkMultiplayer/releases/download/v1.6.1/PkMultiplayer-1.6.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T17:46:44Z",
+   "last_release": "2026-10-27T09:46:49Z",
    "repo": "https://github.com/Mochx-007/PkMultiplayer",
    "github": "Mochx-007/PkMultiplayer"
   },
@@ -9004,7 +9062,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "0.9.0",
+   "version": "0.9.6",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9013,18 +9071,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "0.9.0",
-    "tag": "v0.9.0",
-    "name": "v0.9.0",
+    "version": "0.9.6",
+    "tag": "v0.9.6",
+    "name": "v0.9.6",
     "prerelease": false,
-    "published_at": "2026-10-26T03:54:27Z",
+    "published_at": "2026-10-26T20:46:20Z",
     "zip": {
-     "name": "play_nav-0.9.0.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v0.9.0/play_nav-0.9.0.zip"
+     "name": "play_nav-0.9.6.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v0.9.6/play_nav-0.9.6.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T03:54:27Z",
+   "last_release": "2026-10-26T20:46:20Z",
    "games": [
     "gen3"
    ],
@@ -9401,7 +9459,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "beta11",
+   "version": "charlie3",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9410,18 +9468,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "beta11",
-    "tag": "beta11",
-    "name": "beta11",
+    "version": "charlie3",
+    "tag": "charlie3",
+    "name": "charlie3",
     "prerelease": false,
-    "published_at": "2026-10-25T20:32:28Z",
+    "published_at": "2026-10-27T06:22:01Z",
     "zip": {
-     "name": "Ocean_Blue-20261025-162949-4.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/beta11/Ocean_Blue-20261025-162949-4.zip"
+     "name": "Ocean_Blue-20261027-021628-14.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/charlie3/Ocean_Blue-20261027-021628-14.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T20:32:28Z",
+   "last_release": "2026-10-27T06:22:01Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -10887,6 +10945,35 @@
    ],
    "repo": "https://github.com/twgrodd/G1R-Deluxe_Gen1_mod_StartScreenRoddsoft",
    "github": "twgrodd/G1R-Deluxe_Gen1_mod_StartScreenRoddsoft"
+  },
+  {
+   "folder": "hugo-cacciatori@roguelike_mode",
+   "id": "roguelike_mode",
+   "title": "roguelike mode",
+   "author": "hugo-cacciatori",
+   "version": "0.1.0",
+   "categories": [
+    "GAMEPLAY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-10-25T20:07:00Z",
+    "zip": {
+     "name": "roguelike_mode-0.1.0.zip",
+     "url": "https://github.com/hugo-cacciatori/roguelike_mode/releases/download/v0.1.0/roguelike_mode-0.1.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-25T20:07:00Z",
+   "repo": "https://github.com/hugo-cacciatori/roguelike_mode",
+   "github": "hugo-cacciatori/roguelike_mode"
   },
   {
    "folder": "Elrcx@rotate_down_after_heal",
@@ -12548,6 +12635,35 @@
    "github": "bryanthaboi/tiled_gen1recomp"
   },
   {
+   "folder": "Bentley734@tileshift",
+   "id": "tileshift",
+   "title": "TileShift",
+   "author": "Bentley734",
+   "version": "0.6.0",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
+   "latest": {
+    "version": "0.6.0",
+    "tag": "v0.6.0",
+    "name": "v0.6.0",
+    "prerelease": false,
+    "published_at": "2026-10-27T08:58:41Z",
+    "zip": {
+     "name": "TileShift-v0.6.0.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.6.0/TileShift-v0.6.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-27T08:58:41Z",
+   "repo": "https://github.com/Bentley734/TileShift",
+   "github": "Bentley734/TileShift"
+  },
+  {
    "folder": "zingamau-dev@time_switcher_gen2",
    "id": "time_switcher_gen2",
    "title": "Time Switcher",
@@ -12944,6 +13060,35 @@
    ],
    "repo": "https://github.com/inmento/Typed-Metronomes",
    "github": "inmento/Typed-Metronomes"
+  },
+  {
+   "folder": "klx1204@types_mod_gen1recomp",
+   "id": "types_mod_gen1recomp",
+   "title": "types mod gen1recomp",
+   "author": "klx1204",
+   "version": "0.1.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Add new types, e.g. Fairy, for gen 3 Pokémon and moves, etc.",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-10-26T16:30:12Z",
+    "zip": {
+     "name": "types_mod_gen1recomp-0.1.0.zip",
+     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.0/types_mod_gen1recomp-0.1.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-26T16:30:12Z",
+   "repo": "https://github.com/klx1204/types-mod-gen1recomp",
+   "github": "klx1204/types-mod-gen1recomp"
   },
   {
    "folder": "MrKrisSatan@ultron",
