@@ -1,5 +1,242 @@
 [
  {
+  "date": "2026-10-29T10:54:11Z",
+  "new": [
+   {
+    "id": "gh:welchdigital/pokedaisy-ayaneo-ds",
+    "name": "pokedaisy ayaneo ds"
+   },
+   {
+    "id": "gh:tridentbr/firered-languages",
+    "name": "FireRed languages"
+   },
+   {
+    "id": "gh:is2b007/reed",
+    "name": "Reed"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:drglitchyphd/aio-recomp",
+    "name": "aio recomp",
+    "from": "v0.9.57",
+    "to": "v0.9.73"
+   },
+   {
+    "id": "gh:tooandorisu/cleanui-gen3",
+    "name": "Clean UI Gen 3",
+    "from": "0.16.1",
+    "to": "0.17.4"
+   },
+   {
+    "id": "gh:pandakisor/emerald-doubles-soullink",
+    "name": "emerald doubles soullink",
+    "from": "v0.40.0",
+    "to": "v0.41.0"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.4.0",
+    "to": "v0.4.5"
+   },
+   {
+    "id": "gh:bigcatmellow/fireredrecomp",
+    "name": "FireRedRecomp",
+    "from": "commit-77405ec",
+    "to": "commit-49d0f45"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-63860cd",
+    "to": "commit-ef5b2a6"
+   },
+   {
+    "id": "gh:pandakisor/g3-coop",
+    "name": "g3 coop",
+    "from": "v0.8.6",
+    "to": "v0.8.7"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-gen3-boxes",
+    "name": "Gen 3 Box",
+    "from": "v1.26.1",
+    "to": "v1.27.0"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.4.8",
+    "to": "v0.4.12"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-16e7624",
+    "to": "commit-55efb6b"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-300cf16",
+    "to": "commit-345e6ed"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-d970568",
+    "to": "commit-9f1646d"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-b6cacbb",
+    "to": "commit-792286c"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-996d800",
+    "to": "commit-0e04187"
+   },
+   {
+    "id": "gh:averageconsumer/kanto-gear",
+    "name": "kanto-gear",
+    "from": "v4.5.1",
+    "to": "v4.6.0"
+   },
+   {
+    "id": "gh:himionegranger/lightweight-weather-and-skies",
+    "name": "Lightweight Weather & Skies",
+    "from": "v1.2.0",
+    "to": "v1.3.0"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.2.6",
+    "to": "v0.2.9"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-44b555b",
+    "to": "commit-e286738"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "National Dex Gen 3",
+    "from": "v1.4.2",
+    "to": "v1.5.5"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-a6a7cf1",
+    "to": "commit-0314914"
+   },
+   {
+    "id": "gh:mochx-007/pkmultiplayer",
+    "name": "PkMultiplayer (Online Co-op)",
+    "from": "v1.6.10",
+    "to": "v1.6.14"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v1.0.1",
+    "to": "v1.0.2"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "charlie6",
+    "to": "charlie7"
+   },
+   {
+    "id": "gh:poooooby/poooooby",
+    "name": "poooooby",
+    "from": "commit-97ee12e",
+    "to": "commit-ad96fe7"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-bfb81ae",
+    "to": "commit-3922474"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-a-modern-ui-suite-fork",
+    "name": "Project Highlander - A Modern UI Suite Fork",
+    "from": "3.67.0",
+    "to": "3.69.0"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.24.0",
+    "to": "v0.27.0"
+   },
+   {
+    "id": "gh:klx1204/types-mod-gen1recomp",
+    "name": "types mod gen1recomp",
+    "from": "v0.1.5",
+    "to": "v0.1.7"
+   },
+   {
+    "id": "gh:tooandorisu/voxel-diorama",
+    "name": "Voxel Diorama",
+    "from": "1.31.0",
+    "to": "1.32.0"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v1.11.1",
+    "to": "v1.11.2"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:transwarptechnologies/choose-your-hero-mod-gen1recomp",
+    "name": "Choose Your Hero",
+    "from": "inactive",
+    "to": "archived"
+   },
+   {
+    "id": "gh:smidja2/cobblemon-for-recomp",
+    "name": "Cobblemon for Recomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals",
+    "name": "crystal_animated_sprites_with_shiny_visuals",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ninte86hl/gen-2-battle-widescreen",
+    "name": "Gen2 Widescreen Battle",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:pashleyaus/red-gen-2.5",
+    "name": "Red Gen 2.5",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:shanemcgovernie/trainer_rematch",
+    "name": "Trainer Rematch",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-10-28T10:35:04Z",
   "new": [
    {

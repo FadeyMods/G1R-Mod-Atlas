@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T10:35:04Z",
- "count": 446,
+ "generated_at": "2026-10-29T10:54:11Z",
+ "count": 447,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -452,7 +452,7 @@
    "id": "aio_recomp",
    "title": "aio recomp",
    "author": "drglitchyphd",
-   "version": "0.9.57",
+   "version": "0.9.73",
    "categories": [
     "ART"
    ],
@@ -462,18 +462,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.9.57",
-    "tag": "v0.9.57",
-    "name": "v0.9.57",
+    "version": "0.9.73",
+    "tag": "v0.9.73",
+    "name": "v0.9.73",
     "prerelease": false,
-    "published_at": "2026-10-26T23:58:34Z",
+    "published_at": "2026-10-29T02:51:32Z",
     "zip": {
-     "name": "gen2-aio-0.9.57.zip",
-     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.57/gen2-aio-0.9.57.zip"
+     "name": "gen2-aio-0.9.73.zip",
+     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.73/gen2-aio-0.9.73.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T23:58:34Z",
+   "last_release": "2026-10-29T02:51:32Z",
    "repo": "https://github.com/drglitchyphd/aio-recomp",
    "github": "drglitchyphd/aio-recomp"
   },
@@ -1768,7 +1768,7 @@
    "id": "cleanui_gen3",
    "title": "Clean UI Gen 3",
    "author": "Tooandorisu",
-   "version": "0.16.1",
+   "version": "0.17.4",
    "categories": [
     "UI"
    ],
@@ -1777,18 +1777,18 @@
    ],
    "summary": "CleanUI for Gen3",
    "latest": {
-    "version": "0.16.1",
-    "tag": "0.16.1",
-    "name": "0.16.1",
+    "version": "0.17.4",
+    "tag": "0.17.4",
+    "name": "0.17.4",
     "prerelease": false,
-    "published_at": "2026-10-26T11:45:07Z",
+    "published_at": "2026-10-29T01:45:10Z",
     "zip": {
-     "name": "CleanUI-Gen3-v0_16_1.zip",
-     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.16.1/CleanUI-Gen3-v0_16_1.zip"
+     "name": "CleanUI-Gen3-v0_17_4.zip",
+     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.17.4/CleanUI-Gen3-v0_17_4.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T11:45:07Z",
+   "last_release": "2026-10-29T01:45:10Z",
    "repo": "https://github.com/Tooandorisu/CleanUI-Gen3",
    "github": "Tooandorisu/CleanUI-Gen3"
   },
@@ -2578,7 +2578,7 @@
     "published_at": "2026-10-06T03:02:53Z",
     "zip": {
      "name": "dramatic-mini-modifications-mod-0.1.1.zip",
-     "url": "https://github.com/kaboggs/dramatic-mini-modifications-mod/releases/download/v0.1.1/dramatic-mini-modifications-mod-0.1.1.zip"
+     "url": "https://github.com/ChaoticSPARTAN1/dramatic-mini-modifications-mod/releases/download/v0.1.1/dramatic-mini-modifications-mod-0.1.1.zip"
     }
    },
    "update_check": "ok",
@@ -3598,7 +3598,7 @@
    "id": "g3_coop",
    "title": "g3 coop",
    "author": "PandaKisor",
-   "version": "0.8.6",
+   "version": "0.8.7",
    "categories": [
     "BALANCE"
    ],
@@ -3607,18 +3607,18 @@
    ],
    "summary": "Two-player co-op, Soul Link and level caps for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.8.6",
-    "tag": "v0.8.6",
-    "name": "v0.8.6",
+    "version": "0.8.7",
+    "tag": "v0.8.7",
+    "name": "v0.8.7",
     "prerelease": false,
-    "published_at": "2026-10-27T16:30:55Z",
+    "published_at": "2026-10-29T00:12:06Z",
     "zip": {
-     "name": "g3_coop-0.8.6.zip",
-     "url": "https://github.com/PandaKisor/g3-coop/releases/download/v0.8.6/g3_coop-0.8.6.zip"
+     "name": "g3_coop-0.8.7.zip",
+     "url": "https://github.com/PandaKisor/g3-coop/releases/download/v0.8.7/g3_coop-0.8.7.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-27T16:30:55Z",
+   "last_release": "2026-10-29T00:12:06Z",
    "repo": "https://github.com/PandaKisor/g3-coop",
    "github": "PandaKisor/g3-coop"
   },
@@ -3841,7 +3841,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.4.8",
+   "version": "0.4.12",
    "categories": [
     "LIBRARY"
    ],
@@ -3850,18 +3850,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.4.8",
-    "tag": "v0.4.8",
-    "name": "v0.4.8",
+    "version": "0.4.12",
+    "tag": "v0.4.12",
+    "name": "v0.4.12",
     "prerelease": false,
-    "published_at": "2026-10-25T16:54:20Z",
+    "published_at": "2026-10-29T07:23:26Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.4.8.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.8/gen3-hd-sprites-0.4.8.zip"
+     "name": "gen3-hd-sprites-0.4.12.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.12/gen3-hd-sprites-0.4.12.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T16:54:20Z",
+   "last_release": "2026-10-29T07:23:26Z",
    "games": [
     "gen3"
    ],
@@ -6504,7 +6504,7 @@
    "id": "kanto_gear",
    "title": "kanto-gear",
    "author": "AverageConsumer",
-   "version": "4.5.1",
+   "version": "4.6.0",
    "categories": [
     "UI"
    ],
@@ -6513,18 +6513,18 @@
    ],
    "summary": "DS-inspired Pokégear and C-Gear companion mod for Pokémon Gen 1-3 in Gen1Recomp. Live maps, Pokédex, touch battle controls and local phone display on Android, Windows and Linux.",
    "latest": {
-    "version": "4.5.1",
-    "tag": "v4.5.1",
-    "name": "v4.5.1",
+    "version": "4.6.0",
+    "tag": "v4.6.0",
+    "name": "v4.6.0",
     "prerelease": false,
-    "published_at": "2026-10-25T21:27:51Z",
+    "published_at": "2026-10-28T20:34:52Z",
     "zip": {
-     "name": "kanto_gear-4.5.1.zip",
-     "url": "https://github.com/AverageConsumer/kanto-gear/releases/download/v4.5.1/kanto_gear-4.5.1.zip"
+     "name": "kanto_gear-4.6.0.zip",
+     "url": "https://github.com/AverageConsumer/kanto-gear/releases/download/v4.6.0/kanto_gear-4.6.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T21:27:51Z",
+   "last_release": "2026-10-28T20:34:52Z",
    "repo": "https://github.com/AverageConsumer/kanto-gear",
    "github": "AverageConsumer/kanto-gear"
   },
@@ -6962,7 +6962,7 @@
    "id": "the_world_weather_quest_lite_private",
    "title": "Lightweight Weather & Skies",
    "author": "HimioneGranger",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "categories": [
     "ART"
    ],
@@ -6972,18 +6972,18 @@
    ],
    "summary": "Lightweight weather and sky effects for Battle Art on Gen1Recomp. Private release preparation.",
    "latest": {
-    "version": "1.2.0",
-    "tag": "v1.2.0",
-    "name": "v1.2.0",
+    "version": "1.3.0",
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
     "prerelease": false,
-    "published_at": "2026-10-22T20:37:39Z",
+    "published_at": "2026-10-29T02:00:53Z",
     "zip": {
-     "name": "Lightweight-Weather-and-Skies-1.2.0.zip",
-     "url": "https://github.com/HimioneGranger/Lightweight-Weather-and-Skies/releases/download/v1.2.0/Lightweight-Weather-and-Skies-1.2.0.zip"
+     "name": "Lightweight-Weather-and-Skies-1.3.0.zip",
+     "url": "https://github.com/HimioneGranger/Lightweight-Weather-and-Skies/releases/download/v1.3.0/Lightweight-Weather-and-Skies-1.3.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T20:37:39Z",
+   "last_release": "2026-10-29T02:00:53Z",
    "games": [
     "gen1",
     "gen2",
@@ -7147,7 +7147,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.2.6",
+   "version": "0.2.9",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7156,18 +7156,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.2.6",
-    "tag": "v0.2.6",
-    "name": "v0.2.6",
+    "version": "0.2.9",
+    "tag": "v0.2.9",
+    "name": "v0.2.9",
     "prerelease": false,
-    "published_at": "2026-10-28T06:52:02Z",
+    "published_at": "2026-10-29T05:30:16Z",
     "zip": {
-     "name": "max_raids-0.2.6.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.2.6/max_raids-0.2.6.zip"
+     "name": "max_raids-0.2.9.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.2.9/max_raids-0.2.9.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T06:52:02Z",
+   "last_release": "2026-10-29T05:30:16Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -8182,7 +8182,7 @@
    "id": "national_dex_gen3",
    "title": "National Dex Gen 3",
    "author": "poooooby",
-   "version": "1.4.2",
+   "version": "1.5.5",
    "categories": [
     "CONTENT"
    ],
@@ -8191,18 +8191,18 @@
    ],
    "summary": "National Dex species #387-1025 as data for Pokemon FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "1.4.2",
-    "tag": "v1.4.2",
-    "name": "v1.4.2",
+    "version": "1.5.5",
+    "tag": "v1.5.5",
+    "name": "v1.5.5",
     "prerelease": false,
-    "published_at": "2026-10-28T07:09:27Z",
+    "published_at": "2026-10-29T05:29:57Z",
     "zip": {
-     "name": "national_dex_gen3-1.4.2.zip",
-     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.4.2/national_dex_gen3-1.4.2.zip"
+     "name": "national_dex_gen3-1.5.5.zip",
+     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.5.5/national_dex_gen3-1.5.5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T07:09:27Z",
+   "last_release": "2026-10-29T05:29:57Z",
    "games": [
     "gen3"
    ],
@@ -9034,7 +9034,7 @@
    "id": "PkMultiplayer",
    "title": "PkMultiplayer (Online Co-op)",
    "author": "Mochx-007",
-   "version": "1.6.10",
+   "version": "1.6.14",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9043,18 +9043,18 @@
    ],
    "summary": "Online co-op mod for Gen2Recomped (Pokemon Gold/Silver/Crystal): two players, one Johto, 2-vs-2 double battles. LAN / ZeroTier.",
    "latest": {
-    "version": "1.6.10",
-    "tag": "v1.6.10",
-    "name": "v1.6.10",
+    "version": "1.6.14",
+    "tag": "v1.6.14",
+    "name": "v1.6.14",
     "prerelease": false,
-    "published_at": "2026-10-28T08:16:21Z",
+    "published_at": "2026-10-29T06:04:13Z",
     "zip": {
-     "name": "PkMultiplayer-1.6.10.zip",
-     "url": "https://github.com/Mochx07/PkMultiplayer/releases/download/v1.6.10/PkMultiplayer-1.6.10.zip"
+     "name": "PkMultiplayer-1.6.14.zip",
+     "url": "https://github.com/Mochx07/PkMultiplayer/releases/download/v1.6.14/PkMultiplayer-1.6.14.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T08:16:21Z",
+   "last_release": "2026-10-29T06:04:13Z",
    "repo": "https://github.com/Mochx-007/PkMultiplayer",
    "github": "Mochx-007/PkMultiplayer"
   },
@@ -9092,7 +9092,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9101,18 +9101,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "1.0.1",
-    "tag": "v1.0.1",
-    "name": "v1.0.1",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "name": "v1.0.2",
     "prerelease": false,
-    "published_at": "2026-10-28T05:11:15Z",
+    "published_at": "2026-10-28T18:35:02Z",
     "zip": {
-     "name": "play_nav-1.0.1.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.0.1/play_nav-1.0.1.zip"
+     "name": "play_nav-1.0.2.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.0.2/play_nav-1.0.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T05:11:15Z",
+   "last_release": "2026-10-28T18:35:02Z",
    "games": [
     "gen3"
    ],
@@ -9489,7 +9489,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "charlie6",
+   "version": "charlie7",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9498,18 +9498,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "charlie6",
-    "tag": "charlie6",
-    "name": "charlie6",
+    "version": "charlie7",
+    "tag": "charlie7",
+    "name": "charlie7",
     "prerelease": false,
-    "published_at": "2026-10-28T07:47:33Z",
+    "published_at": "2026-10-29T09:00:21Z",
     "zip": {
-     "name": "Ocean_Blue-20261028-033704-10.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/charlie6/Ocean_Blue-20261028-033704-10.zip"
+     "name": "Ocean_Blue-20261029-025219-5.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/charlie7/Ocean_Blue-20261029-025219-5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T07:47:33Z",
+   "last_release": "2026-10-29T09:00:21Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -10295,7 +10295,7 @@
    "id": "project_highlander",
    "title": "Project Highlander - A Modern UI Suite Fork",
    "author": "Waifu4Life",
-   "version": "3.67.0",
+   "version": "3.69.0",
    "categories": [
     "UI"
    ],
@@ -10304,18 +10304,18 @@
    ],
    "summary": "Project Highlander — a Modern UI Suite fork for Gen1Recomp (QoL, All PKMN, Steel/Fairy, Crystal sprites).",
    "latest": {
-    "version": "3.67.0",
-    "tag": "3.67.0",
-    "name": "3.67.0",
+    "version": "3.69.0",
+    "tag": "3.69.0",
+    "name": "3.69.0",
     "prerelease": false,
-    "published_at": "2026-10-25T21:52:51Z",
+    "published_at": "2026-10-29T01:11:40Z",
     "zip": {
-     "name": "project_highlander-3.67.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork/releases/download/3.67.0/project_highlander-3.67.0.zip"
+     "name": "project_highlander-3.69.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork/releases/download/3.69.0/project_highlander-3.69.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-25T21:52:51Z",
+   "last_release": "2026-10-29T01:11:40Z",
    "games": [
     "gen1",
     "gen2"
@@ -10754,6 +10754,35 @@
    "last_release": "2026-08-03T02:07:51Z",
    "repo": "https://github.com/bielsojo/red-ptbr-gen1recomp",
    "github": "bielsojo/red-ptbr-gen1recomp"
+  },
+  {
+   "folder": "is2b007@reed",
+   "id": "reed",
+   "title": "Reed",
+   "author": "is2b007",
+   "version": "0.1.9",
+   "categories": [
+    "TRANSLATION"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Offline-first narrative design and production workspace for branching games on macOS, Windows, and Android.",
+   "latest": {
+    "version": "0.1.9",
+    "tag": "v0.1.9",
+    "name": "v0.1.9",
+    "prerelease": false,
+    "published_at": "2026-07-20T16:54:29Z",
+    "zip": {
+     "name": "Reed-win32-x64-0.1.9.zip",
+     "url": "https://github.com/is2b007/Reed/releases/download/v0.1.9/Reed-win32-x64-0.1.9.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-07-20T16:54:29Z",
+   "repo": "https://github.com/is2b007/Reed",
+   "github": "is2b007/Reed"
   },
   {
    "folder": "Opidox@3d_battleui_toggle",
@@ -12698,7 +12727,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.24.0",
+   "version": "0.27.0",
    "categories": [
     "ART"
    ],
@@ -12707,18 +12736,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.24.0",
-    "tag": "v0.24.0",
-    "name": "v0.24.0",
+    "version": "0.27.0",
+    "tag": "v0.27.0",
+    "name": "v0.27.0",
     "prerelease": false,
-    "published_at": "2026-10-28T09:30:14Z",
+    "published_at": "2026-10-29T03:34:55Z",
     "zip": {
-     "name": "TileShift-v0.24.0.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.24.0/TileShift-v0.24.0.zip"
+     "name": "TileShift-Classic-Comparisons-v0.27.0.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.27.0/TileShift-Classic-Comparisons-v0.27.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T09:30:14Z",
+   "last_release": "2026-10-29T03:34:55Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
@@ -13125,7 +13154,7 @@
    "id": "types_mod_gen1recomp",
    "title": "types mod gen1recomp",
    "author": "klx1204",
-   "version": "0.1.5",
+   "version": "0.1.7",
    "categories": [
     "TOOL"
    ],
@@ -13134,18 +13163,18 @@
    ],
    "summary": "Add new types, e.g. Fairy, for gen 3 Pokémon and moves, etc.",
    "latest": {
-    "version": "0.1.5",
-    "tag": "v0.1.5",
-    "name": "v0.1.5",
+    "version": "0.1.7",
+    "tag": "v0.1.7",
+    "name": "v0.1.7",
     "prerelease": false,
-    "published_at": "2026-10-27T23:11:10Z",
+    "published_at": "2026-10-28T16:07:07Z",
     "zip": {
-     "name": "types_mod_gen1recomp-0.1.5.zip",
-     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.5/types_mod_gen1recomp-0.1.5.zip"
+     "name": "types_mod_gen1recomp-0.1.7.zip",
+     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.7/types_mod_gen1recomp-0.1.7.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-27T23:11:10Z",
+   "last_release": "2026-10-28T16:07:07Z",
    "repo": "https://github.com/klx1204/types-mod-gen1recomp",
    "github": "klx1204/types-mod-gen1recomp"
   },
@@ -13703,7 +13732,7 @@
    "id": "wilds_of_hoenn",
    "title": "Wilds of Hoenn",
    "author": "poooooby",
-   "version": "1.11.1",
+   "version": "1.11.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13712,18 +13741,18 @@
    ],
    "summary": "Visible, reactive wild Pokemon for the Gen3 overworld (Fire Red, Leaf Green, Ruby, Sapphire, Emerald) -- a Gen1Recomp mod",
    "latest": {
-    "version": "1.11.1",
-    "tag": "v1.11.1",
-    "name": "v1.11.1",
+    "version": "1.11.2",
+    "tag": "v1.11.2",
+    "name": "v1.11.2",
     "prerelease": false,
-    "published_at": "2026-10-28T06:22:27Z",
+    "published_at": "2026-10-29T05:04:17Z",
     "zip": {
-     "name": "wilds-of-hoenn-v1.11.1.zip",
-     "url": "https://github.com/poooooby/wilds-of-hoenn/releases/download/v1.11.1/wilds-of-hoenn-v1.11.1.zip"
+     "name": "wilds-of-hoenn-v1.11.2.zip",
+     "url": "https://github.com/poooooby/wilds-of-hoenn/releases/download/v1.11.2/wilds-of-hoenn-v1.11.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T06:22:27Z",
+   "last_release": "2026-10-29T05:04:17Z",
    "games": [
     "gen3"
    ],
