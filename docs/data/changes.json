@@ -1,5 +1,270 @@
 [
  {
+  "date": "2026-10-30T10:52:30Z",
+  "new": [
+   {
+    "id": "gh:mfsierpe/gen1recomp-dv-viewer",
+    "name": "gen1recomp dv viewer"
+   },
+   {
+    "id": "gh:rakmahefa/g1r-mods",
+    "name": "G1R Mods"
+   },
+   {
+    "id": "gh:carloscosta07-s/platina_reluzente-",
+    "name": "Platina reluzente "
+   },
+   {
+    "id": "gh:hugo-cacciatori/mouse_keyboard_play",
+    "name": "mouse keyboard play"
+   },
+   {
+    "id": "gh:hugo-cacciatori/mouse_menus",
+    "name": "mouse menus"
+   },
+   {
+    "id": "gh:hugo-cacciatori/speed_indicator",
+    "name": "speed indicator"
+   },
+   {
+    "id": "gh:tolgakurtuluss/awesome-webos",
+    "name": "awesome webos"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:drglitchyphd/aio-recomp",
+    "name": "aio recomp",
+    "from": "v0.9.73",
+    "to": "v0.9.84"
+   },
+   {
+    "id": "gh:code-grub/crystal-animated-sprites",
+    "name": "Crystal Animated Sprites",
+    "from": "v0.6.1",
+    "to": "v0.6.2"
+   },
+   {
+    "id": "gh:codm2000/dual-screen-games",
+    "name": "Dual Screen Games",
+    "from": "commit-3026a42",
+    "to": "commit-48c5aae"
+   },
+   {
+    "id": "gh:pandakisor/emerald-doubles-soullink",
+    "name": "emerald doubles soullink",
+    "from": "v0.41.0",
+    "to": "v0.42.2"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v0.6.1",
+    "to": "v0.7.0"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v0.5.3",
+    "to": "v0.6.1"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-ef5b2a6",
+    "to": "commit-77e83d7"
+   },
+   {
+    "id": "gh:pandakisor/g3-coop",
+    "name": "g3 coop",
+    "from": "v0.8.7",
+    "to": "v0.8.9"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-gen3-boxes",
+    "name": "Gen 3 Box",
+    "from": "v1.27.0",
+    "to": "v1.27.4"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.170",
+    "to": "content-editor-v0.1.171"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-55efb6b",
+    "to": "commit-3767ee5"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-345e6ed",
+    "to": "commit-ae86067"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-9f1646d",
+    "to": "commit-9a60593"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-792286c",
+    "to": "commit-827fbd1"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-0e04187",
+    "to": "commit-a012aa1"
+   },
+   {
+    "id": "gh:matheus2x/ie3ogre-nds-recomp",
+    "name": "ie3ogre nds recomp",
+    "from": "v0.1.18",
+    "to": "v0.1.24"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-e286738",
+    "to": "commit-180915b"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-0314914",
+    "to": "commit-aaa4924"
+   },
+   {
+    "id": "gh:mochx-007/pkmultiplayer",
+    "name": "PkMultiplayer (Online Co-op)",
+    "from": "v1.6.14",
+    "to": "v1.6.15"
+   },
+   {
+    "id": "gh:dann1994/pokemon-edici-n-definitiva",
+    "name": "Pokemon edici n definitiva",
+    "from": "commit-6376bb6",
+    "to": "v1.0.3"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-3922474",
+    "to": "commit-83f2de3"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-a-modern-ui-suite-fork",
+    "name": "Project Highlander - A Modern UI Suite Fork",
+    "from": "3.69.0",
+    "to": "3.75.0"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.76.0",
+    "to": "1.78.0"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "recomp achievements",
+    "from": "commit-765b8ce",
+    "to": "commit-c145f80"
+   },
+   {
+    "id": "gh:is2b007/reed",
+    "name": "Reed",
+    "from": "v0.1.9",
+    "to": "v0.2.3"
+   },
+   {
+    "id": "gh:colimbuli/theos",
+    "name": "TheOS",
+    "from": "commit-4305cae",
+    "to": "commit-685b704"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.27.0",
+    "to": "v0.28.0"
+   },
+   {
+    "id": "gh:klx1204/types-mod-gen1recomp",
+    "name": "types mod gen1recomp",
+    "from": "v0.1.7",
+    "to": "v0.1.10"
+   },
+   {
+    "id": "gh:tooandorisu/voxel-diorama",
+    "name": "Voxel Diorama",
+    "from": "1.32.0",
+    "to": "1.32.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:shanehudson-gen1recomp-mods/free_fly",
+    "name": "Free Fly",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:hellboundglory/gen1linux",
+    "name": "Gen1Linux",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:thcrazy420/gen1recomp-poke-music-player",
+    "name": "Gen1recomp-Poke-Music-Player",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ojsaucer/gen1recomp-menu-hotkeys",
+    "name": "Menu Hotkeys",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:shanehudson-gen1recomp-mods/monorepo",
+    "name": "monorepo",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:link200488/stadiumannouncer",
+    "name": "Stadium Announcer",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:shanemcgovernie/useful-marts",
+    "name": "Useful Marts",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:shanehudson-gen1recomp-mods/wild_skies",
+    "name": "Wild Skies",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:spicywonda/wlauncher",
+    "name": "WLauncher",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-10-29T10:54:11Z",
   "new": [
    {

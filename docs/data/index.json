@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T10:54:11Z",
- "count": 447,
+ "generated_at": "2026-10-30T10:52:30Z",
+ "count": 449,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -452,7 +452,7 @@
    "id": "aio_recomp",
    "title": "aio recomp",
    "author": "drglitchyphd",
-   "version": "0.9.73",
+   "version": "0.9.84",
    "categories": [
     "ART"
    ],
@@ -462,18 +462,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.9.73",
-    "tag": "v0.9.73",
-    "name": "v0.9.73",
+    "version": "0.9.84",
+    "tag": "v0.9.84",
+    "name": "v0.9.84",
     "prerelease": false,
-    "published_at": "2026-10-29T02:51:32Z",
+    "published_at": "2026-10-29T21:15:43Z",
     "zip": {
-     "name": "gen2-aio-0.9.73.zip",
-     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.73/gen2-aio-0.9.73.zip"
+     "name": "gen2-aio-0.9.84.zip",
+     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.84/gen2-aio-0.9.84.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T02:51:32Z",
+   "last_release": "2026-10-29T21:15:43Z",
    "repo": "https://github.com/drglitchyphd/aio-recomp",
    "github": "drglitchyphd/aio-recomp"
   },
@@ -3110,7 +3110,7 @@
    "id": "facets",
    "title": "Facets",
    "author": "ElvieBlooms",
-   "version": "0.5.3",
+   "version": "0.6.1",
    "categories": [
     "ART"
    ],
@@ -3119,18 +3119,18 @@
    ],
    "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
    "latest": {
-    "version": "0.5.3",
-    "tag": "v0.5.3",
-    "name": "v0.5.3",
+    "version": "0.6.1",
+    "tag": "v0.6.1",
+    "name": "v0.6.1",
     "prerelease": false,
-    "published_at": "2026-10-26T18:29:02Z",
+    "published_at": "2026-10-29T18:32:23Z",
     "zip": {
-     "name": "facets-0.5.3.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v0.5.3/facets-0.5.3.zip"
+     "name": "facets-tools-0.6.1.zip",
+     "url": "https://github.com/ElvieBlooms/facets/releases/download/v0.6.1/facets-tools-0.6.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T18:29:02Z",
+   "last_release": "2026-10-29T18:32:23Z",
    "games": [
     "gen3"
    ],
@@ -3598,7 +3598,7 @@
    "id": "g3_coop",
    "title": "g3 coop",
    "author": "PandaKisor",
-   "version": "0.8.7",
+   "version": "0.8.9",
    "categories": [
     "BALANCE"
    ],
@@ -3607,18 +3607,18 @@
    ],
    "summary": "Two-player co-op, Soul Link and level caps for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.8.7",
-    "tag": "v0.8.7",
-    "name": "v0.8.7",
+    "version": "0.8.9",
+    "tag": "v0.8.9",
+    "name": "v0.8.9",
     "prerelease": false,
-    "published_at": "2026-10-29T00:12:06Z",
+    "published_at": "2026-10-30T03:03:03Z",
     "zip": {
-     "name": "g3_coop-0.8.7.zip",
-     "url": "https://github.com/PandaKisor/g3-coop/releases/download/v0.8.7/g3_coop-0.8.7.zip"
+     "name": "g3_coop-0.8.9.zip",
+     "url": "https://github.com/PandaKisor/g3-coop/releases/download/v0.8.9/g3_coop-0.8.9.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T00:12:06Z",
+   "last_release": "2026-10-30T03:03:03Z",
    "repo": "https://github.com/PandaKisor/g3-coop",
    "github": "PandaKisor/g3-coop"
   },
@@ -4260,6 +4260,35 @@
    "github": "KhabirTheGoat/gen1recomp-backup"
   },
   {
+   "folder": "mfsierpe@gen1recomp_dv_viewer",
+   "id": "gen1recomp_dv_viewer",
+   "title": "gen1recomp dv viewer",
+   "author": "mfsierpe",
+   "version": "1.0.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Gen1Recomp mod: see every Pokémon's DVs and Stat Exp on a third STATS page, graded, right after each catch.",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-10-29T14:26:24Z",
+    "zip": {
+     "name": "dv_viewer-1.0.0.zip",
+     "url": "https://github.com/mfsierpe/gen1recomp-dv-viewer/releases/download/v1.0.0/dv_viewer-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-29T14:26:24Z",
+   "repo": "https://github.com/mfsierpe/gen1recomp-dv-viewer",
+   "github": "mfsierpe/gen1recomp-dv-viewer"
+  },
+  {
    "folder": "cchrkk@gen1recomp_move_damage_info",
    "id": "gen1recomp_move_damage_info",
    "title": "gen1recomp move damage info",
@@ -4351,7 +4380,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.170",
+   "version": "content-editor-v0.1.171",
    "categories": [
     "TOOL"
    ],
@@ -4360,18 +4389,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.170",
-    "tag": "content-editor-v0.1.170",
-    "name": "content-editor-v0.1.170",
+    "version": "content-editor-v0.1.171",
+    "tag": "content-editor-v0.1.171",
+    "name": "content-editor-v0.1.171",
     "prerelease": false,
-    "published_at": "2026-10-26T19:42:58Z",
+    "published_at": "2026-10-29T19:28:30Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.170/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.171/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T19:42:58Z",
+   "last_release": "2026-10-29T19:28:30Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5860,7 +5889,7 @@
    "id": "ie3ogre_nds_recomp",
    "title": "ie3ogre nds recomp",
    "author": "matheus2x",
-   "version": "0.1.18",
+   "version": "0.1.24",
    "categories": [
     "ART"
    ],
@@ -5870,18 +5899,18 @@
    ],
    "summary": "Port nativo para Windows de Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
    "latest": {
-    "version": "0.1.18",
-    "tag": "v0.1.18",
-    "name": "v0.1.18",
+    "version": "0.1.24",
+    "tag": "v0.1.24",
+    "name": "v0.1.24",
     "prerelease": false,
-    "published_at": "2026-10-28T01:28:17Z",
+    "published_at": "2026-10-30T02:42:14Z",
     "zip": {
-     "name": "ie3ogre-recomp-0.1.18-windows.zip",
-     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.18/ie3ogre-recomp-0.1.18-windows.zip"
+     "name": "ie3ogre-recomp-0.1.24-windows.zip",
+     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.24/ie3ogre-recomp-0.1.24-windows.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T01:28:17Z",
+   "last_release": "2026-10-30T02:42:14Z",
    "repo": "https://github.com/matheus2x/ie3ogre-nds-recomp",
    "github": "matheus2x/ie3ogre-nds-recomp"
   },
@@ -9034,7 +9063,7 @@
    "id": "PkMultiplayer",
    "title": "PkMultiplayer (Online Co-op)",
    "author": "Mochx-007",
-   "version": "1.6.14",
+   "version": "1.6.15",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9043,18 +9072,18 @@
    ],
    "summary": "Online co-op mod for Gen2Recomped (Pokemon Gold/Silver/Crystal): two players, one Johto, 2-vs-2 double battles. LAN / ZeroTier.",
    "latest": {
-    "version": "1.6.14",
-    "tag": "v1.6.14",
-    "name": "v1.6.14",
+    "version": "1.6.15",
+    "tag": "v1.6.15",
+    "name": "v1.6.15",
     "prerelease": false,
-    "published_at": "2026-10-29T06:04:13Z",
+    "published_at": "2026-10-29T21:19:55Z",
     "zip": {
-     "name": "PkMultiplayer-1.6.14.zip",
-     "url": "https://github.com/Mochx07/PkMultiplayer/releases/download/v1.6.14/PkMultiplayer-1.6.14.zip"
+     "name": "PkMultiplayer-1.6.15.zip",
+     "url": "https://github.com/Mochx07/PkMultiplayer/releases/download/v1.6.15/PkMultiplayer-1.6.15.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T06:04:13Z",
+   "last_release": "2026-10-29T21:19:55Z",
    "repo": "https://github.com/Mochx-007/PkMultiplayer",
    "github": "Mochx-007/PkMultiplayer"
   },
@@ -9483,6 +9512,35 @@
    ],
    "repo": "https://github.com/TheOriginalDrJ/FireRed-Companion",
    "github": "TheOriginalDrJ/FireRed-Companion"
+  },
+  {
+   "folder": "Dann1994@pokemon_edici_n_definitiva",
+   "id": "pokemon_edici_n_definitiva",
+   "title": "Pokemon edici n definitiva",
+   "author": "Dann1994",
+   "version": "1.0.3",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "name": "v1.0.3",
+    "prerelease": false,
+    "published_at": "2026-10-29T19:04:28Z",
+    "zip": {
+     "name": "gen1recomp-1.0.3-windows.zip",
+     "url": "https://github.com/Dann1994/Pokemon-edici-n-definitiva/releases/download/v1.0.3/gen1recomp-1.0.3-windows.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-29T19:04:28Z",
+   "repo": "https://github.com/Dann1994/Pokemon-edici-n-definitiva",
+   "github": "Dann1994/Pokemon-edici-n-definitiva"
   },
   {
    "folder": "tai827@oceanblue",
@@ -10295,7 +10353,7 @@
    "id": "project_highlander",
    "title": "Project Highlander - A Modern UI Suite Fork",
    "author": "Waifu4Life",
-   "version": "3.69.0",
+   "version": "3.75.0",
    "categories": [
     "UI"
    ],
@@ -10304,18 +10362,18 @@
    ],
    "summary": "Project Highlander — a Modern UI Suite fork for Gen1Recomp (QoL, All PKMN, Steel/Fairy, Crystal sprites).",
    "latest": {
-    "version": "3.69.0",
-    "tag": "3.69.0",
-    "name": "3.69.0",
+    "version": "3.75.0",
+    "tag": "3.75.0",
+    "name": "3.75.0",
     "prerelease": false,
-    "published_at": "2026-10-29T01:11:40Z",
+    "published_at": "2026-10-30T05:00:06Z",
     "zip": {
-     "name": "project_highlander-3.69.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork/releases/download/3.69.0/project_highlander-3.69.0.zip"
+     "name": "project_highlander-3.75.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-A-Modern-UI-Suite-Fork/releases/download/3.75.0/project_highlander-3.75.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T01:11:40Z",
+   "last_release": "2026-10-30T05:00:06Z",
    "games": [
     "gen1",
     "gen2"
@@ -10328,7 +10386,7 @@
    "id": "project_highlander_gen3",
    "title": "Project Highlander Gen3",
    "author": "Waifu4Life",
-   "version": "1.76.0",
+   "version": "1.78.0",
    "categories": [
     "TOOL"
    ],
@@ -10337,18 +10395,18 @@
    ],
    "summary": "Project Highlander Gen3",
    "latest": {
-    "version": "1.76.0",
-    "tag": "1.76.0",
-    "name": "1.76.0",
+    "version": "1.78.0",
+    "tag": "1.78.0",
+    "name": "1.78.0",
     "prerelease": false,
-    "published_at": "2026-10-28T06:49:44Z",
+    "published_at": "2026-10-30T05:02:47Z",
     "zip": {
-     "name": "project_highlander_gen3-1.76.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.76.0/project_highlander_gen3-1.76.0.zip"
+     "name": "project_highlander_gen3-1.78.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.78.0/project_highlander_gen3-1.78.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T06:49:44Z",
+   "last_release": "2026-10-30T05:02:47Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen3",
    "github": "Waifu4Life/Project-Highlander-Gen3"
   },
@@ -10760,7 +10818,7 @@
    "id": "reed",
    "title": "Reed",
    "author": "is2b007",
-   "version": "0.1.9",
+   "version": "0.2.3",
    "categories": [
     "TRANSLATION"
    ],
@@ -10769,18 +10827,18 @@
    ],
    "summary": "Offline-first narrative design and production workspace for branching games on macOS, Windows, and Android.",
    "latest": {
-    "version": "0.1.9",
-    "tag": "v0.1.9",
-    "name": "v0.1.9",
+    "version": "0.2.3",
+    "tag": "v0.2.3",
+    "name": "v0.2.3",
     "prerelease": false,
-    "published_at": "2026-07-20T16:54:29Z",
+    "published_at": "2026-10-30T04:38:23Z",
     "zip": {
-     "name": "Reed-win32-x64-0.1.9.zip",
-     "url": "https://github.com/is2b007/Reed/releases/download/v0.1.9/Reed-win32-x64-0.1.9.zip"
+     "name": "Reed-0.2.3-windows-x64.zip",
+     "url": "https://github.com/is2b007/Reed/releases/download/v0.2.3/Reed-0.2.3-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-07-20T16:54:29Z",
+   "last_release": "2026-10-30T04:38:23Z",
    "repo": "https://github.com/is2b007/Reed",
    "github": "is2b007/Reed"
   },
@@ -12727,7 +12785,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.27.0",
+   "version": "0.28.0",
    "categories": [
     "ART"
    ],
@@ -12736,18 +12794,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.27.0",
-    "tag": "v0.27.0",
-    "name": "v0.27.0",
+    "version": "0.28.0",
+    "tag": "v0.28.0",
+    "name": "v0.28.0",
     "prerelease": false,
-    "published_at": "2026-10-29T03:34:55Z",
+    "published_at": "2026-10-30T02:35:36Z",
     "zip": {
-     "name": "TileShift-Classic-Comparisons-v0.27.0.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.27.0/TileShift-Classic-Comparisons-v0.27.0.zip"
+     "name": "TileShift-v0.28.0.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.28.0/TileShift-v0.28.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T03:34:55Z",
+   "last_release": "2026-10-30T02:35:36Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
@@ -13154,7 +13212,7 @@
    "id": "types_mod_gen1recomp",
    "title": "types mod gen1recomp",
    "author": "klx1204",
-   "version": "0.1.7",
+   "version": "0.1.10",
    "categories": [
     "TOOL"
    ],
@@ -13163,18 +13221,18 @@
    ],
    "summary": "Add new types, e.g. Fairy, for gen 3 Pokémon and moves, etc.",
    "latest": {
-    "version": "0.1.7",
-    "tag": "v0.1.7",
-    "name": "v0.1.7",
+    "version": "0.1.10",
+    "tag": "v0.1.10",
+    "name": "v0.1.10",
     "prerelease": false,
-    "published_at": "2026-10-28T16:07:07Z",
+    "published_at": "2026-10-29T16:07:22Z",
     "zip": {
-     "name": "types_mod_gen1recomp-0.1.7.zip",
-     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.7/types_mod_gen1recomp-0.1.7.zip"
+     "name": "types_mod_gen1recomp-0.1.10.zip",
+     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.10/types_mod_gen1recomp-0.1.10.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T16:07:07Z",
+   "last_release": "2026-10-29T16:07:22Z",
    "repo": "https://github.com/klx1204/types-mod-gen1recomp",
    "github": "klx1204/types-mod-gen1recomp"
   },
