@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T10:52:30Z",
- "count": 449,
+ "generated_at": "2026-10-31T10:23:54Z",
+ "count": 456,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -452,7 +452,7 @@
    "id": "aio_recomp",
    "title": "aio recomp",
    "author": "drglitchyphd",
-   "version": "0.9.84",
+   "version": "0.9.91",
    "categories": [
     "ART"
    ],
@@ -462,18 +462,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.9.84",
-    "tag": "v0.9.84",
-    "name": "v0.9.84",
+    "version": "0.9.91",
+    "tag": "v0.9.91",
+    "name": "v0.9.91",
     "prerelease": false,
-    "published_at": "2026-10-29T21:15:43Z",
+    "published_at": "2026-10-30T15:06:12Z",
     "zip": {
-     "name": "gen2-aio-0.9.84.zip",
-     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.84/gen2-aio-0.9.84.zip"
+     "name": "gen2-aio_patch_0.9.90_to_0.9.91.zip",
+     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.91/gen2-aio_patch_0.9.90_to_0.9.91.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T21:15:43Z",
+   "last_release": "2026-10-30T15:06:12Z",
    "repo": "https://github.com/drglitchyphd/aio-recomp",
    "github": "drglitchyphd/aio-recomp"
   },
@@ -1768,7 +1768,7 @@
    "id": "cleanui_gen3",
    "title": "Clean UI Gen 3",
    "author": "Tooandorisu",
-   "version": "0.17.4",
+   "version": "0.17.6",
    "categories": [
     "UI"
    ],
@@ -1777,18 +1777,18 @@
    ],
    "summary": "CleanUI for Gen3",
    "latest": {
-    "version": "0.17.4",
-    "tag": "0.17.4",
-    "name": "0.17.4",
+    "version": "0.17.6",
+    "tag": "0.17.6",
+    "name": "0.17.6",
     "prerelease": false,
-    "published_at": "2026-10-29T01:45:10Z",
+    "published_at": "2026-10-30T11:45:15Z",
     "zip": {
-     "name": "CleanUI-Gen3-v0_17_4.zip",
-     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.17.4/CleanUI-Gen3-v0_17_4.zip"
+     "name": "CleanUI-Gen3-v0_17_6.zip",
+     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.17.6/CleanUI-Gen3-v0_17_6.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T01:45:10Z",
+   "last_release": "2026-10-30T11:45:15Z",
    "repo": "https://github.com/Tooandorisu/CleanUI-Gen3",
    "github": "Tooandorisu/CleanUI-Gen3"
   },
@@ -2154,6 +2154,35 @@
    ],
    "repo": "https://github.com/Nexhas28/crystal_legacy_changes",
    "github": "Nexhas28/crystal_legacy_changes"
+  },
+  {
+   "folder": "Almewty@crystal_time_change",
+   "id": "crystal_time_change",
+   "title": "crystal time change",
+   "author": "Almewty",
+   "version": "1.0.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-10-30T18:01:21Z",
+    "zip": {
+     "name": "crystal_time_change-1.0.0.zip",
+     "url": "https://github.com/Almewty/crystal-time-change/releases/download/v1.0.0/crystal_time_change-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-30T18:01:21Z",
+   "repo": "https://github.com/Almewty/crystal-time-change",
+   "github": "Almewty/crystal-time-change"
   },
   {
    "folder": "distilledorion-sketch@crystal_animated_sprites_with_shiny_visuals",
@@ -3841,7 +3870,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.4.12",
+   "version": "0.4.13",
    "categories": [
     "LIBRARY"
    ],
@@ -3850,18 +3879,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.4.12",
-    "tag": "v0.4.12",
-    "name": "v0.4.12",
+    "version": "0.4.13",
+    "tag": "v0.4.13",
+    "name": "v0.4.13",
     "prerelease": false,
-    "published_at": "2026-10-29T07:23:26Z",
+    "published_at": "2026-10-30T15:27:51Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.4.12.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.12/gen3-hd-sprites-0.4.12.zip"
+     "name": "gen3-hd-sprites-0.4.13.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.13/gen3-hd-sprites-0.4.13.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T07:23:26Z",
+   "last_release": "2026-10-30T15:27:51Z",
    "games": [
     "gen3"
    ],
@@ -5240,7 +5269,7 @@
    "id": "gmarcs_gen2_celebi_time_travel",
    "title": "gmarcs Gen 2 Celebi Time Travel",
    "author": "gmarcmods",
-   "version": "0.0.14",
+   "version": "0.0.17",
    "categories": [
     "CONTENT"
    ],
@@ -5249,18 +5278,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.0.14",
-    "tag": "v0.0.14",
-    "name": "v0.0.14",
+    "version": "0.0.17",
+    "tag": "v0.0.17",
+    "name": "v0.0.17",
     "prerelease": false,
-    "published_at": "2026-10-22T23:32:16Z",
+    "published_at": "2026-10-31T00:18:53Z",
     "zip": {
-     "name": "gmarcs_gen2_celebi_time_travel.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_celebi_time_travel/releases/download/v0.0.14/gmarcs_gen2_celebi_time_travel.zip"
+     "name": "gmarcs_gen2_celebi_time_travel-0.0.17.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen2_celebi_time_travel/releases/download/v0.0.17/gmarcs_gen2_celebi_time_travel-0.0.17.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T23:32:16Z",
+   "last_release": "2026-10-31T00:18:53Z",
    "games": [
     "gen2"
    ],
@@ -5272,7 +5301,7 @@
    "id": "gmarcs_gen2_johto_in_first_person",
    "title": "gmarcs Gen 2 Johto in First Person",
    "author": "gmarcmods",
-   "version": "1.0.11",
+   "version": "1.0.12",
    "categories": [
     "ART"
    ],
@@ -5282,18 +5311,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "1.0.11",
-    "tag": "v1.0.11",
-    "name": "v1.0.11",
+    "version": "1.0.12",
+    "tag": "v1.0.12",
+    "name": "v1.0.12",
     "prerelease": false,
-    "published_at": "2026-10-19T23:34:01Z",
+    "published_at": "2026-10-30T23:06:40Z",
     "zip": {
-     "name": "gmarcs_gen2_johto_in_first_person.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_johto_in_first_person/releases/download/v1.0.11/gmarcs_gen2_johto_in_first_person.zip"
+     "name": "gmarcs_gen2_johto_in_first_person-1.0.12.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen2_johto_in_first_person/releases/download/v1.0.12/gmarcs_gen2_johto_in_first_person-1.0.12.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-19T23:34:01Z",
+   "last_release": "2026-10-30T23:06:40Z",
    "games": [
     "gen2"
    ],
@@ -5301,11 +5330,129 @@
    "github": "gmarcmods/gmarcs_gen2_johto_in_first_person"
   },
   {
-   "folder": "gmarcmods@gmarcs_gen2_voxel_mod",
-   "id": "gmarcs_gen2_voxel_mod",
-   "title": "Gmarcs Gen2 Voxel Mod",
+   "folder": "gmarcmods@gmarcs_gen1_kanto_alive",
+   "id": "gmarcs_gen1_kanto_alive",
+   "title": "gmarcs gen1 kanto alive",
    "author": "gmarcmods",
-   "version": "1.0.16",
+   "version": "1.0.0",
+   "categories": [
+    "QOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Gmarc's Gen 1 Kanto Alive 1.0.0",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-10-31T09:59:32Z",
+    "zip": {
+     "name": "gmarcs_gen1_kanto_alive-1.0.0.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_kanto_alive/releases/download/v1.0.0/gmarcs_gen1_kanto_alive-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-31T09:59:32Z",
+   "repo": "https://github.com/gmarcmods/gmarcs_gen1_kanto_alive",
+   "github": "gmarcmods/gmarcs_gen1_kanto_alive"
+  },
+  {
+   "folder": "gmarcmods@gmarcs_gen1_kanto_in_first_person",
+   "id": "gmarcs_gen1_kanto_in_first_person",
+   "title": "gmarcs gen1 kanto in first person",
+   "author": "gmarcmods",
+   "version": "2.0.2",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "voxel",
+    "unlisted"
+   ],
+   "summary": "Gmarc's Gen 1 Kanto in First Person 2.0.2",
+   "latest": {
+    "version": "2.0.2",
+    "tag": "v2.0.2",
+    "name": "v2.0.2",
+    "prerelease": false,
+    "published_at": "2026-10-31T10:04:53Z",
+    "zip": {
+     "name": "gmarcs_gen1_kanto_in_first_person-2.0.2.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_kanto_in_first_person/releases/download/v2.0.2/gmarcs_gen1_kanto_in_first_person-2.0.2.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-31T10:04:53Z",
+   "repo": "https://github.com/gmarcmods/gmarcs_gen1_kanto_in_first_person",
+   "github": "gmarcmods/gmarcs_gen1_kanto_in_first_person"
+  },
+  {
+   "folder": "gmarcmods@gmarcs_gen1_qol_mod",
+   "id": "gmarcs_gen1_qol_mod",
+   "title": "gmarcs gen1 qol mod",
+   "author": "gmarcmods",
+   "version": "1.1.1",
+   "categories": [
+    "QOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Gmarc's Gen 1 QoL Mod 1.1.1",
+   "latest": {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "name": "v1.1.1",
+    "prerelease": false,
+    "published_at": "2026-10-31T09:58:52Z",
+    "zip": {
+     "name": "gmarcs_gen1_qol_mod-1.1.1.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod/releases/download/v1.1.1/gmarcs_gen1_qol_mod-1.1.1.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-31T09:58:52Z",
+   "repo": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod",
+   "github": "gmarcmods/gmarcs_gen1_qol_mod"
+  },
+  {
+   "folder": "gmarcmods@gmarcs_gen1_voxel_mod",
+   "id": "gmarcs_gen1_voxel_mod",
+   "title": "gmarcs gen1 voxel mod",
+   "author": "gmarcmods",
+   "version": "1.6.5",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "voxel",
+    "unlisted"
+   ],
+   "summary": "Gmarc's Gen 1 Voxel Mod — Red, Blue and Yellow in 3D",
+   "latest": {
+    "version": "1.6.5",
+    "tag": "v1.6.5",
+    "name": "v1.6.5",
+    "prerelease": false,
+    "published_at": "2026-10-31T09:53:52Z",
+    "zip": {
+     "name": "gmarcs_gen1_voxel_mod-1.6.5.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_voxel_mod/releases/download/v1.6.5/gmarcs_gen1_voxel_mod-1.6.5.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-31T09:53:52Z",
+   "repo": "https://github.com/gmarcmods/gmarcs_gen1_voxel_mod",
+   "github": "gmarcmods/gmarcs_gen1_voxel_mod"
+  },
+  {
+   "folder": "gmarcmods@gmarcs_gen2_spanish_mod",
+   "id": "gmarcs_gen2_spanish_mod",
+   "title": "gmarcs gen2 spanish mod",
+   "author": "gmarcmods",
+   "version": "1.1.2",
    "categories": [
     "ART"
    ],
@@ -5315,18 +5462,48 @@
    ],
    "summary": "",
    "latest": {
-    "version": "1.0.16",
-    "tag": "v1.0.16",
-    "name": "v1.0.16",
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "name": "v1.1.2",
     "prerelease": false,
-    "published_at": "2026-10-26T22:58:04Z",
+    "published_at": "2026-10-30T23:05:28Z",
     "zip": {
-     "name": "gmarcs_gen2_voxel_mod.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.16/gmarcs_gen2_voxel_mod.zip"
+     "name": "GEN2_ES-1.1.2.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen2_spanish_mod/releases/download/v1.1.2/GEN2_ES-1.1.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T22:58:04Z",
+   "last_release": "2026-10-30T23:05:28Z",
+   "repo": "https://github.com/gmarcmods/gmarcs_gen2_spanish_mod",
+   "github": "gmarcmods/gmarcs_gen2_spanish_mod"
+  },
+  {
+   "folder": "gmarcmods@gmarcs_gen2_voxel_mod",
+   "id": "gmarcs_gen2_voxel_mod",
+   "title": "Gmarcs Gen2 Voxel Mod",
+   "author": "gmarcmods",
+   "version": "1.0.17",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "voxel",
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "1.0.17",
+    "tag": "v1.0.17",
+    "name": "v1.0.17",
+    "prerelease": false,
+    "published_at": "2026-10-30T23:06:12Z",
+    "zip": {
+     "name": "gmarcs_gen2_voxel_mod-1.0.17.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.17/gmarcs_gen2_voxel_mod-1.0.17.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-30T23:06:12Z",
    "games": [
     "gen2"
    ],
@@ -5889,7 +6066,7 @@
    "id": "ie3ogre_nds_recomp",
    "title": "ie3ogre nds recomp",
    "author": "matheus2x",
-   "version": "0.1.24",
+   "version": "0.1.28",
    "categories": [
     "ART"
    ],
@@ -5899,18 +6076,18 @@
    ],
    "summary": "Port nativo para Windows de Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
    "latest": {
-    "version": "0.1.24",
-    "tag": "v0.1.24",
-    "name": "v0.1.24",
+    "version": "0.1.28",
+    "tag": "v0.1.28",
+    "name": "v0.1.28",
     "prerelease": false,
-    "published_at": "2026-10-30T02:42:14Z",
+    "published_at": "2026-10-30T21:15:02Z",
     "zip": {
-     "name": "ie3ogre-recomp-0.1.24-windows.zip",
-     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.24/ie3ogre-recomp-0.1.24-windows.zip"
+     "name": "ie3ogre-recomp-0.1.28-windows.zip",
+     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.28/ie3ogre-recomp-0.1.28-windows.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-30T02:42:14Z",
+   "last_release": "2026-10-30T21:15:02Z",
    "repo": "https://github.com/matheus2x/ie3ogre-nds-recomp",
    "github": "matheus2x/ie3ogre-nds-recomp"
   },
@@ -7176,7 +7353,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.2.9",
+   "version": "0.3.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7185,18 +7362,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.2.9",
-    "tag": "v0.2.9",
-    "name": "v0.2.9",
+    "version": "0.3.0",
+    "tag": "v0.3.0",
+    "name": "v0.3.0",
     "prerelease": false,
-    "published_at": "2026-10-29T05:30:16Z",
+    "published_at": "2026-10-31T07:25:50Z",
     "zip": {
-     "name": "max_raids-0.2.9.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.2.9/max_raids-0.2.9.zip"
+     "name": "max_raids-0.3.0.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.3.0/max_raids-0.3.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T05:30:16Z",
+   "last_release": "2026-10-31T07:25:50Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -7697,7 +7874,7 @@
    "id": "modern_spawns",
    "title": "Modern Spawns",
    "author": "poooooby",
-   "version": "0.13.2",
+   "version": "0.13.3",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7706,18 +7883,18 @@
    ],
    "summary": "Dynamic Gen 1-9 wild encounter redistribution for Pokemon Red/Blue/Yellow/Gold/Silver/Crystal/FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "0.13.2",
-    "tag": "v0.13.2",
-    "name": "v0.13.2",
+    "version": "0.13.3",
+    "tag": "v0.13.3",
+    "name": "v0.13.3",
     "prerelease": false,
-    "published_at": "2026-10-21T14:50:28Z",
+    "published_at": "2026-10-31T06:27:27Z",
     "zip": {
-     "name": "modern_spawns-0.13.2.zip",
-     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.13.2/modern_spawns-0.13.2.zip"
+     "name": "modern_spawns-0.13.3.zip",
+     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.13.3/modern_spawns-0.13.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-21T14:50:28Z",
+   "last_release": "2026-10-31T06:27:27Z",
    "games": [
     "gen1",
     "gen2",
@@ -8211,7 +8388,7 @@
    "id": "national_dex_gen3",
    "title": "National Dex Gen 3",
    "author": "poooooby",
-   "version": "1.5.5",
+   "version": "1.6.1",
    "categories": [
     "CONTENT"
    ],
@@ -8220,18 +8397,18 @@
    ],
    "summary": "National Dex species #387-1025 as data for Pokemon FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "1.5.5",
-    "tag": "v1.5.5",
-    "name": "v1.5.5",
+    "version": "1.6.1",
+    "tag": "v1.6.1",
+    "name": "v1.6.1",
     "prerelease": false,
-    "published_at": "2026-10-29T05:29:57Z",
+    "published_at": "2026-10-31T05:41:55Z",
     "zip": {
-     "name": "national_dex_gen3-1.5.5.zip",
-     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.5.5/national_dex_gen3-1.5.5.zip"
+     "name": "national_dex_gen3-1.6.1.zip",
+     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.6.1/national_dex_gen3-1.6.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T05:29:57Z",
+   "last_release": "2026-10-31T05:41:55Z",
    "games": [
     "gen3"
    ],
@@ -9121,7 +9298,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "1.0.2",
+   "version": "1.1.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9130,18 +9307,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "1.0.2",
-    "tag": "v1.0.2",
-    "name": "v1.0.2",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "name": "v1.1.0",
     "prerelease": false,
-    "published_at": "2026-10-28T18:35:02Z",
+    "published_at": "2026-10-31T06:45:21Z",
     "zip": {
-     "name": "play_nav-1.0.2.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.0.2/play_nav-1.0.2.zip"
+     "name": "play_nav-1.1.0.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.1.0/play_nav-1.1.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-28T18:35:02Z",
+   "last_release": "2026-10-31T06:45:21Z",
    "games": [
     "gen3"
    ],
@@ -10717,6 +10894,35 @@
    ],
    "repo": "https://github.com/PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase",
    "github": "PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase"
+  },
+  {
+   "folder": "ElvieBlooms@recomp_achievements",
+   "id": "recomp_achievements",
+   "title": "recomp achievements",
+   "author": "ElvieBlooms",
+   "version": "2.5.0",
+   "categories": [
+    "LIBRARY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "A local achievement framework for Gen1Recomp",
+   "latest": {
+    "version": "2.5.0",
+    "tag": "v2.5.0",
+    "name": "v2.5.0",
+    "prerelease": false,
+    "published_at": "2026-10-31T03:51:21Z",
+    "zip": {
+     "name": "recomp_achievements-2.5.0.zip",
+     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.5.0/recomp_achievements-2.5.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-10-31T03:51:21Z",
+   "repo": "https://github.com/ElvieBlooms/recomp_achievements",
+   "github": "ElvieBlooms/recomp_achievements"
   },
   {
    "folder": "inmento@red_centered_layout",
@@ -13212,7 +13418,7 @@
    "id": "types_mod_gen1recomp",
    "title": "types mod gen1recomp",
    "author": "klx1204",
-   "version": "0.1.10",
+   "version": "0.1.12",
    "categories": [
     "TOOL"
    ],
@@ -13221,18 +13427,18 @@
    ],
    "summary": "Add new types, e.g. Fairy, for gen 3 Pokémon and moves, etc.",
    "latest": {
-    "version": "0.1.10",
-    "tag": "v0.1.10",
-    "name": "v0.1.10",
+    "version": "0.1.12",
+    "tag": "v0.1.12",
+    "name": "v0.1.12",
     "prerelease": false,
-    "published_at": "2026-10-29T16:07:22Z",
+    "published_at": "2026-10-31T07:12:15Z",
     "zip": {
-     "name": "types_mod_gen1recomp-0.1.10.zip",
-     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.10/types_mod_gen1recomp-0.1.10.zip"
+     "name": "types_mod_gen1recomp-0.1.12.zip",
+     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.12/types_mod_gen1recomp-0.1.12.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T16:07:22Z",
+   "last_release": "2026-10-31T07:12:15Z",
    "repo": "https://github.com/klx1204/types-mod-gen1recomp",
    "github": "klx1204/types-mod-gen1recomp"
   },

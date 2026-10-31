@@ -1,5 +1,272 @@
 [
  {
+  "date": "2026-10-31T10:23:54Z",
+  "new": [
+   {
+    "id": "gh:hugo-cacciatori/hd_interface",
+    "name": "hd interface"
+   },
+   {
+    "id": "gh:smidja2/rby-3d-npc",
+    "name": "RBY 3D NPC"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_kanto_in_first_person",
+    "name": "gmarcs gen1 kanto in first person"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_kanto_alive",
+    "name": "gmarcs gen1 kanto alive"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_qol_mod",
+    "name": "gmarcs gen1 qol mod"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_voxel_mod",
+    "name": "gmarcs gen1 voxel mod"
+   },
+   {
+    "id": "gh:hugo-cacciatori/speed_control",
+    "name": "speed control"
+   },
+   {
+    "id": "gh:hugo-cacciatori/keyboard_controls",
+    "name": "keyboard controls"
+   },
+   {
+    "id": "gh:hugo-cacciatori/click_to_walk",
+    "name": "click to walk"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_spanish_mod",
+    "name": "gmarcs gen2 spanish mod"
+   },
+   {
+    "id": "gh:almewty/crystal-time-change",
+    "name": "crystal time change"
+   },
+   {
+    "id": "gh:sweetjbro/pokemon-matrix-widget",
+    "name": "Pokemon Matrix Widget"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:drglitchyphd/aio-recomp",
+    "name": "aio recomp",
+    "from": "v0.9.84",
+    "to": "v0.9.91"
+   },
+   {
+    "id": "gh:tooandorisu/cleanui-gen3",
+    "name": "Clean UI Gen 3",
+    "from": "0.17.4",
+    "to": "0.17.6"
+   },
+   {
+    "id": "gh:tridentbr/firered-languages",
+    "name": "FireRed languages",
+    "from": "commit-24daae5",
+    "to": "commit-8d114e7"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-77e83d7",
+    "to": "commit-c2059cf"
+   },
+   {
+    "id": "gh:rakmahefa/g1r-mods",
+    "name": "G1R Mods",
+    "from": "commit-0b52dee",
+    "to": "commit-b33407c"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.4.12",
+    "to": "v0.4.13"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-3767ee5",
+    "to": "commit-8570de3"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-ae86067",
+    "to": "commit-8d21dec"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-9a60593",
+    "to": "commit-47554b7"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-827fbd1",
+    "to": "commit-966a446"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-a012aa1",
+    "to": "commit-0b6508f"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_celebi_time_travel",
+    "name": "gmarcs Gen 2 Celebi Time Travel",
+    "from": "v0.0.14",
+    "to": "v0.0.17"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_johto_in_first_person",
+    "name": "gmarcs Gen 2 Johto in First Person",
+    "from": "v1.0.11",
+    "to": "v1.0.12"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_voxel_mod",
+    "name": "Gmarcs Gen2 Voxel Mod",
+    "from": "v1.0.16",
+    "to": "v1.0.17"
+   },
+   {
+    "id": "gh:matheus2x/ie3ogre-nds-recomp",
+    "name": "ie3ogre nds recomp",
+    "from": "v0.1.24",
+    "to": "v0.1.28"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-d4d7749",
+    "to": "commit-450a906"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.2.9",
+    "to": "v0.3.0"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-180915b",
+    "to": "commit-7ef7aa2"
+   },
+   {
+    "id": "gh:poooooby/g1r_modern_spawns",
+    "name": "Modern Spawns",
+    "from": "v0.13.2",
+    "to": "v0.13.3"
+   },
+   {
+    "id": "gh:hugo-cacciatori/mouse_keyboard_play",
+    "name": "mouse keyboard play",
+    "from": "commit-a110805",
+    "to": "commit-a205b3b"
+   },
+   {
+    "id": "gh:hugo-cacciatori/mouse_menus",
+    "name": "mouse menus",
+    "from": "commit-c725904",
+    "to": "commit-de0be0c"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "National Dex Gen 3",
+    "from": "v1.5.5",
+    "to": "v1.6.1"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-aaa4924",
+    "to": "commit-b4a3e89"
+   },
+   {
+    "id": "gh:gawdmode/phasmopokea",
+    "name": "PhasmoPokéa",
+    "from": "v1.1.1",
+    "to": "v1.1.2"
+   },
+   {
+    "id": "gh:carloscosta07-s/platina_reluzente-",
+    "name": "Platina reluzente ",
+    "from": "commit-93a3d9b",
+    "to": "commit-d7c4e47"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v1.0.2",
+    "to": "v1.1.0"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-83f2de3",
+    "to": "commit-5428143"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "recomp achievements",
+    "from": "commit-c145f80",
+    "to": "v2.5.0"
+   },
+   {
+    "id": "gh:hugo-cacciatori/speed_indicator",
+    "name": "speed indicator",
+    "from": "commit-8313115",
+    "to": "commit-116b070"
+   },
+   {
+    "id": "gh:klx1204/types-mod-gen1recomp",
+    "name": "types mod gen1recomp",
+    "from": "v0.1.10",
+    "to": "v0.1.12"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:highdrexler/colosseum-inspired-ui-overhaul-v.1.0.0",
+    "name": "Colosseum Inspired UI Overhaul",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:thcrazy420/gen1recomp-player-selector",
+    "name": "Gen1recomp-Player-Selector",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:thcrazy420/gen1recomp-poke-rave",
+    "name": "Gen1recomp-Poke-Rave",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ojsaucer/gen1recomp-radial-menu",
+    "name": "gen1recomp-Radial-Menu",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:tonedawg1/gen1recomp-tm-hm-names",
+    "name": "TM/HM Move Names",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-10-30T10:52:30Z",
   "new": [
    {
