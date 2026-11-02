@@ -1,5 +1,232 @@
 [
  {
+  "date": "2026-11-02T12:24:29Z",
+  "new": [
+   {
+    "id": "gh:garrettjwilke/mpc-gen1recomp",
+    "name": "mpc gen1recomp"
+   },
+   {
+    "id": "gh:tooandorisu/cross-game-music",
+    "name": "Cross Game Music"
+   },
+   {
+    "id": "gh:hailey-ross/nativemons",
+    "name": "nativeMons"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:tolgakurtuluss/awesome-webos",
+    "name": "awesome webos",
+    "from": "commit-c7f6b42",
+    "to": "commit-49bf0cb"
+   },
+   {
+    "id": "gh:tooandorisu/cleanui-gen3",
+    "name": "Clean UI Gen 3",
+    "from": "0.17.6",
+    "to": "0.18.6"
+   },
+   {
+    "id": "gh:pandakisor/emerald-doubles-soullink",
+    "name": "emerald doubles soullink",
+    "from": "v0.42.7",
+    "to": "v0.43.10"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.4.5",
+    "to": "v0.6.1"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-45b6b8b",
+    "to": "commit-657ca07"
+   },
+   {
+    "id": "gh:pandakisor/g3-coop",
+    "name": "g3 coop",
+    "from": "v0.8.11",
+    "to": "v0.8.17"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-13ff059",
+    "to": "commit-501714d"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-5ca50e2",
+    "to": "commit-d91dfc1"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-5bb7e16",
+    "to": "commit-d00729c"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-213b036",
+    "to": "commit-8b12814"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-e49e21d",
+    "to": "commit-7117153"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-7d82712",
+    "to": "commit-a0377a8"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_johto_in_first_person",
+    "name": "gmarcs Gen 2 Johto in First Person",
+    "from": "v1.0.12",
+    "to": "v1.0.13"
+   },
+   {
+    "id": "gh:averageconsumer/kanto-gear",
+    "name": "kanto-gear",
+    "from": "v4.6.0",
+    "to": "v4.6.1"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-450a906",
+    "to": "commit-bfd2fcf"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-5913d4e",
+    "to": "commit-db5d1fa"
+   },
+   {
+    "id": "gh:hugh-oneill/open-red",
+    "name": "open red",
+    "from": "commit-da8d3dc",
+    "to": "commit-7d384cf"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-9d678ba",
+    "to": "commit-e2996ed"
+   },
+   {
+    "id": "gh:carloscosta07-s/platina_reluzente-",
+    "name": "Platina reluzente ",
+    "from": "commit-086c3bf",
+    "to": "commit-7111ae6"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-5428143",
+    "to": "commit-e5075d9"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.78.0",
+    "to": "1.84.0"
+   },
+   {
+    "id": "gh:colimbuli/theos",
+    "name": "TheOS",
+    "from": "commit-88aaa80",
+    "to": "commit-ddd56e1"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.28.0",
+    "to": "v0.30.3"
+   },
+   {
+    "id": "gh:weskestis/universalrandomizer",
+    "name": "UniversalRandomizer",
+    "from": "V.1.3.41",
+    "to": "v1.9.0"
+   },
+   {
+    "id": "gh:pustal/webos-repo",
+    "name": "webos repo",
+    "from": "commit-a4d44a5",
+    "to": "commit-eefa9e8"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:dacookiecakes/babymon-gen2",
+    "name": "Babymon",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:on1san/custom-player-sprites-g1r",
+    "name": "Custom Player Sprites",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:tamdev999/enginemon",
+    "name": "Enginemon",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:smidja2/octocat.github.io",
+    "name": "octocat.github.io",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-a-modern-ui-suite-fork",
+    "name": "Project Highlander - A Modern UI Suite Fork",
+    "from": "active",
+    "to": "archived"
+   },
+   {
+    "id": "gh:weskestis/universalrandomizer",
+    "name": "UniversalRandomizer",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:shanemcgovernie/yellow_legacy_changes",
+    "name": "Yellow Legacy Changes",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:nexhas28/yellow_legacy_changes",
+    "name": "yellow legacy changes",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-01T11:16:47Z",
   "new": [
    {
