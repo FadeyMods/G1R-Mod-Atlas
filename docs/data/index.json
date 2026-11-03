@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T12:24:29Z",
- "count": 460,
+ "generated_at": "2026-11-03T11:55:48Z",
+ "count": 459,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -355,7 +355,7 @@
    "id": "gen3_frlg_pt-br_mod",
    "title": "[PT-BR] Versão Brasileira (FRLG)",
    "author": "LordSangreal",
-   "version": "0.1.4",
+   "version": "0.1.5",
    "categories": [
     "TRANSLATION"
    ],
@@ -364,18 +364,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.1.4",
-    "tag": "v0.1.4",
-    "name": "v0.1.4",
+    "version": "0.1.5",
+    "tag": "v0.1.5",
+    "name": "v0.1.5",
     "prerelease": false,
-    "published_at": "2026-10-23T01:59:38Z",
+    "published_at": "2026-11-02T20:37:34Z",
     "zip": {
-     "name": "gen3_frlg_pt-br_mod-0.1.4.zip",
-     "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.4/gen3_frlg_pt-br_mod-0.1.4.zip"
+     "name": "gen3_frlg_pt-br_mod-0.1.5.zip",
+     "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.5/gen3_frlg_pt-br_mod-0.1.5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T01:59:38Z",
+   "last_release": "2026-11-02T20:37:34Z",
    "games": [
     "firered",
     "leafgreen"
@@ -1971,7 +1971,7 @@
    "id": "cross_game_music",
    "title": "Cross Game Music",
    "author": "Tooandorisu",
-   "version": "0.1.14",
+   "version": "0.1.15",
    "categories": [
     "AUDIO"
    ],
@@ -1980,18 +1980,18 @@
    ],
    "summary": "Choose complete soundtracks or individual tracks from Pokémon Gen 1–3, regardless of which game you play. A music mod for Gen1Recomp.",
    "latest": {
-    "version": "0.1.14",
-    "tag": "0.1.14",
-    "name": "0.1.14",
+    "version": "0.1.15",
+    "tag": "0.1.15",
+    "name": "0.1.15",
     "prerelease": false,
-    "published_at": "2026-11-02T01:57:26Z",
+    "published_at": "2026-11-02T22:15:10Z",
     "zip": {
-     "name": "Cross-Game-Music-0.1.14.zip",
-     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.14/Cross-Game-Music-0.1.14.zip"
+     "name": "Cross-Game-Music-0.1.15.zip",
+     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.15/Cross-Game-Music-0.1.15.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T01:57:26Z",
+   "last_release": "2026-11-02T22:15:10Z",
    "repo": "https://github.com/Tooandorisu/Cross-Game-Music",
    "github": "Tooandorisu/Cross-Game-Music"
   },
@@ -5175,7 +5175,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.47",
+   "version": "0.8.49",
    "categories": [
     "TRANSLATION"
    ],
@@ -5184,18 +5184,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.47",
-    "tag": "v0.8.47",
-    "name": "v0.8.47",
+    "version": "0.8.49",
+    "tag": "v0.8.49",
+    "name": "v0.8.49",
     "prerelease": false,
-    "published_at": "2026-10-26T17:25:35Z",
+    "published_at": "2026-11-02T20:52:31Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.47-rg34xxsp-stockos64-mod.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.47/Gen2Recomped-0.8.47-rg34xxsp-stockos64-mod.zip"
+     "name": "Gen2Recomped-0.8.49-linux.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.49/Gen2Recomped-0.8.49-linux.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T17:25:35Z",
+   "last_release": "2026-11-02T20:52:31Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -6706,35 +6706,6 @@
    "github": "BountyHunterKanden/Kanto-Companion"
   },
   {
-   "folder": "AverageConsumer@kanto_gear",
-   "id": "kanto_gear",
-   "title": "kanto-gear",
-   "author": "AverageConsumer",
-   "version": "4.6.1",
-   "categories": [
-    "UI"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "DS-inspired Pokégear and C-Gear companion mod for Pokémon Gen 1-3 in Gen1Recomp. Live maps, Pokédex, touch battle controls and local phone display on Android, Windows and Linux.",
-   "latest": {
-    "version": "4.6.1",
-    "tag": "v4.6.1",
-    "name": "v4.6.1",
-    "prerelease": false,
-    "published_at": "2026-11-01T13:20:19Z",
-    "zip": {
-     "name": "kanto_gear-4.6.1.zip",
-     "url": "https://github.com/AverageConsumer/kanto-gear/releases/download/v4.6.1/kanto_gear-4.6.1.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-01T13:20:19Z",
-   "repo": "https://github.com/AverageConsumer/kanto-gear",
-   "github": "AverageConsumer/kanto-gear"
-  },
-  {
    "folder": "Faendra@kanto_rework_suite",
    "id": "kanto_rework_suite",
    "title": "kanto-rework-suite",
@@ -6762,39 +6733,6 @@
    "last_release": "2026-08-30T13:36:38Z",
    "repo": "https://github.com/Faendra/kanto-rework-suite",
    "github": "Faendra/kanto-rework-suite"
-  },
-  {
-   "folder": "castdrian@recomp-rider",
-   "id": "recomp-rider",
-   "title": "Knight Rider",
-   "author": "castdrian",
-   "version": "0.4.0",
-   "categories": [
-    "OTHER"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "KITT outdoor driving mod for gen1recomp",
-   "latest": {
-    "version": "0.4.0",
-    "tag": "v0.4.0",
-    "name": "v0.4.0",
-    "prerelease": false,
-    "published_at": "2026-08-11T20:29:07Z",
-    "zip": {
-     "name": "recomp-rider-0.4.0.zip",
-     "url": "https://github.com/castdrian/recomp-rider/releases/download/v0.4.0/recomp-rider-0.4.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-08-11T20:29:07Z",
-   "games": [
-    "gen1",
-    "gen2"
-   ],
-   "repo": "https://github.com/castdrian/recomp-rider",
-   "github": "castdrian/recomp-rider"
   },
   {
    "folder": "jramiresbrito@kurt_bulk_apricorns",
@@ -7386,7 +7324,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.3.1",
+   "version": "0.3.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7395,18 +7333,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.3.1",
-    "tag": "v0.3.1",
-    "name": "v0.3.1",
+    "version": "0.3.2",
+    "tag": "v0.3.2",
+    "name": "v0.3.2",
     "prerelease": false,
-    "published_at": "2026-11-01T05:31:39Z",
+    "published_at": "2026-11-03T03:08:37Z",
     "zip": {
-     "name": "max_raids-0.3.1.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.3.1/max_raids-0.3.1.zip"
+     "name": "max_raids-0.3.2.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.3.2/max_raids-0.3.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-01T05:31:39Z",
+   "last_release": "2026-11-03T03:08:37Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -8272,7 +8210,7 @@
    "id": "mpc_boot_thingy",
    "title": "mpc boot thingy",
    "author": "garrettjwilke",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "categories": [
     "UI"
    ],
@@ -8281,18 +8219,18 @@
    ],
    "summary": "boot menu for mpc sample",
    "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-11-02T06:40:57Z",
+    "published_at": "2026-11-03T07:11:32Z",
     "zip": {
      "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.0/mpc-boot-thingy.zip"
+     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.1/mpc-boot-thingy.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T06:40:57Z",
+   "last_release": "2026-11-03T07:11:32Z",
    "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
    "github": "garrettjwilke/mpc-boot-thingy"
   },
@@ -8479,7 +8417,7 @@
    "id": "national_dex_gen3",
    "title": "National Dex Gen 3",
    "author": "poooooby",
-   "version": "1.6.3",
+   "version": "1.7.0",
    "categories": [
     "CONTENT"
    ],
@@ -8488,18 +8426,18 @@
    ],
    "summary": "National Dex species #387-1025 as data for Pokemon FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "1.6.3",
-    "tag": "v1.6.3",
-    "name": "v1.6.3",
+    "version": "1.7.0",
+    "tag": "v1.7.0",
+    "name": "v1.7.0",
     "prerelease": false,
-    "published_at": "2026-11-01T05:31:07Z",
+    "published_at": "2026-11-03T03:06:37Z",
     "zip": {
-     "name": "national_dex_gen3-1.6.3.zip",
-     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.6.3/national_dex_gen3-1.6.3.zip"
+     "name": "national_dex_gen3-1.7.0.zip",
+     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.7.0/national_dex_gen3-1.7.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-01T05:31:07Z",
+   "last_release": "2026-11-03T03:06:37Z",
    "games": [
     "gen3"
    ],
@@ -8524,14 +8462,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-02T08:01:52Z",
+    "published_at": "2026-11-03T04:59:49Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T08:01:52Z",
+   "last_release": "2026-11-03T04:59:49Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9360,7 +9298,7 @@
    "id": "PkMultiplayer",
    "title": "PkMultiplayer (Online Co-op)",
    "author": "Mochx-007",
-   "version": "1.6.15",
+   "version": "1.6.17",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9369,18 +9307,18 @@
    ],
    "summary": "Online co-op mod for Gen2Recomped (Pokemon Gold/Silver/Crystal): two players, one Johto, 2-vs-2 double battles. LAN / ZeroTier.",
    "latest": {
-    "version": "1.6.15",
-    "tag": "v1.6.15",
-    "name": "v1.6.15",
+    "version": "1.6.17",
+    "tag": "v1.6.17",
+    "name": "v1.6.17",
     "prerelease": false,
-    "published_at": "2026-10-29T21:19:55Z",
+    "published_at": "2026-11-03T02:42:34Z",
     "zip": {
-     "name": "PkMultiplayer-1.6.15.zip",
-     "url": "https://github.com/Mochx07/PkMultiplayer/releases/download/v1.6.15/PkMultiplayer-1.6.15.zip"
+     "name": "PkMultiplayer-1.6.17.zip",
+     "url": "https://github.com/Mochx07/PkMultiplayer/releases/download/v1.6.17/PkMultiplayer-1.6.17.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T21:19:55Z",
+   "last_release": "2026-11-03T02:42:34Z",
    "repo": "https://github.com/Mochx-007/PkMultiplayer",
    "github": "Mochx-007/PkMultiplayer"
   },
@@ -10984,7 +10922,7 @@
    "id": "rby_3d_npc",
    "title": "RBY 3D NPC",
    "author": "Smidja2",
-   "version": "gen1recomp",
+   "version": "1.0.1",
    "categories": [
     "ART"
    ],
@@ -10994,18 +10932,18 @@
    ],
    "summary": "3d NPC replacement for VOXEL mod in GEN1recomp",
    "latest": {
-    "version": "gen1recomp",
-    "tag": "gen1recomp",
-    "name": "gen1recomp",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-11-01T03:09:43Z",
+    "published_at": "2026-11-02T19:11:25Z",
     "zip": {
      "name": "RBY_3D_NPC.zip",
-     "url": "https://github.com/Smidja2/RBY-3D-NPC/releases/download/gen1recomp/RBY_3D_NPC.zip"
+     "url": "https://github.com/Smidja2/RBY-3D-NPC/releases/download/v1.0.1/RBY_3D_NPC.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-01T03:09:43Z",
+   "last_release": "2026-11-02T19:11:25Z",
    "repo": "https://github.com/Smidja2/RBY-3D-NPC",
    "github": "Smidja2/RBY-3D-NPC"
   },
@@ -13112,7 +13050,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.30.3",
+   "version": "0.33.0",
    "categories": [
     "ART"
    ],
@@ -13121,18 +13059,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.30.3",
-    "tag": "v0.30.3",
-    "name": "v0.30.3",
+    "version": "0.33.0",
+    "tag": "v0.33.0",
+    "name": "v0.33.0",
     "prerelease": false,
-    "published_at": "2026-11-02T11:55:53Z",
+    "published_at": "2026-11-03T12:04:28Z",
     "zip": {
-     "name": "TileShift-Gen2-Comparisons-v0.30.3.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.30.3/TileShift-Gen2-Comparisons-v0.30.3.zip"
+     "name": "TileShift-Gen2-in-Gen3-Comparisons-v0.33.0.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.33.0/TileShift-Gen2-in-Gen3-Comparisons-v0.33.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T11:55:53Z",
+   "last_release": "2026-11-03T12:04:28Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
@@ -13676,7 +13614,7 @@
    "id": "universalrandomizer",
    "title": "UniversalRandomizer",
    "author": "weskestis",
-   "version": "1.9.0",
+   "version": "1.11.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13685,18 +13623,18 @@
    ],
    "summary": "Universal Pokémon Randomizer for Gen1Recomp — Red, Blue, Yellow, Gold & Silver with Pokémon #001–493, Random Start, Gen 1–4 rulesets, abilities, natures, encounters, hints, and expanded graphics/audio.",
    "latest": {
-    "version": "1.9.0",
-    "tag": "v1.9.0",
-    "name": "v1.9.0",
+    "version": "1.11.1",
+    "tag": "v1.11.1",
+    "name": "v1.11.1",
     "prerelease": false,
-    "published_at": "2026-11-02T06:12:59Z",
+    "published_at": "2026-11-03T03:00:44Z",
     "zip": {
-     "name": "universal_randomizer-1.9.0.zip",
-     "url": "https://github.com/weskestis/UniversalRandomizer/releases/download/v1.9.0/universal_randomizer-1.9.0.zip"
+     "name": "universal_randomizer-1.11.1.zip",
+     "url": "https://github.com/weskestis/UniversalRandomizer/releases/download/v1.11.1/universal_randomizer-1.11.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T06:12:59Z",
+   "last_release": "2026-11-03T03:00:44Z",
    "repo": "https://github.com/weskestis/UniversalRandomizer",
    "github": "weskestis/UniversalRandomizer"
   },
@@ -14143,6 +14081,35 @@
    ],
    "repo": "https://github.com/poooooby/wilds-of-hoenn",
    "github": "poooooby/wilds-of-hoenn"
+  },
+  {
+   "folder": "poooooby@woob_os",
+   "id": "woob_os",
+   "title": "woob os",
+   "author": "poooooby",
+   "version": "0.2.3",
+   "categories": [
+    "GAMEPLAY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "WoobOS: the Gen 3 PC (FireRed, LeafGreen, Ruby, Sapphire, Emerald) as a modern desktop, a gen1recomp mod",
+   "latest": {
+    "version": "0.2.3",
+    "tag": "v0.2.3",
+    "name": "v0.2.3",
+    "prerelease": false,
+    "published_at": "2026-11-03T03:28:24Z",
+    "zip": {
+     "name": "woob_os-0.2.3.zip",
+     "url": "https://github.com/poooooby/woob_os/releases/download/v0.2.3/woob_os-0.2.3.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T03:28:24Z",
+   "repo": "https://github.com/poooooby/woob_os",
+   "github": "poooooby/woob_os"
   },
   {
    "folder": "MrKrisSatan@wxpokes",

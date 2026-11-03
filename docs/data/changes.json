@@ -1,5 +1,198 @@
 [
  {
+  "date": "2026-11-03T11:55:48Z",
+  "new": [
+   {
+    "id": "gh:bloodninj/g1r-uk-english-translation",
+    "name": "g1r uk english translation"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "woob os"
+   },
+   {
+    "id": "gh:deluxe0111/gen1recomp-content-editor",
+    "name": "Gen1Recomp Content Editor"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:lordsangreal/gen3_frlg_pt-br_mod",
+    "name": "[PT-BR] Versão Brasileira (FRLG)",
+    "from": "v0.1.4",
+    "to": "v0.1.5"
+   },
+   {
+    "id": "gh:tooandorisu/cross-game-music",
+    "name": "Cross Game Music",
+    "from": "0.1.14",
+    "to": "0.1.15"
+   },
+   {
+    "id": "gh:smidja2/dx-realtime-and-overworld-for-gen1",
+    "name": "DX Realtime and Overworld (Gen 1)",
+    "from": "commit-d3aca17",
+    "to": "commit-a577961"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-657ca07",
+    "to": "commit-d626af4"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-501714d",
+    "to": "commit-d9d190a"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-d91dfc1",
+    "to": "commit-ac75eb2"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-d00729c",
+    "to": "commit-236b254"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-8b12814",
+    "to": "commit-8f12e84"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-7117153",
+    "to": "commit-2e84279"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.47",
+    "to": "v0.8.49"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-a0377a8",
+    "to": "commit-465d21c"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-bfd2fcf",
+    "to": "commit-d885466"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.3.1",
+    "to": "v0.3.2"
+   },
+   {
+    "id": "gh:deluxe0111/mega-evolution-gen-3",
+    "name": "Mega Evolution Gen 3",
+    "from": "commit-389d1bf",
+    "to": "commit-c3d352e"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-db5d1fa",
+    "to": "commit-c963666"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.0.0",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:smidja2/my-pokemon-ranch-importer",
+    "name": "My-Pokemon-Ranch-Importer",
+    "from": "commit-c56eefa",
+    "to": "commit-079b51a"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "National Dex Gen 3",
+    "from": "v1.6.3",
+    "to": "v1.7.0"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-e2996ed",
+    "to": "commit-7b0ac8a"
+   },
+   {
+    "id": "gh:mochx-007/pkmultiplayer",
+    "name": "PkMultiplayer (Online Co-op)",
+    "from": "v1.6.15",
+    "to": "v1.6.17"
+   },
+   {
+    "id": "gh:carloscosta07-s/platina_reluzente-",
+    "name": "Platina reluzente ",
+    "from": "commit-7111ae6",
+    "to": "commit-786f48d"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-e5075d9",
+    "to": "commit-a7824db"
+   },
+   {
+    "id": "gh:smidja2/rby-3d-npc",
+    "name": "RBY 3D NPC",
+    "from": "gen1recomp",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.30.3",
+    "to": "v0.33.0"
+   },
+   {
+    "id": "gh:weskestis/universalrandomizer",
+    "name": "UniversalRandomizer",
+    "from": "v1.9.0",
+    "to": "v1.11.1"
+   },
+   {
+    "id": "gh:tooandorisu/voxel-diorama",
+    "name": "Voxel Diorama",
+    "from": "1.32.1",
+    "to": "1.33.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:nexhas28/crystal_legacy_changes",
+    "name": "Crystal Legacy Changes",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ronikbasnet/gen-1-recomp-modern-types-moves",
+    "name": "Gen-1-Recomp-Modern-Types-Moves",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-02T12:24:29Z",
   "new": [
    {
