@@ -1,5 +1,400 @@
 [
  {
+  "date": "2026-11-04T12:08:06Z",
+  "new": [
+   {
+    "id": "gh:darkheros09/bw-animated-sprites",
+    "name": "BW Animated Sprites"
+   },
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald"
+   },
+   {
+    "id": "gh:bentley734/professors-favor",
+    "name": "Professors Favor"
+   },
+   {
+    "id": "gh:bentley734/1025dexnav",
+    "name": "1025DexNav"
+   },
+   {
+    "id": "gh:bentley734/no-nickname",
+    "name": "No Nickname"
+   },
+   {
+    "id": "gh:bentley734/name-rater",
+    "name": "Name Rater"
+   },
+   {
+    "id": "gh:bentley734/missingno-mart",
+    "name": "MissingNo Mart"
+   },
+   {
+    "id": "gh:bentley734/mewfrlg",
+    "name": "MewFRLG"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:bentley734/1025dex",
+    "name": "1025Dex",
+    "from": "1.5.4",
+    "to": "1.5.5"
+   },
+   {
+    "id": "gh:lordsangreal/gen3_frlg_pt-br_mod",
+    "name": "[PT-BR] Versão Brasileira (FRLG)",
+    "from": "v0.1.5",
+    "to": "v0.1.6"
+   },
+   {
+    "id": "gh:bentley734/battleuicustomizer",
+    "name": "Battle UI Customizer",
+    "from": "1.0.8",
+    "to": "1.0.9"
+   },
+   {
+    "id": "gh:bentley734/bedroom-snes",
+    "name": "Bedroom SNES",
+    "from": "v0.2.5",
+    "to": "v0.2.6"
+   },
+   {
+    "id": "gh:bentley734/codebreaker",
+    "name": "CodeBreaker",
+    "from": "0.7.4",
+    "to": "0.7.5"
+   },
+   {
+    "id": "gh:tooandorisu/cross-game-music",
+    "name": "Cross Game Music",
+    "from": "0.1.15",
+    "to": "01.22"
+   },
+   {
+    "id": "gh:dburton95/crystal",
+    "name": "Crystal",
+    "from": "2.0.0",
+    "to": "2.1.0"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v0.7.0",
+    "to": "v1.0.4"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v0.7.0",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-d626af4",
+    "to": "commit-bcd70ca"
+   },
+   {
+    "id": "gh:bloodninj/g1r-uk-english-translation",
+    "name": "g1r uk english translation",
+    "from": "commit-800318f",
+    "to": "v0.1.0"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-gen3-boxes",
+    "name": "Gen 3 Box",
+    "from": "v1.27.4",
+    "to": "v1.27.9"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-gen3-dex",
+    "name": "Gen 3 Dex",
+    "from": "v0.21.0",
+    "to": "v0.23.1"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.172",
+    "to": "content-editor-v0.1.173"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-d9d190a",
+    "to": "commit-960d017"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-ac75eb2",
+    "to": "commit-c673266"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-236b254",
+    "to": "commit-a68b3ed"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal",
+    "name": "Gen2 Tradução pt-br  crystal",
+    "from": "v0.57.9",
+    "to": "v0.59.0"
+   },
+   {
+    "id": "gh:lordsangreal/versaodourada",
+    "name": "Gen2 Tradução PT-BR  Gold & Silver 0.53.0",
+    "from": "v0.63.8",
+    "to": "v0.64.0"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-8f12e84",
+    "to": "commit-6e97cd9"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-2e84279",
+    "to": "commit-b5f5c3f"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-465d21c",
+    "to": "commit-422e3c2"
+   },
+   {
+    "id": "gh:bentley734/hd-dynamic-battlefields",
+    "name": "HD Dynamic Battlefields (Kanto + Johto + Hoenn Beta)",
+    "from": "v0.3.0-beta.8",
+    "to": "v0.3.0-beta.9"
+   },
+   {
+    "id": "gh:averageconsumer/kanto-gear",
+    "name": "Kanto Gear",
+    "from": "v4.6.1",
+    "to": "v4.6.2"
+   },
+   {
+    "id": "gh:bentley734/menu-customizer",
+    "name": "Menu Customizer",
+    "from": "v3.35.25",
+    "to": "v3.35.26"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-c963666",
+    "to": "commit-fb5f383"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-modern-johto",
+    "name": "Modern Johto",
+    "from": "v0.2.0",
+    "to": "v0.2.1"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-modern-kanto",
+    "name": "Modern Kanto",
+    "from": "v0.3.0",
+    "to": "v0.3.1"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-626b9eb",
+    "to": "commit-c83a629"
+   },
+   {
+    "id": "gh:bentley734/noloadreport",
+    "name": "NoLoadReport",
+    "from": "v1.0.0",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:hugh-oneill/open-red",
+    "name": "open red",
+    "from": "commit-7d384cf",
+    "to": "commit-700456e"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-7b0ac8a",
+    "to": "commit-80e60fe"
+   },
+   {
+    "id": "gh:bentley734/party-party",
+    "name": "Party-Party",
+    "from": "3.1.0",
+    "to": "3.1.1"
+   },
+   {
+    "id": "gh:bentley734/pc-solitaire",
+    "name": "PC Games",
+    "from": "v1.5.0",
+    "to": "v1.5.1"
+   },
+   {
+    "id": "gh:carloscosta07-s/platina_reluzente-",
+    "name": "Platina reluzente ",
+    "from": "commit-786f48d",
+    "to": "commit-1e85618"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-a7824db",
+    "to": "commit-6f3d52b"
+   },
+   {
+    "id": "gh:ruisu05/portyoshka",
+    "name": "Portyoshka",
+    "from": "v1.3.8",
+    "to": "v1.5.2"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2",
+    "from": "1.59.0",
+    "to": "1.65.0"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.84.0",
+    "to": "1.85.0"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "recomp achievements",
+    "from": "v2.6.1",
+    "to": "v2.6.2"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-running-shoes",
+    "name": "Running Shoes",
+    "from": "v1.10.0",
+    "to": "v1.11.1"
+   },
+   {
+    "id": "gh:bentley734/screensaver",
+    "name": "Screensaver",
+    "from": "v1.5.0",
+    "to": "v1.5.1"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.33.0",
+    "to": "v0.35.0"
+   },
+   {
+    "id": "gh:bentley734/toolbattlemusic",
+    "name": "Tool Battle Music",
+    "from": "v1.6.3",
+    "to": "v1.6.4"
+   },
+   {
+    "id": "gh:klx1204/types-mod-gen1recomp",
+    "name": "types mod gen1recomp",
+    "from": "v0.1.16",
+    "to": "v0.2.0"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal-ptbr",
+    "name": "versaocristal ptbr",
+    "from": "v0.57.9",
+    "to": "v0.59.0"
+   },
+   {
+    "id": "gh:bentley734/wildfollowers",
+    "name": "WildFollowers",
+    "from": "3.4.6",
+    "to": "3.4.7"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:madeintaly/gen1recomp-childhood-myths-are-real",
+    "name": "Childhood Myths Are Real",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:dburton95/crystal",
+    "name": "Crystal",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-gen3-dex",
+    "name": "Gen 3 Dex",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal",
+    "name": "Gen2 Tradução pt-br  crystal",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:lordsangreal/versaodourada",
+    "name": "Gen2 Tradução PT-BR  Gold & Silver 0.53.0",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-groovy-palette-frames",
+    "name": "Groovy Palette & Frames",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-modern-johto",
+    "name": "Modern Johto",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-modern-kanto",
+    "name": "Modern Kanto",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:guuhferiani/retrorecomp-hub",
+    "name": "RetroRecomp-Hub",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:madeintaly/gen1recomp-running-shoes",
+    "name": "Running Shoes",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:shadowjackyl/s-j-s-aio-gen-2",
+    "name": "S-J-s-AIO-Gen-2",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal-ptbr",
+    "name": "versaocristal ptbr",
+    "from": "inactive",
+    "to": "active"
+   }
+  ]
+ },
+ {
   "date": "2026-11-03T11:55:48Z",
   "new": [
    {

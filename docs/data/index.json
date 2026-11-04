@@ -1,14 +1,14 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T11:55:48Z",
- "count": 459,
+ "generated_at": "2026-11-04T12:08:06Z",
+ "count": 467,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
    "id": "1025dex",
    "title": "1025Dex",
    "author": "Bentley734",
-   "version": "1.5.4",
+   "version": "1.5.5",
    "categories": [
     "CONTENT"
    ],
@@ -17,18 +17,18 @@
    ],
    "summary": "1025Dex expands Pokémon FireRed with a complete National Pokédex covering all 1,025 Pokémon, along with accurate cries, animated battle sprites, HD party icons, and modern moves, abilities, and types. It also includes generation-selectable wild encounters and expanded Pokédex features. Pokedex porte",
    "latest": {
-    "version": "1.5.4",
-    "tag": "1.5.4",
-    "name": "1.5.4",
+    "version": "1.5.5",
+    "tag": "1.5.5",
+    "name": "1.5.5",
     "prerelease": false,
-    "published_at": "2026-10-22T10:59:39Z",
+    "published_at": "2026-11-03T12:07:03Z",
     "zip": {
-     "name": "1025dex-1.5.4.zip",
-     "url": "https://github.com/Bentley734/1025Dex/releases/download/1.5.4/1025dex-1.5.4.zip"
+     "name": "1025dex-1.5.5.zip",
+     "url": "https://github.com/Bentley734/1025Dex/releases/download/1.5.5/1025dex-1.5.5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T10:59:39Z",
+   "last_release": "2026-11-03T12:07:03Z",
    "games": [
     "red",
     "blue",
@@ -80,6 +80,35 @@
    ],
    "repo": "https://github.com/FaustMusteloidea/1025-Crazy-Randomizer",
    "github": "FaustMusteloidea/1025-Crazy-Randomizer"
+  },
+  {
+   "folder": "Bentley734@1025dexnav",
+   "id": "1025dexnav",
+   "title": "1025DexNav",
+   "author": "Bentley734",
+   "version": "0.2.2",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Fork of Nexhas' \"DevNav (Gen 3)\" with compatibility for 1025Dex and WildFollowers",
+   "latest": {
+    "version": "0.2.2",
+    "tag": "0.2.2",
+    "name": "0.2.2",
+    "prerelease": false,
+    "published_at": "2026-11-03T12:11:51Z",
+    "zip": {
+     "name": "1025DexNav-v0.2.2.zip",
+     "url": "https://github.com/Bentley734/1025DexNav/releases/download/0.2.2/1025DexNav-v0.2.2.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T12:11:51Z",
+   "repo": "https://github.com/Bentley734/1025DexNav",
+   "github": "Bentley734/1025DexNav"
   },
   {
    "folder": "jramiresbrito@1tb_agenda",
@@ -355,7 +384,7 @@
    "id": "gen3_frlg_pt-br_mod",
    "title": "[PT-BR] Versão Brasileira (FRLG)",
    "author": "LordSangreal",
-   "version": "0.1.5",
+   "version": "0.1.6",
    "categories": [
     "TRANSLATION"
    ],
@@ -364,18 +393,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.1.5",
-    "tag": "v0.1.5",
-    "name": "v0.1.5",
+    "version": "0.1.6",
+    "tag": "v0.1.6",
+    "name": "v0.1.6",
     "prerelease": false,
-    "published_at": "2026-11-02T20:37:34Z",
+    "published_at": "2026-11-03T15:37:10Z",
     "zip": {
-     "name": "gen3_frlg_pt-br_mod-0.1.5.zip",
-     "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.5/gen3_frlg_pt-br_mod-0.1.5.zip"
+     "name": "gen3_frlg_pt-br_mod-0.1.6.zip",
+     "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.6/gen3_frlg_pt-br_mod-0.1.6.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T20:37:34Z",
+   "last_release": "2026-11-03T15:37:10Z",
    "games": [
     "firered",
     "leafgreen"
@@ -1202,7 +1231,7 @@
    "id": "battleuicustomizer",
    "title": "Battle UI Customizer",
    "author": "Bentley734",
-   "version": "1.0.8",
+   "version": "1.0.9",
    "categories": [
     "UI"
    ],
@@ -1211,18 +1240,18 @@
    ],
    "summary": "BattleUICustomizer",
    "latest": {
-    "version": "1.0.8",
-    "tag": "1.0.8",
-    "name": "1.0.8",
+    "version": "1.0.9",
+    "tag": "1.0.9",
+    "name": "1.0.9",
     "prerelease": false,
-    "published_at": "2026-10-11T00:03:53Z",
+    "published_at": "2026-11-03T12:12:15Z",
     "zip": {
-     "name": "Battle-UI-Customizer-v1.0.8.zip",
-     "url": "https://github.com/Bentley734/BattleUICustomizer/releases/download/1.0.8/Battle-UI-Customizer-v1.0.8.zip"
+     "name": "Battle-UI-Customizer-v1.0.9.zip",
+     "url": "https://github.com/Bentley734/BattleUICustomizer/releases/download/1.0.9/Battle-UI-Customizer-v1.0.9.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-11T00:03:53Z",
+   "last_release": "2026-11-03T12:12:15Z",
    "games": [
     "red",
     "blue",
@@ -1244,7 +1273,7 @@
    "id": "bedroom_snes",
    "title": "Bedroom SNES",
    "author": "Bentley734",
-   "version": "0.2.5",
+   "version": "0.2.6",
    "categories": [
     "OTHER"
    ],
@@ -1253,18 +1282,18 @@
    ],
    "summary": "Experimental pure-Lua SNES emulator inside Gen1Recomp, activated from the Pallet Town bedroom console.",
    "latest": {
-    "version": "0.2.5",
-    "tag": "v0.2.5",
-    "name": "v0.2.5",
+    "version": "0.2.6",
+    "tag": "v0.2.6",
+    "name": "v0.2.6",
     "prerelease": false,
-    "published_at": "2026-10-22T13:55:32Z",
+    "published_at": "2026-11-03T12:07:07Z",
     "zip": {
-     "name": "Bedroom-SNES-v0.2.5.zip",
-     "url": "https://github.com/Bentley734/Bedroom-SNES/releases/download/v0.2.5/Bedroom-SNES-v0.2.5.zip"
+     "name": "Bedroom-SNES-v0.2.6.zip",
+     "url": "https://github.com/Bentley734/Bedroom-SNES/releases/download/v0.2.6/Bedroom-SNES-v0.2.6.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T13:55:32Z",
+   "last_release": "2026-11-03T12:07:07Z",
    "games": [
     "red",
     "blue",
@@ -1455,6 +1484,35 @@
    ],
    "repo": "https://github.com/Jo5-K/BuyNationalDex-Jo5",
    "github": "Jo5-K/BuyNationalDex-Jo5"
+  },
+  {
+   "folder": "DarkHeros09@bw_animated_sprites",
+   "id": "bw_animated_sprites",
+   "title": "BW Animated Sprites",
+   "author": "DarkHeros09",
+   "version": "1.0.0",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-11-04T10:49:42Z",
+    "zip": {
+     "name": "BW-Animated-Sprites-1.0.0.zip",
+     "url": "https://github.com/DarkHeros09/BW-Animated-Sprites/releases/download/v1.0.0/BW-Animated-Sprites-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-04T10:49:42Z",
+   "repo": "https://github.com/DarkHeros09/BW-Animated-Sprites",
+   "github": "DarkHeros09/BW-Animated-Sprites"
   },
   {
    "folder": "Dileppy@career_card",
@@ -1829,7 +1887,7 @@
    "id": "firered_codebreaker",
    "title": "CodeBreaker",
    "author": "Bentley734",
-   "version": "0.7.4",
+   "version": "0.7.5",
    "categories": [
     "GAMEPLAY"
    ],
@@ -1838,18 +1896,18 @@
    ],
    "summary": "GameShark/ActionReplay/CodeBreaker",
    "latest": {
-    "version": "0.7.4",
-    "tag": "0.7.4",
-    "name": "0.7.4",
+    "version": "0.7.5",
+    "tag": "0.7.5",
+    "name": "0.7.5",
     "prerelease": false,
-    "published_at": "2026-10-22T05:38:26Z",
+    "published_at": "2026-11-03T12:12:40Z",
     "zip": {
-     "name": "CodeBreaker-v0.7.4.zip",
-     "url": "https://github.com/Bentley734/Codebreaker/releases/download/0.7.4/CodeBreaker-v0.7.4.zip"
+     "name": "CodeBreaker-v0.7.5.zip",
+     "url": "https://github.com/Bentley734/Codebreaker/releases/download/0.7.5/CodeBreaker-v0.7.5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T05:38:26Z",
+   "last_release": "2026-11-03T12:12:40Z",
    "games": [
     "red",
     "blue",
@@ -1971,7 +2029,7 @@
    "id": "cross_game_music",
    "title": "Cross Game Music",
    "author": "Tooandorisu",
-   "version": "0.1.15",
+   "version": "01.22",
    "categories": [
     "AUDIO"
    ],
@@ -1980,18 +2038,18 @@
    ],
    "summary": "Choose complete soundtracks or individual tracks from Pokémon Gen 1–3, regardless of which game you play. A music mod for Gen1Recomp.",
    "latest": {
-    "version": "0.1.15",
-    "tag": "0.1.15",
-    "name": "0.1.15",
+    "version": "01.22",
+    "tag": "01.22",
+    "name": "01.22",
     "prerelease": false,
-    "published_at": "2026-11-02T22:15:10Z",
+    "published_at": "2026-11-03T23:19:45Z",
     "zip": {
-     "name": "Cross-Game-Music-0.1.15.zip",
-     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.15/Cross-Game-Music-0.1.15.zip"
+     "name": "Cross-Game-Music-0.1.22.zip",
+     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/01.22/Cross-Game-Music-0.1.22.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T22:15:10Z",
+   "last_release": "2026-11-03T23:19:45Z",
    "repo": "https://github.com/Tooandorisu/Cross-Game-Music",
    "github": "Tooandorisu/Cross-Game-Music"
   },
@@ -2061,7 +2119,7 @@
    "id": "crystal",
    "title": "Crystal",
    "author": "dburton95",
-   "version": "2.0.0",
+   "version": "2.1.0",
    "categories": [
     "ART"
    ],
@@ -2070,18 +2128,18 @@
    ],
    "summary": "A player sprite mod for gen1recomp",
    "latest": {
-    "version": "2.0.0",
-    "tag": "2.0.0",
-    "name": "2.0.0",
+    "version": "2.1.0",
+    "tag": "2.1.0",
+    "name": "2.1.0",
     "prerelease": false,
-    "published_at": "2026-09-01T12:34:30Z",
+    "published_at": "2026-11-03T15:03:29Z",
     "zip": {
-     "name": "Leaf.zip",
-     "url": "https://github.com/dburton95/crystal/releases/download/2.0.0/Leaf.zip"
+     "name": "crystal-2.1.0.zip",
+     "url": "https://github.com/dburton95/crystal/releases/download/2.1.0/crystal-2.1.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-09-01T12:34:30Z",
+   "last_release": "2026-11-03T15:03:29Z",
    "games": [
     "gen1",
     "gold",
@@ -3168,7 +3226,7 @@
    "id": "facets",
    "title": "Facets",
    "author": "ElvieBlooms",
-   "version": "0.7.0",
+   "version": "1.0.1",
    "categories": [
     "ART"
    ],
@@ -3177,18 +3235,18 @@
    ],
    "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
    "latest": {
-    "version": "0.7.0",
-    "tag": "v0.7.0",
-    "name": "v0.7.0",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-10-31T19:09:23Z",
+    "published_at": "2026-11-04T01:40:48Z",
     "zip": {
-     "name": "facets-0.7.0.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v0.7.0/facets-0.7.0.zip"
+     "name": "facets-tools-1.0.1.zip",
+     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.0.1/facets-tools-1.0.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T19:09:23Z",
+   "last_release": "2026-11-04T01:40:48Z",
    "games": [
     "gen3"
    ],
@@ -3592,6 +3650,35 @@
    ],
    "repo": "https://github.com/KuroKratos/full_dex",
    "github": "KuroKratos/full_dex"
+  },
+  {
+   "folder": "Bloodninj@g1r_uk_english_translation",
+   "id": "g1r_uk_english_translation",
+   "title": "g1r uk english translation",
+   "author": "Bloodninj",
+   "version": "0.1.0",
+   "categories": [
+    "TRANSLATION"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "A translation mod for gen1recomp that lets users play Crystal with English (UK) text.",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-11-03T22:52:03Z",
+    "zip": {
+     "name": "English.UK.Translation.v0.1.0.zip",
+     "url": "https://github.com/Bloodninj/g1r-uk-english-translation/releases/download/v0.1.0/English.UK.Translation.v0.1.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T22:52:03Z",
+   "repo": "https://github.com/Bloodninj/g1r-uk-english-translation",
+   "github": "Bloodninj/g1r-uk-english-translation"
   },
   {
    "folder": "Waifu4Life@g1r_frontend",
@@ -4438,7 +4525,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.172",
+   "version": "content-editor-v0.1.173",
    "categories": [
     "TOOL"
    ],
@@ -4447,18 +4534,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.172",
-    "tag": "content-editor-v0.1.172",
-    "name": "content-editor-v0.1.172",
+    "version": "content-editor-v0.1.173",
+    "tag": "content-editor-v0.1.173",
+    "name": "content-editor-v0.1.173",
     "prerelease": false,
-    "published_at": "2026-10-31T17:41:31Z",
+    "published_at": "2026-11-03T23:04:03Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.172/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.173/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T17:41:31Z",
+   "last_release": "2026-11-03T23:04:03Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5798,7 +5885,7 @@
    "id": "hd-dynamic-battlefields",
    "title": "HD Dynamic Battlefields (Kanto + Johto + Hoenn Beta)",
    "author": "Bentley734",
-   "version": "0.3.0-beta.8",
+   "version": "0.3.0-beta.9",
    "categories": [
     "ART"
    ],
@@ -5807,18 +5894,18 @@
    ],
    "summary": "Original battle scenery and independent mounds for gen1recomp. Alpha work in progress.",
    "latest": {
-    "version": "0.3.0-beta.8",
-    "tag": "v0.3.0-beta.8",
-    "name": "v0.3.0-beta.8",
+    "version": "0.3.0-beta.9",
+    "tag": "v0.3.0-beta.9",
+    "name": "v0.3.0-beta.9",
     "prerelease": false,
-    "published_at": "2026-10-22T10:53:58Z",
+    "published_at": "2026-11-03T12:07:27Z",
     "zip": {
-     "name": "HD-Dynamic-Battlefields-0.3.0-beta.8-base.zip",
-     "url": "https://github.com/Bentley734/HD-Dynamic-Battlefields/releases/download/v0.3.0-beta.8/HD-Dynamic-Battlefields-0.3.0-beta.8-base.zip"
+     "name": "HD-Dynamic-Battlefields-0.3.0-beta.9-base.zip",
+     "url": "https://github.com/Bentley734/HD-Dynamic-Battlefields/releases/download/v0.3.0-beta.9/HD-Dynamic-Battlefields-0.3.0-beta.9-base.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T10:53:58Z",
+   "last_release": "2026-11-03T12:07:27Z",
    "games": [
     "gen1",
     "gen2",
@@ -7414,7 +7501,7 @@
    "id": "gen3transparency",
    "title": "Menu Customizer",
    "author": "Bentley734",
-   "version": "3.35.25",
+   "version": "3.35.26",
    "categories": [
     "UI"
    ],
@@ -7423,18 +7510,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "3.35.25",
-    "tag": "v3.35.25",
-    "name": "v3.35.25",
+    "version": "3.35.26",
+    "tag": "v3.35.26",
+    "name": "v3.35.26",
     "prerelease": false,
-    "published_at": "2026-10-23T10:18:41Z",
+    "published_at": "2026-11-03T12:13:32Z",
     "zip": {
-     "name": "Menu-Customizer-v3.35.25.zip",
-     "url": "https://github.com/Bentley734/Menu-Customizer/releases/download/v3.35.25/Menu-Customizer-v3.35.25.zip"
+     "name": "Menu-Customizer-v3.35.26.zip",
+     "url": "https://github.com/Bentley734/Menu-Customizer/releases/download/v3.35.26/Menu-Customizer-v3.35.26.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T10:18:41Z",
+   "last_release": "2026-11-03T12:13:32Z",
    "games": [
     "red",
     "blue",
@@ -7589,6 +7676,35 @@
    "github": "Windwrecker/Mew-Under-the-Truck"
   },
   {
+   "folder": "Bentley734@mewfrlg",
+   "id": "mewfrlg",
+   "title": "MewFRLG",
+   "author": "Bentley734",
+   "version": "1.0.1",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "1.0.1",
+    "tag": "1.0.1",
+    "name": "1.0.1",
+    "prerelease": false,
+    "published_at": "2026-11-03T12:13:57Z",
+    "zip": {
+     "name": "BillsBackyardMew-FRLG-v1.0.1.zip",
+     "url": "https://github.com/Bentley734/MewFRLG/releases/download/1.0.1/BillsBackyardMew-FRLG-v1.0.1.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T12:13:57Z",
+   "repo": "https://github.com/Bentley734/MewFRLG",
+   "github": "Bentley734/MewFRLG"
+  },
+  {
    "folder": "Sebarosu@jp_title_screen",
    "id": "jp_title_screen",
    "title": "Mezase Pokemon Master (Title Screen)",
@@ -7616,6 +7732,35 @@
    "last_release": "2026-07-28T21:45:50Z",
    "repo": "https://github.com/Sebarosu/JP-anime-opening-title",
    "github": "Sebarosu/JP-anime-opening-title"
+  },
+  {
+   "folder": "Bentley734@missingno_mart",
+   "id": "missingno_mart",
+   "title": "MissingNo Mart",
+   "author": "Bentley734",
+   "version": "1.0.1",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "The old man from the MissingNo glitch opens a mart selling Master Balls, Rare Candy, and other rare items for $0.  Supports R/B/Y, FR/LG, and G/S/C’s Viridian coffee guy.",
+   "latest": {
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
+    "prerelease": false,
+    "published_at": "2026-11-03T12:14:22Z",
+    "zip": {
+     "name": "MissingNo-Mart-v1.0.1.zip",
+     "url": "https://github.com/Bentley734/MissingNo-Mart/releases/download/v1.0.1/MissingNo-Mart-v1.0.1.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T12:14:22Z",
+   "repo": "https://github.com/Bentley734/MissingNo-Mart",
+   "github": "Bentley734/MissingNo-Mart"
   },
   {
    "folder": "jramiresbrito@mobile_pc",
@@ -8413,6 +8558,35 @@
    "github": "ArmstrongThomas/nacho-kanto"
   },
   {
+   "folder": "Bentley734@name_rater",
+   "id": "name_rater",
+   "title": "Name Rater",
+   "author": "Bentley734",
+   "version": "1.1.1",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Change player and party names anytime.",
+   "latest": {
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "name": "v1.1.1",
+    "prerelease": false,
+    "published_at": "2026-11-03T12:14:47Z",
+    "zip": {
+     "name": "Name-Rater-v1.1.1.zip",
+     "url": "https://github.com/Bentley734/Name-Rater/releases/download/v1.1.1/Name-Rater-v1.1.1.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T12:14:47Z",
+   "repo": "https://github.com/Bentley734/Name-Rater",
+   "github": "Bentley734/Name-Rater"
+  },
+  {
    "folder": "poooooby@national_dex_gen3",
    "id": "national_dex_gen3",
    "title": "National Dex Gen 3",
@@ -8462,14 +8636,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-03T04:59:49Z",
+    "published_at": "2026-11-04T08:33:17Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T04:59:49Z",
+   "last_release": "2026-11-04T08:33:17Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -8623,11 +8797,40 @@
    "github": "adhdandy/gen1recomp-no-bike-music"
   },
   {
+   "folder": "Bentley734@no_nickname",
+   "id": "no_nickname",
+   "title": "No Nickname",
+   "author": "Bentley734",
+   "version": "1.1.1",
+   "categories": [
+    "LIBRARY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "No nickname prompt. For FR/LG/EM",
+   "latest": {
+    "version": "1.1.1",
+    "tag": "1.1.1",
+    "name": "1.1.1",
+    "prerelease": false,
+    "published_at": "2026-11-03T12:15:16Z",
+    "zip": {
+     "name": "No-Nickname-v1.1.1.zip",
+     "url": "https://github.com/Bentley734/No-Nickname/releases/download/1.1.1/No-Nickname-v1.1.1.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T12:15:16Z",
+   "repo": "https://github.com/Bentley734/No-Nickname",
+   "github": "Bentley734/No-Nickname"
+  },
+  {
    "folder": "Bentley734@noloadreport",
    "id": "noloadreport",
    "title": "NoLoadReport",
    "author": "Bentley734",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "categories": [
     "UI"
    ],
@@ -8636,18 +8839,18 @@
    ],
    "summary": "Automatically skip gen1recomp's load report screen across all eleven games",
    "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-10-26T09:46:25Z",
+    "published_at": "2026-11-03T12:15:50Z",
     "zip": {
-     "name": "NoLoadReport-1.0.0.zip",
-     "url": "https://github.com/Bentley734/NoLoadReport/releases/download/v1.0.0/NoLoadReport-1.0.0.zip"
+     "name": "NoLoadReport-1.0.1.zip",
+     "url": "https://github.com/Bentley734/NoLoadReport/releases/download/v1.0.1/NoLoadReport-1.0.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-26T09:46:25Z",
+   "last_release": "2026-11-03T12:15:50Z",
    "repo": "https://github.com/Bentley734/NoLoadReport",
    "github": "Bentley734/NoLoadReport"
   },
@@ -9024,7 +9227,7 @@
    "id": "party_party",
    "title": "Party-Party",
    "author": "Bentley734",
-   "version": "3.1.0",
+   "version": "3.1.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9033,18 +9236,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "3.1.0",
-    "tag": "3.1.0",
-    "name": "3.1.0",
+    "version": "3.1.1",
+    "tag": "3.1.1",
+    "name": "3.1.1",
     "prerelease": false,
-    "published_at": "2026-10-06T12:43:11Z",
+    "published_at": "2026-11-03T12:08:35Z",
     "zip": {
-     "name": "PartyParty-v3.1.0.zip",
-     "url": "https://github.com/Bentley734/Party-Party/releases/download/3.1.0/PartyParty-v3.1.0.zip"
+     "name": "PartyParty-v3.1.1.zip",
+     "url": "https://github.com/Bentley734/Party-Party/releases/download/3.1.1/PartyParty-v3.1.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-06T12:43:11Z",
+   "last_release": "2026-11-03T12:08:35Z",
    "repo": "https://github.com/Bentley734/Party-Party",
    "github": "Bentley734/Party-Party"
   },
@@ -9053,7 +9256,7 @@
    "id": "pc_solitaire",
    "title": "PC Games",
    "author": "Bentley734",
-   "version": "1.5.0",
+   "version": "1.5.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9062,18 +9265,18 @@
    ],
    "summary": "Cross-generation Klondike Solitaire for every Gen1Recomp PC (Mod API v2)",
    "latest": {
-    "version": "1.5.0",
-    "tag": "v1.5.0",
-    "name": "v1.5.0",
+    "version": "1.5.1",
+    "tag": "v1.5.1",
+    "name": "v1.5.1",
     "prerelease": false,
-    "published_at": "2026-10-23T21:33:11Z",
+    "published_at": "2026-11-03T12:16:25Z",
     "zip": {
-     "name": "PC-Games-v1.5.0.zip",
-     "url": "https://github.com/Bentley734/PC-Solitaire/releases/download/v1.5.0/PC-Games-v1.5.0.zip"
+     "name": "PC-Games-v1.5.1.zip",
+     "url": "https://github.com/Bentley734/PC-Solitaire/releases/download/v1.5.1/PC-Games-v1.5.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T21:33:11Z",
+   "last_release": "2026-11-03T12:16:25Z",
    "games": [
     "red",
     "blue",
@@ -10584,6 +10787,35 @@
    "github": "ZyranCZ/Professor-Oak-DV-STAT-Evaluation"
   },
   {
+   "folder": "Bentley734@professors_favor",
+   "id": "professors_favor",
+   "title": "Professors Favor",
+   "author": "Bentley734",
+   "version": "1.0.3",
+   "categories": [
+    "BALANCE"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Talking to Professor Oak in the Indigo Plateau Pokemon Center raises your party to level 100, maxes their training stats, and fully heals them. Works with R/B/Y and FR/LG.",
+   "latest": {
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "name": "v1.0.3",
+    "prerelease": false,
+    "published_at": "2026-11-03T12:17:00Z",
+    "zip": {
+     "name": "Professors-Favor-v1.0.3.zip",
+     "url": "https://github.com/Bentley734/Professors-Favor/releases/download/v1.0.3/Professors-Favor-v1.0.3.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-03T12:17:00Z",
+   "repo": "https://github.com/Bentley734/Professors-Favor",
+   "github": "Bentley734/Professors-Favor"
+  },
+  {
    "folder": "Waifu4Life@project_highlander",
    "id": "project_highlander",
    "title": "Project Highlander - A Modern UI Suite Fork",
@@ -10621,7 +10853,7 @@
    "id": "project_highlander_gen1_2",
    "title": "Project Highlander Gen1 2",
    "author": "Waifu4Life",
-   "version": "1.59.0",
+   "version": "1.65.0",
    "categories": [
     "UI"
    ],
@@ -10630,18 +10862,18 @@
    ],
    "summary": "Project Highlander Gen1+2",
    "latest": {
-    "version": "1.59.0",
-    "tag": "1.59.0",
-    "name": "1.59.0",
+    "version": "1.65.0",
+    "tag": "1.65.0",
+    "name": "1.65.0",
     "prerelease": false,
-    "published_at": "2026-11-02T07:32:08Z",
+    "published_at": "2026-11-03T21:50:40Z",
     "zip": {
-     "name": "project_highlander_gen1%2B2-1.59.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.59.0/project_highlander_gen1%2B2-1.59.0.zip"
+     "name": "project_highlander_gen1%2B2-1.65.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.65.0/project_highlander_gen1%2B2-1.65.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T07:32:08Z",
+   "last_release": "2026-11-03T21:50:40Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2",
    "github": "Waifu4Life/Project-Highlander-Gen1-2"
   },
@@ -10650,7 +10882,7 @@
    "id": "project_highlander_gen3",
    "title": "Project Highlander Gen3",
    "author": "Waifu4Life",
-   "version": "1.84.0",
+   "version": "1.85.0",
    "categories": [
     "TOOL"
    ],
@@ -10659,18 +10891,18 @@
    ],
    "summary": "Project Highlander Gen3",
    "latest": {
-    "version": "1.84.0",
-    "tag": "1.84.0",
-    "name": "1.84.0",
+    "version": "1.85.0",
+    "tag": "1.85.0",
+    "name": "1.85.0",
     "prerelease": false,
-    "published_at": "2026-11-02T07:39:00Z",
+    "published_at": "2026-11-03T21:51:20Z",
     "zip": {
-     "name": "project_highlander_gen3-1.84.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.84.0/project_highlander_gen3-1.84.0.zip"
+     "name": "project_highlander_gen3-1.85.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.85.0/project_highlander_gen3-1.85.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T07:39:00Z",
+   "last_release": "2026-11-03T21:51:20Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen3",
    "github": "Waifu4Life/Project-Highlander-Gen3"
   },
@@ -11017,7 +11249,7 @@
    "id": "recomp_achievements",
    "title": "recomp achievements",
    "author": "ElvieBlooms",
-   "version": "2.6.1",
+   "version": "2.6.2",
    "categories": [
     "LIBRARY"
    ],
@@ -11026,18 +11258,18 @@
    ],
    "summary": "A local achievement framework for Gen1Recomp",
    "latest": {
-    "version": "2.6.1",
-    "tag": "v2.6.1",
-    "name": "v2.6.1",
+    "version": "2.6.2",
+    "tag": "v2.6.2",
+    "name": "v2.6.2",
     "prerelease": false,
-    "published_at": "2026-11-01T05:18:04Z",
+    "published_at": "2026-11-03T18:01:58Z",
     "zip": {
-     "name": "recomp_achievements-2.6.1.zip",
-     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.6.1/recomp_achievements-2.6.1.zip"
+     "name": "recomp_achievements-2.6.2.zip",
+     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.6.2/recomp_achievements-2.6.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-01T05:18:04Z",
+   "last_release": "2026-11-03T18:01:58Z",
    "repo": "https://github.com/ElvieBlooms/recomp_achievements",
    "github": "ElvieBlooms/recomp_achievements"
   },
@@ -11666,7 +11898,7 @@
    "id": "screensaver",
    "title": "Screensaver",
    "author": "Bentley734",
-   "version": "1.5.0",
+   "version": "1.5.1",
    "categories": [
     "UI"
    ],
@@ -11675,18 +11907,18 @@
    ],
    "summary": "Five configurable idle screensavers for Gen1Recomp, with optional live world overlays.",
    "latest": {
-    "version": "1.5.0",
-    "tag": "v1.5.0",
-    "name": "v1.5.0",
+    "version": "1.5.1",
+    "tag": "v1.5.1",
+    "name": "v1.5.1",
     "prerelease": false,
-    "published_at": "2026-10-23T03:46:25Z",
+    "published_at": "2026-11-03T12:17:33Z",
     "zip": {
-     "name": "Screensaver-v1.5.0.zip",
-     "url": "https://github.com/Bentley734/Screensaver/releases/download/v1.5.0/Screensaver-v1.5.0.zip"
+     "name": "Screensaver-v1.5.1.zip",
+     "url": "https://github.com/Bentley734/Screensaver/releases/download/v1.5.1/Screensaver-v1.5.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-23T03:46:25Z",
+   "last_release": "2026-11-03T12:17:33Z",
    "games": [
     "all"
    ],
@@ -13050,7 +13282,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.33.0",
+   "version": "0.35.0",
    "categories": [
     "ART"
    ],
@@ -13059,18 +13291,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.33.0",
-    "tag": "v0.33.0",
-    "name": "v0.33.0",
+    "version": "0.35.0",
+    "tag": "v0.35.0",
+    "name": "v0.35.0",
     "prerelease": false,
-    "published_at": "2026-11-03T12:04:28Z",
+    "published_at": "2026-11-04T05:09:41Z",
     "zip": {
-     "name": "TileShift-Gen2-in-Gen3-Comparisons-v0.33.0.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.33.0/TileShift-Gen2-in-Gen3-Comparisons-v0.33.0.zip"
+     "name": "TileShift-v0.35.0.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.35.0/TileShift-v0.35.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T12:04:28Z",
+   "last_release": "2026-11-04T05:09:41Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
@@ -13144,7 +13376,7 @@
    "id": "toolbattlemusic",
    "title": "Tool Battle Music",
    "author": "Bentley734",
-   "version": "1.6.3",
+   "version": "1.6.4",
    "categories": [
     "AUDIO"
    ],
@@ -13153,18 +13385,18 @@
    ],
    "summary": "41 Tool MIDI battle themes for gen1recomp with automatic Gen 1–3 audio, separate Gym/League settings, and verified in-game asset downloads.",
    "latest": {
-    "version": "1.6.3",
-    "tag": "v1.6.3",
-    "name": "v1.6.3",
+    "version": "1.6.4",
+    "tag": "v1.6.4",
+    "name": "v1.6.4",
     "prerelease": false,
-    "published_at": "2026-10-15T07:06:12Z",
+    "published_at": "2026-11-03T12:07:32Z",
     "zip": {
-     "name": "ToolBattleMusic-v1.6.3.zip",
-     "url": "https://github.com/Bentley734/ToolBattleMusic/releases/download/v1.6.3/ToolBattleMusic-v1.6.3.zip"
+     "name": "ToolBattleMusic-v1.6.4.zip",
+     "url": "https://github.com/Bentley734/ToolBattleMusic/releases/download/v1.6.4/ToolBattleMusic-v1.6.4.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-15T07:06:12Z",
+   "last_release": "2026-11-03T12:07:32Z",
    "games": [
     "red",
     "blue",
@@ -13477,7 +13709,7 @@
    "id": "types_mod_gen1recomp",
    "title": "types mod gen1recomp",
    "author": "klx1204",
-   "version": "0.1.16",
+   "version": "0.2.0",
    "categories": [
     "TOOL"
    ],
@@ -13486,18 +13718,18 @@
    ],
    "summary": "Add new types, e.g. Fairy, for gen 3 Pokémon and moves, etc.",
    "latest": {
-    "version": "0.1.16",
-    "tag": "v0.1.16",
-    "name": "v0.1.16",
+    "version": "0.2.0",
+    "tag": "v0.2.0",
+    "name": "v0.2.0",
     "prerelease": false,
-    "published_at": "2026-10-31T16:40:42Z",
+    "published_at": "2026-11-03T18:08:35Z",
     "zip": {
-     "name": "types_mod_gen1recomp-0.1.16.zip",
-     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.1.16/types_mod_gen1recomp-0.1.16.zip"
+     "name": "types_mod_gen1recomp-0.2.0.zip",
+     "url": "https://github.com/klx1204/types-mod-gen1recomp/releases/download/v0.2.0/types_mod_gen1recomp-0.2.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T16:40:42Z",
+   "last_release": "2026-11-03T18:08:35Z",
    "repo": "https://github.com/klx1204/types-mod-gen1recomp",
    "github": "klx1204/types-mod-gen1recomp"
   },
@@ -14013,7 +14245,7 @@
    "id": "wildfollowers",
    "title": "WildFollowers",
    "author": "Bentley734",
-   "version": "3.4.6",
+   "version": "3.4.7",
    "categories": [
     "GAMEPLAY"
    ],
@@ -14022,18 +14254,18 @@
    ],
    "summary": "Wilds and follower system using Yellow's built-in follower system as the base.",
    "latest": {
-    "version": "3.4.6",
-    "tag": "3.4.6",
-    "name": "3.4.6",
+    "version": "3.4.7",
+    "tag": "3.4.7",
+    "name": "3.4.7",
     "prerelease": false,
-    "published_at": "2026-10-22T01:35:48Z",
+    "published_at": "2026-11-03T12:08:03Z",
     "zip": {
-     "name": "WildFollowers-v3.4.6.zip",
-     "url": "https://github.com/Bentley734/WildFollowers/releases/download/3.4.6/WildFollowers-v3.4.6.zip"
+     "name": "WildFollowers-v3.4.7.zip",
+     "url": "https://github.com/Bentley734/WildFollowers/releases/download/3.4.7/WildFollowers-v3.4.7.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-22T01:35:48Z",
+   "last_release": "2026-11-03T12:08:03Z",
    "games": [
     "red",
     "blue",
