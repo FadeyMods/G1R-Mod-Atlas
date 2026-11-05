@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T12:08:06Z",
+ "generated_at": "2026-11-05T12:20:34Z",
  "count": 467,
  "mods": [
   {
@@ -481,7 +481,7 @@
    "id": "aio_recomp",
    "title": "aio recomp",
    "author": "drglitchyphd",
-   "version": "0.9.91",
+   "version": "0.9.93",
    "categories": [
     "ART"
    ],
@@ -491,18 +491,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.9.91",
-    "tag": "v0.9.91",
-    "name": "v0.9.91",
+    "version": "0.9.93",
+    "tag": "v0.9.93",
+    "name": "v0.9.93",
     "prerelease": false,
-    "published_at": "2026-10-30T15:06:12Z",
+    "published_at": "2026-11-05T03:37:10Z",
     "zip": {
-     "name": "gen2-aio_patch_0.9.90_to_0.9.91.zip",
-     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.91/gen2-aio_patch_0.9.90_to_0.9.91.zip"
+     "name": "gen2-aio_patch_0.9.92_to_0.9.93.zip",
+     "url": "https://github.com/drglitchyphd/aio-recomp/releases/download/v0.9.93/gen2-aio_patch_0.9.92_to_0.9.93.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-30T15:06:12Z",
+   "last_release": "2026-11-05T03:37:10Z",
    "repo": "https://github.com/drglitchyphd/aio-recomp",
    "github": "drglitchyphd/aio-recomp"
   },
@@ -2119,7 +2119,7 @@
    "id": "crystal",
    "title": "Crystal",
    "author": "dburton95",
-   "version": "2.1.0",
+   "version": "2.2.0",
    "categories": [
     "ART"
    ],
@@ -2128,18 +2128,18 @@
    ],
    "summary": "A player sprite mod for gen1recomp",
    "latest": {
-    "version": "2.1.0",
-    "tag": "2.1.0",
-    "name": "2.1.0",
+    "version": "2.2.0",
+    "tag": "2.2.0",
+    "name": "2.2.0",
     "prerelease": false,
-    "published_at": "2026-11-03T15:03:29Z",
+    "published_at": "2026-11-04T12:30:14Z",
     "zip": {
-     "name": "crystal-2.1.0.zip",
-     "url": "https://github.com/dburton95/crystal/releases/download/2.1.0/crystal-2.1.0.zip"
+     "name": "crystal-2.2.0.zip",
+     "url": "https://github.com/dburton95/crystal/releases/download/2.2.0/crystal-2.2.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T15:03:29Z",
+   "last_release": "2026-11-04T12:30:14Z",
    "games": [
     "gen1",
     "gold",
@@ -4525,7 +4525,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.173",
+   "version": "content-editor-v0.1.174",
    "categories": [
     "TOOL"
    ],
@@ -4534,18 +4534,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.173",
-    "tag": "content-editor-v0.1.173",
-    "name": "content-editor-v0.1.173",
+    "version": "content-editor-v0.1.174",
+    "tag": "content-editor-v0.1.174",
+    "name": "content-editor-v0.1.174",
     "prerelease": false,
-    "published_at": "2026-11-03T23:04:03Z",
+    "published_at": "2026-11-04T19:04:52Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.173/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.174/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T23:04:03Z",
+   "last_release": "2026-11-04T19:04:52Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5509,7 +5509,7 @@
    "id": "gmarcs_gen1_qol_mod",
    "title": "gmarcs gen1 qol mod",
    "author": "gmarcmods",
-   "version": "1.1.2",
+   "version": "1.1.5",
    "categories": [
     "QOL"
    ],
@@ -5518,18 +5518,18 @@
    ],
    "summary": "Gmarc's Gen 1 QoL Mod 1.1.1",
    "latest": {
-    "version": "1.1.2",
-    "tag": "v1.1.2",
-    "name": "v1.1.2",
+    "version": "1.1.5",
+    "tag": "v1.1.5",
+    "name": "v1.1.5",
     "prerelease": false,
-    "published_at": "2026-10-31T11:59:47Z",
+    "published_at": "2026-11-04T21:41:40Z",
     "zip": {
-     "name": "gmarcs_gen1_qol_mod-1.1.2.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod/releases/download/v1.1.2/gmarcs_gen1_qol_mod-1.1.2.zip"
+     "name": "gmarcs_gen1_qol_mod.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod/releases/download/v1.1.5/gmarcs_gen1_qol_mod.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T11:59:47Z",
+   "last_release": "2026-11-04T21:41:40Z",
    "repo": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod",
    "github": "gmarcmods/gmarcs_gen1_qol_mod"
   },
@@ -6182,7 +6182,7 @@
    "id": "ie3ogre_nds_recomp",
    "title": "ie3ogre nds recomp",
    "author": "matheus2x",
-   "version": "0.1.32",
+   "version": "0.1.34",
    "categories": [
     "ART"
    ],
@@ -6192,18 +6192,18 @@
    ],
    "summary": "Port nativo para Windows de Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
    "latest": {
-    "version": "0.1.32",
-    "tag": "v0.1.32",
-    "name": "v0.1.32",
+    "version": "0.1.34",
+    "tag": "v0.1.34",
+    "name": "v0.1.34",
     "prerelease": false,
-    "published_at": "2026-10-31T23:39:28Z",
+    "published_at": "2026-11-05T04:08:48Z",
     "zip": {
-     "name": "ie3ogre-recomp-0.1.32-windows.zip",
-     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.32/ie3ogre-recomp-0.1.32-windows.zip"
+     "name": "ie3ogre-recomp-0.1.34-windows.zip",
+     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.34/ie3ogre-recomp-0.1.34-windows.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T23:39:28Z",
+   "last_release": "2026-11-05T04:08:48Z",
    "repo": "https://github.com/matheus2x/ie3ogre-nds-recomp",
    "github": "matheus2x/ie3ogre-nds-recomp"
   },
@@ -8355,7 +8355,7 @@
    "id": "mpc_boot_thingy",
    "title": "mpc boot thingy",
    "author": "garrettjwilke",
-   "version": "1.0.1",
+   "version": "1.0.3",
    "categories": [
     "UI"
    ],
@@ -8364,18 +8364,18 @@
    ],
    "summary": "boot menu for mpc sample",
    "latest": {
-    "version": "1.0.1",
-    "tag": "v1.0.1",
-    "name": "v1.0.1",
+    "version": "1.0.3",
+    "tag": "v1.0.3",
+    "name": "v1.0.3",
     "prerelease": false,
-    "published_at": "2026-11-03T07:11:32Z",
+    "published_at": "2026-11-05T00:46:39Z",
     "zip": {
      "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.1/mpc-boot-thingy.zip"
+     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.3/mpc-boot-thingy.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T07:11:32Z",
+   "last_release": "2026-11-05T00:46:39Z",
    "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
    "github": "garrettjwilke/mpc-boot-thingy"
   },
@@ -8636,14 +8636,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-04T08:33:17Z",
+    "published_at": "2026-11-05T10:03:05Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T08:33:17Z",
+   "last_release": "2026-11-05T10:03:05Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9985,7 +9985,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "charlie7",
+   "version": "charlie9",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9994,18 +9994,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "charlie7",
-    "tag": "charlie7",
-    "name": "charlie7",
+    "version": "charlie9",
+    "tag": "charlie9",
+    "name": "charlie9",
     "prerelease": false,
-    "published_at": "2026-10-29T09:00:21Z",
+    "published_at": "2026-11-05T10:47:27Z",
     "zip": {
-     "name": "Ocean_Blue-20261029-025219-5.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/charlie7/Ocean_Blue-20261029-025219-5.zip"
+     "name": "Ocean_Blue-20261105-054513-7.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/charlie9/Ocean_Blue-20261105-054513-7.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-29T09:00:21Z",
+   "last_release": "2026-11-05T10:47:27Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -10853,7 +10853,7 @@
    "id": "project_highlander_gen1_2",
    "title": "Project Highlander Gen1 2",
    "author": "Waifu4Life",
-   "version": "1.65.0",
+   "version": "1.66.0",
    "categories": [
     "UI"
    ],
@@ -10862,18 +10862,18 @@
    ],
    "summary": "Project Highlander Gen1+2",
    "latest": {
-    "version": "1.65.0",
-    "tag": "1.65.0",
-    "name": "1.65.0",
+    "version": "1.66.0",
+    "tag": "1.66.0",
+    "name": "1.66.0",
     "prerelease": false,
-    "published_at": "2026-11-03T21:50:40Z",
+    "published_at": "2026-11-05T06:22:31Z",
     "zip": {
-     "name": "project_highlander_gen1%2B2-1.65.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.65.0/project_highlander_gen1%2B2-1.65.0.zip"
+     "name": "project_highlander_gen1%2B2-1.66.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.66.0/project_highlander_gen1%2B2-1.66.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T21:50:40Z",
+   "last_release": "2026-11-05T06:22:31Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2",
    "github": "Waifu4Life/Project-Highlander-Gen1-2"
   },
@@ -10882,7 +10882,7 @@
    "id": "project_highlander_gen3",
    "title": "Project Highlander Gen3",
    "author": "Waifu4Life",
-   "version": "1.85.0",
+   "version": "1.86.0",
    "categories": [
     "TOOL"
    ],
@@ -10891,18 +10891,18 @@
    ],
    "summary": "Project Highlander Gen3",
    "latest": {
-    "version": "1.85.0",
-    "tag": "1.85.0",
-    "name": "1.85.0",
+    "version": "1.86.0",
+    "tag": "1.86.0",
+    "name": "1.86.0",
     "prerelease": false,
-    "published_at": "2026-11-03T21:51:20Z",
+    "published_at": "2026-11-04T23:52:03Z",
     "zip": {
-     "name": "project_highlander_gen3-1.85.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.85.0/project_highlander_gen3-1.85.0.zip"
+     "name": "project_highlander_gen3-1.86.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.86.0/project_highlander_gen3-1.86.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T21:51:20Z",
+   "last_release": "2026-11-04T23:52:03Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen3",
    "github": "Waifu4Life/Project-Highlander-Gen3"
   },
@@ -11249,7 +11249,7 @@
    "id": "recomp_achievements",
    "title": "recomp achievements",
    "author": "ElvieBlooms",
-   "version": "2.6.2",
+   "version": "2.6.3",
    "categories": [
     "LIBRARY"
    ],
@@ -11258,18 +11258,18 @@
    ],
    "summary": "A local achievement framework for Gen1Recomp",
    "latest": {
-    "version": "2.6.2",
-    "tag": "v2.6.2",
-    "name": "v2.6.2",
+    "version": "2.6.3",
+    "tag": "v2.6.3",
+    "name": "v2.6.3",
     "prerelease": false,
-    "published_at": "2026-11-03T18:01:58Z",
+    "published_at": "2026-11-05T00:23:36Z",
     "zip": {
-     "name": "recomp_achievements-2.6.2.zip",
-     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.6.2/recomp_achievements-2.6.2.zip"
+     "name": "recomp_achievements-2.6.3.zip",
+     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.6.3/recomp_achievements-2.6.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T18:01:58Z",
+   "last_release": "2026-11-05T00:23:36Z",
    "repo": "https://github.com/ElvieBlooms/recomp_achievements",
    "github": "ElvieBlooms/recomp_achievements"
   },
@@ -13282,7 +13282,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.35.0",
+   "version": "0.37.0",
    "categories": [
     "ART"
    ],
@@ -13291,18 +13291,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.35.0",
-    "tag": "v0.35.0",
-    "name": "v0.35.0",
+    "version": "0.37.0",
+    "tag": "v0.37.0",
+    "name": "v0.37.0",
     "prerelease": false,
-    "published_at": "2026-11-04T05:09:41Z",
+    "published_at": "2026-11-05T12:34:42Z",
     "zip": {
-     "name": "TileShift-v0.35.0.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.35.0/TileShift-v0.35.0.zip"
+     "name": "TileShift-v0.37.0.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.37.0/TileShift-v0.37.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T05:09:41Z",
+   "last_release": "2026-11-05T12:34:42Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },

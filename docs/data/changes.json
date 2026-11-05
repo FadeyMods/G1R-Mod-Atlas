@@ -1,5 +1,301 @@
 [
  {
+  "date": "2026-11-05T12:20:34Z",
+  "new": [],
+  "updated": [
+   {
+    "id": "gh:drglitchyphd/aio-recomp",
+    "name": "aio recomp",
+    "from": "v0.9.91",
+    "to": "v0.9.93"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-auto-breeder",
+    "name": "Auto Breeder",
+    "from": "v1.1.4",
+    "to": "v1.1.5"
+   },
+   {
+    "id": "gh:dburton95/crystal",
+    "name": "Crystal",
+    "from": "2.1.0",
+    "to": "2.2.0"
+   },
+   {
+    "id": "gh:codm2000/dual-screen-games",
+    "name": "Dual Screen Games",
+    "from": "commit-48c5aae",
+    "to": "commit-a5d518e"
+   },
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald",
+    "from": "commit-22074b2",
+    "to": "commit-c233d7e"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-encounter-reset",
+    "name": "Encounter Reset",
+    "from": "v0.4.3",
+    "to": "v0.4.4"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-encounter-tour",
+    "name": "Encounter Tour",
+    "from": "v0.3.3",
+    "to": "v0.3.4"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-event-distributions",
+    "name": "Event Distributions",
+    "from": "v1.4.6",
+    "to": "v1.4.7"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-bcd70ca",
+    "to": "commit-69085e5"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.173",
+    "to": "content-editor-v0.1.174"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-960d017",
+    "to": "commit-600005c"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-c673266",
+    "to": "commit-16e1788"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-mod-releases",
+    "name": "gen1recomp-mod-releases",
+    "from": "v1.5.2",
+    "to": "v1.5.3"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-a68b3ed",
+    "to": "commit-d971e8d"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-6e97cd9",
+    "to": "commit-f972518"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-b5f5c3f",
+    "to": "commit-409e135"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-422e3c2",
+    "to": "commit-e3dd649"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_qol_mod",
+    "name": "gmarcs gen1 qol mod",
+    "from": "v1.1.2",
+    "to": "v1.1.5"
+   },
+   {
+    "id": "gh:matheus2x/ie3ogre-nds-recomp",
+    "name": "ie3ogre nds recomp",
+    "from": "v0.1.32",
+    "to": "v0.1.34"
+   },
+   {
+    "id": "gh:averageconsumer/kanto-gear",
+    "name": "Kanto Gear",
+    "from": "v4.6.2",
+    "to": "v4.6.3"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-legalmon",
+    "name": "LegalMon",
+    "from": "v0.18.3",
+    "to": "v0.18.4"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-fb5f383",
+    "to": "commit-f6017c7"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.0.1",
+    "to": "v1.0.3"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-c83a629",
+    "to": "commit-ef04926"
+   },
+   {
+    "id": "gh:hugh-oneill/open-red",
+    "name": "open red",
+    "from": "commit-700456e",
+    "to": "commit-05c4024"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-80e60fe",
+    "to": "commit-ef2861a"
+   },
+   {
+    "id": "gh:carloscosta07-s/platina_reluzente-",
+    "name": "Platina reluzente ",
+    "from": "commit-1e85618",
+    "to": "commit-eb9f129"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "charlie7",
+    "to": "charlie9"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-6f3d52b",
+    "to": "commit-659f118"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2",
+    "from": "1.65.0",
+    "to": "1.66.0"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.85.0",
+    "to": "1.86.0"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-qol-suite",
+    "name": "QoL Suite",
+    "from": "v0.3.15",
+    "to": "v0.3.16"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "recomp achievements",
+    "from": "v2.6.2",
+    "to": "v2.6.3"
+   },
+   {
+    "id": "gh:capnjames95/gen1recomp-shiny-hunter",
+    "name": "Shiny Hunter",
+    "from": "v0.3.6",
+    "to": "v0.3.7"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.35.0",
+    "to": "v0.37.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:darkheros09/gen2-dialogue-portraits",
+    "name": "Dialogue Portraits (Gen 2)",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:smidja2/dx-386-importer",
+    "name": "DX-386-Importer",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen151",
+    "name": "Gen151",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1autocontinue",
+    "name": "Gen1AutoContinue",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1autosave",
+    "name": "Gen1AutoSave",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1dex",
+    "name": "Gen1Dex",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1follower",
+    "name": "Gen1Follower",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1menumanager",
+    "name": "Gen1MenuManager",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1modernbag",
+    "name": "Gen1ModernBag",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1remember",
+    "name": "Gen1Remember",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:mrkrissatan/kanto_stormforged",
+    "name": "KANTO: STORMFORGED",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:goldenroddeptstore/gen2run",
+    "name": "Run",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gawdmode/safari-derby",
+    "name": "Safari Derby",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-04T12:08:06Z",
   "new": [
    {
