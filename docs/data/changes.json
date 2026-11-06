@@ -1,5 +1,194 @@
 [
  {
+  "date": "2026-11-06T12:06:40Z",
+  "new": [
+   {
+    "id": "gh:elvieblooms/prism_importer",
+    "name": "prism importer"
+   },
+   {
+    "id": "gh:djmaccie/pokemon-emerald-3d-voxel-mod",
+    "name": "pokemon emerald 3d voxel mod"
+   },
+   {
+    "id": "gh:t2wmt6sgff-glitch/alejandro_app_source",
+    "name": "Alejandro App Source"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:tolgakurtuluss/awesome-webos",
+    "name": "awesome webos",
+    "from": "commit-49bf0cb",
+    "to": "commit-5aaba95"
+   },
+   {
+    "id": "gh:absol89/gen2recomped-dramaticshapes",
+    "name": "Battle Art Voxel Gen2",
+    "from": "2.1.4",
+    "to": "2.1.5"
+   },
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald",
+    "from": "commit-c233d7e",
+    "to": "commit-3f78577"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v1.0.4",
+    "to": "v1.0.5"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.0.1",
+    "to": "v1.0.2"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-69085e5",
+    "to": "commit-6ab5241"
+   },
+   {
+    "id": "gh:tectorifter/g9-battle-suit",
+    "name": "g9-battle-suit",
+    "from": "commit-6965f8c",
+    "to": "commit-4f5ab7b"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-131098e",
+    "to": "commit-a6f4ccc"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-600005c",
+    "to": "commit-59aad3c"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-16e1788",
+    "to": "commit-c2980d5"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-d971e8d",
+    "to": "commit-e8b984d"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-f972518",
+    "to": "commit-dcbc690"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-409e135",
+    "to": "commit-1cfee4d"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-e3dd649",
+    "to": "commit-361a7d9"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.3.2",
+    "to": "v0.4.0"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-f6017c7",
+    "to": "commit-adfb86e"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "National Dex Gen 3",
+    "from": "v1.7.0",
+    "to": "v1.8.0"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-ef04926",
+    "to": "commit-e0a503c"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-ef2861a",
+    "to": "commit-b3eddf2"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "charlie9",
+    "to": "delta2"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-659f118",
+    "to": "commit-796c312"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "recomp achievements",
+    "from": "v2.6.3",
+    "to": "v2.6.4"
+   },
+   {
+    "id": "gh:tectorifter/safari-",
+    "name": "safari-plus",
+    "from": "v1.4.0",
+    "to": "v2.2.3"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.37.0",
+    "to": "v0.44.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:faff0x/gen2recomp",
+    "name": "gen2recomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:carloscosta07-s/platina_reluzente-",
+    "name": "Platina reluzente ",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:1jamie/right_stick_move",
+    "name": "Right Stick Move",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:mrgr8/tactical-combat-overhaul-gen1recomp-",
+    "name": "Tactical-Combat-Overhaul-Gen1Recomp-",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-05T12:20:34Z",
   "new": [],
   "updated": [

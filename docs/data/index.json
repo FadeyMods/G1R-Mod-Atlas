@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:20:34Z",
+ "generated_at": "2026-11-06T12:06:40Z",
  "count": 467,
  "mods": [
   {
@@ -1049,7 +1049,7 @@
    "id": "BATTLE_ART_VOXEL_GEN2",
    "title": "Battle Art Voxel Gen2",
    "author": "absol89",
-   "version": "2.1.4",
+   "version": "2.1.5",
    "categories": [
     "ART"
    ],
@@ -1059,18 +1059,18 @@
    ],
    "summary": "Modifcation to DramaticShapes to work with Gen2recomp (unofficial)",
    "latest": {
-    "version": "2.1.4",
-    "tag": "2.1.4",
-    "name": "2.1.4",
+    "version": "2.1.5",
+    "tag": "2.1.5",
+    "name": "2.1.5",
     "prerelease": false,
-    "published_at": "2026-10-18T22:37:11Z",
+    "published_at": "2026-11-05T19:08:47Z",
     "zip": {
-     "name": "BATTLE_ART_VOXEL_GEN2-2.1.4.zip",
-     "url": "https://github.com/absol89/Gen2Recomped-DramaticShapes/releases/download/2.1.4/BATTLE_ART_VOXEL_GEN2-2.1.4.zip"
+     "name": "BATTLE_ART_VOXEL_GEN2-2.1.5.zip",
+     "url": "https://github.com/absol89/Gen2Recomped-DramaticShapes/releases/download/2.1.5/BATTLE_ART_VOXEL_GEN2-2.1.5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-18T22:37:11Z",
+   "last_release": "2026-11-05T19:08:47Z",
    "games": [
     "gen2"
    ],
@@ -3226,7 +3226,7 @@
    "id": "facets",
    "title": "Facets",
    "author": "ElvieBlooms",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "categories": [
     "ART"
    ],
@@ -3235,18 +3235,18 @@
    ],
    "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
    "latest": {
-    "version": "1.0.1",
-    "tag": "v1.0.1",
-    "name": "v1.0.1",
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "name": "v1.0.2",
     "prerelease": false,
-    "published_at": "2026-11-04T01:40:48Z",
+    "published_at": "2026-11-06T03:48:51Z",
     "zip": {
-     "name": "facets-tools-1.0.1.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.0.1/facets-tools-1.0.1.zip"
+     "name": "facets-tools-1.0.2.zip",
+     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.0.2/facets-tools-1.0.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T01:40:48Z",
+   "last_release": "2026-11-06T03:48:51Z",
    "games": [
     "gen3"
    ],
@@ -7411,7 +7411,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.3.2",
+   "version": "0.4.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7420,18 +7420,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.3.2",
-    "tag": "v0.3.2",
-    "name": "v0.3.2",
+    "version": "0.4.0",
+    "tag": "v0.4.0",
+    "name": "v0.4.0",
     "prerelease": false,
-    "published_at": "2026-11-03T03:08:37Z",
+    "published_at": "2026-11-05T22:16:33Z",
     "zip": {
-     "name": "max_raids-0.3.2.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.3.2/max_raids-0.3.2.zip"
+     "name": "max_raids-0.4.0.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.4.0/max_raids-0.4.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T03:08:37Z",
+   "last_release": "2026-11-05T22:16:33Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -8591,7 +8591,7 @@
    "id": "national_dex_gen3",
    "title": "National Dex Gen 3",
    "author": "poooooby",
-   "version": "1.7.0",
+   "version": "1.8.0",
    "categories": [
     "CONTENT"
    ],
@@ -8600,18 +8600,18 @@
    ],
    "summary": "National Dex species #387-1025 as data for Pokemon FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "1.7.0",
-    "tag": "v1.7.0",
-    "name": "v1.7.0",
+    "version": "1.8.0",
+    "tag": "v1.8.0",
+    "name": "v1.8.0",
     "prerelease": false,
-    "published_at": "2026-11-03T03:06:37Z",
+    "published_at": "2026-11-05T19:23:45Z",
     "zip": {
-     "name": "national_dex_gen3-1.7.0.zip",
-     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.7.0/national_dex_gen3-1.7.0.zip"
+     "name": "national_dex_gen3-1.8.0.zip",
+     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.8.0/national_dex_gen3-1.8.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T03:06:37Z",
+   "last_release": "2026-11-05T19:23:45Z",
    "games": [
     "gen3"
    ],
@@ -8636,14 +8636,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-05T10:03:05Z",
+    "published_at": "2026-11-06T01:46:53Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T10:03:05Z",
+   "last_release": "2026-11-06T01:46:53Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9985,7 +9985,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "charlie9",
+   "version": "delta2",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9994,18 +9994,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "charlie9",
-    "tag": "charlie9",
-    "name": "charlie9",
+    "version": "delta2",
+    "tag": "delta2",
+    "name": "delta2",
     "prerelease": false,
-    "published_at": "2026-11-05T10:47:27Z",
+    "published_at": "2026-11-06T05:16:33Z",
     "zip": {
-     "name": "Ocean_Blue-20261105-054513-7.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/charlie9/Ocean_Blue-20261105-054513-7.zip"
+     "name": "Ocean_Blue-20261105-235913-11.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/delta2/Ocean_Blue-20261105-235913-11.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T10:47:27Z",
+   "last_release": "2026-11-06T05:16:33Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -11249,7 +11249,7 @@
    "id": "recomp_achievements",
    "title": "recomp achievements",
    "author": "ElvieBlooms",
-   "version": "2.6.3",
+   "version": "2.6.4",
    "categories": [
     "LIBRARY"
    ],
@@ -11258,18 +11258,18 @@
    ],
    "summary": "A local achievement framework for Gen1Recomp",
    "latest": {
-    "version": "2.6.3",
-    "tag": "v2.6.3",
-    "name": "v2.6.3",
+    "version": "2.6.4",
+    "tag": "v2.6.4",
+    "name": "v2.6.4",
     "prerelease": false,
-    "published_at": "2026-11-05T00:23:36Z",
+    "published_at": "2026-11-06T03:57:52Z",
     "zip": {
-     "name": "recomp_achievements-2.6.3.zip",
-     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.6.3/recomp_achievements-2.6.3.zip"
+     "name": "recomp_achievements-2.6.4.zip",
+     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.6.4/recomp_achievements-2.6.4.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T00:23:36Z",
+   "last_release": "2026-11-06T03:57:52Z",
    "repo": "https://github.com/ElvieBlooms/recomp_achievements",
    "github": "ElvieBlooms/recomp_achievements"
   },
@@ -11771,7 +11771,7 @@
    "id": "safari-plus",
    "title": "safari-plus",
    "author": "tectorifter",
-   "version": "1.4.0",
+   "version": "2.2.3",
    "categories": [
     "GAMEPLAY"
    ],
@@ -11780,18 +11780,18 @@
    ],
    "summary": "Always Safari Mode, emerald only.",
    "latest": {
-    "version": "1.4.0",
-    "tag": "v1.4.0",
-    "name": "v1.4.0",
+    "version": "2.2.3",
+    "tag": "v2.2.3",
+    "name": "v2.2.3",
     "prerelease": false,
-    "published_at": "2026-10-12T21:19:41Z",
+    "published_at": "2026-11-05T19:34:17Z",
     "zip": {
-     "name": "safari-plus-1.4.0.zip",
-     "url": "https://github.com/tectorifter/safari-/releases/download/v1.4.0/safari-plus-1.4.0.zip"
+     "name": "safari-plus-2.2.3.zip",
+     "url": "https://github.com/tectorifter/safari-/releases/download/v2.2.3/safari-plus-2.2.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-12T21:19:41Z",
+   "last_release": "2026-11-05T19:34:17Z",
    "games": [
     "emerald"
    ],
@@ -13282,7 +13282,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.37.0",
+   "version": "0.44.1",
    "categories": [
     "ART"
    ],
@@ -13291,18 +13291,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.37.0",
-    "tag": "v0.37.0",
-    "name": "v0.37.0",
+    "version": "0.44.1",
+    "tag": "v0.44.1",
+    "name": "v0.44.1",
     "prerelease": false,
-    "published_at": "2026-11-05T12:34:42Z",
+    "published_at": "2026-11-06T10:41:41Z",
     "zip": {
-     "name": "TileShift-v0.37.0.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.37.0/TileShift-v0.37.0.zip"
+     "name": "TileShift-v0.44.1.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.44.1/TileShift-v0.44.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T12:34:42Z",
+   "last_release": "2026-11-06T10:41:41Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
