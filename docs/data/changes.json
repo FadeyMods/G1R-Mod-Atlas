@@ -1,5 +1,196 @@
 [
  {
+  "date": "2026-11-07T11:03:53Z",
+  "new": [
+   {
+    "id": "gh:leonardwohl/crystal-legacy-gen1recomp",
+    "name": "crystal legacy gen1recomp"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:t2wmt6sgff-glitch/alejandro_app_source",
+    "name": "Alejandro App Source",
+    "from": "commit-3b23ff8",
+    "to": "spoti-1.0"
+   },
+   {
+    "id": "gh:fadeymods/definitiv-german-gen-1",
+    "name": "Definitiv German Gen 1",
+    "from": "v1.0.4",
+    "to": "v1.0.5"
+   },
+   {
+    "id": "gh:fadeymods/definitiv-german-gen-2",
+    "name": "Definitiv German Gen 2",
+    "from": "v1.0.4",
+    "to": "v1.0.5"
+   },
+   {
+    "id": "gh:fadeymods/definitiv-german-gen-3",
+    "name": "Definitiv German Gen 3",
+    "from": "v1.0.4",
+    "to": "v1.0.5"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v1.0.5",
+    "to": "v1.0.6"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.6.1",
+    "to": "v0.6.2"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-6ab5241",
+    "to": "commit-cfa55ca"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.4.13",
+    "to": "v0.4.14"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-a6f4ccc",
+    "to": "commit-b531ed3"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.174",
+    "to": "content-editor-v0.1.175"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-59aad3c",
+    "to": "commit-6f5eb25"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-c2980d5",
+    "to": "commit-805bb6d"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-e8b984d",
+    "to": "commit-61a7cab"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-dcbc690",
+    "to": "commit-debfcac"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-1cfee4d",
+    "to": "commit-0e7c211"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.49",
+    "to": "v0.8.53"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-361a7d9",
+    "to": "commit-d0fe3f6"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-adfb86e",
+    "to": "commit-479efb0"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-e0a503c",
+    "to": "commit-2f2a3f0"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-b3eddf2",
+    "to": "commit-3677e0f"
+   },
+   {
+    "id": "gh:tectorifter/safari-",
+    "name": "safari-plus",
+    "from": "v2.2.3",
+    "to": "v2.2.8"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.44.1",
+    "to": "v0.44.2"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "woob os",
+    "from": "v0.2.3",
+    "to": "v0.5.2"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:gawdmode/anglers-cove-aquarium",
+    "name": "Angler's Cove Aquarium",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:darkheros09/celebi-event",
+    "name": "Celebi Event",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:smidja2/cobblemon-importer-for-gen1---gen1recomp-",
+    "name": "Cobblemon-importer-for-Gen1---gen1recomp-",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:smidja2/cobblemon-importer-for-gen2---gen1recomp-",
+    "name": "Cobblemon-importer-for-Gen2---gen1recomp-",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:blackwing182/pokemonstoragesystem",
+    "name": "PokemonStorageSystem",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:rolottr/pokevoxel",
+    "name": "pokevoxel",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-06T12:06:40Z",
   "new": [
    {

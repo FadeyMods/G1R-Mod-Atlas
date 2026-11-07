@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T12:06:40Z",
- "count": 467,
+ "generated_at": "2026-11-07T11:03:53Z",
+ "count": 468,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -2243,6 +2243,35 @@
    "github": "Nexhas28/crystal_legacy_changes"
   },
   {
+   "folder": "leonardwohl@crystal_legacy_gen1recomp",
+   "id": "crystal_legacy_gen1recomp",
+   "title": "crystal legacy gen1recomp",
+   "author": "leonardwohl",
+   "version": "0.3.0",
+   "categories": [
+    "OTHER"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.3.0",
+    "tag": "v0.3.0",
+    "name": "v0.3.0",
+    "prerelease": false,
+    "published_at": "2026-11-06T23:05:33Z",
+    "zip": {
+     "name": "crystal_legacy_fixes-0.3.0.zip",
+     "url": "https://github.com/leonardwohl/crystal-legacy-gen1recomp/releases/download/v0.3.0/crystal_legacy_fixes-0.3.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-06T23:05:33Z",
+   "repo": "https://github.com/leonardwohl/crystal-legacy-gen1recomp",
+   "github": "leonardwohl/crystal-legacy-gen1recomp"
+  },
+  {
    "folder": "Almewty@crystal_time_change",
    "id": "crystal_time_change",
    "title": "crystal time change",
@@ -3986,7 +4015,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.4.13",
+   "version": "0.4.14",
    "categories": [
     "LIBRARY"
    ],
@@ -3995,18 +4024,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.4.13",
-    "tag": "v0.4.13",
-    "name": "v0.4.13",
+    "version": "0.4.14",
+    "tag": "v0.4.14",
+    "name": "v0.4.14",
     "prerelease": false,
-    "published_at": "2026-10-30T15:27:51Z",
+    "published_at": "2026-11-07T05:04:25Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.4.13.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.13/gen3-hd-sprites-0.4.13.zip"
+     "name": "gen3-hd-sprites-0.4.14.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.14/gen3-hd-sprites-0.4.14.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-30T15:27:51Z",
+   "last_release": "2026-11-07T05:04:25Z",
    "games": [
     "gen3"
    ],
@@ -4525,7 +4554,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.174",
+   "version": "content-editor-v0.1.175",
    "categories": [
     "TOOL"
    ],
@@ -4534,18 +4563,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.174",
-    "tag": "content-editor-v0.1.174",
-    "name": "content-editor-v0.1.174",
+    "version": "content-editor-v0.1.175",
+    "tag": "content-editor-v0.1.175",
+    "name": "content-editor-v0.1.175",
     "prerelease": false,
-    "published_at": "2026-11-04T19:04:52Z",
+    "published_at": "2026-11-07T00:17:06Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.174/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.175/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T19:04:52Z",
+   "last_release": "2026-11-07T00:17:06Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5262,7 +5291,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.49",
+   "version": "0.8.53",
    "categories": [
     "TRANSLATION"
    ],
@@ -5271,18 +5300,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.49",
-    "tag": "v0.8.49",
-    "name": "v0.8.49",
+    "version": "0.8.53",
+    "tag": "v0.8.53",
+    "name": "v0.8.53",
     "prerelease": false,
-    "published_at": "2026-11-02T20:52:31Z",
+    "published_at": "2026-11-07T04:43:42Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.49-linux.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.49/Gen2Recomped-0.8.49-linux.zip"
+     "name": "Gen2Recomped-0.8.53-linux.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.53/Gen2Recomped-0.8.53-linux.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T20:52:31Z",
+   "last_release": "2026-11-07T04:43:42Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -8636,14 +8665,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-06T01:46:53Z",
+    "published_at": "2026-11-06T15:59:28Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-06T01:46:53Z",
+   "last_release": "2026-11-06T15:59:28Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -11771,7 +11800,7 @@
    "id": "safari-plus",
    "title": "safari-plus",
    "author": "tectorifter",
-   "version": "2.2.3",
+   "version": "2.2.8",
    "categories": [
     "GAMEPLAY"
    ],
@@ -11780,18 +11809,18 @@
    ],
    "summary": "Always Safari Mode, emerald only.",
    "latest": {
-    "version": "2.2.3",
-    "tag": "v2.2.3",
-    "name": "v2.2.3",
+    "version": "2.2.8",
+    "tag": "v2.2.8",
+    "name": "v2.2.8",
     "prerelease": false,
-    "published_at": "2026-11-05T19:34:17Z",
+    "published_at": "2026-11-06T17:55:59Z",
     "zip": {
-     "name": "safari-plus-2.2.3.zip",
-     "url": "https://github.com/tectorifter/safari-/releases/download/v2.2.3/safari-plus-2.2.3.zip"
+     "name": "safari-plus-2.2.8.zip",
+     "url": "https://github.com/tectorifter/safari-/releases/download/v2.2.8/safari-plus-2.2.8.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T19:34:17Z",
+   "last_release": "2026-11-06T17:55:59Z",
    "games": [
     "emerald"
    ],
@@ -13282,7 +13311,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.44.1",
+   "version": "0.44.2",
    "categories": [
     "ART"
    ],
@@ -13291,18 +13320,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.44.1",
-    "tag": "v0.44.1",
-    "name": "v0.44.1",
+    "version": "0.44.2",
+    "tag": "v0.44.2",
+    "name": "v0.44.2",
     "prerelease": false,
-    "published_at": "2026-11-06T10:41:41Z",
+    "published_at": "2026-11-07T11:01:06Z",
     "zip": {
-     "name": "TileShift-v0.44.1.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.44.1/TileShift-v0.44.1.zip"
+     "name": "TileShift-v0.44.2.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.44.2/TileShift-v0.44.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-06T10:41:41Z",
+   "last_release": "2026-11-07T11:01:06Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
@@ -14319,7 +14348,7 @@
    "id": "woob_os",
    "title": "woob os",
    "author": "poooooby",
-   "version": "0.2.3",
+   "version": "0.5.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -14328,18 +14357,18 @@
    ],
    "summary": "WoobOS: the Gen 3 PC (FireRed, LeafGreen, Ruby, Sapphire, Emerald) as a modern desktop, a gen1recomp mod",
    "latest": {
-    "version": "0.2.3",
-    "tag": "v0.2.3",
-    "name": "v0.2.3",
+    "version": "0.5.2",
+    "tag": "v0.5.2",
+    "name": "v0.5.2",
     "prerelease": false,
-    "published_at": "2026-11-03T03:28:24Z",
+    "published_at": "2026-11-07T07:45:25Z",
     "zip": {
-     "name": "woob_os-0.2.3.zip",
-     "url": "https://github.com/poooooby/woob_os/releases/download/v0.2.3/woob_os-0.2.3.zip"
+     "name": "woob_os-0.5.2.zip",
+     "url": "https://github.com/poooooby/woob_os/releases/download/v0.5.2/woob_os-0.5.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T03:28:24Z",
+   "last_release": "2026-11-07T07:45:25Z",
    "repo": "https://github.com/poooooby/woob_os",
    "github": "poooooby/woob_os"
   },
