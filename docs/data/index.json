@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T11:03:53Z",
- "count": 468,
+ "generated_at": "2026-11-08T11:16:34Z",
+ "count": 465,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -1490,7 +1490,7 @@
    "id": "bw_animated_sprites",
    "title": "BW Animated Sprites",
    "author": "DarkHeros09",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "categories": [
     "ART"
    ],
@@ -1499,18 +1499,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-11-04T10:49:42Z",
+    "published_at": "2026-11-07T12:36:42Z",
     "zip": {
-     "name": "BW-Animated-Sprites-1.0.0.zip",
-     "url": "https://github.com/DarkHeros09/BW-Animated-Sprites/releases/download/v1.0.0/BW-Animated-Sprites-1.0.0.zip"
+     "name": "BW-Animated-Sprites-1.0.1.zip",
+     "url": "https://github.com/DarkHeros09/BW-Animated-Sprites/releases/download/v1.0.1/BW-Animated-Sprites-1.0.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T10:49:42Z",
+   "last_release": "2026-11-07T12:36:42Z",
    "repo": "https://github.com/DarkHeros09/BW-Animated-Sprites",
    "github": "DarkHeros09/BW-Animated-Sprites"
   },
@@ -3255,7 +3255,7 @@
    "id": "facets",
    "title": "Facets",
    "author": "ElvieBlooms",
-   "version": "1.0.2",
+   "version": "1.1.0",
    "categories": [
     "ART"
    ],
@@ -3264,18 +3264,18 @@
    ],
    "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
    "latest": {
-    "version": "1.0.2",
-    "tag": "v1.0.2",
-    "name": "v1.0.2",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "name": "v1.1.0",
     "prerelease": false,
-    "published_at": "2026-11-06T03:48:51Z",
+    "published_at": "2026-11-07T14:59:51Z",
     "zip": {
-     "name": "facets-tools-1.0.2.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.0.2/facets-tools-1.0.2.zip"
+     "name": "facets-tools-1.1.0.zip",
+     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.1.0/facets-tools-1.1.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-06T03:48:51Z",
+   "last_release": "2026-11-07T14:59:51Z",
    "games": [
     "gen3"
    ],
@@ -3797,6 +3797,35 @@
    "github": "PandaKisor/g3-coop"
   },
   {
+   "folder": "poooooby@g9_battle_sprites_gen3",
+   "id": "g9_battle_sprites_gen3",
+   "title": "g9 battle sprites gen3",
+   "author": "poooooby",
+   "version": "1.5.8",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "WoobleSpritePack: All the art for Wooble's Dex Expansion Suite for Gen1Recomp",
+   "latest": {
+    "version": "1.5.8",
+    "tag": "v1.5.8",
+    "name": "v1.5.8",
+    "prerelease": false,
+    "published_at": "2026-11-08T02:45:19Z",
+    "zip": {
+     "name": "g9-battle-sprites-gen3-1.5.8.zip",
+     "url": "https://github.com/poooooby/g9-battle-sprites-gen3/releases/download/v1.5.8/g9-battle-sprites-gen3-1.5.8.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-08T02:45:19Z",
+   "repo": "https://github.com/poooooby/g9-battle-sprites-gen3",
+   "github": "poooooby/g9-battle-sprites-gen3"
+  },
+  {
    "folder": "tectorifter@g9-Battle-Scene",
    "id": "g9-Battle-Scene",
    "title": "g9-battle-scene",
@@ -4224,6 +4253,35 @@
    "github": "git-mrjoufflu/gen1coop"
   },
   {
+   "folder": "kennethreitz@gen1_music_frlg",
+   "id": "gen1_music_frlg",
+   "title": "gen1 music frlg",
+   "author": "kennethreitz",
+   "version": "0.1.0",
+   "categories": [
+    "AUDIO"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Original Red/Blue music in gen1recomp FireRed/LeafGreen, synthesized live from your own imported Red. No ROMs or audio distributed.",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-11-08T02:01:46Z",
+    "zip": {
+     "name": "gen1_music_frlg-v0.1.0.zip",
+     "url": "https://github.com/kennethreitz/gen1-music-frlg/releases/download/v0.1.0/gen1_music_frlg-v0.1.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-08T02:01:46Z",
+   "repo": "https://github.com/kennethreitz/gen1-music-frlg",
+   "github": "kennethreitz/gen1-music-frlg"
+  },
+  {
    "folder": "AyeBathingApe@gen1_kaizo",
    "id": "gen1_kaizo",
    "title": "Gen1 Recomp Allgen Kaizo",
@@ -4434,35 +4492,6 @@
    "github": "KhabirTheGoat/gen1recomp-backup"
   },
   {
-   "folder": "mfsierpe@gen1recomp_dv_viewer",
-   "id": "gen1recomp_dv_viewer",
-   "title": "gen1recomp dv viewer",
-   "author": "mfsierpe",
-   "version": "1.0.0",
-   "categories": [
-    "TOOL"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "Gen1Recomp mod: see every Pokémon's DVs and Stat Exp on a third STATS page, graded, right after each catch.",
-   "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
-    "prerelease": false,
-    "published_at": "2026-10-29T14:26:24Z",
-    "zip": {
-     "name": "dv_viewer-1.0.0.zip",
-     "url": "https://github.com/mfsierpe/gen1recomp-dv-viewer/releases/download/v1.0.0/dv_viewer-1.0.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-10-29T14:26:24Z",
-   "repo": "https://github.com/mfsierpe/gen1recomp-dv-viewer",
-   "github": "mfsierpe/gen1recomp-dv-viewer"
-  },
-  {
    "folder": "cchrkk@gen1recomp_move_damage_info",
    "id": "gen1recomp_move_damage_info",
    "title": "gen1recomp move damage info",
@@ -4554,7 +4583,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.175",
+   "version": "content-editor-v0.1.177",
    "categories": [
     "TOOL"
    ],
@@ -4563,18 +4592,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.175",
-    "tag": "content-editor-v0.1.175",
-    "name": "content-editor-v0.1.175",
+    "version": "content-editor-v0.1.177",
+    "tag": "content-editor-v0.1.177",
+    "name": "content-editor-v0.1.177",
     "prerelease": false,
-    "published_at": "2026-11-07T00:17:06Z",
+    "published_at": "2026-11-07T21:11:35Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.175/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.177/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T00:17:06Z",
+   "last_release": "2026-11-07T21:11:35Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5291,7 +5320,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.53",
+   "version": "0.8.56",
    "categories": [
     "TRANSLATION"
    ],
@@ -5300,18 +5329,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.53",
-    "tag": "v0.8.53",
-    "name": "v0.8.53",
+    "version": "0.8.56",
+    "tag": "v0.8.56",
+    "name": "v0.8.56",
     "prerelease": false,
-    "published_at": "2026-11-07T04:43:42Z",
+    "published_at": "2026-11-08T05:25:47Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.53-linux.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.53/Gen2Recomped-0.8.53-linux.zip"
+     "name": "Gen2Recomped-0.8.56-macos.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.56/Gen2Recomped-0.8.56-macos.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T04:43:42Z",
+   "last_release": "2026-11-08T05:25:47Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -5408,71 +5437,6 @@
    ],
    "repo": "https://github.com/Jo5-K/GiveNationaldex---Gen1recomp-mod",
    "github": "Jo5-K/GiveNationaldex---Gen1recomp-mod"
-  },
-  {
-   "folder": "gmarcmods@gmarcs_gen2_celebi_time_travel",
-   "id": "gmarcs_gen2_celebi_time_travel",
-   "title": "gmarcs Gen 2 Celebi Time Travel",
-   "author": "gmarcmods",
-   "version": "0.0.17",
-   "categories": [
-    "CONTENT"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "",
-   "latest": {
-    "version": "0.0.17",
-    "tag": "v0.0.17",
-    "name": "v0.0.17",
-    "prerelease": false,
-    "published_at": "2026-10-31T00:18:53Z",
-    "zip": {
-     "name": "gmarcs_gen2_celebi_time_travel-0.0.17.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_celebi_time_travel/releases/download/v0.0.17/gmarcs_gen2_celebi_time_travel-0.0.17.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-10-31T00:18:53Z",
-   "games": [
-    "gen2"
-   ],
-   "repo": "https://github.com/gmarcmods/gmarcs_gen2_celebi_time_travel",
-   "github": "gmarcmods/gmarcs_gen2_celebi_time_travel"
-  },
-  {
-   "folder": "gmarcmods@gmarcs_gen2_johto_in_first_person",
-   "id": "gmarcs_gen2_johto_in_first_person",
-   "title": "gmarcs Gen 2 Johto in First Person",
-   "author": "gmarcmods",
-   "version": "1.0.13",
-   "categories": [
-    "ART"
-   ],
-   "tags": [
-    "voxel",
-    "unlisted"
-   ],
-   "summary": "",
-   "latest": {
-    "version": "1.0.13",
-    "tag": "v1.0.13",
-    "name": "v1.0.13",
-    "prerelease": false,
-    "published_at": "2026-11-01T22:47:08Z",
-    "zip": {
-     "name": "gmarcs_gen2_johto_in_first_person-1.0.13.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_johto_in_first_person/releases/download/v1.0.13/gmarcs_gen2_johto_in_first_person-1.0.13.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-01T22:47:08Z",
-   "games": [
-    "gen2"
-   ],
-   "repo": "https://github.com/gmarcmods/gmarcs_gen2_johto_in_first_person",
-   "github": "gmarcmods/gmarcs_gen2_johto_in_first_person"
   },
   {
    "folder": "gmarcmods@gmarcs_gen1_kanto_alive",
@@ -5621,39 +5585,6 @@
    "last_release": "2026-10-30T23:05:28Z",
    "repo": "https://github.com/gmarcmods/gmarcs_gen2_spanish_mod",
    "github": "gmarcmods/gmarcs_gen2_spanish_mod"
-  },
-  {
-   "folder": "gmarcmods@gmarcs_gen2_voxel_mod",
-   "id": "gmarcs_gen2_voxel_mod",
-   "title": "Gmarcs Gen2 Voxel Mod",
-   "author": "gmarcmods",
-   "version": "1.0.17",
-   "categories": [
-    "ART"
-   ],
-   "tags": [
-    "voxel",
-    "unlisted"
-   ],
-   "summary": "",
-   "latest": {
-    "version": "1.0.17",
-    "tag": "v1.0.17",
-    "name": "v1.0.17",
-    "prerelease": false,
-    "published_at": "2026-10-30T23:06:12Z",
-    "zip": {
-     "name": "gmarcs_gen2_voxel_mod-1.0.17.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.17/gmarcs_gen2_voxel_mod-1.0.17.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-10-30T23:06:12Z",
-   "games": [
-    "gen2"
-   ],
-   "repo": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod",
-   "github": "gmarcmods/gmarcs_gen2_voxel_mod"
   },
   {
    "folder": "35Bucks@gold_item_spawner",
@@ -7530,7 +7461,7 @@
    "id": "gen3transparency",
    "title": "Menu Customizer",
    "author": "Bentley734",
-   "version": "3.35.26",
+   "version": "3.35.27",
    "categories": [
     "UI"
    ],
@@ -7539,18 +7470,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "3.35.26",
-    "tag": "v3.35.26",
-    "name": "v3.35.26",
+    "version": "3.35.27",
+    "tag": "v3.35.27",
+    "name": "v3.35.27",
     "prerelease": false,
-    "published_at": "2026-11-03T12:13:32Z",
+    "published_at": "2026-11-08T01:42:10Z",
     "zip": {
-     "name": "Menu-Customizer-v3.35.26.zip",
-     "url": "https://github.com/Bentley734/Menu-Customizer/releases/download/v3.35.26/Menu-Customizer-v3.35.26.zip"
+     "name": "Menu-Customizer-v3.35.27.zip",
+     "url": "https://github.com/Bentley734/Menu-Customizer/releases/download/v3.35.27/Menu-Customizer-v3.35.27.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T12:13:32Z",
+   "last_release": "2026-11-08T01:42:10Z",
    "games": [
     "red",
     "blue",
@@ -8384,7 +8315,7 @@
    "id": "mpc_boot_thingy",
    "title": "mpc boot thingy",
    "author": "garrettjwilke",
-   "version": "1.0.3",
+   "version": "1.0.4",
    "categories": [
     "UI"
    ],
@@ -8393,18 +8324,18 @@
    ],
    "summary": "boot menu for mpc sample",
    "latest": {
-    "version": "1.0.3",
-    "tag": "v1.0.3",
-    "name": "v1.0.3",
+    "version": "1.0.4",
+    "tag": "v1.0.4",
+    "name": "v1.0.4",
     "prerelease": false,
-    "published_at": "2026-11-05T00:46:39Z",
+    "published_at": "2026-11-08T00:38:54Z",
     "zip": {
      "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.3/mpc-boot-thingy.zip"
+     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.4/mpc-boot-thingy.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T00:46:39Z",
+   "last_release": "2026-11-08T00:38:54Z",
    "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
    "github": "garrettjwilke/mpc-boot-thingy"
   },
@@ -8616,38 +8547,6 @@
    "github": "Bentley734/Name-Rater"
   },
   {
-   "folder": "poooooby@national_dex_gen3",
-   "id": "national_dex_gen3",
-   "title": "National Dex Gen 3",
-   "author": "poooooby",
-   "version": "1.8.0",
-   "categories": [
-    "CONTENT"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "National Dex species #387-1025 as data for Pokemon FireRed/LeafGreen (gen1recomp)",
-   "latest": {
-    "version": "1.8.0",
-    "tag": "v1.8.0",
-    "name": "v1.8.0",
-    "prerelease": false,
-    "published_at": "2026-11-05T19:23:45Z",
-    "zip": {
-     "name": "national_dex_gen3-1.8.0.zip",
-     "url": "https://github.com/poooooby/national_dex_gen3/releases/download/v1.8.0/national_dex_gen3-1.8.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-05T19:23:45Z",
-   "games": [
-    "gen3"
-   ],
-   "repo": "https://github.com/poooooby/national_dex_gen3",
-   "github": "poooooby/national_dex_gen3"
-  },
-  {
    "folder": "Hailey-Ross@nativemons",
    "id": "nativemons",
    "title": "nativeMons",
@@ -8665,14 +8564,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-06T15:59:28Z",
+    "published_at": "2026-11-07T20:43:00Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-06T15:59:28Z",
+   "last_release": "2026-11-07T20:43:00Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9588,7 +9487,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "1.1.0",
+   "version": "1.2.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9597,18 +9496,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "1.1.0",
-    "tag": "v1.1.0",
-    "name": "v1.1.0",
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "name": "v1.2.0",
     "prerelease": false,
-    "published_at": "2026-10-31T06:45:21Z",
+    "published_at": "2026-11-08T03:19:25Z",
     "zip": {
-     "name": "play_nav-1.1.0.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.1.0/play_nav-1.1.0.zip"
+     "name": "play_nav-1.2.0.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.2.0/play_nav-1.2.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T06:45:21Z",
+   "last_release": "2026-11-08T03:19:25Z",
    "games": [
     "gen3"
    ],
@@ -10882,7 +10781,7 @@
    "id": "project_highlander_gen1_2",
    "title": "Project Highlander Gen1 2",
    "author": "Waifu4Life",
-   "version": "1.66.0",
+   "version": "1.69.0",
    "categories": [
     "UI"
    ],
@@ -10891,18 +10790,18 @@
    ],
    "summary": "Project Highlander Gen1+2",
    "latest": {
-    "version": "1.66.0",
-    "tag": "1.66.0",
-    "name": "1.66.0",
+    "version": "1.69.0",
+    "tag": "1.69.0",
+    "name": "1.69.0",
     "prerelease": false,
-    "published_at": "2026-11-05T06:22:31Z",
+    "published_at": "2026-11-07T22:04:33Z",
     "zip": {
-     "name": "project_highlander_gen1%2B2-1.66.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.66.0/project_highlander_gen1%2B2-1.66.0.zip"
+     "name": "project_highlander_gen1%2B2-1.69.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.69.0/project_highlander_gen1%2B2-1.69.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T06:22:31Z",
+   "last_release": "2026-11-07T22:04:33Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2",
    "github": "Waifu4Life/Project-Highlander-Gen1-2"
   },
@@ -11272,35 +11171,6 @@
    ],
    "repo": "https://github.com/PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase",
    "github": "PashleyAUS/Real-Time-Clock-for-FR-LG-Content-Editor-addon-showcase"
-  },
-  {
-   "folder": "ElvieBlooms@recomp_achievements",
-   "id": "recomp_achievements",
-   "title": "recomp achievements",
-   "author": "ElvieBlooms",
-   "version": "2.6.4",
-   "categories": [
-    "LIBRARY"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "A local achievement framework for Gen1Recomp",
-   "latest": {
-    "version": "2.6.4",
-    "tag": "v2.6.4",
-    "name": "v2.6.4",
-    "prerelease": false,
-    "published_at": "2026-11-06T03:57:52Z",
-    "zip": {
-     "name": "recomp_achievements-2.6.4.zip",
-     "url": "https://github.com/ElvieBlooms/recomp_achievements/releases/download/v2.6.4/recomp_achievements-2.6.4.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-06T03:57:52Z",
-   "repo": "https://github.com/ElvieBlooms/recomp_achievements",
-   "github": "ElvieBlooms/recomp_achievements"
   },
   {
    "folder": "inmento@red_centered_layout",
@@ -11800,7 +11670,7 @@
    "id": "safari-plus",
    "title": "safari-plus",
    "author": "tectorifter",
-   "version": "2.2.8",
+   "version": "2.4.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -11809,18 +11679,18 @@
    ],
    "summary": "Always Safari Mode, emerald only.",
    "latest": {
-    "version": "2.2.8",
-    "tag": "v2.2.8",
-    "name": "v2.2.8",
+    "version": "2.4.1",
+    "tag": "v2.4.1",
+    "name": "v2.4.1",
     "prerelease": false,
-    "published_at": "2026-11-06T17:55:59Z",
+    "published_at": "2026-11-07T15:07:47Z",
     "zip": {
-     "name": "safari-plus-2.2.8.zip",
-     "url": "https://github.com/tectorifter/safari-/releases/download/v2.2.8/safari-plus-2.2.8.zip"
+     "name": "safari-plus-2.4.1.zip",
+     "url": "https://github.com/tectorifter/safari-/releases/download/v2.4.1/safari-plus-2.4.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-06T17:55:59Z",
+   "last_release": "2026-11-07T15:07:47Z",
    "games": [
     "emerald"
    ],
@@ -13191,6 +13061,36 @@
    "github": "BrenoBertucci/Terrarium"
   },
   {
+   "folder": "poooooby@terrarium",
+   "id": "terrarium",
+   "title": "Terrarium",
+   "author": "poooooby",
+   "version": "1.52.3",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "voxel",
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "1.52.3",
+    "tag": "v1.52.3",
+    "name": "v1.52.3",
+    "prerelease": false,
+    "published_at": "2026-11-05T06:32:05Z",
+    "zip": {
+     "name": "TERRARIUM-1.52.3.zip",
+     "url": "https://github.com/poooooby/Terrarium/releases/download/v1.52.3/TERRARIUM-1.52.3.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-05T06:32:05Z",
+   "repo": "https://github.com/poooooby/Terrarium",
+   "github": "poooooby/Terrarium"
+  },
+  {
    "folder": "inmento@texture_pack_templates",
    "id": "texture_pack_templates",
    "title": "Texture-Pack-Templates",
@@ -13311,7 +13211,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.44.2",
+   "version": "0.46.3",
    "categories": [
     "ART"
    ],
@@ -13320,18 +13220,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.44.2",
-    "tag": "v0.44.2",
-    "name": "v0.44.2",
+    "version": "0.46.3",
+    "tag": "v0.46.3",
+    "name": "v0.46.3",
     "prerelease": false,
-    "published_at": "2026-11-07T11:01:06Z",
+    "published_at": "2026-11-08T11:27:47Z",
     "zip": {
-     "name": "TileShift-v0.44.2.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.44.2/TileShift-v0.44.2.zip"
+     "name": "TileShift-v0.46.3.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.46.3/TileShift-v0.46.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T11:01:06Z",
+   "last_release": "2026-11-08T11:27:47Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
@@ -13605,6 +13505,35 @@
    ],
    "repo": "https://github.com/ScottExplores/gen1recomp-trainer-forfeit",
    "github": "ScottExplores/gen1recomp-trainer-forfeit"
+  },
+  {
+   "folder": "ElvieBlooms@trainer_talk_packager",
+   "id": "trainer_talk_packager",
+   "title": "trainer_talk_packager",
+   "author": "ElvieBlooms",
+   "version": "0.12.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "an asset packager for Trainer Talk that will pull audio files and bundle them, or allow users to package their own. ",
+   "latest": {
+    "version": "0.12.0",
+    "tag": "v0.12.0",
+    "name": "v0.12.0",
+    "prerelease": false,
+    "published_at": "2026-11-08T00:13:54Z",
+    "zip": {
+     "name": "Trainer_Talk_Packager-0.12.0-mac-arm64.zip",
+     "url": "https://github.com/ElvieBlooms/trainer_talk_packager/releases/download/v0.12.0/Trainer_Talk_Packager-0.12.0-mac-arm64.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-08T00:13:54Z",
+   "repo": "https://github.com/ElvieBlooms/trainer_talk_packager",
+   "github": "ElvieBlooms/trainer_talk_packager"
   },
   {
    "folder": "ZyranCZ@choose_lead",
@@ -14274,7 +14203,7 @@
    "id": "wildfollowers",
    "title": "WildFollowers",
    "author": "Bentley734",
-   "version": "3.4.7",
+   "version": "3.4.8",
    "categories": [
     "GAMEPLAY"
    ],
@@ -14283,18 +14212,18 @@
    ],
    "summary": "Wilds and follower system using Yellow's built-in follower system as the base.",
    "latest": {
-    "version": "3.4.7",
-    "tag": "3.4.7",
-    "name": "3.4.7",
+    "version": "3.4.8",
+    "tag": "3.4.8",
+    "name": "3.4.8",
     "prerelease": false,
-    "published_at": "2026-11-03T12:08:03Z",
+    "published_at": "2026-11-08T00:23:59Z",
     "zip": {
-     "name": "WildFollowers-v3.4.7.zip",
-     "url": "https://github.com/Bentley734/WildFollowers/releases/download/3.4.7/WildFollowers-v3.4.7.zip"
+     "name": "WildFollowers-v3.4.8.zip",
+     "url": "https://github.com/Bentley734/WildFollowers/releases/download/3.4.8/WildFollowers-v3.4.8.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T12:08:03Z",
+   "last_release": "2026-11-08T00:23:59Z",
    "games": [
     "red",
     "blue",
@@ -14312,43 +14241,11 @@
    "github": "Bentley734/WildFollowers"
   },
   {
-   "folder": "poooooby@wilds_of_hoenn",
-   "id": "wilds_of_hoenn",
-   "title": "Wilds of Hoenn",
-   "author": "poooooby",
-   "version": "1.11.2",
-   "categories": [
-    "GAMEPLAY"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "Visible, reactive wild Pokemon for the Gen3 overworld (Fire Red, Leaf Green, Ruby, Sapphire, Emerald) -- a Gen1Recomp mod",
-   "latest": {
-    "version": "1.11.2",
-    "tag": "v1.11.2",
-    "name": "v1.11.2",
-    "prerelease": false,
-    "published_at": "2026-10-29T05:04:17Z",
-    "zip": {
-     "name": "wilds-of-hoenn-v1.11.2.zip",
-     "url": "https://github.com/poooooby/wilds-of-hoenn/releases/download/v1.11.2/wilds-of-hoenn-v1.11.2.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-10-29T05:04:17Z",
-   "games": [
-    "gen3"
-   ],
-   "repo": "https://github.com/poooooby/wilds-of-hoenn",
-   "github": "poooooby/wilds-of-hoenn"
-  },
-  {
    "folder": "poooooby@woob_os",
    "id": "woob_os",
    "title": "woob os",
    "author": "poooooby",
-   "version": "0.5.2",
+   "version": "0.5.3",
    "categories": [
     "GAMEPLAY"
    ],
@@ -14357,18 +14254,18 @@
    ],
    "summary": "WoobOS: the Gen 3 PC (FireRed, LeafGreen, Ruby, Sapphire, Emerald) as a modern desktop, a gen1recomp mod",
    "latest": {
-    "version": "0.5.2",
-    "tag": "v0.5.2",
-    "name": "v0.5.2",
+    "version": "0.5.3",
+    "tag": "v0.5.3",
+    "name": "v0.5.3",
     "prerelease": false,
-    "published_at": "2026-11-07T07:45:25Z",
+    "published_at": "2026-11-08T00:20:30Z",
     "zip": {
-     "name": "woob_os-0.5.2.zip",
-     "url": "https://github.com/poooooby/woob_os/releases/download/v0.5.2/woob_os-0.5.2.zip"
+     "name": "woob_os-0.5.3.zip",
+     "url": "https://github.com/poooooby/woob_os/releases/download/v0.5.3/woob_os-0.5.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T07:45:25Z",
+   "last_release": "2026-11-08T00:20:30Z",
    "repo": "https://github.com/poooooby/woob_os",
    "github": "poooooby/woob_os"
   },

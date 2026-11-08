@@ -1,5 +1,286 @@
 [
  {
+  "date": "2026-11-08T11:16:34Z",
+  "new": [
+   {
+    "id": "gh:poooooby/wilds-of-kanto-gen-3",
+    "name": "Wilds of Kanto: Revival"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "g9 battle sprites gen3"
+   },
+   {
+    "id": "gh:poooooby/terrarium",
+    "name": "Terrarium"
+   },
+   {
+    "id": "gh:kennethreitz/gen1-music-frlg",
+    "name": "gen1 music frlg"
+   },
+   {
+    "id": "gh:bananausagi/apps-release",
+    "name": "apps release"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:t2wmt6sgff-glitch/alejandro_app_source",
+    "name": "Alejandro App Source",
+    "from": "spoti-1.0",
+    "to": "yt-1.0"
+   },
+   {
+    "id": "gh:darkheros09/bw-animated-sprites",
+    "name": "BW Animated Sprites",
+    "from": "v1.0.0",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald",
+    "from": "commit-3f78577",
+    "to": "commit-1020dad"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.0.2",
+    "to": "v1.1.0"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.6.2",
+    "to": "v0.8.2"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-cfa55ca",
+    "to": "commit-9486b7a"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-b531ed3",
+    "to": "commit-1b828f4"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.175",
+    "to": "content-editor-v0.1.177"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-6f5eb25",
+    "to": "commit-daf4403"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-805bb6d",
+    "to": "commit-cbc505f"
+   },
+   {
+    "id": "gh:showpei1203/gen1recomp-optimization-features",
+    "name": "gen1recomp-optimization-features",
+    "from": "commit-555c423",
+    "to": "commit-7f555b9"
+   },
+   {
+    "id": "gh:alfonspistoletti/gen1recomp-studio",
+    "name": "gen1recomp-studio",
+    "from": "v0.3.5",
+    "to": "v0.4.0"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-61a7cab",
+    "to": "commit-b7bf69a"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-debfcac",
+    "to": "commit-9a1abce"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-0e7c211",
+    "to": "commit-cedd107"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.53",
+    "to": "v0.8.56"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_celebi_time_travel",
+    "name": "Gmarc's Gen 2 Celebi Through Time",
+    "from": "v0.0.17",
+    "to": "v0.0.19"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_johto_in_first_person",
+    "name": "Gmarc's Gen 2 Johto in First Person",
+    "from": "v1.0.13",
+    "to": "v1.0.15"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen2_voxel_mod",
+    "name": "Gmarc's Gen 2 Voxel Mod",
+    "from": "v1.0.17",
+    "to": "v1.0.19"
+   },
+   {
+    "id": "gh:itchymichi/kantobridge",
+    "name": "KantoBridge",
+    "from": "commit-d885466",
+    "to": "commit-fd96b3f"
+   },
+   {
+    "id": "gh:deluxe0111/mega-evolution-gen-3",
+    "name": "Mega Evolution Gen 3",
+    "from": "commit-c3d352e",
+    "to": "commit-c462c60"
+   },
+   {
+    "id": "gh:bentley734/menu-customizer",
+    "name": "Menu Customizer",
+    "from": "v3.35.26",
+    "to": "v3.35.27"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-479efb0",
+    "to": "commit-5bf9cd6"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.0.3",
+    "to": "v1.0.4"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-2f2a3f0",
+    "to": "commit-2e3e53a"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-3677e0f",
+    "to": "commit-77d11ea"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v1.1.0",
+    "to": "v1.2.0"
+   },
+   {
+    "id": "gh:bananausagi/pocket-recomp",
+    "name": "pocket recomp",
+    "from": "commit-817faaf",
+    "to": "v0.2.96-personal"
+   },
+   {
+    "id": "gh:djmaccie/pokemon-emerald-3d-voxel-mod",
+    "name": "pokemon emerald 3d voxel mod",
+    "from": "commit-3f78577",
+    "to": "commit-1020dad"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-796c312",
+    "to": "commit-69d6bd3"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2",
+    "from": "1.66.0",
+    "to": "1.69.0"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "Recomp Achievements",
+    "from": "v2.6.4",
+    "to": "v2.7.0"
+   },
+   {
+    "id": "gh:tectorifter/safari-",
+    "name": "safari-plus",
+    "from": "v2.2.8",
+    "to": "v2.4.1"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.44.2",
+    "to": "v0.46.3"
+   },
+   {
+    "id": "gh:elvieblooms/trainer_talk_packager",
+    "name": "trainer_talk_packager",
+    "from": "commit-00c0d84",
+    "to": "v0.12.0"
+   },
+   {
+    "id": "gh:bentley734/wildfollowers",
+    "name": "WildFollowers",
+    "from": "3.4.7",
+    "to": "3.4.8"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "woob os",
+    "from": "v0.5.2",
+    "to": "v0.5.3"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:doiscineastas-bit/all-pokemon-catchable-251-mod-crystal",
+    "name": "All Pokemon Catchable 251",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:brewstercm/firered-johto-hoenn",
+    "name": "FireRed & LeafGreen Johto & Hoenn Encounters",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:lucianoneo/gen1recomp-mods",
+    "name": "gen1recomp-mods",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:showpei1203/gen1recomp-optimization-features",
+    "name": "gen1recomp-optimization-features",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:gawdmode/viridian-vivarium",
+    "name": "Viridian Vivarium",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-07T11:03:53Z",
   "new": [
    {
