@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-08T11:16:34Z",
- "count": 465,
+ "generated_at": "2026-11-09T12:52:16Z",
+ "count": 466,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -2029,7 +2029,7 @@
    "id": "cross_game_music",
    "title": "Cross Game Music",
    "author": "Tooandorisu",
-   "version": "01.22",
+   "version": "0.1.25",
    "categories": [
     "AUDIO"
    ],
@@ -2038,18 +2038,18 @@
    ],
    "summary": "Choose complete soundtracks or individual tracks from Pokémon Gen 1–3, regardless of which game you play. A music mod for Gen1Recomp.",
    "latest": {
-    "version": "01.22",
-    "tag": "01.22",
-    "name": "01.22",
+    "version": "0.1.25",
+    "tag": "0.1.25",
+    "name": "0.1.25",
     "prerelease": false,
-    "published_at": "2026-11-03T23:19:45Z",
+    "published_at": "2026-11-08T21:05:35Z",
     "zip": {
-     "name": "Cross-Game-Music-0.1.22.zip",
-     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/01.22/Cross-Game-Music-0.1.22.zip"
+     "name": "Cross-Game-Music-0.1.25.zip",
+     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.25/Cross-Game-Music-0.1.25.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T23:19:45Z",
+   "last_release": "2026-11-08T21:05:35Z",
    "repo": "https://github.com/Tooandorisu/Cross-Game-Music",
    "github": "Tooandorisu/Cross-Game-Music"
   },
@@ -3255,7 +3255,7 @@
    "id": "facets",
    "title": "Facets",
    "author": "ElvieBlooms",
-   "version": "1.1.0",
+   "version": "1.1.1",
    "categories": [
     "ART"
    ],
@@ -3264,18 +3264,18 @@
    ],
    "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
    "latest": {
-    "version": "1.1.0",
-    "tag": "v1.1.0",
-    "name": "v1.1.0",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "name": "v1.1.1",
     "prerelease": false,
-    "published_at": "2026-11-07T14:59:51Z",
+    "published_at": "2026-11-08T14:52:55Z",
     "zip": {
-     "name": "facets-tools-1.1.0.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.1.0/facets-tools-1.1.0.zip"
+     "name": "facets-1.1.1.zip",
+     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.1.1/facets-1.1.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T14:59:51Z",
+   "last_release": "2026-11-08T14:52:55Z",
    "games": [
     "gen3"
    ],
@@ -4583,7 +4583,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.177",
+   "version": "content-editor-v0.1.178",
    "categories": [
     "TOOL"
    ],
@@ -4592,18 +4592,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.177",
-    "tag": "content-editor-v0.1.177",
-    "name": "content-editor-v0.1.177",
+    "version": "content-editor-v0.1.178",
+    "tag": "content-editor-v0.1.178",
+    "name": "content-editor-v0.1.178",
     "prerelease": false,
-    "published_at": "2026-11-07T21:11:35Z",
+    "published_at": "2026-11-08T23:59:52Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.177/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.178/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T21:11:35Z",
+   "last_release": "2026-11-08T23:59:52Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5320,7 +5320,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.56",
+   "version": "0.8.57",
    "categories": [
     "TRANSLATION"
    ],
@@ -5329,18 +5329,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.56",
-    "tag": "v0.8.56",
-    "name": "v0.8.56",
+    "version": "0.8.57",
+    "tag": "v0.8.57",
+    "name": "v0.8.57",
     "prerelease": false,
-    "published_at": "2026-11-08T05:25:47Z",
+    "published_at": "2026-11-09T00:52:18Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.56-macos.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.56/Gen2Recomped-0.8.56-macos.zip"
+     "name": "Gen2Recomped-0.8.57-rg34xxsp-stockos64-mod.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.57/Gen2Recomped-0.8.57-rg34xxsp-stockos64-mod.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T05:25:47Z",
+   "last_release": "2026-11-09T00:52:18Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -8564,14 +8564,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-07T20:43:00Z",
+    "published_at": "2026-11-08T18:15:14Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T20:43:00Z",
+   "last_release": "2026-11-08T18:15:14Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9309,6 +9309,35 @@
    "github": "HubGit8/Gen1Recomp-Phase-Step"
   },
   {
+   "folder": "ElvieBlooms@pika_remastered",
+   "id": "pika_remastered",
+   "title": "pika remastered",
+   "author": "ElvieBlooms",
+   "version": "1.0.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "A Pikachu voice replacement mod for Pokemon Yellow in G1R",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-11-09T08:19:23Z",
+    "zip": {
+     "name": "pika_remastered-1.0.0.zip",
+     "url": "https://github.com/ElvieBlooms/pika_remastered/releases/download/v1.0.0/pika_remastered-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-09T08:19:23Z",
+   "repo": "https://github.com/ElvieBlooms/pika_remastered",
+   "github": "ElvieBlooms/pika_remastered"
+  },
+  {
    "folder": "WizzStar@pkmn_g123r_holdtoscroll_mod",
    "id": "pkmn_g123r_holdtoscroll_mod",
    "title": "PKMN-G123R-HoldToScroll-Mod",
@@ -9913,7 +9942,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "delta2",
+   "version": "delta4",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9922,18 +9951,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "delta2",
-    "tag": "delta2",
-    "name": "delta2",
+    "version": "delta4",
+    "tag": "delta4",
+    "name": "delta4",
     "prerelease": false,
-    "published_at": "2026-11-06T05:16:33Z",
+    "published_at": "2026-11-09T06:32:51Z",
     "zip": {
-     "name": "Ocean_Blue-20261105-235913-11.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/delta2/Ocean_Blue-20261105-235913-11.zip"
+     "name": "Ocean_Blue-20261108-231913-1.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/delta4/Ocean_Blue-20261108-231913-1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-06T05:16:33Z",
+   "last_release": "2026-11-09T06:32:51Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -10810,7 +10839,7 @@
    "id": "project_highlander_gen3",
    "title": "Project Highlander Gen3",
    "author": "Waifu4Life",
-   "version": "1.86.0",
+   "version": "1.88.0",
    "categories": [
     "TOOL"
    ],
@@ -10819,18 +10848,18 @@
    ],
    "summary": "Project Highlander Gen3",
    "latest": {
-    "version": "1.86.0",
-    "tag": "1.86.0",
-    "name": "1.86.0",
+    "version": "1.88.0",
+    "tag": "1.88.0",
+    "name": "1.88.0",
     "prerelease": false,
-    "published_at": "2026-11-04T23:52:03Z",
+    "published_at": "2026-11-09T02:51:49Z",
     "zip": {
-     "name": "project_highlander_gen3-1.86.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.86.0/project_highlander_gen3-1.86.0.zip"
+     "name": "project_highlander_gen3-1.88.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.88.0/project_highlander_gen3-1.88.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T23:52:03Z",
+   "last_release": "2026-11-09T02:51:49Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen3",
    "github": "Waifu4Life/Project-Highlander-Gen3"
   },
@@ -13211,7 +13240,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.46.3",
+   "version": "0.46.14",
    "categories": [
     "ART"
    ],
@@ -13220,18 +13249,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.46.3",
-    "tag": "v0.46.3",
-    "name": "v0.46.3",
+    "version": "0.46.14",
+    "tag": "v0.46.14",
+    "name": "v0.46.14",
     "prerelease": false,
-    "published_at": "2026-11-08T11:27:47Z",
+    "published_at": "2026-11-09T12:30:41Z",
     "zip": {
-     "name": "TileShift-v0.46.3.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.46.3/TileShift-v0.46.3.zip"
+     "name": "TileShift-v0.46.14.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.46.14/TileShift-v0.46.14.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T11:27:47Z",
+   "last_release": "2026-11-09T12:30:41Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },

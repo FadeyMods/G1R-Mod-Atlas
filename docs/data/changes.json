@@ -1,5 +1,232 @@
 [
  {
+  "date": "2026-11-09T12:52:16Z",
+  "new": [
+   {
+    "id": "gh:elvieblooms/pika_remastered",
+    "name": "pika remastered"
+   },
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:tolgakurtuluss/awesome-webos",
+    "name": "awesome webos",
+    "from": "commit-5aaba95",
+    "to": "commit-30e7548"
+   },
+   {
+    "id": "gh:tooandorisu/cross-game-music",
+    "name": "Cross Game Music",
+    "from": "01.22",
+    "to": "0.1.25"
+   },
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald",
+    "from": "commit-1020dad",
+    "to": "commit-6bbbafe"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.1.0",
+    "to": "v1.1.1"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.8.2",
+    "to": "v0.8.4"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-9486b7a",
+    "to": "commit-8a2c5b9"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.177",
+    "to": "content-editor-v0.1.178"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-daf4403",
+    "to": "commit-25964c2"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-cbc505f",
+    "to": "commit-1c29134"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-b7bf69a",
+    "to": "commit-40c3ad7"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal",
+    "name": "Gen2 Tradução pt-br  crystal",
+    "from": "v0.59.0",
+    "to": "v0.61.0"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-9a1abce",
+    "to": "commit-9e83f4f"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-cedd107",
+    "to": "commit-c1beab9"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.56",
+    "to": "v0.8.57"
+   },
+   {
+    "id": "gh:averageconsumer/kanto-gear",
+    "name": "Kanto Gear",
+    "from": "v4.6.3",
+    "to": "v4.6.5"
+   },
+   {
+    "id": "gh:deluxe0111/mega-evolution-gen-3",
+    "name": "Mega Evolution Gen 3",
+    "from": "commit-c462c60",
+    "to": "v1.0.0"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-5bf9cd6",
+    "to": "commit-9afad70"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-2e3e53a",
+    "to": "commit-ba9c2e1"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-77d11ea",
+    "to": "commit-ef593a6"
+   },
+   {
+    "id": "gh:djmaccie/pokemon-emerald-3d-voxel-mod",
+    "name": "pokemon emerald 3d voxel mod",
+    "from": "commit-1020dad",
+    "to": "commit-6bbbafe"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "delta2",
+    "to": "delta4"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-69d6bd3",
+    "to": "commit-564800f"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.86.0",
+    "to": "1.88.0"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-0682031",
+    "to": "commit-079375b"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.46.3",
+    "to": "v0.46.14"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal-ptbr",
+    "name": "versaocristal ptbr",
+    "from": "v0.59.0",
+    "to": "v0.61.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:deathtwist873/gen1recomp-flawless-pp-restoration",
+    "name": "gen1recomp-flawless-pp-restoration",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:blinkingsun/gen1recomp-ios-crystal-v1.1",
+    "name": "Gen1recomp-IOS-Crystal-v1.1",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:deathtwist873/gen1recomp-wild-rewards",
+    "name": "gen1recomp-wild-rewards",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:neburb/go-mod",
+    "name": "go-mod",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:brewstercm/megaevolution-frlg",
+    "name": "Mega Evolution - FRLG",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:dscrete/mythemon",
+    "name": "Mythmon",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:neburb/pokebox-sync-gen1recomp",
+    "name": "pokebox-sync-gen1recomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:debatesmith/project-celebi",
+    "name": "Project-Celebi",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:goofwear/tcgrecomp",
+    "name": "TCGRecomp",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-08T11:16:34Z",
   "new": [
    {
