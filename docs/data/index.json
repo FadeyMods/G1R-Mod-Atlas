@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T12:52:16Z",
- "count": 466,
+ "generated_at": "2026-11-10T12:39:24Z",
+ "count": 467,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3251,38 +3251,6 @@
    "github": "Bookfan97/expanded_exp_share_modes"
   },
   {
-   "folder": "ElvieBlooms@facets",
-   "id": "facets",
-   "title": "Facets",
-   "author": "ElvieBlooms",
-   "version": "1.1.1",
-   "categories": [
-    "ART"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "An NPC sprite replacement mod for the 3rd Gen games in Gen1Recomp",
-   "latest": {
-    "version": "1.1.1",
-    "tag": "v1.1.1",
-    "name": "v1.1.1",
-    "prerelease": false,
-    "published_at": "2026-11-08T14:52:55Z",
-    "zip": {
-     "name": "facets-1.1.1.zip",
-     "url": "https://github.com/ElvieBlooms/facets/releases/download/v1.1.1/facets-1.1.1.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-08T14:52:55Z",
-   "games": [
-    "gen3"
-   ],
-   "repo": "https://github.com/ElvieBlooms/facets",
-   "github": "ElvieBlooms/facets"
-  },
-  {
    "folder": "harryw4444@fade_overlay_fix",
    "id": "fade_overlay_fix",
    "title": "Fade Overlay Fix",
@@ -4044,7 +4012,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.4.14",
+   "version": "0.4.17",
    "categories": [
     "LIBRARY"
    ],
@@ -4053,18 +4021,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.4.14",
-    "tag": "v0.4.14",
-    "name": "v0.4.14",
+    "version": "0.4.17",
+    "tag": "v0.4.17",
+    "name": "v0.4.17",
     "prerelease": false,
-    "published_at": "2026-11-07T05:04:25Z",
+    "published_at": "2026-11-10T06:01:25Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.4.14.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.14/gen3-hd-sprites-0.4.14.zip"
+     "name": "gen3-hd-sprites-0.4.17.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.17/gen3-hd-sprites-0.4.17.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T05:04:25Z",
+   "last_release": "2026-11-10T06:01:25Z",
    "games": [
     "gen3"
    ],
@@ -4583,7 +4551,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.178",
+   "version": "content-editor-v0.1.179",
    "categories": [
     "TOOL"
    ],
@@ -4592,18 +4560,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.178",
-    "tag": "content-editor-v0.1.178",
-    "name": "content-editor-v0.1.178",
+    "version": "content-editor-v0.1.179",
+    "tag": "content-editor-v0.1.179",
+    "name": "content-editor-v0.1.179",
     "prerelease": false,
-    "published_at": "2026-11-08T23:59:52Z",
+    "published_at": "2026-11-09T21:32:31Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.178/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.179/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T23:59:52Z",
+   "last_release": "2026-11-09T21:32:31Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -5472,7 +5440,7 @@
    "id": "gmarcs_gen1_kanto_in_first_person",
    "title": "gmarcs gen1 kanto in first person",
    "author": "gmarcmods",
-   "version": "2.0.3",
+   "version": "2.0.4",
    "categories": [
     "ART"
    ],
@@ -5482,18 +5450,18 @@
    ],
    "summary": "Gmarc's Gen 1 Kanto in First Person 2.0.2",
    "latest": {
-    "version": "2.0.3",
-    "tag": "v2.0.3",
-    "name": "v2.0.3",
+    "version": "2.0.4",
+    "tag": "v2.0.4",
+    "name": "v2.0.4",
     "prerelease": false,
-    "published_at": "2026-10-31T11:59:37Z",
+    "published_at": "2026-11-10T09:50:48Z",
     "zip": {
-     "name": "gmarcs_gen1_kanto_in_first_person-2.0.3.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_kanto_in_first_person/releases/download/v2.0.3/gmarcs_gen1_kanto_in_first_person-2.0.3.zip"
+     "name": "gmarcs_gen1_kanto_in_first_person-2.0.4.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_kanto_in_first_person/releases/download/v2.0.4/gmarcs_gen1_kanto_in_first_person-2.0.4.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T11:59:37Z",
+   "last_release": "2026-11-10T09:50:48Z",
    "repo": "https://github.com/gmarcmods/gmarcs_gen1_kanto_in_first_person",
    "github": "gmarcmods/gmarcs_gen1_kanto_in_first_person"
   },
@@ -5502,7 +5470,7 @@
    "id": "gmarcs_gen1_qol_mod",
    "title": "gmarcs gen1 qol mod",
    "author": "gmarcmods",
-   "version": "1.1.5",
+   "version": "1.2.5",
    "categories": [
     "QOL"
    ],
@@ -5511,18 +5479,18 @@
    ],
    "summary": "Gmarc's Gen 1 QoL Mod 1.1.1",
    "latest": {
-    "version": "1.1.5",
-    "tag": "v1.1.5",
-    "name": "v1.1.5",
+    "version": "1.2.5",
+    "tag": "v1.2.5",
+    "name": "v1.2.5",
     "prerelease": false,
-    "published_at": "2026-11-04T21:41:40Z",
+    "published_at": "2026-11-10T11:51:21Z",
     "zip": {
-     "name": "gmarcs_gen1_qol_mod.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod/releases/download/v1.1.5/gmarcs_gen1_qol_mod.zip"
+     "name": "gmarcs_gen1_qol_mod-1.2.5.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod/releases/download/v1.2.5/gmarcs_gen1_qol_mod-1.2.5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T21:41:40Z",
+   "last_release": "2026-11-10T11:51:21Z",
    "repo": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod",
    "github": "gmarcmods/gmarcs_gen1_qol_mod"
   },
@@ -5531,7 +5499,7 @@
    "id": "gmarcs_gen1_voxel_mod",
    "title": "gmarcs gen1 voxel mod",
    "author": "gmarcmods",
-   "version": "1.6.6",
+   "version": "1.6.7",
    "categories": [
     "ART"
    ],
@@ -5541,18 +5509,18 @@
    ],
    "summary": "Gmarc's Gen 1 Voxel Mod — Red, Blue and Yellow in 3D",
    "latest": {
-    "version": "1.6.6",
-    "tag": "v1.6.6",
-    "name": "v1.6.6",
+    "version": "1.6.7",
+    "tag": "v1.6.7",
+    "name": "v1.6.7",
     "prerelease": false,
-    "published_at": "2026-10-31T12:00:25Z",
+    "published_at": "2026-11-10T12:02:15Z",
     "zip": {
-     "name": "gmarcs_gen1_voxel_mod-1.6.6.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_voxel_mod/releases/download/v1.6.6/gmarcs_gen1_voxel_mod-1.6.6.zip"
+     "name": "gmarcs_gen1_voxel_mod-1.6.7.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen1_voxel_mod/releases/download/v1.6.7/gmarcs_gen1_voxel_mod-1.6.7.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T12:00:25Z",
+   "last_release": "2026-11-10T12:02:15Z",
    "repo": "https://github.com/gmarcmods/gmarcs_gen1_voxel_mod",
    "github": "gmarcmods/gmarcs_gen1_voxel_mod"
   },
@@ -7371,7 +7339,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.4.0",
+   "version": "0.5.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7380,18 +7348,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.4.0",
-    "tag": "v0.4.0",
-    "name": "v0.4.0",
+    "version": "0.5.0",
+    "tag": "v0.5.0",
+    "name": "v0.5.0",
     "prerelease": false,
-    "published_at": "2026-11-05T22:16:33Z",
+    "published_at": "2026-11-09T19:03:13Z",
     "zip": {
-     "name": "max_raids-0.4.0.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.4.0/max_raids-0.4.0.zip"
+     "name": "max_raids-0.5.0.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.5.0/max_raids-0.5.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T22:16:33Z",
+   "last_release": "2026-11-09T19:03:13Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -8545,6 +8513,35 @@
    "last_release": "2026-11-03T12:14:47Z",
    "repo": "https://github.com/Bentley734/Name-Rater",
    "github": "Bentley734/Name-Rater"
+  },
+  {
+   "folder": "ElvieBlooms@name_tags",
+   "id": "name_tags",
+   "title": "name tags",
+   "author": "ElvieBlooms",
+   "version": "1.0.0",
+   "categories": [
+    "QOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "An auto-nickname mod for Gen1Recomp",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-11-10T01:04:59Z",
+    "zip": {
+     "name": "name_tags-1.0.0.zip",
+     "url": "https://github.com/ElvieBlooms/name_tags/releases/download/v1.0.0/name_tags-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-10T01:04:59Z",
+   "repo": "https://github.com/ElvieBlooms/name_tags",
+   "github": "ElvieBlooms/name_tags"
   },
   {
    "folder": "Hailey-Ross@nativemons",
@@ -9942,7 +9939,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "delta4",
+   "version": "delta5",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9951,18 +9948,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "delta4",
-    "tag": "delta4",
-    "name": "delta4",
+    "version": "delta5",
+    "tag": "delta5",
+    "name": "delta5",
     "prerelease": false,
-    "published_at": "2026-11-09T06:32:51Z",
+    "published_at": "2026-11-10T07:23:27Z",
     "zip": {
-     "name": "Ocean_Blue-20261108-231913-1.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/delta4/Ocean_Blue-20261108-231913-1.zip"
+     "name": "Ocean_Blue-20261110-022149-1.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/delta5/Ocean_Blue-20261110-022149-1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-09T06:32:51Z",
+   "last_release": "2026-11-10T07:23:27Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -10651,6 +10648,35 @@
    ],
    "repo": "https://github.com/LiNK200488/Pretty-Moves",
    "github": "LiNK200488/Pretty-Moves"
+  },
+  {
+   "folder": "ElvieBlooms@prism_importer",
+   "id": "prism_importer",
+   "title": "prism importer",
+   "author": "ElvieBlooms",
+   "version": "0.3.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "An additional game importer to be used with other mods in Gen1Recomp",
+   "latest": {
+    "version": "0.3.0",
+    "tag": "v0.3.0",
+    "name": "v0.3.0",
+    "prerelease": false,
+    "published_at": "2026-11-09T16:22:59Z",
+    "zip": {
+     "name": "prism_importer-0.3.0.zip",
+     "url": "https://github.com/ElvieBlooms/prism_importer/releases/download/v0.3.0/prism_importer-0.3.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-09T16:22:59Z",
+   "repo": "https://github.com/ElvieBlooms/prism_importer",
+   "github": "ElvieBlooms/prism_importer"
   },
   {
    "folder": "prioa@priston",
@@ -13240,7 +13266,7 @@
    "id": "tileshift",
    "title": "TileShift",
    "author": "Bentley734",
-   "version": "0.46.14",
+   "version": "0.46.19",
    "categories": [
     "ART"
    ],
@@ -13249,18 +13275,18 @@
    ],
    "summary": "Reviewed Gen 3 tileset replacements for Gen1Recomp, starting with complete Pallet Town backgrounds.",
    "latest": {
-    "version": "0.46.14",
-    "tag": "v0.46.14",
-    "name": "v0.46.14",
+    "version": "0.46.19",
+    "tag": "v0.46.19",
+    "name": "v0.46.19",
     "prerelease": false,
-    "published_at": "2026-11-09T12:30:41Z",
+    "published_at": "2026-11-10T04:34:40Z",
     "zip": {
-     "name": "TileShift-v0.46.14.zip",
-     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.46.14/TileShift-v0.46.14.zip"
+     "name": "TileShift-v0.46.19.zip",
+     "url": "https://github.com/Bentley734/TileShift/releases/download/v0.46.19/TileShift-v0.46.19.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-09T12:30:41Z",
+   "last_release": "2026-11-10T04:34:40Z",
    "repo": "https://github.com/Bentley734/TileShift",
    "github": "Bentley734/TileShift"
   },
@@ -14274,7 +14300,7 @@
    "id": "woob_os",
    "title": "woob os",
    "author": "poooooby",
-   "version": "0.5.3",
+   "version": "0.7.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -14283,18 +14309,18 @@
    ],
    "summary": "WoobOS: the Gen 3 PC (FireRed, LeafGreen, Ruby, Sapphire, Emerald) as a modern desktop, a gen1recomp mod",
    "latest": {
-    "version": "0.5.3",
-    "tag": "v0.5.3",
-    "name": "v0.5.3",
+    "version": "0.7.2",
+    "tag": "v0.7.2",
+    "name": "v0.7.2",
     "prerelease": false,
-    "published_at": "2026-11-08T00:20:30Z",
+    "published_at": "2026-11-10T05:58:15Z",
     "zip": {
-     "name": "woob_os-0.5.3.zip",
-     "url": "https://github.com/poooooby/woob_os/releases/download/v0.5.3/woob_os-0.5.3.zip"
+     "name": "woob_os-0.7.2.zip",
+     "url": "https://github.com/poooooby/woob_os/releases/download/v0.7.2/woob_os-0.7.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T00:20:30Z",
+   "last_release": "2026-11-10T05:58:15Z",
    "repo": "https://github.com/poooooby/woob_os",
    "github": "poooooby/woob_os"
   },

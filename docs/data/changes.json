@@ -1,5 +1,222 @@
 [
  {
+  "date": "2026-11-10T12:39:24Z",
+  "new": [
+   {
+    "id": "gh:elvieblooms/name_tags",
+    "name": "name tags"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald",
+    "from": "commit-6bbbafe",
+    "to": "commit-7ede887"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v1.0.6",
+    "to": "v1.0.8"
+   },
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-8ec72a9",
+    "to": "commit-cbace2e"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.1.1",
+    "to": "v1.2.1"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.8.4",
+    "to": "v0.8.6"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-8a2c5b9",
+    "to": "commit-69d1c94"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.4.14",
+    "to": "v0.4.17"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-1b828f4",
+    "to": "commit-13742e3"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.178",
+    "to": "content-editor-v0.1.179"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-25964c2",
+    "to": "commit-655f992"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-1c29134",
+    "to": "commit-cd95f9e"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-40c3ad7",
+    "to": "commit-1df2459"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-9e83f4f",
+    "to": "commit-c2ef4ce"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-c1beab9",
+    "to": "commit-743950a"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-d0fe3f6",
+    "to": "commit-af6e6da"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_kanto_in_first_person",
+    "name": "gmarcs gen1 kanto in first person",
+    "from": "v2.0.3",
+    "to": "v2.0.4"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_qol_mod",
+    "name": "gmarcs gen1 qol mod",
+    "from": "v1.1.5",
+    "to": "v1.2.5"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_voxel_mod",
+    "name": "gmarcs gen1 voxel mod",
+    "from": "v1.6.6",
+    "to": "v1.6.7"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.4.0",
+    "to": "v0.5.0"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-9afad70",
+    "to": "commit-b29e2ba"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-ba9c2e1",
+    "to": "commit-82158f7"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-ef593a6",
+    "to": "commit-f4876f2"
+   },
+   {
+    "id": "gh:djmaccie/pokemon-emerald-3d-voxel-mod",
+    "name": "pokemon emerald 3d voxel mod",
+    "from": "commit-6bbbafe",
+    "to": "commit-7ede887"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "delta4",
+    "to": "delta5"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-564800f",
+    "to": "commit-588475e"
+   },
+   {
+    "id": "gh:elvieblooms/prism_importer",
+    "name": "prism importer",
+    "from": "commit-04d696a",
+    "to": "v0.3.0"
+   },
+   {
+    "id": "gh:bentley734/tileshift",
+    "name": "TileShift",
+    "from": "v0.46.14",
+    "to": "v0.46.19"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-kanto-gen-3",
+    "name": "Wilds of Kanto: Revival",
+    "from": "v2.8.6",
+    "to": "v2.8.7"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "woob os",
+    "from": "v0.5.3",
+    "to": "v0.7.2"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.8.0",
+    "to": "v1.8.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:sanjinpepic/gen1recomp-battle-forms",
+    "name": "Battle Forms",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:sanjinpepic/gen1recomp-national-dex",
+    "name": "gen1recomp-national-dex",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:dscrete/recomp_additions",
+    "name": "Kanto Expansion",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:1jamie/kanto-reforged",
+    "name": "Kanto Reforged",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-09T12:52:16Z",
   "new": [
    {
