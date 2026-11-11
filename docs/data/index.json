@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T12:39:24Z",
- "count": 467,
+ "generated_at": "2026-11-11T11:52:36Z",
+ "count": 463,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -384,7 +384,7 @@
    "id": "gen3_frlg_pt-br_mod",
    "title": "[PT-BR] Versão Brasileira (FRLG)",
    "author": "LordSangreal",
-   "version": "0.1.6",
+   "version": "0.1.7",
    "categories": [
     "TRANSLATION"
    ],
@@ -393,18 +393,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.1.6",
-    "tag": "v0.1.6",
-    "name": "v0.1.6",
+    "version": "0.1.7",
+    "tag": "v0.1.7",
+    "name": "v0.1.7",
     "prerelease": false,
-    "published_at": "2026-11-03T15:37:10Z",
+    "published_at": "2026-11-11T09:54:46Z",
     "zip": {
-     "name": "gen3_frlg_pt-br_mod-0.1.6.zip",
-     "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.6/gen3_frlg_pt-br_mod-0.1.6.zip"
+     "name": "gen3_frlg_pt-br_mod-0.1.7.zip",
+     "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.7/gen3_frlg_pt-br_mod-0.1.7.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-03T15:37:10Z",
+   "last_release": "2026-11-11T09:54:46Z",
    "games": [
     "firered",
     "leafgreen"
@@ -2029,7 +2029,7 @@
    "id": "cross_game_music",
    "title": "Cross Game Music",
    "author": "Tooandorisu",
-   "version": "0.1.25",
+   "version": "0.1.27",
    "categories": [
     "AUDIO"
    ],
@@ -2038,18 +2038,18 @@
    ],
    "summary": "Choose complete soundtracks or individual tracks from Pokémon Gen 1–3, regardless of which game you play. A music mod for Gen1Recomp.",
    "latest": {
-    "version": "0.1.25",
-    "tag": "0.1.25",
-    "name": "0.1.25",
+    "version": "0.1.27",
+    "tag": "0.1.27",
+    "name": "0.1.27",
     "prerelease": false,
-    "published_at": "2026-11-08T21:05:35Z",
+    "published_at": "2026-11-11T10:41:58Z",
     "zip": {
-     "name": "Cross-Game-Music-0.1.25.zip",
-     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.25/Cross-Game-Music-0.1.25.zip"
+     "name": "Cross-Game-Music-0.1.27.zip",
+     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.27/Cross-Game-Music-0.1.27.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T21:05:35Z",
+   "last_release": "2026-11-11T10:41:58Z",
    "repo": "https://github.com/Tooandorisu/Cross-Game-Music",
    "github": "Tooandorisu/Cross-Game-Music"
   },
@@ -4012,7 +4012,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.4.17",
+   "version": "0.4.20",
    "categories": [
     "LIBRARY"
    ],
@@ -4021,18 +4021,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.4.17",
-    "tag": "v0.4.17",
-    "name": "v0.4.17",
+    "version": "0.4.20",
+    "tag": "v0.4.20",
+    "name": "v0.4.20",
     "prerelease": false,
-    "published_at": "2026-11-10T06:01:25Z",
+    "published_at": "2026-11-11T04:20:52Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.4.17.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.17/gen3-hd-sprites-0.4.17.zip"
+     "name": "gen3-hd-sprites-0.4.20.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.20/gen3-hd-sprites-0.4.20.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-10T06:01:25Z",
+   "last_release": "2026-11-11T04:20:52Z",
    "games": [
     "gen3"
    ],
@@ -5405,124 +5405,6 @@
    ],
    "repo": "https://github.com/Jo5-K/GiveNationaldex---Gen1recomp-mod",
    "github": "Jo5-K/GiveNationaldex---Gen1recomp-mod"
-  },
-  {
-   "folder": "gmarcmods@gmarcs_gen1_kanto_alive",
-   "id": "gmarcs_gen1_kanto_alive",
-   "title": "gmarcs gen1 kanto alive",
-   "author": "gmarcmods",
-   "version": "1.0.1",
-   "categories": [
-    "QOL"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "Gmarc's Gen 1 Kanto Alive 1.0.0",
-   "latest": {
-    "version": "1.0.1",
-    "tag": "v1.0.1",
-    "name": "v1.0.1",
-    "prerelease": false,
-    "published_at": "2026-10-31T12:00:14Z",
-    "zip": {
-     "name": "gmarcs_gen1_kanto_alive-1.0.1.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_kanto_alive/releases/download/v1.0.1/gmarcs_gen1_kanto_alive-1.0.1.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-10-31T12:00:14Z",
-   "repo": "https://github.com/gmarcmods/gmarcs_gen1_kanto_alive",
-   "github": "gmarcmods/gmarcs_gen1_kanto_alive"
-  },
-  {
-   "folder": "gmarcmods@gmarcs_gen1_kanto_in_first_person",
-   "id": "gmarcs_gen1_kanto_in_first_person",
-   "title": "gmarcs gen1 kanto in first person",
-   "author": "gmarcmods",
-   "version": "2.0.4",
-   "categories": [
-    "ART"
-   ],
-   "tags": [
-    "voxel",
-    "unlisted"
-   ],
-   "summary": "Gmarc's Gen 1 Kanto in First Person 2.0.2",
-   "latest": {
-    "version": "2.0.4",
-    "tag": "v2.0.4",
-    "name": "v2.0.4",
-    "prerelease": false,
-    "published_at": "2026-11-10T09:50:48Z",
-    "zip": {
-     "name": "gmarcs_gen1_kanto_in_first_person-2.0.4.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_kanto_in_first_person/releases/download/v2.0.4/gmarcs_gen1_kanto_in_first_person-2.0.4.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-10T09:50:48Z",
-   "repo": "https://github.com/gmarcmods/gmarcs_gen1_kanto_in_first_person",
-   "github": "gmarcmods/gmarcs_gen1_kanto_in_first_person"
-  },
-  {
-   "folder": "gmarcmods@gmarcs_gen1_qol_mod",
-   "id": "gmarcs_gen1_qol_mod",
-   "title": "gmarcs gen1 qol mod",
-   "author": "gmarcmods",
-   "version": "1.2.5",
-   "categories": [
-    "QOL"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "Gmarc's Gen 1 QoL Mod 1.1.1",
-   "latest": {
-    "version": "1.2.5",
-    "tag": "v1.2.5",
-    "name": "v1.2.5",
-    "prerelease": false,
-    "published_at": "2026-11-10T11:51:21Z",
-    "zip": {
-     "name": "gmarcs_gen1_qol_mod-1.2.5.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod/releases/download/v1.2.5/gmarcs_gen1_qol_mod-1.2.5.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-10T11:51:21Z",
-   "repo": "https://github.com/gmarcmods/gmarcs_gen1_qol_mod",
-   "github": "gmarcmods/gmarcs_gen1_qol_mod"
-  },
-  {
-   "folder": "gmarcmods@gmarcs_gen1_voxel_mod",
-   "id": "gmarcs_gen1_voxel_mod",
-   "title": "gmarcs gen1 voxel mod",
-   "author": "gmarcmods",
-   "version": "1.6.7",
-   "categories": [
-    "ART"
-   ],
-   "tags": [
-    "voxel",
-    "unlisted"
-   ],
-   "summary": "Gmarc's Gen 1 Voxel Mod — Red, Blue and Yellow in 3D",
-   "latest": {
-    "version": "1.6.7",
-    "tag": "v1.6.7",
-    "name": "v1.6.7",
-    "prerelease": false,
-    "published_at": "2026-11-10T12:02:15Z",
-    "zip": {
-     "name": "gmarcs_gen1_voxel_mod-1.6.7.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen1_voxel_mod/releases/download/v1.6.7/gmarcs_gen1_voxel_mod-1.6.7.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-10T12:02:15Z",
-   "repo": "https://github.com/gmarcmods/gmarcs_gen1_voxel_mod",
-   "github": "gmarcmods/gmarcs_gen1_voxel_mod"
   },
   {
    "folder": "gmarcmods@gmarcs_gen2_spanish_mod",
@@ -7339,7 +7221,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.5.0",
+   "version": "0.6.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7348,18 +7230,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.5.0",
-    "tag": "v0.5.0",
-    "name": "v0.5.0",
+    "version": "0.6.0",
+    "tag": "v0.6.0",
+    "name": "v0.6.0",
     "prerelease": false,
-    "published_at": "2026-11-09T19:03:13Z",
+    "published_at": "2026-11-11T04:56:10Z",
     "zip": {
-     "name": "max_raids-0.5.0.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.5.0/max_raids-0.5.0.zip"
+     "name": "max_raids-0.6.0.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.0/max_raids-0.6.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-09T19:03:13Z",
+   "last_release": "2026-11-11T04:56:10Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -8283,7 +8165,7 @@
    "id": "mpc_boot_thingy",
    "title": "mpc boot thingy",
    "author": "garrettjwilke",
-   "version": "1.0.4",
+   "version": "1.0.9",
    "categories": [
     "UI"
    ],
@@ -8292,18 +8174,18 @@
    ],
    "summary": "boot menu for mpc sample",
    "latest": {
-    "version": "1.0.4",
-    "tag": "v1.0.4",
-    "name": "v1.0.4",
+    "version": "1.0.9",
+    "tag": "v1.0.9",
+    "name": "v1.0.9",
     "prerelease": false,
-    "published_at": "2026-11-08T00:38:54Z",
+    "published_at": "2026-11-11T01:33:55Z",
     "zip": {
      "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.4/mpc-boot-thingy.zip"
+     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.0.9/mpc-boot-thingy.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T00:38:54Z",
+   "last_release": "2026-11-11T01:33:55Z",
    "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
    "github": "garrettjwilke/mpc-boot-thingy"
   },
@@ -8312,7 +8194,7 @@
    "id": "mpc_gen1recomp",
    "title": "mpc gen1recomp",
    "author": "garrettjwilke",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "categories": [
     "TOOL"
    ],
@@ -8321,18 +8203,18 @@
    ],
    "summary": "gen1recomp on the MPC Sample",
    "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-11-02T07:56:19Z",
+    "published_at": "2026-11-11T01:44:12Z",
     "zip": {
      "name": "mpc-gen1recomp.zip",
-     "url": "https://github.com/garrettjwilke/mpc-gen1recomp/releases/download/v1.0.0/mpc-gen1recomp.zip"
+     "url": "https://github.com/garrettjwilke/mpc-gen1recomp/releases/download/v1.0.1/mpc-gen1recomp.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T07:56:19Z",
+   "last_release": "2026-11-11T01:44:12Z",
    "repo": "https://github.com/garrettjwilke/mpc-gen1recomp",
    "github": "garrettjwilke/mpc-gen1recomp"
   },
@@ -8561,14 +8443,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-08T18:15:14Z",
+    "published_at": "2026-11-10T15:22:39Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T18:15:14Z",
+   "last_release": "2026-11-10T15:22:39Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -14300,7 +14182,7 @@
    "id": "woob_os",
    "title": "woob os",
    "author": "poooooby",
-   "version": "0.7.2",
+   "version": "0.9.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -14309,18 +14191,18 @@
    ],
    "summary": "WoobOS: the Gen 3 PC (FireRed, LeafGreen, Ruby, Sapphire, Emerald) as a modern desktop, a gen1recomp mod",
    "latest": {
-    "version": "0.7.2",
-    "tag": "v0.7.2",
-    "name": "v0.7.2",
+    "version": "0.9.1",
+    "tag": "v0.9.1",
+    "name": "v0.9.1",
     "prerelease": false,
-    "published_at": "2026-11-10T05:58:15Z",
+    "published_at": "2026-11-11T08:22:46Z",
     "zip": {
-     "name": "woob_os-0.7.2.zip",
-     "url": "https://github.com/poooooby/woob_os/releases/download/v0.7.2/woob_os-0.7.2.zip"
+     "name": "woob_os-0.9.1.zip",
+     "url": "https://github.com/poooooby/woob_os/releases/download/v0.9.1/woob_os-0.9.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-10T05:58:15Z",
+   "last_release": "2026-11-11T08:22:46Z",
    "repo": "https://github.com/poooooby/woob_os",
    "github": "poooooby/woob_os"
   },

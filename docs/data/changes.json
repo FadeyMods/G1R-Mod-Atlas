@@ -1,5 +1,258 @@
 [
  {
+  "date": "2026-11-11T11:52:36Z",
+  "new": [
+   {
+    "id": "gh:gr00vy21c5/post-game-rematches-gen-1-pokemon-games",
+    "name": "post game rematches gen 1 pokemon games"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:lordsangreal/gen3_frlg_pt-br_mod",
+    "name": "[PT-BR] Versão Brasileira (FRLG)",
+    "from": "v0.1.6",
+    "to": "v0.1.7"
+   },
+   {
+    "id": "gh:standonjoyner/awesome-rea",
+    "name": "awesome rea",
+    "from": "commit-84cbfe2",
+    "to": "commit-53f60b2"
+   },
+   {
+    "id": "gh:tooandorisu/cross-game-music",
+    "name": "Cross Game Music",
+    "from": "0.1.25",
+    "to": "0.1.27"
+   },
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald",
+    "from": "commit-7ede887",
+    "to": "commit-deef507"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v1.0.8",
+    "to": "v1.0.9"
+   },
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-cbace2e",
+    "to": "commit-903575e"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.2.1",
+    "to": "v1.2.2"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-69d1c94",
+    "to": "commit-eee57af"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.4.17",
+    "to": "v0.4.20"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-13742e3",
+    "to": "commit-ae7cf06"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-655f992",
+    "to": "commit-985a301"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-cd95f9e",
+    "to": "commit-0619580"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-1df2459",
+    "to": "commit-0ca1101"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-c2ef4ce",
+    "to": "commit-1b9e6dd"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-743950a",
+    "to": "commit-ace36b7"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.5.0",
+    "to": "v0.6.0"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-b29e2ba",
+    "to": "commit-a6a6b1f"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.0.4",
+    "to": "v1.0.9"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-gen1recomp",
+    "name": "mpc gen1recomp",
+    "from": "v1.0.0",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-82158f7",
+    "to": "commit-c247971"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-f4876f2",
+    "to": "commit-3963bf8"
+   },
+   {
+    "id": "gh:djmaccie/pokemon-emerald-3d-voxel-mod",
+    "name": "pokemon emerald 3d voxel mod",
+    "from": "commit-7ede887",
+    "to": "commit-deef507"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-588475e",
+    "to": "commit-04f80fc"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "woob os",
+    "from": "v0.7.2",
+    "to": "v0.9.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:nahalewski/3dsemu",
+    "name": "3DSEmu",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:leo0957/levulup-bot",
+    "name": "Auto Grass Battler",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gawdmode/battle-factory-remix",
+    "name": "Battle Factory Remix",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:smidja2/dx-realtime-and-overworld-for-gen2",
+    "name": "DX Realtime and Overworld (Gen 2)",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:cohako/gen1recomp-lua-native-3ds-port",
+    "name": "gen1recomp-lua-native-3ds-port",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:code-grub/gen1recomp-vita",
+    "name": "gen1recomp-vita",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_kanto_alive",
+    "name": "gmarcs gen1 kanto alive",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_kanto_in_first_person",
+    "name": "gmarcs gen1 kanto in first person",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_qol_mod",
+    "name": "gmarcs gen1 qol mod",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:gmarcmods/gmarcs_gen1_voxel_mod",
+    "name": "gmarcs gen1 voxel mod",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:bountyhunterkanden/kanto-companion",
+    "name": "Kanto-Companion",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gawdmode/mutant-monster-lab",
+    "name": "Mutant Monster Lab",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:faz540/pokemon-anime-cries-recomp-mod",
+    "name": "Pokémon Anime Cries",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:smidja2/ranch-importer",
+    "name": "Ranch-Importer",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:bountyhunterkanden/vanilla-sprites-plus",
+    "name": "Vanilla Sprites+",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-10T12:39:24Z",
   "new": [
    {
