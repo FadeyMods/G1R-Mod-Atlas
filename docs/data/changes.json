@@ -1,5 +1,222 @@
 [
  {
+  "date": "2026-11-12T12:42:48Z",
+  "new": [
+   {
+    "id": "gh:bryanthaboi/bryanthaboi",
+    "name": "bryanthaboi"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:standonjoyner/awesome-rea",
+    "name": "awesome rea",
+    "from": "commit-53f60b2",
+    "to": "commit-b7f8a98"
+   },
+   {
+    "id": "gh:tooandorisu/cross-game-music",
+    "name": "Cross Game Music",
+    "from": "0.1.27",
+    "to": "0.1.29"
+   },
+   {
+    "id": "gh:leonardwohl/crystal-legacy-gen1recomp",
+    "name": "crystal legacy gen1recomp",
+    "from": "v0.3.0",
+    "to": "v0.5.0"
+   },
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-903575e",
+    "to": "commit-657fd27"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.8.6",
+    "to": "v0.9.1"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-eee57af",
+    "to": "commit-45cb73b"
+   },
+   {
+    "id": "gh:bloodninj/g1r-uk-english-translation",
+    "name": "g1r uk english translation",
+    "from": "v0.1.0",
+    "to": "v0.2.0"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.4.20",
+    "to": "v0.4.21"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-ae7cf06",
+    "to": "commit-a8d7c10"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-985a301",
+    "to": "commit-e4974cd"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-0ca1101",
+    "to": "commit-594081c"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-1b9e6dd",
+    "to": "commit-457a747"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-ace36b7",
+    "to": "commit-e2f5a98"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.57",
+    "to": "v0.8.58"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-a6a6b1f",
+    "to": "commit-9a89391"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.0.9",
+    "to": "v1.1.1"
+   },
+   {
+    "id": "gh:elvieblooms/name_tags",
+    "name": "name tags",
+    "from": "v1.0.0",
+    "to": "v1.1.0"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-c247971",
+    "to": "commit-c777e2e"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-3963bf8",
+    "to": "commit-b0a2eb3"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v1.2.0",
+    "to": "v1.2.1"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-04f80fc",
+    "to": "commit-9e35a0d"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-079375b",
+    "to": "commit-36fb900"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-kanto-gen-3",
+    "name": "Wilds of Kanto: Revival",
+    "from": "v2.8.7",
+    "to": "v2.8.8"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "woob os",
+    "from": "v0.9.1",
+    "to": "v0.10.4"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:tectorifter/g9-boxes",
+    "name": "50-box PC storage",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:nahalewski/aeondx",
+    "name": "AeonDX",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:amey89/autofire-or-turbo-a-b-buttons-mod-for-gen-1-recomp-g1rdelux-",
+    "name": "Autofire A/B Button",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:sod-ers/bookmarks",
+    "name": "Bookmarks",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:nahalewski/gen1recomp-fold",
+    "name": "gen1recomp-Fold",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:debatesmith/kantolegacy",
+    "name": "Kanto Legacy Importer",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:tomasmorello/love-ps4",
+    "name": "love ps4",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:link200488/pretty-moves",
+    "name": "Pretty Moves",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:lilnuggettboi/sevii-routes",
+    "name": "Sevii Routes",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:arcadematicas/traduccion-gen1recomp-firered-es",
+    "name": "Traducción al español — Pokémon FireRed",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-11T11:52:36Z",
   "new": [
    {
