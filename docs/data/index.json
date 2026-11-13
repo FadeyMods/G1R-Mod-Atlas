@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T12:42:48Z",
- "count": 463,
+ "generated_at": "2026-11-13T12:12:41Z",
+ "count": 464,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -2029,7 +2029,7 @@
    "id": "cross_game_music",
    "title": "Cross Game Music",
    "author": "Tooandorisu",
-   "version": "0.1.29",
+   "version": "0.1.30",
    "categories": [
     "AUDIO"
    ],
@@ -2038,18 +2038,18 @@
    ],
    "summary": "Choose complete soundtracks or individual tracks from Pokémon Gen 1–3, regardless of which game you play. A music mod for Gen1Recomp.",
    "latest": {
-    "version": "0.1.29",
-    "tag": "0.1.29",
-    "name": "0.1.29",
+    "version": "0.1.30",
+    "tag": "0.1.30",
+    "name": "0.1.30",
     "prerelease": false,
-    "published_at": "2026-11-12T00:45:27Z",
+    "published_at": "2026-11-12T13:38:39Z",
     "zip": {
-     "name": "Cross-Game-Music-0.1.29.zip",
-     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.29/Cross-Game-Music-0.1.29.zip"
+     "name": "Cross-Game-Music-0.1.30.zip",
+     "url": "https://github.com/Tooandorisu/Cross-Game-Music/releases/download/0.1.30/Cross-Game-Music-0.1.30.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-12T00:45:27Z",
+   "last_release": "2026-11-12T13:38:39Z",
    "repo": "https://github.com/Tooandorisu/Cross-Game-Music",
    "github": "Tooandorisu/Cross-Game-Music"
   },
@@ -3769,7 +3769,7 @@
    "id": "g9_battle_sprites_gen3",
    "title": "g9 battle sprites gen3",
    "author": "poooooby",
-   "version": "1.5.8",
+   "version": "1.6.1",
    "categories": [
     "ART"
    ],
@@ -3778,18 +3778,18 @@
    ],
    "summary": "WoobleSpritePack: All the art for Wooble's Dex Expansion Suite for Gen1Recomp",
    "latest": {
-    "version": "1.5.8",
-    "tag": "v1.5.8",
-    "name": "v1.5.8",
+    "version": "1.6.1",
+    "tag": "v1.6.1",
+    "name": "v1.6.1",
     "prerelease": false,
-    "published_at": "2026-11-08T02:45:19Z",
+    "published_at": "2026-11-13T03:52:23Z",
     "zip": {
-     "name": "g9-battle-sprites-gen3-1.5.8.zip",
-     "url": "https://github.com/poooooby/g9-battle-sprites-gen3/releases/download/v1.5.8/g9-battle-sprites-gen3-1.5.8.zip"
+     "name": "g9-battle-sprites-gen3-1.6.1.zip",
+     "url": "https://github.com/poooooby/g9-battle-sprites-gen3/releases/download/v1.6.1/g9-battle-sprites-gen3-1.6.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-08T02:45:19Z",
+   "last_release": "2026-11-13T03:52:23Z",
    "repo": "https://github.com/poooooby/g9-battle-sprites-gen3",
    "github": "poooooby/g9-battle-sprites-gen3"
   },
@@ -4012,7 +4012,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.4.21",
+   "version": "0.6.0",
    "categories": [
     "LIBRARY"
    ],
@@ -4021,18 +4021,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.4.21",
-    "tag": "v0.4.21",
-    "name": "v0.4.21",
+    "version": "0.6.0",
+    "tag": "v0.6.0",
+    "name": "v0.6.0",
     "prerelease": false,
-    "published_at": "2026-11-11T21:16:43Z",
+    "published_at": "2026-11-13T02:21:50Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.4.21.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.4.21/gen3-hd-sprites-0.4.21.zip"
+     "name": "gen3-hd-sprites-0.6.0.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.6.0/gen3-hd-sprites-0.6.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-11T21:16:43Z",
+   "last_release": "2026-11-13T02:21:50Z",
    "games": [
     "gen3"
    ],
@@ -5992,7 +5992,7 @@
    "id": "ie3ogre_nds_recomp",
    "title": "ie3ogre nds recomp",
    "author": "matheus2x",
-   "version": "0.1.34",
+   "version": "0.1.38",
    "categories": [
     "ART"
    ],
@@ -6002,18 +6002,18 @@
    ],
    "summary": "Port nativo para Windows de Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
    "latest": {
-    "version": "0.1.34",
-    "tag": "v0.1.34",
-    "name": "v0.1.34",
+    "version": "0.1.38",
+    "tag": "v0.1.38",
+    "name": "v0.1.38",
     "prerelease": false,
-    "published_at": "2026-11-05T04:08:48Z",
+    "published_at": "2026-11-13T01:50:14Z",
     "zip": {
-     "name": "ie3ogre-recomp-0.1.34-windows.zip",
-     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.34/ie3ogre-recomp-0.1.34-windows.zip"
+     "name": "ie3ogre-recomp-0.1.38-windows.zip",
+     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.38/ie3ogre-recomp-0.1.38-windows.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T04:08:48Z",
+   "last_release": "2026-11-13T01:50:14Z",
    "repo": "https://github.com/matheus2x/ie3ogre-nds-recomp",
    "github": "matheus2x/ie3ogre-nds-recomp"
   },
@@ -8401,7 +8401,7 @@
    "id": "name_tags",
    "title": "name tags",
    "author": "ElvieBlooms",
-   "version": "1.1.0",
+   "version": "1.3.0",
    "categories": [
     "QOL"
    ],
@@ -8410,18 +8410,18 @@
    ],
    "summary": "An auto-nickname mod for Gen1Recomp",
    "latest": {
-    "version": "1.1.0",
-    "tag": "v1.1.0",
-    "name": "v1.1.0",
+    "version": "1.3.0",
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
     "prerelease": false,
-    "published_at": "2026-11-12T01:08:43Z",
+    "published_at": "2026-11-13T03:22:14Z",
     "zip": {
-     "name": "name_tags-1.1.0.zip",
-     "url": "https://github.com/ElvieBlooms/name_tags/releases/download/v1.1.0/name_tags-1.1.0.zip"
+     "name": "name_tags-1.3.0.zip",
+     "url": "https://github.com/ElvieBlooms/name_tags/releases/download/v1.3.0/name_tags-1.3.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-12T01:08:43Z",
+   "last_release": "2026-11-13T03:22:14Z",
    "repo": "https://github.com/ElvieBlooms/name_tags",
    "github": "ElvieBlooms/name_tags"
   },
@@ -8443,14 +8443,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-10T15:22:39Z",
+    "published_at": "2026-11-13T00:56:41Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-10T15:22:39Z",
+   "last_release": "2026-11-13T00:56:41Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9192,7 +9192,7 @@
    "id": "pika_remastered",
    "title": "pika remastered",
    "author": "ElvieBlooms",
-   "version": "1.0.0",
+   "version": "1.1.0",
    "categories": [
     "TOOL"
    ],
@@ -9201,18 +9201,18 @@
    ],
    "summary": "A Pikachu voice replacement mod for Pokemon Yellow in G1R",
    "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "name": "v1.1.0",
     "prerelease": false,
-    "published_at": "2026-11-09T08:19:23Z",
+    "published_at": "2026-11-12T17:03:15Z",
     "zip": {
-     "name": "pika_remastered-1.0.0.zip",
-     "url": "https://github.com/ElvieBlooms/pika_remastered/releases/download/v1.0.0/pika_remastered-1.0.0.zip"
+     "name": "pika_remastered-1.1.0.zip",
+     "url": "https://github.com/ElvieBlooms/pika_remastered/releases/download/v1.1.0/pika_remastered-1.1.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-09T08:19:23Z",
+   "last_release": "2026-11-12T17:03:15Z",
    "repo": "https://github.com/ElvieBlooms/pika_remastered",
    "github": "ElvieBlooms/pika_remastered"
   },
@@ -13949,6 +13949,35 @@
    "last_release": "2026-08-11T21:41:34Z",
    "repo": "https://github.com/raphabarreto/versaovermelha-moves-en",
    "github": "raphabarreto/versaovermelha-moves-en"
+  },
+  {
+   "folder": "poooooby@vivid_worlds_og",
+   "id": "vivid_worlds_og",
+   "title": "vivid worlds og",
+   "author": "poooooby",
+   "version": "1.0.2",
+   "categories": [
+    "GAMEPLAY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Vivid Worlds: OG - visible, reactive wild Pokemon and a partner that battles and forages, for Gen1Recomp's Red/Blue/Yellow and Gold/Silver/Crystal. A lightweight sister to Vivid Worlds (Wilds of Hoenn).",
+   "latest": {
+    "version": "1.0.2",
+    "tag": "v1.0.2",
+    "name": "v1.0.2",
+    "prerelease": false,
+    "published_at": "2026-11-13T04:31:45Z",
+    "zip": {
+     "name": "vivid-worlds-og-v1.0.2.zip",
+     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.0.2/vivid-worlds-og-v1.0.2.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-13T04:31:45Z",
+   "repo": "https://github.com/poooooby/vivid-worlds-og",
+   "github": "poooooby/vivid-worlds-og"
   },
   {
    "folder": "Ascedent-Omega@voxel_omega_ascendant_gen2recomp",
