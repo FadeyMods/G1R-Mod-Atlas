@@ -1,5 +1,210 @@
 [
  {
+  "date": "2026-11-14T11:27:57Z",
+  "new": [
+   {
+    "id": "gh:tooandorisu/seasonal-world",
+    "name": "Seasonal World"
+   },
+   {
+    "id": "gh:carloscosta07-s/gen1_achievements",
+    "name": "Gen1 Achievements"
+   },
+   {
+    "id": "gh:elvieblooms/pokepink-cart",
+    "name": "pokepink cart"
+   },
+   {
+    "id": "gh:elvieblooms/pokepink-g1r",
+    "name": "pokepink g1r"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-5eeb431",
+    "to": "commit-616eaf7"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.2.3",
+    "to": "v1.2.4"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-2461658",
+    "to": "commit-1d87771"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "g9 battle sprites gen3",
+    "from": "v1.6.1",
+    "to": "v1.6.3"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.6.0",
+    "to": "v0.7.0"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-937659d",
+    "to": "commit-42562ed"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-ded86d1",
+    "to": "commit-49178b4"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-92645f0",
+    "to": "commit-c9efa1a"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-b9b43a0",
+    "to": "commit-73ba9e8"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-94b82d6",
+    "to": "commit-1b5eb28"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-330b7d8",
+    "to": "commit-730c938"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-5a2dcdc",
+    "to": "commit-3653a70"
+   },
+   {
+    "id": "gh:poooooby/g1r_modern_spawns",
+    "name": "Modern Spawns",
+    "from": "v0.13.3",
+    "to": "v0.14.0"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.1.1",
+    "to": "v1.1.5"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-8b685ff",
+    "to": "commit-63c4273"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-dbc2d16",
+    "to": "commit-aa7b43a"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v1.2.1",
+    "to": "v1.3.0"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "delta5",
+    "to": "delta7"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-7161a6d",
+    "to": "commit-591e146"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2",
+    "from": "1.69.0",
+    "to": "1.71.0"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.88.0",
+    "to": "1.89.0"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-53d4729",
+    "to": "commit-5863433"
+   },
+   {
+    "id": "gh:poooooby/terrarium",
+    "name": "Terrarium",
+    "from": "v1.52.3",
+    "to": "v1.61.0"
+   },
+   {
+    "id": "gh:poooooby/vivid-worlds-og",
+    "name": "vivid worlds og",
+    "from": "v1.0.2",
+    "to": "v1.0.6"
+   },
+   {
+    "id": "gh:pustal/webos-repo",
+    "name": "webos repo",
+    "from": "commit-eefa9e8",
+    "to": "commit-2ab161c"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v1.11.2",
+    "to": "v2.0.0"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.10.0",
+    "to": "v1.11.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:gawdmode/neo-nursery",
+    "name": "Neo Nursery",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:arcadematicas/traduccion-gen1recomp-pokemon-espa-ol",
+    "name": "traduccion-gen1recomp-pokemon-espa-ol",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:arcadematicas/traduccion-gen1recomp-todos-es",
+    "name": "Traducción al español — Todos los juegos",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-13T12:12:41Z",
   "new": [
    {

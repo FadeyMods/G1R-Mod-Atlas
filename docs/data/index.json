@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T12:12:41Z",
- "count": 464,
+ "generated_at": "2026-11-14T11:27:57Z",
+ "count": 465,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3769,7 +3769,7 @@
    "id": "g9_battle_sprites_gen3",
    "title": "g9 battle sprites gen3",
    "author": "poooooby",
-   "version": "1.6.1",
+   "version": "1.6.3",
    "categories": [
     "ART"
    ],
@@ -3778,18 +3778,18 @@
    ],
    "summary": "WoobleSpritePack: All the art for Wooble's Dex Expansion Suite for Gen1Recomp",
    "latest": {
-    "version": "1.6.1",
-    "tag": "v1.6.1",
-    "name": "v1.6.1",
+    "version": "1.6.3",
+    "tag": "v1.6.3",
+    "name": "v1.6.3",
     "prerelease": false,
-    "published_at": "2026-11-13T03:52:23Z",
+    "published_at": "2026-11-14T06:45:14Z",
     "zip": {
-     "name": "g9-battle-sprites-gen3-1.6.1.zip",
-     "url": "https://github.com/poooooby/g9-battle-sprites-gen3/releases/download/v1.6.1/g9-battle-sprites-gen3-1.6.1.zip"
+     "name": "g9-battle-sprites-gen3-1.6.3.zip",
+     "url": "https://github.com/poooooby/g9-battle-sprites-gen3/releases/download/v1.6.3/g9-battle-sprites-gen3-1.6.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-13T03:52:23Z",
+   "last_release": "2026-11-14T06:45:14Z",
    "repo": "https://github.com/poooooby/g9-battle-sprites-gen3",
    "github": "poooooby/g9-battle-sprites-gen3"
   },
@@ -4012,7 +4012,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.6.0",
+   "version": "0.7.0",
    "categories": [
     "LIBRARY"
    ],
@@ -4021,18 +4021,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.6.0",
-    "tag": "v0.6.0",
-    "name": "v0.6.0",
+    "version": "0.7.0",
+    "tag": "v0.7.0",
+    "name": "v0.7.0",
     "prerelease": false,
-    "published_at": "2026-11-13T02:21:50Z",
+    "published_at": "2026-11-14T07:27:53Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.6.0.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.6.0/gen3-hd-sprites-0.6.0.zip"
+     "name": "gen3-hd-sprites-0.7.0.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.7.0/gen3-hd-sprites-0.7.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-13T02:21:50Z",
+   "last_release": "2026-11-14T07:27:53Z",
    "games": [
     "gen3"
    ],
@@ -7800,7 +7800,7 @@
    "id": "modern_spawns",
    "title": "Modern Spawns",
    "author": "poooooby",
-   "version": "0.13.3",
+   "version": "0.14.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7809,18 +7809,18 @@
    ],
    "summary": "Dynamic Gen 1-9 wild encounter redistribution for Pokemon Red/Blue/Yellow/Gold/Silver/Crystal/FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "0.13.3",
-    "tag": "v0.13.3",
-    "name": "v0.13.3",
+    "version": "0.14.0",
+    "tag": "v0.14.0",
+    "name": "v0.14.0",
     "prerelease": false,
-    "published_at": "2026-10-31T06:27:27Z",
+    "published_at": "2026-11-14T00:36:14Z",
     "zip": {
-     "name": "modern_spawns-0.13.3.zip",
-     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.13.3/modern_spawns-0.13.3.zip"
+     "name": "modern_spawns-0.14.0.zip",
+     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.14.0/modern_spawns-0.14.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-10-31T06:27:27Z",
+   "last_release": "2026-11-14T00:36:14Z",
    "games": [
     "gen1",
     "gen2",
@@ -8165,7 +8165,7 @@
    "id": "mpc_boot_thingy",
    "title": "mpc boot thingy",
    "author": "garrettjwilke",
-   "version": "1.1.1",
+   "version": "1.1.5",
    "categories": [
     "UI"
    ],
@@ -8174,18 +8174,18 @@
    ],
    "summary": "boot menu for mpc sample",
    "latest": {
-    "version": "1.1.1",
-    "tag": "v1.1.1",
-    "name": "v1.1.1",
+    "version": "1.1.5",
+    "tag": "v1.1.5",
+    "name": "v1.1.5",
     "prerelease": false,
-    "published_at": "2026-11-11T16:18:38Z",
+    "published_at": "2026-11-14T03:17:37Z",
     "zip": {
      "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.1.1/mpc-boot-thingy.zip"
+     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.1.5/mpc-boot-thingy.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-11T16:18:38Z",
+   "last_release": "2026-11-14T03:17:37Z",
    "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
    "github": "garrettjwilke/mpc-boot-thingy"
   },
@@ -9395,7 +9395,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "1.2.1",
+   "version": "1.3.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9404,18 +9404,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "1.2.1",
-    "tag": "v1.2.1",
-    "name": "v1.2.1",
+    "version": "1.3.0",
+    "tag": "v1.3.0",
+    "name": "v1.3.0",
     "prerelease": false,
-    "published_at": "2026-11-11T20:58:53Z",
+    "published_at": "2026-11-14T03:13:28Z",
     "zip": {
-     "name": "play_nav-1.2.1.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.2.1/play_nav-1.2.1.zip"
+     "name": "play_nav-1.3.0.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.3.0/play_nav-1.3.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-11T20:58:53Z",
+   "last_release": "2026-11-14T03:13:28Z",
    "games": [
     "gen3"
    ],
@@ -9821,7 +9821,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "delta5",
+   "version": "delta7",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9830,18 +9830,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "delta5",
-    "tag": "delta5",
-    "name": "delta5",
+    "version": "delta7",
+    "tag": "delta7",
+    "name": "delta7",
     "prerelease": false,
-    "published_at": "2026-11-10T07:23:27Z",
+    "published_at": "2026-11-14T09:29:29Z",
     "zip": {
-     "name": "Ocean_Blue-20261110-022149-1.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/delta5/Ocean_Blue-20261110-022149-1.zip"
+     "name": "Ocean_Blue-20261114-041939-11.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/delta7/Ocean_Blue-20261114-041939-11.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-10T07:23:27Z",
+   "last_release": "2026-11-14T09:29:29Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -10154,6 +10154,35 @@
    "last_release": "2026-08-08T03:20:28Z",
    "repo": "https://github.com/keberos/pokemove-colorfix",
    "github": "keberos/pokemove-colorfix"
+  },
+  {
+   "folder": "ElvieBlooms@pokepink_g1r",
+   "id": "pokepink_g1r",
+   "title": "pokepink g1r",
+   "author": "ElvieBlooms",
+   "version": "0.3.0",
+   "categories": [
+    "TOTAL_CONVERSION"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "A port of Pokemon Pink to G1R",
+   "latest": {
+    "version": "0.3.0",
+    "tag": "v0.3.0",
+    "name": "v0.3.0",
+    "prerelease": false,
+    "published_at": "2026-11-13T18:38:20Z",
+    "zip": {
+     "name": "pink_encounters_trainers-0.3.0.zip",
+     "url": "https://github.com/ElvieBlooms/pokepink-g1r/releases/download/v0.3.0/pink_encounters_trainers-0.3.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-13T18:38:20Z",
+   "repo": "https://github.com/ElvieBlooms/pokepink-g1r",
+   "github": "ElvieBlooms/pokepink-g1r"
   },
   {
    "folder": "raphabarreto@pokered_ptbr",
@@ -10718,7 +10747,7 @@
    "id": "project_highlander_gen1_2",
    "title": "Project Highlander Gen1 2",
    "author": "Waifu4Life",
-   "version": "1.69.0",
+   "version": "1.71.0",
    "categories": [
     "UI"
    ],
@@ -10727,18 +10756,18 @@
    ],
    "summary": "Project Highlander Gen1+2",
    "latest": {
-    "version": "1.69.0",
-    "tag": "1.69.0",
-    "name": "1.69.0",
+    "version": "1.71.0",
+    "tag": "1.71.0",
+    "name": "1.71.0",
     "prerelease": false,
-    "published_at": "2026-11-07T22:04:33Z",
+    "published_at": "2026-11-14T05:06:38Z",
     "zip": {
-     "name": "project_highlander_gen1%2B2-1.69.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.69.0/project_highlander_gen1%2B2-1.69.0.zip"
+     "name": "project_highlander_gen1%2B2-1.71.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.71.0/project_highlander_gen1%2B2-1.71.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-07T22:04:33Z",
+   "last_release": "2026-11-14T05:06:38Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2",
    "github": "Waifu4Life/Project-Highlander-Gen1-2"
   },
@@ -10747,7 +10776,7 @@
    "id": "project_highlander_gen3",
    "title": "Project Highlander Gen3",
    "author": "Waifu4Life",
-   "version": "1.88.0",
+   "version": "1.89.0",
    "categories": [
     "TOOL"
    ],
@@ -10756,18 +10785,18 @@
    ],
    "summary": "Project Highlander Gen3",
    "latest": {
-    "version": "1.88.0",
-    "tag": "1.88.0",
-    "name": "1.88.0",
+    "version": "1.89.0",
+    "tag": "1.89.0",
+    "name": "1.89.0",
     "prerelease": false,
-    "published_at": "2026-11-09T02:51:49Z",
+    "published_at": "2026-11-14T05:07:17Z",
     "zip": {
-     "name": "project_highlander_gen3-1.88.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.88.0/project_highlander_gen3-1.88.0.zip"
+     "name": "project_highlander_gen3-1.89.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.89.0/project_highlander_gen3-1.89.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-09T02:51:49Z",
+   "last_release": "2026-11-14T05:07:17Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen3",
    "github": "Waifu4Life/Project-Highlander-Gen3"
   },
@@ -13002,7 +13031,7 @@
    "id": "terrarium",
    "title": "Terrarium",
    "author": "poooooby",
-   "version": "1.52.3",
+   "version": "1.61.0",
    "categories": [
     "ART"
    ],
@@ -13012,18 +13041,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "1.52.3",
-    "tag": "v1.52.3",
-    "name": "v1.52.3",
+    "version": "1.61.0",
+    "tag": "v1.61.0",
+    "name": "v1.61.0",
     "prerelease": false,
-    "published_at": "2026-11-05T06:32:05Z",
+    "published_at": "2026-11-13T16:48:25Z",
     "zip": {
-     "name": "TERRARIUM-1.52.3.zip",
-     "url": "https://github.com/poooooby/Terrarium/releases/download/v1.52.3/TERRARIUM-1.52.3.zip"
+     "name": "TERRARIUM-1.61.0.zip",
+     "url": "https://github.com/poooooby/Terrarium/releases/download/v1.61.0/TERRARIUM-1.61.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-05T06:32:05Z",
+   "last_release": "2026-11-13T16:48:25Z",
    "repo": "https://github.com/poooooby/Terrarium",
    "github": "poooooby/Terrarium"
   },
@@ -13955,7 +13984,7 @@
    "id": "vivid_worlds_og",
    "title": "vivid worlds og",
    "author": "poooooby",
-   "version": "1.0.2",
+   "version": "1.0.6",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13964,18 +13993,18 @@
    ],
    "summary": "Vivid Worlds: OG - visible, reactive wild Pokemon and a partner that battles and forages, for Gen1Recomp's Red/Blue/Yellow and Gold/Silver/Crystal. A lightweight sister to Vivid Worlds (Wilds of Hoenn).",
    "latest": {
-    "version": "1.0.2",
-    "tag": "v1.0.2",
-    "name": "v1.0.2",
+    "version": "1.0.6",
+    "tag": "v1.0.6",
+    "name": "v1.0.6",
     "prerelease": false,
-    "published_at": "2026-11-13T04:31:45Z",
+    "published_at": "2026-11-14T05:20:23Z",
     "zip": {
-     "name": "vivid-worlds-og-v1.0.2.zip",
-     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.0.2/vivid-worlds-og-v1.0.2.zip"
+     "name": "vivid-worlds-og-v1.0.6.zip",
+     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.0.6/vivid-worlds-og-v1.0.6.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-13T04:31:45Z",
+   "last_release": "2026-11-14T05:20:23Z",
    "repo": "https://github.com/poooooby/vivid-worlds-og",
    "github": "poooooby/vivid-worlds-og"
   },
