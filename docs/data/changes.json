@@ -1,5 +1,232 @@
 [
  {
+  "date": "2026-11-15T11:56:56Z",
+  "new": [
+   {
+    "id": "gh:jottenmiller/gen3-decap",
+    "name": "Decapitalize Names"
+   },
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-616eaf7",
+    "to": "commit-92d8582"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.2.4",
+    "to": "v1.2.5"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.9.4",
+    "to": "v0.9.5"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-1d87771",
+    "to": "commit-f3f47d7"
+   },
+   {
+    "id": "gh:bloodninj/g1r-uk-english-translation",
+    "name": "English (UK) Translation",
+    "from": "v0.2.0",
+    "to": "v0.2.1"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.6.3",
+    "to": "v1.6.5"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.7.0",
+    "to": "v0.8.0"
+   },
+   {
+    "id": "gh:carloscosta07-s/gen1_achievements",
+    "name": "Gen1 Achievements",
+    "from": "commit-415ac34",
+    "to": "v0.5.17"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-42562ed",
+    "to": "commit-3a32675"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-49178b4",
+    "to": "commit-6e4ed1d"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-c9efa1a",
+    "to": "commit-2667735"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-73ba9e8",
+    "to": "commit-36235d0"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-1b5eb28",
+    "to": "commit-4657e16"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-730c938",
+    "to": "commit-d710e2d"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "commit-af6e6da",
+    "to": "v0.1.0"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.6.0",
+    "to": "v0.6.2"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-3653a70",
+    "to": "commit-b8ef86e"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.1.5",
+    "to": "v1.1.6"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-63c4273",
+    "to": "commit-fdcd717"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-aa7b43a",
+    "to": "commit-e86383d"
+   },
+   {
+    "id": "gh:elvieblooms/pokepink-cart",
+    "name": "pokepink cart",
+    "from": "v0.1.0-beta.1",
+    "to": "v0.1.0-beta.2"
+   },
+   {
+    "id": "gh:elvieblooms/pokepink-g1r",
+    "name": "pokepink g1r",
+    "from": "v0.3.0",
+    "to": "v0.3.1"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-591e146",
+    "to": "commit-4d907f4"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.89.0",
+    "to": "1.93.0"
+   },
+   {
+    "id": "gh:poooooby/vivid-worlds-og",
+    "name": "vivid worlds og",
+    "from": "v1.0.6",
+    "to": "v1.0.11"
+   },
+   {
+    "id": "gh:pustal/webos-repo",
+    "name": "webos repo",
+    "from": "commit-2ab161c",
+    "to": "commit-931e3ee"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.0.0",
+    "to": "v2.0.1"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.10.4",
+    "to": "v0.13.0"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.11.1",
+    "to": "v1.12.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:moocd123/gen1recomp-bicycle-plus",
+    "name": "AUTOBIKE+",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:enterplayerone/battle-cinematics-stadium-camera",
+    "name": "Battle Cinematics - Dynamic 3D Battle Camera",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:underdecoded/g1rdeluxe-gen2recomp-dramaticshapesvoxels",
+    "name": "Gen2Recomp Dramatic Shape Voxel Mod (gen1recomp)",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:danicenador/gen5-recomp",
+    "name": "gen5 recomp",
+    "from": "deleted",
+    "to": "active"
+   },
+   {
+    "id": "gh:deftones565/stadium-2-ui",
+    "name": "Pokemon Stadium 2 Battle UI",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ojsaucer/advanced-camera-options",
+    "name": "Static Camera",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-14T11:27:57Z",
   "new": [
    {

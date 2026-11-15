@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T11:27:57Z",
- "count": 465,
+ "generated_at": "2026-11-15T11:56:56Z",
+ "count": 462,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3649,35 +3649,6 @@
    "github": "KuroKratos/full_dex"
   },
   {
-   "folder": "Bloodninj@g1r_uk_english_translation",
-   "id": "g1r_uk_english_translation",
-   "title": "g1r uk english translation",
-   "author": "Bloodninj",
-   "version": "0.2.0",
-   "categories": [
-    "TRANSLATION"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "A translation mod for gen1recomp that lets users play Crystal with English (UK) text.",
-   "latest": {
-    "version": "0.2.0",
-    "tag": "v0.2.0",
-    "name": "v0.2.0",
-    "prerelease": false,
-    "published_at": "2026-11-12T09:20:41Z",
-    "zip": {
-     "name": "English.UK.Translation.v0.2.0.zip",
-     "url": "https://github.com/Bloodninj/g1r-uk-english-translation/releases/download/v0.2.0/English.UK.Translation.v0.2.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-12T09:20:41Z",
-   "repo": "https://github.com/Bloodninj/g1r-uk-english-translation",
-   "github": "Bloodninj/g1r-uk-english-translation"
-  },
-  {
    "folder": "Waifu4Life@g1r_frontend",
    "id": "g1r_frontend",
    "title": "G1R-Frontend",
@@ -3763,35 +3734,6 @@
    "last_release": "2026-11-02T03:24:37Z",
    "repo": "https://github.com/PandaKisor/g3-coop",
    "github": "PandaKisor/g3-coop"
-  },
-  {
-   "folder": "poooooby@g9_battle_sprites_gen3",
-   "id": "g9_battle_sprites_gen3",
-   "title": "g9 battle sprites gen3",
-   "author": "poooooby",
-   "version": "1.6.3",
-   "categories": [
-    "ART"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "WoobleSpritePack: All the art for Wooble's Dex Expansion Suite for Gen1Recomp",
-   "latest": {
-    "version": "1.6.3",
-    "tag": "v1.6.3",
-    "name": "v1.6.3",
-    "prerelease": false,
-    "published_at": "2026-11-14T06:45:14Z",
-    "zip": {
-     "name": "g9-battle-sprites-gen3-1.6.3.zip",
-     "url": "https://github.com/poooooby/g9-battle-sprites-gen3/releases/download/v1.6.3/g9-battle-sprites-gen3-1.6.3.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-14T06:45:14Z",
-   "repo": "https://github.com/poooooby/g9-battle-sprites-gen3",
-   "github": "poooooby/g9-battle-sprites-gen3"
   },
   {
    "folder": "tectorifter@g9-Battle-Scene",
@@ -4012,7 +3954,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.7.0",
+   "version": "0.8.0",
    "categories": [
     "LIBRARY"
    ],
@@ -4021,18 +3963,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.7.0",
-    "tag": "v0.7.0",
-    "name": "v0.7.0",
+    "version": "0.8.0",
+    "tag": "v0.8.0",
+    "name": "v0.8.0",
     "prerelease": false,
-    "published_at": "2026-11-14T07:27:53Z",
+    "published_at": "2026-11-15T08:48:02Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.7.0.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.7.0/gen3-hd-sprites-0.7.0.zip"
+     "name": "gen3-hd-sprites-0.8.0.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.8.0/gen3-hd-sprites-0.8.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-14T07:27:53Z",
+   "last_release": "2026-11-15T08:48:02Z",
    "games": [
     "gen3"
    ],
@@ -4160,6 +4102,35 @@
    "github": "RonikBasnet/Gen-1-Recomp-Modern-Types-Moves"
   },
   {
+   "folder": "CarlosCosta07-s@gen1_achievements",
+   "id": "gen1_achievements",
+   "title": "Gen1 Achievements",
+   "author": "CarlosCosta07-s",
+   "version": "0.5.17",
+   "categories": [
+    "TRANSLATION"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.5.17",
+    "tag": "v0.5.17",
+    "name": "v0.5.17",
+    "prerelease": false,
+    "published_at": "2026-11-15T00:50:56Z",
+    "zip": {
+     "name": "gen1-achievements-0.5.17.zip",
+     "url": "https://github.com/CarlosCosta07-s/Gen1_Achievements/releases/download/v0.5.17/gen1-achievements-0.5.17.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-15T00:50:56Z",
+   "repo": "https://github.com/CarlosCosta07-s/Gen1_Achievements",
+   "github": "CarlosCosta07-s/Gen1_Achievements"
+  },
+  {
    "folder": "1Jamie@gen1_bag_pockets",
    "id": "gen1_bag_pockets",
    "title": "Gen1 Bag Pockets",
@@ -4219,35 +4190,6 @@
    "last_release": "2026-08-23T14:05:00Z",
    "repo": "https://github.com/git-mrjoufflu/gen1coop",
    "github": "git-mrjoufflu/gen1coop"
-  },
-  {
-   "folder": "kennethreitz@gen1_music_frlg",
-   "id": "gen1_music_frlg",
-   "title": "gen1 music frlg",
-   "author": "kennethreitz",
-   "version": "0.1.0",
-   "categories": [
-    "AUDIO"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "Original Red/Blue music in gen1recomp FireRed/LeafGreen, synthesized live from your own imported Red. No ROMs or audio distributed.",
-   "latest": {
-    "version": "0.1.0",
-    "tag": "v0.1.0",
-    "name": "v0.1.0",
-    "prerelease": false,
-    "published_at": "2026-11-08T02:01:46Z",
-    "zip": {
-     "name": "gen1_music_frlg-v0.1.0.zip",
-     "url": "https://github.com/kennethreitz/gen1-music-frlg/releases/download/v0.1.0/gen1_music_frlg-v0.1.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-08T02:01:46Z",
-   "repo": "https://github.com/kennethreitz/gen1-music-frlg",
-   "github": "kennethreitz/gen1-music-frlg"
   },
   {
    "folder": "AyeBathingApe@gen1_kaizo",
@@ -5341,6 +5283,35 @@
    "last_release": "2026-09-16T04:51:35Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped-DramaticShapes",
    "github": "UNDERdecoded/Gen2Recomped-DramaticShapes"
+  },
+  {
+   "folder": "danicenador@gen5_recomp",
+   "id": "gen5_recomp",
+   "title": "gen5 recomp",
+   "author": "danicenador",
+   "version": "0.1.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "A static recompiler and Nintendo DS runtime for Pokémon Gen V (unofficial fan project)",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-11-14T22:32:33Z",
+    "zip": {
+     "name": "gen5-v0.1.0-windows-x64.zip",
+     "url": "https://github.com/danicenador/gen5-recomp/releases/download/v0.1.0/gen5-v0.1.0-windows-x64.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-14T22:32:33Z",
+   "repo": "https://github.com/danicenador/gen5-recomp",
+   "github": "danicenador/gen5-recomp"
   },
   {
    "folder": "bobshark2@ghost_trainers",
@@ -7221,7 +7192,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.6.0",
+   "version": "0.6.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7230,18 +7201,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.6.0",
-    "tag": "v0.6.0",
-    "name": "v0.6.0",
+    "version": "0.6.2",
+    "tag": "v0.6.2",
+    "name": "v0.6.2",
     "prerelease": false,
-    "published_at": "2026-11-11T04:56:10Z",
+    "published_at": "2026-11-15T06:59:25Z",
     "zip": {
-     "name": "max_raids-0.6.0.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.0/max_raids-0.6.0.zip"
+     "name": "max_raids-0.6.2.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.2/max_raids-0.6.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-11T04:56:10Z",
+   "last_release": "2026-11-15T06:59:25Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -8165,7 +8136,7 @@
    "id": "mpc_boot_thingy",
    "title": "mpc boot thingy",
    "author": "garrettjwilke",
-   "version": "1.1.5",
+   "version": "1.1.6",
    "categories": [
     "UI"
    ],
@@ -8174,18 +8145,18 @@
    ],
    "summary": "boot menu for mpc sample",
    "latest": {
-    "version": "1.1.5",
-    "tag": "v1.1.5",
-    "name": "v1.1.5",
+    "version": "1.1.6",
+    "tag": "v1.1.6",
+    "name": "v1.1.6",
     "prerelease": false,
-    "published_at": "2026-11-14T03:17:37Z",
+    "published_at": "2026-11-14T22:55:56Z",
     "zip": {
      "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.1.5/mpc-boot-thingy.zip"
+     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.1.6/mpc-boot-thingy.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-14T03:17:37Z",
+   "last_release": "2026-11-14T22:55:56Z",
    "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
    "github": "garrettjwilke/mpc-boot-thingy"
   },
@@ -8397,35 +8368,6 @@
    "github": "Bentley734/Name-Rater"
   },
   {
-   "folder": "ElvieBlooms@name_tags",
-   "id": "name_tags",
-   "title": "name tags",
-   "author": "ElvieBlooms",
-   "version": "1.3.0",
-   "categories": [
-    "QOL"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "An auto-nickname mod for Gen1Recomp",
-   "latest": {
-    "version": "1.3.0",
-    "tag": "v1.3.0",
-    "name": "v1.3.0",
-    "prerelease": false,
-    "published_at": "2026-11-13T03:22:14Z",
-    "zip": {
-     "name": "name_tags-1.3.0.zip",
-     "url": "https://github.com/ElvieBlooms/name_tags/releases/download/v1.3.0/name_tags-1.3.0.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-13T03:22:14Z",
-   "repo": "https://github.com/ElvieBlooms/name_tags",
-   "github": "ElvieBlooms/name_tags"
-  },
-  {
    "folder": "Hailey-Ross@nativemons",
    "id": "nativemons",
    "title": "nativeMons",
@@ -8443,14 +8385,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-13T00:56:41Z",
+    "published_at": "2026-11-15T04:17:20Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-13T00:56:41Z",
+   "last_release": "2026-11-15T04:17:20Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -10160,7 +10102,7 @@
    "id": "pokepink_g1r",
    "title": "pokepink g1r",
    "author": "ElvieBlooms",
-   "version": "0.3.0",
+   "version": "0.3.1",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -10169,18 +10111,18 @@
    ],
    "summary": "A port of Pokemon Pink to G1R",
    "latest": {
-    "version": "0.3.0",
-    "tag": "v0.3.0",
-    "name": "v0.3.0",
+    "version": "0.3.1",
+    "tag": "v0.3.1",
+    "name": "v0.3.1",
     "prerelease": false,
-    "published_at": "2026-11-13T18:38:20Z",
+    "published_at": "2026-11-15T02:34:48Z",
     "zip": {
-     "name": "pink_encounters_trainers-0.3.0.zip",
-     "url": "https://github.com/ElvieBlooms/pokepink-g1r/releases/download/v0.3.0/pink_encounters_trainers-0.3.0.zip"
+     "name": "pink_manga_events-0.3.1.zip",
+     "url": "https://github.com/ElvieBlooms/pokepink-g1r/releases/download/v0.3.1/pink_manga_events-0.3.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-13T18:38:20Z",
+   "last_release": "2026-11-15T02:34:48Z",
    "repo": "https://github.com/ElvieBlooms/pokepink-g1r",
    "github": "ElvieBlooms/pokepink-g1r"
   },
@@ -10776,7 +10718,7 @@
    "id": "project_highlander_gen3",
    "title": "Project Highlander Gen3",
    "author": "Waifu4Life",
-   "version": "1.89.0",
+   "version": "1.93.0",
    "categories": [
     "TOOL"
    ],
@@ -10785,18 +10727,18 @@
    ],
    "summary": "Project Highlander Gen3",
    "latest": {
-    "version": "1.89.0",
-    "tag": "1.89.0",
-    "name": "1.89.0",
+    "version": "1.93.0",
+    "tag": "1.93.0",
+    "name": "1.93.0",
     "prerelease": false,
-    "published_at": "2026-11-14T05:07:17Z",
+    "published_at": "2026-11-15T01:46:59Z",
     "zip": {
-     "name": "project_highlander_gen3-1.89.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.89.0/project_highlander_gen3-1.89.0.zip"
+     "name": "project_highlander_gen3-1.93.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.93.0/project_highlander_gen3-1.93.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-14T05:07:17Z",
+   "last_release": "2026-11-15T01:46:59Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen3",
    "github": "Waifu4Life/Project-Highlander-Gen3"
   },
@@ -13984,7 +13926,7 @@
    "id": "vivid_worlds_og",
    "title": "vivid worlds og",
    "author": "poooooby",
-   "version": "1.0.6",
+   "version": "1.0.11",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13993,18 +13935,18 @@
    ],
    "summary": "Vivid Worlds: OG - visible, reactive wild Pokemon and a partner that battles and forages, for Gen1Recomp's Red/Blue/Yellow and Gold/Silver/Crystal. A lightweight sister to Vivid Worlds (Wilds of Hoenn).",
    "latest": {
-    "version": "1.0.6",
-    "tag": "v1.0.6",
-    "name": "v1.0.6",
+    "version": "1.0.11",
+    "tag": "v1.0.11",
+    "name": "v1.0.11",
     "prerelease": false,
-    "published_at": "2026-11-14T05:20:23Z",
+    "published_at": "2026-11-15T08:47:50Z",
     "zip": {
-     "name": "vivid-worlds-og-v1.0.6.zip",
-     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.0.6/vivid-worlds-og-v1.0.6.zip"
+     "name": "vivid-worlds-og-v1.0.11.zip",
+     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.0.11/vivid-worlds-og-v1.0.11.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-14T05:20:23Z",
+   "last_release": "2026-11-15T08:47:50Z",
    "repo": "https://github.com/poooooby/vivid-worlds-og",
    "github": "poooooby/vivid-worlds-og"
   },
@@ -14234,35 +14176,6 @@
    ],
    "repo": "https://github.com/Bentley734/WildFollowers",
    "github": "Bentley734/WildFollowers"
-  },
-  {
-   "folder": "poooooby@woob_os",
-   "id": "woob_os",
-   "title": "woob os",
-   "author": "poooooby",
-   "version": "0.10.4",
-   "categories": [
-    "GAMEPLAY"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "WoobOS: the Gen 3 PC (FireRed, LeafGreen, Ruby, Sapphire, Emerald) as a modern desktop, a gen1recomp mod",
-   "latest": {
-    "version": "0.10.4",
-    "tag": "v0.10.4",
-    "name": "v0.10.4",
-    "prerelease": false,
-    "published_at": "2026-11-12T05:44:36Z",
-    "zip": {
-     "name": "woob_os-0.10.4.zip",
-     "url": "https://github.com/poooooby/woob_os/releases/download/v0.10.4/woob_os-0.10.4.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-12T05:44:36Z",
-   "repo": "https://github.com/poooooby/woob_os",
-   "github": "poooooby/woob_os"
   },
   {
    "folder": "MrKrisSatan@wxpokes",
