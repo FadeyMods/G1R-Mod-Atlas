@@ -1,5 +1,264 @@
 [
  {
+  "date": "2026-11-16T12:44:57Z",
+  "new": [
+   {
+    "id": "gh:wireproof/gen1recomp-plusplus",
+    "name": "Gen1Recomp PlusPlus"
+   },
+   {
+    "id": "gh:wireproof/kanto-johto-gear",
+    "name": "kanto johto gear"
+   },
+   {
+    "id": "gh:gpicart/gleaming-crystal",
+    "name": "gleaming crystal"
+   },
+   {
+    "id": "gh:wireproof/dramatic-shape-gen2",
+    "name": "dramatic shape gen2"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-c39c548",
+    "to": "commit-2b24a62"
+   },
+   {
+    "id": "gh:codm2000/dual-screen-games",
+    "name": "Dual Screen Games",
+    "from": "commit-a5d518e",
+    "to": "commit-96d5bd4"
+   },
+   {
+    "id": "gh:bloodninj/g1r-uk-english-translation",
+    "name": "English (UK) Translation",
+    "from": "v0.2.1",
+    "to": "v0.2.5"
+   },
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-92d8582",
+    "to": "commit-160f3d5"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.9.5",
+    "to": "v0.9.7"
+   },
+   {
+    "id": "gh:bigcatmellow/fireredrecomp",
+    "name": "FireRedRecomp",
+    "from": "commit-2450e15",
+    "to": "commit-df53c77"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-f3f47d7",
+    "to": "commit-bcfade2"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.8.0",
+    "to": "v0.8.6"
+   },
+   {
+    "id": "gh:carloscosta07-s/gen1_achievements",
+    "name": "Gen1 Achievements",
+    "from": "v0.5.17",
+    "to": "v0.5.23"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-3a32675",
+    "to": "commit-46b9edb"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-6e4ed1d",
+    "to": "commit-d41b0d5"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-2667735",
+    "to": "commit-fadfcd0"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-36235d0",
+    "to": "commit-33b817f"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-4657e16",
+    "to": "commit-d338d7a"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-d710e2d",
+    "to": "commit-242b25a"
+   },
+   {
+    "id": "gh:matheus2x/ie3ogre-nds-recomp",
+    "name": "ie3ogre nds recomp",
+    "from": "v0.1.38",
+    "to": "v0.1.39"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-b8ef86e",
+    "to": "commit-359a63c"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.1.6",
+    "to": "v1.1.9"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-fdcd717",
+    "to": "commit-2daf1a1"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-e86383d",
+    "to": "commit-f2e50e9"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "delta7",
+    "to": "1.0"
+   },
+   {
+    "id": "gh:poooooby/poooooby",
+    "name": "poooooby",
+    "from": "commit-ad96fe7",
+    "to": "commit-10510aa"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-4d907f4",
+    "to": "commit-3feb807"
+   },
+   {
+    "id": "gh:poooooby/vivid-worlds-og",
+    "name": "vivid worlds og",
+    "from": "v1.0.11",
+    "to": "v1.0.17"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.0.1",
+    "to": "v2.0.3"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.12.1",
+    "to": "v1.14.0"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.6.5",
+    "to": "v1.6.6"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.13.0",
+    "to": "v0.15.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:gawdmode/dungeon-delvers",
+    "name": "Dungeon Delvers",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:laserraver/g1rd-mute-hp-beep-fr-lg",
+    "name": "g1rd-mute-hp-beep-FR-LG",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:tectorifter/gen9dex",
+    "name": "G9 Battle Engine",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:tectorifter/g9-battle-scenes",
+    "name": "g9-battle-scene",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:robdadevil/gen3recomp",
+    "name": "gen3recomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-grass-and-flowers",
+    "name": "Legendary Visuals Grass and Flowers — TEST3 Performance",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-3d-character-selector",
+    "name": "Legendary-3D-Character-Selector",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-3d-npcs",
+    "name": "Legendary-3D-NPCs",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-battle-cinematics-compat",
+    "name": "Legendary-Battle-Cinematics-Compat",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-casino-slots",
+    "name": "Legendary-Casino-Slots",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ltzlegend/legendary-stadium-overworld-models",
+    "name": "Legendary-Stadium-Overworld-Models",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-15T11:56:56Z",
   "new": [
    {
