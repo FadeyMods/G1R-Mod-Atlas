@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T12:44:57Z",
+ "generated_at": "2026-11-17T13:26:01Z",
  "count": 462,
  "mods": [
   {
@@ -3954,7 +3954,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.8.6",
+   "version": "0.10.0",
    "categories": [
     "LIBRARY"
    ],
@@ -3963,18 +3963,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.8.6",
-    "tag": "v0.8.6",
-    "name": "v0.8.6",
+    "version": "0.10.0",
+    "tag": "v0.10.0",
+    "name": "v0.10.0",
     "prerelease": false,
-    "published_at": "2026-11-16T08:30:56Z",
+    "published_at": "2026-11-17T06:45:17Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.8.6.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.8.6/gen3-hd-sprites-0.8.6.zip"
+     "name": "gen3-hd-sprites-0.10.0.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.10.0/gen3-hd-sprites-0.10.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-16T08:30:56Z",
+   "last_release": "2026-11-17T06:45:17Z",
    "games": [
     "gen3"
    ],
@@ -4493,7 +4493,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.179",
+   "version": "content-editor-v0.1.180",
    "categories": [
     "TOOL"
    ],
@@ -4502,18 +4502,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.179",
-    "tag": "content-editor-v0.1.179",
-    "name": "content-editor-v0.1.179",
+    "version": "content-editor-v0.1.180",
+    "tag": "content-editor-v0.1.180",
+    "name": "content-editor-v0.1.180",
     "prerelease": false,
-    "published_at": "2026-11-09T21:32:31Z",
+    "published_at": "2026-11-16T13:23:38Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.179/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.180/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-09T21:32:31Z",
+   "last_release": "2026-11-16T13:23:38Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -8136,7 +8136,7 @@
    "id": "mpc_boot_thingy",
    "title": "mpc boot thingy",
    "author": "garrettjwilke",
-   "version": "1.1.9",
+   "version": "1.2.1",
    "categories": [
     "UI"
    ],
@@ -8145,18 +8145,18 @@
    ],
    "summary": "boot menu for mpc sample",
    "latest": {
-    "version": "1.1.9",
-    "tag": "v1.1.9",
-    "name": "v1.1.9",
+    "version": "1.2.1",
+    "tag": "v1.2.1",
+    "name": "v1.2.1",
     "prerelease": false,
-    "published_at": "2026-11-16T00:20:33Z",
+    "published_at": "2026-11-17T01:16:47Z",
     "zip": {
      "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.1.9/mpc-boot-thingy.zip"
+     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.2.1/mpc-boot-thingy.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-16T00:20:33Z",
+   "last_release": "2026-11-17T01:16:47Z",
    "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
    "github": "garrettjwilke/mpc-boot-thingy"
   },
@@ -8385,14 +8385,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-16T05:02:31Z",
+    "published_at": "2026-11-17T01:38:12Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-16T05:02:31Z",
+   "last_release": "2026-11-17T01:38:12Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9763,7 +9763,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "1.0",
+   "version": "1.1",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9772,18 +9772,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "1.0",
-    "tag": "1.0",
-    "name": "1.0",
+    "version": "1.1",
+    "tag": "1.1",
+    "name": "1.1",
     "prerelease": false,
-    "published_at": "2026-11-16T05:57:00Z",
+    "published_at": "2026-11-17T09:01:01Z",
     "zip": {
-     "name": "Ocean_Blue-20261116-004918-14.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/1.0/Ocean_Blue-20261116-004918-14.zip"
+     "name": "Ocean_Blue-20261117-032200-14.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/1.1/Ocean_Blue-20261117-032200-14.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-16T05:57:00Z",
+   "last_release": "2026-11-17T09:01:01Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },

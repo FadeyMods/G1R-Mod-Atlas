@@ -1,5 +1,216 @@
 [
  {
+  "date": "2026-11-17T13:26:01Z",
+  "new": [
+   {
+    "id": "gh:maulikmehta/obsidian-book-pipeline",
+    "name": "obsidian book pipeline"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-2b24a62",
+    "to": "commit-1d7a3c5"
+   },
+   {
+    "id": "gh:tolgakurtuluss/awesome-webos",
+    "name": "awesome webos",
+    "from": "commit-30e7548",
+    "to": "commit-d154a70"
+   },
+   {
+    "id": "gh:codm2000/dual-screen-games",
+    "name": "Dual Screen Games",
+    "from": "commit-96d5bd4",
+    "to": "commit-2944e9b"
+   },
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-160f3d5",
+    "to": "commit-977cb27"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v0.9.7",
+    "to": "v1.0.0"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-bcfade2",
+    "to": "commit-a4dc8b5"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.8.6",
+    "to": "v0.10.0"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlyindex",
+    "name": "Gen1NightlyIndex",
+    "from": "commit-46b9edb",
+    "to": "commit-0d037c2"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.179",
+    "to": "content-editor-v0.1.180"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-d41b0d5",
+    "to": "commit-1afc626"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-fadfcd0",
+    "to": "commit-fcb59d2"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-33b817f",
+    "to": "commit-f4eb25c"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-d338d7a",
+    "to": "commit-1086c84"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-242b25a",
+    "to": "commit-8c797b0"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-359a63c",
+    "to": "commit-aff6fff"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "v1.1.9",
+    "to": "v1.2.1"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-2daf1a1",
+    "to": "commit-f1891b9"
+   },
+   {
+    "id": "gh:tooandorisu/gen1-recomp-norwegian-translate",
+    "name": "Norwegian Bokmål Translation",
+    "from": "1.0.47",
+    "to": "1.0.48"
+   },
+   {
+    "id": "gh:hugh-oneill/open-red",
+    "name": "open red",
+    "from": "commit-05c4024",
+    "to": "commit-ee8ba8c"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-f2e50e9",
+    "to": "commit-d86b533"
+   },
+   {
+    "id": "gh:twgrodd/g1r-deluxe_yellow_mod_pikachu-true-potential",
+    "name": "Pikachu True Potential",
+    "from": "v1.0.2",
+    "to": "v1.0.3"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "1.0",
+    "to": "1.1"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-3feb807",
+    "to": "commit-1c5a4b7"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.0.3",
+    "to": "v2.0.4"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.14.0",
+    "to": "v1.15.1"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.6.6",
+    "to": "v1.6.9"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.15.0",
+    "to": "v0.17.2"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:julien-b1/g1r_emerald_level_caps",
+    "name": "3G Level Caps",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:standonjoyner/awesome-rea",
+    "name": "awesome rea",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:julien-b1/g1r_exp_qol",
+    "name": "EXP QoL",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "active",
+    "to": "archived"
+   },
+   {
+    "id": "gh:weskestis/radical-red-recomp",
+    "name": "Radical-Red-Recomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:julien-b1/g1r_shiny_odds",
+    "name": "Shiny Odds",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-16T12:44:57Z",
   "new": [
    {
