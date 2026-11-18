@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T13:26:01Z",
- "count": 462,
+ "generated_at": "2026-11-18T13:02:02Z",
+ "count": 464,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3954,7 +3954,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.10.0",
+   "version": "0.10.5",
    "categories": [
     "LIBRARY"
    ],
@@ -3963,18 +3963,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.10.0",
-    "tag": "v0.10.0",
-    "name": "v0.10.0",
+    "version": "0.10.5",
+    "tag": "v0.10.5",
+    "name": "v0.10.5",
     "prerelease": false,
-    "published_at": "2026-11-17T06:45:17Z",
+    "published_at": "2026-11-18T05:48:09Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.10.0.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.10.0/gen3-hd-sprites-0.10.0.zip"
+     "name": "gen3-hd-sprites-0.10.5.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.10.5/gen3-hd-sprites-0.10.5.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-17T06:45:17Z",
+   "last_release": "2026-11-18T05:48:09Z",
    "games": [
     "gen3"
    ],
@@ -4493,7 +4493,7 @@
    "id": "gen1recomp_content_editor",
    "title": "Gen1Recomp-Content-Editor",
    "author": "zeak6464",
-   "version": "content-editor-v0.1.180",
+   "version": "content-editor-v0.1.181",
    "categories": [
     "TOOL"
    ],
@@ -4502,18 +4502,18 @@
    ],
    "summary": "Pokemon Gen 1 Content Editor",
    "latest": {
-    "version": "content-editor-v0.1.180",
-    "tag": "content-editor-v0.1.180",
-    "name": "content-editor-v0.1.180",
+    "version": "content-editor-v0.1.181",
+    "tag": "content-editor-v0.1.181",
+    "name": "content-editor-v0.1.181",
     "prerelease": false,
-    "published_at": "2026-11-16T13:23:38Z",
+    "published_at": "2026-11-17T21:52:19Z",
     "zip": {
      "name": "gen1recomp-content-editor-win64.zip",
-     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.180/gen1recomp-content-editor-win64.zip"
+     "url": "https://github.com/zeak6464/Gen1Recomp-Content-Editor/releases/download/content-editor-v0.1.181/gen1recomp-content-editor-win64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-16T13:23:38Z",
+   "last_release": "2026-11-17T21:52:19Z",
    "repo": "https://github.com/zeak6464/Gen1Recomp-Content-Editor",
    "github": "zeak6464/Gen1Recomp-Content-Editor"
   },
@@ -7635,6 +7635,35 @@
    "github": "twgrodd/G1R-Deluxe_Gen1_mod_fork_Modern-Bag-Roddsoftver"
   },
   {
+   "folder": "Tooandorisu@modern_exp_share",
+   "id": "modern_exp_share",
+   "title": "Modern EXP Share",
+   "author": "Tooandorisu",
+   "version": "1.0.0",
+   "categories": [
+    "GAMEPLAY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Modern Exp. Share mod for Gen1Recomp, bringing Gen 6+ experience sharing to Pokémon FireRed, LeafGreen, Ruby, Sapphire and Emerald. Features customizable team EXP, EXP on catch and in-game settings.",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-11-17T23:27:33Z",
+    "zip": {
+     "name": "modern_exp_share-1.0.0.zip",
+     "url": "https://github.com/Tooandorisu/Modern-EXP-Share/releases/download/v1.0.0/modern_exp_share-1.0.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-17T23:27:33Z",
+   "repo": "https://github.com/Tooandorisu/Modern-EXP-Share",
+   "github": "Tooandorisu/Modern-EXP-Share"
+  },
+  {
    "folder": "brewstercm@modern_hm_learning",
    "id": "modern_hm_learning",
    "title": "Modern HM Learning",
@@ -7771,7 +7800,7 @@
    "id": "modern_spawns",
    "title": "Modern Spawns",
    "author": "poooooby",
-   "version": "0.14.0",
+   "version": "0.16.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7780,18 +7809,18 @@
    ],
    "summary": "Dynamic Gen 1-9 wild encounter redistribution for Pokemon Red/Blue/Yellow/Gold/Silver/Crystal/FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "0.14.0",
-    "tag": "v0.14.0",
-    "name": "v0.14.0",
+    "version": "0.16.0",
+    "tag": "v0.16.0",
+    "name": "v0.16.0",
     "prerelease": false,
-    "published_at": "2026-11-14T00:36:14Z",
+    "published_at": "2026-11-18T05:08:15Z",
     "zip": {
-     "name": "modern_spawns-0.14.0.zip",
-     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.14.0/modern_spawns-0.14.0.zip"
+     "name": "modern_spawns-0.16.0.zip",
+     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.16.0/modern_spawns-0.16.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-14T00:36:14Z",
+   "last_release": "2026-11-18T05:08:15Z",
    "games": [
     "gen1",
     "gen2",
@@ -8385,14 +8414,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-17T01:38:12Z",
+    "published_at": "2026-11-18T06:15:53Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-17T01:38:12Z",
+   "last_release": "2026-11-18T06:15:53Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9763,7 +9792,7 @@
    "id": "oceanblue",
    "title": "Pokemon Ocean Blue",
    "author": "tai827",
-   "version": "1.1",
+   "version": "1.2",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -9772,18 +9801,18 @@
    ],
    "summary": "Blue in Gen 3 early wip",
    "latest": {
-    "version": "1.1",
-    "tag": "1.1",
-    "name": "1.1",
+    "version": "1.2",
+    "tag": "1.2",
+    "name": "1.2",
     "prerelease": false,
-    "published_at": "2026-11-17T09:01:01Z",
+    "published_at": "2026-11-18T03:29:07Z",
     "zip": {
-     "name": "Ocean_Blue-20261117-032200-14.zip",
-     "url": "https://github.com/tai827/OceanBlue/releases/download/1.1/Ocean_Blue-20261117-032200-14.zip"
+     "name": "Ocean_Blue-20261117-222406-7.zip",
+     "url": "https://github.com/tai827/OceanBlue/releases/download/1.2/Ocean_Blue-20261117-222406-7.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-17T09:01:01Z",
+   "last_release": "2026-11-18T03:29:07Z",
    "repo": "https://github.com/tai827/OceanBlue",
    "github": "tai827/OceanBlue"
   },
@@ -14205,6 +14234,35 @@
    "last_release": "2026-09-01T02:04:49Z",
    "repo": "https://github.com/MrKrisSatan/WXpokes",
    "github": "MrKrisSatan/WXpokes"
+  },
+  {
+   "folder": "Tooandorisu@z_moves",
+   "id": "z_moves",
+   "title": "Z Moves",
+   "author": "Tooandorisu",
+   "version": "0.6.1",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "A Pokémon Sun/Moon-inspired Z-Moves mod for Gen1Recomp, featuring Z-Crystals, powerful Z-Moves, animations, and trainer battles.",
+   "latest": {
+    "version": "0.6.1",
+    "tag": "0.6.1",
+    "name": "0.6.1",
+    "prerelease": false,
+    "published_at": "2026-11-17T20:59:22Z",
+    "zip": {
+     "name": "z_moves_v0.6.1.zip",
+     "url": "https://github.com/Tooandorisu/Z-Moves/releases/download/0.6.1/z_moves_v0.6.1.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-17T20:59:22Z",
+   "repo": "https://github.com/Tooandorisu/Z-Moves",
+   "github": "Tooandorisu/Z-Moves"
   },
   {
    "folder": "arsdaemonia-design@zone-display",

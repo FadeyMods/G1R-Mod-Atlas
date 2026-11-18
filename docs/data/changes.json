@@ -1,5 +1,212 @@
 [
  {
+  "date": "2026-11-18T13:02:02Z",
+  "new": [
+   {
+    "id": "gh:tooandorisu/modern-exp-share",
+    "name": "Modern EXP Share"
+   },
+   {
+    "id": "gh:tooandorisu/z-moves",
+    "name": "Z Moves"
+   },
+   {
+    "id": "gh:mochx07/pkmultiplayer",
+    "name": "PkMultiplayer"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-1d7a3c5",
+    "to": "commit-dfae517"
+   },
+   {
+    "id": "gh:mistermiracle3036/kanto-contests",
+    "name": "Contests",
+    "from": "v0.37.42",
+    "to": "v0.37.62"
+   },
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "commit-977cb27",
+    "to": "commit-56ce758"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.2.5",
+    "to": "v1.3.0"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.0.0",
+    "to": "v1.1.1"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-a4dc8b5",
+    "to": "commit-a2502b9"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.10.0",
+    "to": "v0.10.5"
+   },
+   {
+    "id": "gh:zeak6464/gen1recomp-content-editor",
+    "name": "Gen1Recomp-Content-Editor",
+    "from": "content-editor-v0.1.180",
+    "to": "content-editor-v0.1.181"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-1afc626",
+    "to": "commit-012fb3e"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-fcb59d2",
+    "to": "commit-ed6b7a7"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-f4eb25c",
+    "to": "commit-9d5c46b"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal",
+    "name": "Gen2 Tradução pt-br  crystal",
+    "from": "v0.61.0",
+    "to": "v0.63.0"
+   },
+   {
+    "id": "gh:lordsangreal/versaodourada",
+    "name": "Gen2 Tradução PT-BR  Gold & Silver 0.53.0",
+    "from": "v0.64.0",
+    "to": "v0.64.4"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-1086c84",
+    "to": "commit-ace0ce6"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-8c797b0",
+    "to": "commit-309ff32"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-aff6fff",
+    "to": "commit-6d14d19"
+   },
+   {
+    "id": "gh:poooooby/g1r_modern_spawns",
+    "name": "Modern Spawns",
+    "from": "v0.14.0",
+    "to": "v0.16.0"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-f1891b9",
+    "to": "commit-ea795ee"
+   },
+   {
+    "id": "gh:maulikmehta/obsidian-book-pipeline",
+    "name": "obsidian book pipeline",
+    "from": "commit-fce2ea9",
+    "to": "commit-2044b53"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-d86b533",
+    "to": "commit-c2fe3cc"
+   },
+   {
+    "id": "gh:tai827/oceanblue",
+    "name": "Pokemon Ocean Blue",
+    "from": "1.1",
+    "to": "1.2"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-1c5a4b7",
+    "to": "commit-199e66e"
+   },
+   {
+    "id": "gh:kat-titter/vanitas-veritas",
+    "name": "vanitas veritas",
+    "from": "commit-931ac3d",
+    "to": "commit-b004960"
+   },
+   {
+    "id": "gh:lordsangreal/versaocristal-ptbr",
+    "name": "versaocristal ptbr",
+    "from": "v0.61.0",
+    "to": "v0.63.0"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.0.4",
+    "to": "v2.0.5"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.15.1",
+    "to": "v1.16.0"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.6.9",
+    "to": "v1.7.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:twgrodd/g1r-deluxe_gen2_mod_remove-slow-levelup-group",
+    "name": "Gen 2 - Remove Slow Level-Up Group",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:twgrodd/g1r-deluxe_gen2_mod_hm-master",
+    "name": "HM Anywhere (Gen 2)",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:andrepecosta/myqualityoflife",
+    "name": "myQualityOfLife",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:deftones565/gen1recomp-mod-stadium2-importer",
+    "name": "Pokemon Stadium 2 Importer",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-17T13:26:01Z",
   "new": [
    {
