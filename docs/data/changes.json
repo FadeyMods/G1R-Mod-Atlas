@@ -1,5 +1,202 @@
 [
  {
+  "date": "2026-11-19T13:05:55Z",
+  "new": [
+   {
+    "id": "gh:gusdslara/supermonkeyballjr-recomp",
+    "name": "supermonkeyballjr recomp"
+   },
+   {
+    "id": "gh:vibecoded-ezme/metric_pokedex",
+    "name": "metric pokedex"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-dfae517",
+    "to": "commit-8e4d95b"
+   },
+   {
+    "id": "gh:djmaccie/emerald",
+    "name": "Emerald",
+    "from": "commit-deef507",
+    "to": "commit-3dbf04b"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.3.0",
+    "to": "v1.3.1"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.1.1",
+    "to": "v1.2.0"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-a2502b9",
+    "to": "commit-a026a73"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-012fb3e",
+    "to": "commit-0a46559"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-ed6b7a7",
+    "to": "commit-9602cc3"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-9d5c46b",
+    "to": "commit-48b27fb"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-ace0ce6",
+    "to": "commit-4c36028"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-309ff32",
+    "to": "commit-5a10004"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-6d14d19",
+    "to": "commit-1a4068f"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-ea795ee",
+    "to": "commit-3dc5615"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-c2fe3cc",
+    "to": "commit-fd25931"
+   },
+   {
+    "id": "gh:djmaccie/pokemon-emerald-3d-voxel-mod",
+    "name": "pokemon emerald 3d voxel mod",
+    "from": "commit-deef507",
+    "to": "commit-3dbf04b"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-199e66e",
+    "to": "commit-cb5cca8"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-5863433",
+    "to": "commit-950002b"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.0.5",
+    "to": "v2.0.6"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.17.2",
+    "to": "v0.17.3"
+   },
+   {
+    "id": "gh:tooandorisu/z-moves",
+    "name": "Z Moves",
+    "from": "0.6.1",
+    "to": "0.7.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:herryherodot4/exquisite-corpse",
+    "name": "Exquisite Corpse",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:theoriginaldrj/firered-mp3",
+    "name": "FireRed-MP3",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1nightlymods",
+    "name": "Gen1NightlyMods",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:bobshark2/gen1recomp-kanto-challenge",
+    "name": "gen1recomp-kanto-challenge",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:theoriginaldrj/hoenn-journey",
+    "name": "Hoenn-Journey",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gummygamer/nvidia-fakemon",
+    "name": "NVIDIA Living Fakedex",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gummygamer/nim-npc-chat",
+    "name": "NVIDIA NIM NPC Chat",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:theoriginaldrj/firered-companion",
+    "name": "Pokemon Companion",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:elvieblooms/rocket_edition",
+    "name": "Rocket Edition",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/texture-pack-templates",
+    "name": "Texture-Pack-Templates",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gummygamer/gen1recomp-voxel-frlg",
+    "name": "Voxel Overworld (FireRed / LeafGreen)",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-18T13:02:02Z",
   "new": [
    {

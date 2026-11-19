@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T13:02:02Z",
+ "generated_at": "2026-11-19T13:05:55Z",
  "count": 464,
  "mods": [
   {
@@ -7377,7 +7377,7 @@
     "published_at": "2026-10-09T22:52:25Z",
     "zip": {
      "name": "metric_pokedex.zip",
-     "url": "https://github.com/ez-me/metric_pokedex/releases/download/v1.0.5/metric_pokedex.zip"
+     "url": "https://github.com/vibecoded-ezme/metric_pokedex/releases/download/v1.0.5/metric_pokedex.zip"
     }
    },
    "update_check": "ok",
@@ -9304,18 +9304,18 @@
    "github": "WizzStar/PKMN-G1R-PokeLog"
   },
   {
-   "folder": "Mochx-007@PkMultiplayer",
-   "id": "PkMultiplayer",
-   "title": "PkMultiplayer (Online Co-op)",
-   "author": "Mochx-007",
+   "folder": "Mochx07@pkmultiplayer",
+   "id": "pkmultiplayer",
+   "title": "PkMultiplayer",
+   "author": "Mochx07",
    "version": "1.6.17",
    "categories": [
-    "GAMEPLAY"
+    "CONTENT"
    ],
    "tags": [
     "unlisted"
    ],
-   "summary": "Online co-op mod for Gen2Recomped (Pokemon Gold/Silver/Crystal): two players, one Johto, 2-vs-2 double battles. LAN / ZeroTier.",
+   "summary": "Online co-op mod for Gen2Recomped: play Pokémon Gold/Silver/Crystal and Red/Blue/Yellow with a friend — walk together, chat, emotes, shared story and 2v2 co-op double battles. Peer-to-peer over LAN/ZeroTier, no server. · Co-op online: jueguen la aventura juntos.",
    "latest": {
     "version": "1.6.17",
     "tag": "v1.6.17",
@@ -9329,8 +9329,8 @@
    },
    "update_check": "ok",
    "last_release": "2026-11-03T02:42:34Z",
-   "repo": "https://github.com/Mochx-007/PkMultiplayer",
-   "github": "Mochx-007/PkMultiplayer"
+   "repo": "https://github.com/Mochx07/PkMultiplayer",
+   "github": "Mochx07/PkMultiplayer"
   },
   {
    "folder": "Sebarosu@playable-luigi",
@@ -14240,7 +14240,7 @@
    "id": "z_moves",
    "title": "Z Moves",
    "author": "Tooandorisu",
-   "version": "0.6.1",
+   "version": "0.7.0",
    "categories": [
     "CONTENT"
    ],
@@ -14249,18 +14249,18 @@
    ],
    "summary": "A Pokémon Sun/Moon-inspired Z-Moves mod for Gen1Recomp, featuring Z-Crystals, powerful Z-Moves, animations, and trainer battles.",
    "latest": {
-    "version": "0.6.1",
-    "tag": "0.6.1",
-    "name": "0.6.1",
+    "version": "0.7.0",
+    "tag": "0.7.0",
+    "name": "0.7.0",
     "prerelease": false,
-    "published_at": "2026-11-17T20:59:22Z",
+    "published_at": "2026-11-18T15:52:04Z",
     "zip": {
-     "name": "z_moves_v0.6.1.zip",
-     "url": "https://github.com/Tooandorisu/Z-Moves/releases/download/0.6.1/z_moves_v0.6.1.zip"
+     "name": "z_moves_v0.7.0.zip",
+     "url": "https://github.com/Tooandorisu/Z-Moves/releases/download/0.7.0/z_moves_v0.7.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-17T20:59:22Z",
+   "last_release": "2026-11-18T15:52:04Z",
    "repo": "https://github.com/Tooandorisu/Z-Moves",
    "github": "Tooandorisu/Z-Moves"
   },
