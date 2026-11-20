@@ -1,5 +1,234 @@
 [
  {
+  "date": "2026-11-20T12:53:22Z",
+  "new": [
+   {
+    "id": "gh:dhanzganz/gta6-clipper-01-v2",
+    "name": "gta6 clipper 01 v2"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-8e4d95b",
+    "to": "commit-2aa37af"
+   },
+   {
+    "id": "gh:tolgakurtuluss/awesome-webos",
+    "name": "awesome webos",
+    "from": "commit-d154a70",
+    "to": "commit-be09e35"
+   },
+   {
+    "id": "gh:tooandorisu/cleanui-gen3",
+    "name": "Clean UI Gen 3",
+    "from": "0.18.6",
+    "to": "0.19.0"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.2.0",
+    "to": "v1.2.1"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-a026a73",
+    "to": "commit-b2c8476"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.10.5",
+    "to": "v0.12.1"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-0a46559",
+    "to": "commit-8b39058"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-48b27fb",
+    "to": "commit-663b892"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-4c36028",
+    "to": "commit-c86e1b5"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-5a10004",
+    "to": "commit-4bc5a8a"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-1a4068f",
+    "to": "commit-f4ab932"
+   },
+   {
+    "id": "gh:poooooby/g1r_modern_spawns",
+    "name": "Modern Spawns",
+    "from": "v0.16.0",
+    "to": "v0.17.0"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-3dc5615",
+    "to": "commit-b73d543"
+   },
+   {
+    "id": "gh:maulikmehta/obsidian-book-pipeline",
+    "name": "obsidian book pipeline",
+    "from": "commit-2044b53",
+    "to": "commit-9a45b70"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-fd25931",
+    "to": "commit-bbe09a8"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v1.3.0",
+    "to": "v1.3.1"
+   },
+   {
+    "id": "gh:welchdigital/pokedaisy-ayaneo-ds",
+    "name": "pokedaisy ayaneo ds",
+    "from": "commit-58f3db4",
+    "to": "commit-4cbf88e"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-cb5cca8",
+    "to": "commit-805e91d"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2",
+    "from": "1.71.0",
+    "to": "1.82.0"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen3",
+    "name": "Project Highlander Gen3",
+    "from": "1.93.0",
+    "to": "1.96.0"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-950002b",
+    "to": "commit-74402e1"
+   },
+   {
+    "id": "gh:kat-titter/vanitas-veritas",
+    "name": "vanitas veritas",
+    "from": "commit-b004960",
+    "to": "commit-912e52d"
+   },
+   {
+    "id": "gh:poooooby/vivid-worlds-og",
+    "name": "vivid worlds og",
+    "from": "v1.0.17",
+    "to": "v1.1.0"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.0.6",
+    "to": "v2.0.8"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.16.0",
+    "to": "v1.18.0"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.17.3",
+    "to": "v0.19.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:hydhyro/gen1_pt-br_mod",
+    "name": "(PT-BR) Versão Brasileira",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:darkheros09/gen3-dialogue-portraits",
+    "name": "Dialogue Portraits (Gen 3)",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:bryanthaboi/g1r-cart-maker",
+    "name": "g1r-cart-maker",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:faff0x/gen3recomp",
+    "name": "gen3recomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:faff0x/gen3recomp-mod-index",
+    "name": "gen3recomp-mod-index",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/latios-and-latias-roamers",
+    "name": "Hoenn Latias + Latios Roamers",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/lake-trio-event",
+    "name": "Lake Trio Events",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:joshualevi/pocket-diorama",
+    "name": "pocket diorama",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:welchdigital/pokedaisy-ayaneo-ds",
+    "name": "pokedaisy ayaneo ds",
+    "from": "active",
+    "to": "archived"
+   },
+   {
+    "id": "gh:gawdmode/pokesurvive",
+    "name": "PokeSurvive",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-19T13:05:55Z",
   "new": [
    {

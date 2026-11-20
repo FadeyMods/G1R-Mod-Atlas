@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T13:05:55Z",
+ "generated_at": "2026-11-20T12:53:22Z",
  "count": 464,
  "mods": [
   {
@@ -1826,7 +1826,7 @@
    "id": "cleanui_gen3",
    "title": "Clean UI Gen 3",
    "author": "Tooandorisu",
-   "version": "0.18.6",
+   "version": "0.19.0",
    "categories": [
     "UI"
    ],
@@ -1835,18 +1835,18 @@
    ],
    "summary": "CleanUI for Gen3",
    "latest": {
-    "version": "0.18.6",
-    "tag": "0.18.6",
-    "name": "0.18.6",
+    "version": "0.19.0",
+    "tag": "0.19.0",
+    "name": "0.19.0",
     "prerelease": false,
-    "published_at": "2026-11-02T01:02:49Z",
+    "published_at": "2026-11-20T09:39:41Z",
     "zip": {
-     "name": "CleanUI-Gen3-v0_18_6.zip",
-     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.18.6/CleanUI-Gen3-v0_18_6.zip"
+     "name": "CleanUI-Gen3-v0_19_0.zip",
+     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.19.0/CleanUI-Gen3-v0_19_0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-02T01:02:49Z",
+   "last_release": "2026-11-20T09:39:41Z",
    "repo": "https://github.com/Tooandorisu/CleanUI-Gen3",
    "github": "Tooandorisu/CleanUI-Gen3"
   },
@@ -3954,7 +3954,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.10.5",
+   "version": "0.12.1",
    "categories": [
     "LIBRARY"
    ],
@@ -3963,18 +3963,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.10.5",
-    "tag": "v0.10.5",
-    "name": "v0.10.5",
+    "version": "0.12.1",
+    "tag": "v0.12.1",
+    "name": "v0.12.1",
     "prerelease": false,
-    "published_at": "2026-11-18T05:48:09Z",
+    "published_at": "2026-11-20T04:25:39Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.10.5.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.10.5/gen3-hd-sprites-0.10.5.zip"
+     "name": "gen3-hd-sprites-0.12.1.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.12.1/gen3-hd-sprites-0.12.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-18T05:48:09Z",
+   "last_release": "2026-11-20T04:25:39Z",
    "games": [
     "gen3"
    ],
@@ -7357,13 +7357,13 @@
    "github": "ojsaucer/gen1recomp-Menu-Hotkeys"
   },
   {
-   "folder": "ez-me@metric_pokedex",
+   "folder": "vibecoded-ezme@metric_pokedex",
    "id": "metric_pokedex",
-   "title": "Metric Pokédex",
-   "author": "ez-me",
+   "title": "metric pokedex",
+   "author": "vibecoded-ezme",
    "version": "1.0.5",
    "categories": [
-    "UI"
+    "CONTENT"
    ],
    "tags": [
     "unlisted"
@@ -7382,21 +7382,8 @@
    },
    "update_check": "ok",
    "last_release": "2026-10-09T22:52:25Z",
-   "games": [
-    "red",
-    "blue",
-    "yellow",
-    "gold",
-    "silver",
-    "crystal",
-    "firered",
-    "leafgreen",
-    "ruby",
-    "sapphire",
-    "emerald"
-   ],
-   "repo": "https://github.com/ez-me/metric_pokedex",
-   "github": "ez-me/metric_pokedex"
+   "repo": "https://github.com/vibecoded-ezme/metric_pokedex",
+   "github": "vibecoded-ezme/metric_pokedex"
   },
   {
    "folder": "Chari69@mewmod",
@@ -7800,7 +7787,7 @@
    "id": "modern_spawns",
    "title": "Modern Spawns",
    "author": "poooooby",
-   "version": "0.16.0",
+   "version": "0.17.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7809,18 +7796,18 @@
    ],
    "summary": "Dynamic Gen 1-9 wild encounter redistribution for Pokemon Red/Blue/Yellow/Gold/Silver/Crystal/FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "0.16.0",
-    "tag": "v0.16.0",
-    "name": "v0.16.0",
+    "version": "0.17.0",
+    "tag": "v0.17.0",
+    "name": "v0.17.0",
     "prerelease": false,
-    "published_at": "2026-11-18T05:08:15Z",
+    "published_at": "2026-11-19T22:52:02Z",
     "zip": {
-     "name": "modern_spawns-0.16.0.zip",
-     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.16.0/modern_spawns-0.16.0.zip"
+     "name": "modern_spawns-0.17.0.zip",
+     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.17.0/modern_spawns-0.17.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-18T05:08:15Z",
+   "last_release": "2026-11-19T22:52:02Z",
    "games": [
     "gen1",
     "gen2",
@@ -8414,14 +8401,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-18T06:15:53Z",
+    "published_at": "2026-11-20T03:43:57Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-18T06:15:53Z",
+   "last_release": "2026-11-20T03:43:57Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9366,7 +9353,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "1.3.0",
+   "version": "1.3.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9375,18 +9362,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "1.3.0",
-    "tag": "v1.3.0",
-    "name": "v1.3.0",
+    "version": "1.3.1",
+    "tag": "v1.3.1",
+    "name": "v1.3.1",
     "prerelease": false,
-    "published_at": "2026-11-14T03:13:28Z",
+    "published_at": "2026-11-19T22:53:06Z",
     "zip": {
-     "name": "play_nav-1.3.0.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.3.0/play_nav-1.3.0.zip"
+     "name": "play_nav-1.3.1.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.3.1/play_nav-1.3.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-14T03:13:28Z",
+   "last_release": "2026-11-19T22:53:06Z",
    "games": [
     "gen3"
    ],
@@ -10718,7 +10705,7 @@
    "id": "project_highlander_gen1_2",
    "title": "Project Highlander Gen1 2",
    "author": "Waifu4Life",
-   "version": "1.71.0",
+   "version": "1.82.0",
    "categories": [
     "UI"
    ],
@@ -10727,18 +10714,18 @@
    ],
    "summary": "Project Highlander Gen1+2",
    "latest": {
-    "version": "1.71.0",
-    "tag": "1.71.0",
-    "name": "1.71.0",
+    "version": "1.82.0",
+    "tag": "1.82.0",
+    "name": "1.82.0",
     "prerelease": false,
-    "published_at": "2026-11-14T05:06:38Z",
+    "published_at": "2026-11-20T05:20:05Z",
     "zip": {
-     "name": "project_highlander_gen1%2B2-1.71.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.71.0/project_highlander_gen1%2B2-1.71.0.zip"
+     "name": "project_highlander_gen1%2B2-1.82.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.82.0/project_highlander_gen1%2B2-1.82.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-14T05:06:38Z",
+   "last_release": "2026-11-20T05:20:05Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2",
    "github": "Waifu4Life/Project-Highlander-Gen1-2"
   },
@@ -10747,7 +10734,7 @@
    "id": "project_highlander_gen3",
    "title": "Project Highlander Gen3",
    "author": "Waifu4Life",
-   "version": "1.93.0",
+   "version": "1.96.0",
    "categories": [
     "TOOL"
    ],
@@ -10756,18 +10743,18 @@
    ],
    "summary": "Project Highlander Gen3",
    "latest": {
-    "version": "1.93.0",
-    "tag": "1.93.0",
-    "name": "1.93.0",
+    "version": "1.96.0",
+    "tag": "1.96.0",
+    "name": "1.96.0",
     "prerelease": false,
-    "published_at": "2026-11-15T01:46:59Z",
+    "published_at": "2026-11-20T05:25:51Z",
     "zip": {
-     "name": "project_highlander_gen3-1.93.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.93.0/project_highlander_gen3-1.93.0.zip"
+     "name": "project_highlander_gen3-1.96.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen3/releases/download/1.96.0/project_highlander_gen3-1.96.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-15T01:46:59Z",
+   "last_release": "2026-11-20T05:25:51Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen3",
    "github": "Waifu4Life/Project-Highlander-Gen3"
   },
@@ -13955,7 +13942,7 @@
    "id": "vivid_worlds_og",
    "title": "vivid worlds og",
    "author": "poooooby",
-   "version": "1.0.17",
+   "version": "1.1.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13964,18 +13951,18 @@
    ],
    "summary": "Vivid Worlds: OG - visible, reactive wild Pokemon and a partner that battles and forages, for Gen1Recomp's Red/Blue/Yellow and Gold/Silver/Crystal. A lightweight sister to Vivid Worlds (Wilds of Hoenn).",
    "latest": {
-    "version": "1.0.17",
-    "tag": "v1.0.17",
-    "name": "v1.0.17",
+    "version": "1.1.0",
+    "tag": "v1.1.0",
+    "name": "v1.1.0",
     "prerelease": false,
-    "published_at": "2026-11-16T06:06:51Z",
+    "published_at": "2026-11-19T21:28:27Z",
     "zip": {
-     "name": "vivid-worlds-og-v1.0.17.zip",
-     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.0.17/vivid-worlds-og-v1.0.17.zip"
+     "name": "vivid-worlds-og-v1.1.0.zip",
+     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.1.0/vivid-worlds-og-v1.1.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-16T06:06:51Z",
+   "last_release": "2026-11-19T21:28:27Z",
    "repo": "https://github.com/poooooby/vivid-worlds-og",
    "github": "poooooby/vivid-worlds-og"
   },
