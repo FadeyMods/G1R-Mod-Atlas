@@ -1,5 +1,226 @@
 [
  {
+  "date": "2026-11-21T12:39:15Z",
+  "new": [
+   {
+    "id": "gh:leomontenegro6/game-dialog-previewer",
+    "name": "game dialog previewer"
+   },
+   {
+    "id": "gh:tooandorisu/dexnav-gen3",
+    "name": "DEXNAV gen3"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-2aa37af",
+    "to": "commit-dfc53e4"
+   },
+   {
+    "id": "gh:tolgakurtuluss/awesome-webos",
+    "name": "awesome webos",
+    "from": "commit-be09e35",
+    "to": "commit-d9c03c1"
+   },
+   {
+    "id": "gh:tooandorisu/cleanui-gen3",
+    "name": "Clean UI Gen 3",
+    "from": "0.19.0",
+    "to": "0.20.1"
+   },
+   {
+    "id": "gh:jottenmiller/gen3-decap",
+    "name": "Decapitalize Names",
+    "from": "0.4.1",
+    "to": "0.4.2"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.3.1",
+    "to": "v1.3.2"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-b2c8476",
+    "to": "commit-817b70f"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.12.1",
+    "to": "v0.14.1"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-8b39058",
+    "to": "commit-4f29d38"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-9602cc3",
+    "to": "commit-1717691"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-663b892",
+    "to": "commit-3828bfa"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-c86e1b5",
+    "to": "commit-a3ca052"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-4bc5a8a",
+    "to": "commit-b05b917"
+   },
+   {
+    "id": "gh:matheus2x/ie3ogre-nds-recomp",
+    "name": "ie3ogre nds recomp",
+    "from": "v0.1.39",
+    "to": "v0.1.40"
+   },
+   {
+    "id": "gh:venatrix-ritz/kantogearbottom",
+    "name": "KantoGearBottom",
+    "from": "commit-dbc87e1",
+    "to": "commit-5818f2f"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.6.2",
+    "to": "v0.6.3"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-f4ab932",
+    "to": "commit-243cba6"
+   },
+   {
+    "id": "gh:tooandorisu/modern-exp-share",
+    "name": "Modern EXP Share",
+    "from": "v1.0.0",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:poooooby/g1r_modern_spawns",
+    "name": "Modern Spawns",
+    "from": "v0.17.0",
+    "to": "v0.20.0"
+   },
+   {
+    "id": "gh:elvieblooms/name_tags",
+    "name": "Name Tags",
+    "from": "v1.3.0",
+    "to": "v1.4.0"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-b73d543",
+    "to": "commit-8318675"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-bbe09a8",
+    "to": "commit-ddbea49"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-805e91d",
+    "to": "commit-9ee61b1"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-74402e1",
+    "to": "commit-a8f3abe"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.18.0",
+    "to": "v1.19.1"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.19.0",
+    "to": "v0.21.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:recompfan/awesome-recomp",
+    "name": "awesome recomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/gen1-battle-effects",
+    "name": "Battle Effect Colors",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/leaf-avatar",
+    "name": "Choose Your Avatar",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/darkrai-cresselia-event",
+    "name": "Darkrai + Cresselia Events",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:tai827/digimon-world-gen-1-recomp-mod",
+    "name": "Digimon-World-Gen-1-Recomp-mod",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:kaboggs/dramatic-mini-modifications-mod",
+    "name": "dramatic-mini-modifications-mod",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/manaphy-phione-event",
+    "name": "Manaphy + Phione Event",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/mew-under-truck-gen3",
+    "name": "Mew Event",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/navel-rock-and-birth-island-restoration",
+    "name": "Navel Rock + Birth Island Restoration",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-20T12:53:22Z",
   "new": [
    {

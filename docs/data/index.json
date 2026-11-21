@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T12:53:22Z",
- "count": 464,
+ "generated_at": "2026-11-21T12:39:15Z",
+ "count": 466,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -1826,7 +1826,7 @@
    "id": "cleanui_gen3",
    "title": "Clean UI Gen 3",
    "author": "Tooandorisu",
-   "version": "0.19.0",
+   "version": "0.20.1",
    "categories": [
     "UI"
    ],
@@ -1835,18 +1835,18 @@
    ],
    "summary": "CleanUI for Gen3",
    "latest": {
-    "version": "0.19.0",
-    "tag": "0.19.0",
-    "name": "0.19.0",
+    "version": "0.20.1",
+    "tag": "0.20.1",
+    "name": "0.20.1",
     "prerelease": false,
-    "published_at": "2026-11-20T09:39:41Z",
+    "published_at": "2026-11-20T14:38:59Z",
     "zip": {
-     "name": "CleanUI-Gen3-v0_19_0.zip",
-     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.19.0/CleanUI-Gen3-v0_19_0.zip"
+     "name": "CleanUI-Gen3-v0_20_1.zip",
+     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.20.1/CleanUI-Gen3-v0_20_1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-20T09:39:41Z",
+   "last_release": "2026-11-20T14:38:59Z",
    "repo": "https://github.com/Tooandorisu/CleanUI-Gen3",
    "github": "Tooandorisu/CleanUI-Gen3"
   },
@@ -2484,6 +2484,35 @@
    ],
    "repo": "https://github.com/Zetto22/dex_radar",
    "github": "Zetto22/dex_radar"
+  },
+  {
+   "folder": "Tooandorisu@dexnav_gen3",
+   "id": "dexnav_gen3",
+   "title": "DEXNAV gen3",
+   "author": "Tooandorisu",
+   "version": "1.8.0",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Dexnav with gen3 compatibility",
+   "latest": {
+    "version": "1.8.0",
+    "tag": "1.8.0",
+    "name": "1.8.0",
+    "prerelease": false,
+    "published_at": "2026-11-20T14:48:16Z",
+    "zip": {
+     "name": "DexNav-1_8_0.zip",
+     "url": "https://github.com/Tooandorisu/DEXNAV-gen3/releases/download/1.8.0/DexNav-1_8_0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-20T14:48:16Z",
+   "repo": "https://github.com/Tooandorisu/DEXNAV-gen3",
+   "github": "Tooandorisu/DEXNAV-gen3"
   },
   {
    "folder": "Nezara@dialogue_portraits",
@@ -3954,7 +3983,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.12.1",
+   "version": "0.14.1",
    "categories": [
     "LIBRARY"
    ],
@@ -3963,18 +3992,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.12.1",
-    "tag": "v0.12.1",
-    "name": "v0.12.1",
+    "version": "0.14.1",
+    "tag": "v0.14.1",
+    "name": "v0.14.1",
     "prerelease": false,
-    "published_at": "2026-11-20T04:25:39Z",
+    "published_at": "2026-11-20T20:31:51Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.12.1.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.12.1/gen3-hd-sprites-0.12.1.zip"
+     "name": "gen3-hd-sprites-0.14.1.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.14.1/gen3-hd-sprites-0.14.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-20T04:25:39Z",
+   "last_release": "2026-11-20T20:31:51Z",
    "games": [
     "gen3"
    ],
@@ -5378,6 +5407,38 @@
    "github": "Jo5-K/GiveNationaldex---Gen1recomp-mod"
   },
   {
+   "folder": "gmarcs@gmarcs_gen2_voxel_mod",
+   "id": "gmarcs_gen2_voxel_mod",
+   "title": "Gmarc's Gen 2 Voxel Mod",
+   "author": "gmarcs",
+   "version": "1.0.19",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "3D voxel overworld for Gen 2 (Gold/Silver/Crystal).",
+   "latest": {
+    "version": "1.0.19",
+    "tag": "v1.0.19",
+    "name": "v1.0.19",
+    "prerelease": false,
+    "published_at": "2026-11-07T15:15:56Z",
+    "zip": {
+     "name": "gmarcs_gen2_voxel_mod-1.0.19.zip",
+     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.19/gmarcs_gen2_voxel_mod-1.0.19.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-07T15:15:56Z",
+   "games": [
+    "gen2"
+   ],
+   "repo": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod",
+   "github": "gmarcmods/gmarcs_gen2_voxel_mod"
+  },
+  {
    "folder": "gmarcmods@gmarcs_gen2_spanish_mod",
    "id": "gmarcs_gen2_spanish_mod",
    "title": "gmarcs gen2 spanish mod",
@@ -5963,7 +6024,7 @@
    "id": "ie3ogre_nds_recomp",
    "title": "ie3ogre nds recomp",
    "author": "matheus2x",
-   "version": "0.1.39",
+   "version": "0.1.40",
    "categories": [
     "ART"
    ],
@@ -5973,18 +6034,18 @@
    ],
    "summary": "Port nativo para Windows de Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
    "latest": {
-    "version": "0.1.39",
-    "tag": "v0.1.39",
-    "name": "v0.1.39",
+    "version": "0.1.40",
+    "tag": "v0.1.40",
+    "name": "v0.1.40",
     "prerelease": false,
-    "published_at": "2026-11-15T19:31:19Z",
+    "published_at": "2026-11-21T04:00:14Z",
     "zip": {
-     "name": "mod-CyberLifePlus-1.24.zip",
-     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.39/mod-CyberLifePlus-1.24.zip"
+     "name": "mod-CyberLifePlus-1.25.zip",
+     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.40/mod-CyberLifePlus-1.25.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-15T19:31:19Z",
+   "last_release": "2026-11-21T04:00:14Z",
    "repo": "https://github.com/matheus2x/ie3ogre-nds-recomp",
    "github": "matheus2x/ie3ogre-nds-recomp"
   },
@@ -7192,7 +7253,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.6.2",
+   "version": "0.6.3",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7201,18 +7262,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.6.2",
-    "tag": "v0.6.2",
-    "name": "v0.6.2",
+    "version": "0.6.3",
+    "tag": "v0.6.3",
+    "name": "v0.6.3",
     "prerelease": false,
-    "published_at": "2026-11-15T06:59:25Z",
+    "published_at": "2026-11-21T06:43:16Z",
     "zip": {
-     "name": "max_raids-0.6.2.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.2/max_raids-0.6.2.zip"
+     "name": "max_raids-0.6.3.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.3/max_raids-0.6.3.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-15T06:59:25Z",
+   "last_release": "2026-11-21T06:43:16Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -7626,7 +7687,7 @@
    "id": "modern_exp_share",
    "title": "Modern EXP Share",
    "author": "Tooandorisu",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7635,18 +7696,18 @@
    ],
    "summary": "Modern Exp. Share mod for Gen1Recomp, bringing Gen 6+ experience sharing to Pokémon FireRed, LeafGreen, Ruby, Sapphire and Emerald. Features customizable team EXP, EXP on catch and in-game settings.",
    "latest": {
-    "version": "1.0.0",
-    "tag": "v1.0.0",
-    "name": "v1.0.0",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-11-17T23:27:33Z",
+    "published_at": "2026-11-20T23:37:07Z",
     "zip": {
-     "name": "modern_exp_share-1.0.0.zip",
-     "url": "https://github.com/Tooandorisu/Modern-EXP-Share/releases/download/v1.0.0/modern_exp_share-1.0.0.zip"
+     "name": "modern_exp_share-1.0.1.zip",
+     "url": "https://github.com/Tooandorisu/Modern-EXP-Share/releases/download/v1.0.1/modern_exp_share-1.0.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-17T23:27:33Z",
+   "last_release": "2026-11-20T23:37:07Z",
    "repo": "https://github.com/Tooandorisu/Modern-EXP-Share",
    "github": "Tooandorisu/Modern-EXP-Share"
   },
@@ -7787,7 +7848,7 @@
    "id": "modern_spawns",
    "title": "Modern Spawns",
    "author": "poooooby",
-   "version": "0.17.0",
+   "version": "0.20.0",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7796,18 +7857,18 @@
    ],
    "summary": "Dynamic Gen 1-9 wild encounter redistribution for Pokemon Red/Blue/Yellow/Gold/Silver/Crystal/FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "0.17.0",
-    "tag": "v0.17.0",
-    "name": "v0.17.0",
+    "version": "0.20.0",
+    "tag": "v0.20.0",
+    "name": "v0.20.0",
     "prerelease": false,
-    "published_at": "2026-11-19T22:52:02Z",
+    "published_at": "2026-11-21T01:33:58Z",
     "zip": {
-     "name": "modern_spawns-0.17.0.zip",
-     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.17.0/modern_spawns-0.17.0.zip"
+     "name": "modern_spawns-0.20.0.zip",
+     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.20.0/modern_spawns-0.20.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-19T22:52:02Z",
+   "last_release": "2026-11-21T01:33:58Z",
    "games": [
     "gen1",
     "gen2",
@@ -8401,14 +8462,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-20T03:43:57Z",
+    "published_at": "2026-11-21T00:46:29Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-20T03:43:57Z",
+   "last_release": "2026-11-21T00:46:29Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
