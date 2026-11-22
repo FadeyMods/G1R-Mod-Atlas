@@ -1,5 +1,264 @@
 [
  {
+  "date": "2026-11-22T12:35:05Z",
+  "new": [
+   {
+    "id": "gh:elvieblooms/field_day",
+    "name": "field day"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-dfc53e4",
+    "to": "commit-ae50195"
+   },
+   {
+    "id": "gh:jottenmiller/gen3-decap",
+    "name": "Decapitalize Names",
+    "from": "0.4.2",
+    "to": "0.4.4"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-817b70f",
+    "to": "commit-d6d1c8c"
+   },
+   {
+    "id": "gh:leomontenegro6/game-dialog-previewer",
+    "name": "game dialog previewer",
+    "from": "commit-f26fa8a",
+    "to": "v0.0.1"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.14.1",
+    "to": "v0.14.2"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-4f29d38",
+    "to": "commit-de27e53"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-1717691",
+    "to": "commit-dc870f2"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-3828bfa",
+    "to": "commit-8aaee85"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-a3ca052",
+    "to": "commit-cd35897"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-b05b917",
+    "to": "commit-c6aff12"
+   },
+   {
+    "id": "gh:matheus2x/ie3ogre-nds-recomp",
+    "name": "ie3ogre nds recomp",
+    "from": "v0.1.40",
+    "to": "v0.1.41"
+   },
+   {
+    "id": "gh:venatrix-ritz/kantogearbottom",
+    "name": "KantoGearBottom",
+    "from": "commit-5818f2f",
+    "to": "commit-80272ba"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.6.3",
+    "to": "v0.6.4"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-243cba6",
+    "to": "commit-79096ce"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-8318675",
+    "to": "commit-6417ed6"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-ddbea49",
+    "to": "commit-1cf07ba"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-a8f3abe",
+    "to": "commit-230e067"
+   },
+   {
+    "id": "gh:kat-titter/vanitas-veritas",
+    "name": "vanitas veritas",
+    "from": "commit-912e52d",
+    "to": "commit-4e034e1"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.0.8",
+    "to": "v2.1.1"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.19.1",
+    "to": "v1.19.2"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.21.0",
+    "to": "v0.21.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:brewstercm/1025dex-frlg",
+    "name": "1025Dex",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:bookfan97/gen1recomp_exp_share_modes",
+    "name": "Expanded EXP Share Modes",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/firered-kanto-visual-importer",
+    "name": "FireRed Kanto Visual Importer",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/firered-tilesheet-importer",
+    "name": "FireRed Tilesheet Importer Prototype",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/gen1-shedinja",
+    "name": "Gen 1 Shedinja",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/gold-silver-case-style",
+    "name": "Gen 2 Case Style",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1battleui",
+    "name": "Gen1BattleUI",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1billsbox",
+    "name": "Gen1BillsBox",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:wild1walker/gen1party",
+    "name": "Gen1Party",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/gym-leader-rush-plus",
+    "name": "Gym Leader Rush + Shuffle",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/inventory-qol",
+    "name": "Inventory QoL",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:pocket-nexus/pocket-voxel",
+    "name": "pocket voxel",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:real-cak3d/pokedex",
+    "name": "Pokedex",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:vrm97/pokemon-bank",
+    "name": "Pokémon Bank",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/red-centered-layout",
+    "name": "Red & Yellow Centered Layout",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/shedinja",
+    "name": "Shedinja",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/shedinja-expanded-bridge",
+    "name": "Shedinja Compatibility Bridge",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:quit-1337/stadium-battles",
+    "name": "Stadium-Battles",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:brenobertucci/terrarium",
+    "name": "Terrarium",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:inmento/typed-metronomes",
+    "name": "Typed Metronomes",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-21T12:39:15Z",
   "new": [
    {

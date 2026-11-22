@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-21T12:39:15Z",
- "count": 466,
+ "generated_at": "2026-11-22T12:35:05Z",
+ "count": 465,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3983,7 +3983,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.14.1",
+   "version": "0.14.2",
    "categories": [
     "LIBRARY"
    ],
@@ -3992,18 +3992,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.14.1",
-    "tag": "v0.14.1",
-    "name": "v0.14.1",
+    "version": "0.14.2",
+    "tag": "v0.14.2",
+    "name": "v0.14.2",
     "prerelease": false,
-    "published_at": "2026-11-20T20:31:51Z",
+    "published_at": "2026-11-22T06:39:24Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.14.1.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.14.1/gen3-hd-sprites-0.14.1.zip"
+     "name": "gen3-hd-sprites-0.14.2.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.14.2/gen3-hd-sprites-0.14.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-20T20:31:51Z",
+   "last_release": "2026-11-22T06:39:24Z",
    "games": [
     "gen3"
    ],
@@ -5407,38 +5407,6 @@
    "github": "Jo5-K/GiveNationaldex---Gen1recomp-mod"
   },
   {
-   "folder": "gmarcs@gmarcs_gen2_voxel_mod",
-   "id": "gmarcs_gen2_voxel_mod",
-   "title": "Gmarc's Gen 2 Voxel Mod",
-   "author": "gmarcs",
-   "version": "1.0.19",
-   "categories": [
-    "ART"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "3D voxel overworld for Gen 2 (Gold/Silver/Crystal).",
-   "latest": {
-    "version": "1.0.19",
-    "tag": "v1.0.19",
-    "name": "v1.0.19",
-    "prerelease": false,
-    "published_at": "2026-11-07T15:15:56Z",
-    "zip": {
-     "name": "gmarcs_gen2_voxel_mod-1.0.19.zip",
-     "url": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod/releases/download/v1.0.19/gmarcs_gen2_voxel_mod-1.0.19.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-07T15:15:56Z",
-   "games": [
-    "gen2"
-   ],
-   "repo": "https://github.com/gmarcmods/gmarcs_gen2_voxel_mod",
-   "github": "gmarcmods/gmarcs_gen2_voxel_mod"
-  },
-  {
    "folder": "gmarcmods@gmarcs_gen2_spanish_mod",
    "id": "gmarcs_gen2_spanish_mod",
    "title": "gmarcs gen2 spanish mod",
@@ -6024,7 +5992,7 @@
    "id": "ie3ogre_nds_recomp",
    "title": "ie3ogre nds recomp",
    "author": "matheus2x",
-   "version": "0.1.40",
+   "version": "0.1.41",
    "categories": [
     "ART"
    ],
@@ -6034,18 +6002,18 @@
    ],
    "summary": "Port nativo para Windows de Inazuma Eleven 3: Sekai heno Chousen!! The Ogre",
    "latest": {
-    "version": "0.1.40",
-    "tag": "v0.1.40",
-    "name": "v0.1.40",
+    "version": "0.1.41",
+    "tag": "v0.1.41",
+    "name": "v0.1.41",
     "prerelease": false,
-    "published_at": "2026-11-21T04:00:14Z",
+    "published_at": "2026-11-22T06:09:35Z",
     "zip": {
-     "name": "mod-CyberLifePlus-1.25.zip",
-     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.40/mod-CyberLifePlus-1.25.zip"
+     "name": "mod-CyberLifePlus-1.27.zip",
+     "url": "https://github.com/matheus2x/ie3ogre-nds-recomp/releases/download/v0.1.41/mod-CyberLifePlus-1.27.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-21T04:00:14Z",
+   "last_release": "2026-11-22T06:09:35Z",
    "repo": "https://github.com/matheus2x/ie3ogre-nds-recomp",
    "github": "matheus2x/ie3ogre-nds-recomp"
   },
@@ -7253,7 +7221,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.6.3",
+   "version": "0.6.4",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7262,18 +7230,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.6.3",
-    "tag": "v0.6.3",
-    "name": "v0.6.3",
+    "version": "0.6.4",
+    "tag": "v0.6.4",
+    "name": "v0.6.4",
     "prerelease": false,
-    "published_at": "2026-11-21T06:43:16Z",
+    "published_at": "2026-11-22T06:12:38Z",
     "zip": {
-     "name": "max_raids-0.6.3.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.3/max_raids-0.6.3.zip"
+     "name": "max_raids-0.6.4.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.4/max_raids-0.6.4.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-21T06:43:16Z",
+   "last_release": "2026-11-22T06:12:38Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
