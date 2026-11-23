@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T12:35:05Z",
- "count": 465,
+ "generated_at": "2026-11-23T14:38:22Z",
+ "count": 468,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3736,35 +3736,6 @@
    "github": "LaserRaver/g1rd-mute-hp-beep-FR-LG"
   },
   {
-   "folder": "PandaKisor@g3_coop",
-   "id": "g3_coop",
-   "title": "g3 coop",
-   "author": "PandaKisor",
-   "version": "0.8.17",
-   "categories": [
-    "BALANCE"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "Two-player co-op, Soul Link and level caps for Gen1Recomp's Gen 3 games",
-   "latest": {
-    "version": "0.8.17",
-    "tag": "v0.8.17",
-    "name": "v0.8.17",
-    "prerelease": false,
-    "published_at": "2026-11-02T03:24:37Z",
-    "zip": {
-     "name": "g3_coop-0.8.17.zip",
-     "url": "https://github.com/PandaKisor/g3-coop/releases/download/v0.8.17/g3_coop-0.8.17.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-02T03:24:37Z",
-   "repo": "https://github.com/PandaKisor/g3-coop",
-   "github": "PandaKisor/g3-coop"
-  },
-  {
    "folder": "tectorifter@g9-Battle-Scene",
    "id": "g9-Battle-Scene",
    "title": "g9-battle-scene",
@@ -3983,7 +3954,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.14.2",
+   "version": "0.16.0",
    "categories": [
     "LIBRARY"
    ],
@@ -3992,18 +3963,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.14.2",
-    "tag": "v0.14.2",
-    "name": "v0.14.2",
+    "version": "0.16.0",
+    "tag": "v0.16.0",
+    "name": "v0.16.0",
     "prerelease": false,
-    "published_at": "2026-11-22T06:39:24Z",
+    "published_at": "2026-11-23T07:34:28Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.14.2.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.14.2/gen3-hd-sprites-0.14.2.zip"
+     "name": "gen3-hd-sprites-0.16.0.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.16.0/gen3-hd-sprites-0.16.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-22T06:39:24Z",
+   "last_release": "2026-11-23T07:34:28Z",
    "games": [
     "gen3"
    ],
@@ -5195,6 +5166,35 @@
    ],
    "repo": "https://github.com/randyadr/Gen2-Cheat-Menu",
    "github": "randyadr/Gen2-Cheat-Menu"
+  },
+  {
+   "folder": "leomontenegro6@gen2_gsc_pt_br_mod",
+   "id": "gen2_gsc_pt_br_mod",
+   "title": "gen2 gsc pt br mod",
+   "author": "leomontenegro6",
+   "version": "0.1.0",
+   "categories": [
+    "TRANSLATION"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Tradução para português do Brasil dos jogos de Pokémon da 2ª geração, para o gen1recomp.",
+   "latest": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "name": "v0.1.0",
+    "prerelease": false,
+    "published_at": "2026-11-23T01:33:34Z",
+    "zip": {
+     "name": "gen2_gsc_pt-br_mod-0.1.0.zip",
+     "url": "https://github.com/leomontenegro6/gen2_gsc_pt-br_mod/releases/download/v0.1.0/gen2_gsc_pt-br_mod-0.1.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-23T01:33:34Z",
+   "repo": "https://github.com/leomontenegro6/gen2_gsc_pt-br_mod",
+   "github": "leomontenegro6/gen2_gsc_pt-br_mod"
   },
   {
    "folder": "ArmstrongThomas@gen2_clean_ui",
@@ -6516,7 +6516,7 @@
    "id": "Kanto-Reforged",
    "title": "Kanto Reforged",
    "author": "1Jamie",
-   "version": "1.7.17",
+   "version": "1.8.0",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -6525,18 +6525,18 @@
    ],
    "summary": "Gen 2–3 for Red/Blue on gen1recomp. Same Kanto story, more Pokémon, abilities, held items, a berry farm, DexNav, and Qo, all built to feel like Gen 1 did it.",
    "latest": {
-    "version": "1.7.17",
-    "tag": "v1.7.17",
-    "name": "v1.7.17",
+    "version": "1.8.0",
+    "tag": "v1.8.0",
+    "name": "v1.8.0",
     "prerelease": false,
-    "published_at": "2026-09-24T19:44:35Z",
+    "published_at": "2026-11-22T17:59:55Z",
     "zip": {
      "name": "Kanto-Reforged.zip",
-     "url": "https://github.com/1Jamie/Kanto-Reforged/releases/download/v1.7.17/Kanto-Reforged.zip"
+     "url": "https://github.com/1Jamie/Kanto-Reforged/releases/download/v1.8.0/Kanto-Reforged.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-09-24T19:44:35Z",
+   "last_release": "2026-11-22T17:59:55Z",
    "games": [
     "gen1",
     "gen2"
@@ -7221,7 +7221,7 @@
    "id": "max_raids",
    "title": "max raids",
    "author": "poooooby",
-   "version": "0.6.4",
+   "version": "1.0.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7230,18 +7230,18 @@
    ],
    "summary": "Sword and Shield's Max Raid Battles for Gen1Recomp's Gen 3 games",
    "latest": {
-    "version": "0.6.4",
-    "tag": "v0.6.4",
-    "name": "v0.6.4",
+    "version": "1.0.1",
+    "tag": "v1.0.1",
+    "name": "v1.0.1",
     "prerelease": false,
-    "published_at": "2026-11-22T06:12:38Z",
+    "published_at": "2026-11-23T07:57:17Z",
     "zip": {
-     "name": "max_raids-0.6.4.zip",
-     "url": "https://github.com/poooooby/max-raids/releases/download/v0.6.4/max_raids-0.6.4.zip"
+     "name": "max_raids-1.0.1.zip",
+     "url": "https://github.com/poooooby/max-raids/releases/download/v1.0.1/max_raids-1.0.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-22T06:12:38Z",
+   "last_release": "2026-11-23T07:57:17Z",
    "repo": "https://github.com/poooooby/max-raids",
    "github": "poooooby/max-raids"
   },
@@ -7816,7 +7816,7 @@
    "id": "modern_spawns",
    "title": "Modern Spawns",
    "author": "poooooby",
-   "version": "0.20.0",
+   "version": "0.20.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -7825,18 +7825,18 @@
    ],
    "summary": "Dynamic Gen 1-9 wild encounter redistribution for Pokemon Red/Blue/Yellow/Gold/Silver/Crystal/FireRed/LeafGreen (gen1recomp)",
    "latest": {
-    "version": "0.20.0",
-    "tag": "v0.20.0",
-    "name": "v0.20.0",
+    "version": "0.20.1",
+    "tag": "v0.20.1",
+    "name": "v0.20.1",
     "prerelease": false,
-    "published_at": "2026-11-21T01:33:58Z",
+    "published_at": "2026-11-22T19:26:14Z",
     "zip": {
-     "name": "modern_spawns-0.20.0.zip",
-     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.20.0/modern_spawns-0.20.0.zip"
+     "name": "modern_spawns-0.20.1.zip",
+     "url": "https://github.com/poooooby/g1r_modern_spawns/releases/download/v0.20.1/modern_spawns-0.20.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-21T01:33:58Z",
+   "last_release": "2026-11-22T19:26:14Z",
    "games": [
     "gen1",
     "gen2",
@@ -8430,14 +8430,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-21T00:46:29Z",
+    "published_at": "2026-11-23T14:41:35Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-21T00:46:29Z",
+   "last_release": "2026-11-23T14:41:35Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -10734,7 +10734,7 @@
    "id": "project_highlander_gen1_2",
    "title": "Project Highlander Gen1 2",
    "author": "Waifu4Life",
-   "version": "1.82.0",
+   "version": "1.82.1",
    "categories": [
     "UI"
    ],
@@ -10743,18 +10743,18 @@
    ],
    "summary": "Project Highlander Gen1+2",
    "latest": {
-    "version": "1.82.0",
-    "tag": "1.82.0",
-    "name": "1.82.0",
+    "version": "1.82.1",
+    "tag": "1.82.1",
+    "name": "1.82.1",
     "prerelease": false,
-    "published_at": "2026-11-20T05:20:05Z",
+    "published_at": "2026-11-23T01:34:54Z",
     "zip": {
-     "name": "project_highlander_gen1%2B2-1.82.0.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.82.0/project_highlander_gen1%2B2-1.82.0.zip"
+     "name": "project_highlander_gen1%2B2-1.82.1.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.82.1/project_highlander_gen1%2B2-1.82.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-20T05:20:05Z",
+   "last_release": "2026-11-23T01:34:54Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2",
    "github": "Waifu4Life/Project-Highlander-Gen1-2"
   },
@@ -13426,6 +13426,35 @@
    "github": "Berniuz/Gen1Recomp-Italian-Translation"
   },
   {
+   "folder": "MarcoAFSchaefer@trainer_desk",
+   "id": "trainer_desk",
+   "title": "trainer desk",
+   "author": "MarcoAFSchaefer",
+   "version": "0.6.0",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.6.0",
+    "tag": "v0.6.0",
+    "name": "v0.6.0",
+    "prerelease": false,
+    "published_at": "2026-11-23T13:27:01Z",
+    "zip": {
+     "name": "trainer_desk-0.6.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-desk/releases/download/v0.6.0/trainer_desk-0.6.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-23T13:27:01Z",
+   "repo": "https://github.com/MarcoAFSchaefer/trainer-desk",
+   "github": "MarcoAFSchaefer/trainer-desk"
+  },
+  {
    "folder": "ScottExplores@trainer_forfeit",
    "id": "trainer_forfeit",
    "title": "Trainer Forfeit & Rematches",
@@ -13458,6 +13487,64 @@
    ],
    "repo": "https://github.com/ScottExplores/gen1recomp-trainer-forfeit",
    "github": "ScottExplores/gen1recomp-trainer-forfeit"
+  },
+  {
+   "folder": "MarcoAFSchaefer@trainer_lens",
+   "id": "trainer_lens",
+   "title": "trainer lens",
+   "author": "MarcoAFSchaefer",
+   "version": "2.10.0",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "2.10.0",
+    "tag": "v2.10.0",
+    "name": "v2.10.0",
+    "prerelease": false,
+    "published_at": "2026-11-23T13:30:14Z",
+    "zip": {
+     "name": "trainer_lens-2.10.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-lens/releases/download/v2.10.0/trainer_lens-2.10.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-23T13:30:14Z",
+   "repo": "https://github.com/MarcoAFSchaefer/trainer-lens",
+   "github": "MarcoAFSchaefer/trainer-lens"
+  },
+  {
+   "folder": "MarcoAFSchaefer@trainer_pilot",
+   "id": "trainer_pilot",
+   "title": "trainer pilot",
+   "author": "MarcoAFSchaefer",
+   "version": "0.26.0",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.26.0",
+    "tag": "v0.26.0",
+    "name": "v0.26.0",
+    "prerelease": false,
+    "published_at": "2026-11-23T13:36:57Z",
+    "zip": {
+     "name": "trainer_pilot-0.26.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-pilot/releases/download/v0.26.0/trainer_pilot-0.26.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-23T13:36:57Z",
+   "repo": "https://github.com/MarcoAFSchaefer/trainer-pilot",
+   "github": "MarcoAFSchaefer/trainer-pilot"
   },
   {
    "folder": "ElvieBlooms@trainer_talk_packager",
@@ -13971,7 +14058,7 @@
    "id": "vivid_worlds_og",
    "title": "vivid worlds og",
    "author": "poooooby",
-   "version": "1.1.0",
+   "version": "1.1.1",
    "categories": [
     "GAMEPLAY"
    ],
@@ -13980,18 +14067,18 @@
    ],
    "summary": "Vivid Worlds: OG - visible, reactive wild Pokemon and a partner that battles and forages, for Gen1Recomp's Red/Blue/Yellow and Gold/Silver/Crystal. A lightweight sister to Vivid Worlds (Wilds of Hoenn).",
    "latest": {
-    "version": "1.1.0",
-    "tag": "v1.1.0",
-    "name": "v1.1.0",
+    "version": "1.1.1",
+    "tag": "v1.1.1",
+    "name": "v1.1.1",
     "prerelease": false,
-    "published_at": "2026-11-19T21:28:27Z",
+    "published_at": "2026-11-23T04:53:57Z",
     "zip": {
-     "name": "vivid-worlds-og-v1.1.0.zip",
-     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.1.0/vivid-worlds-og-v1.1.0.zip"
+     "name": "vivid-worlds-og-v1.1.1.zip",
+     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.1.1/vivid-worlds-og-v1.1.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-19T21:28:27Z",
+   "last_release": "2026-11-23T04:53:57Z",
    "repo": "https://github.com/poooooby/vivid-worlds-og",
    "github": "poooooby/vivid-worlds-og"
   },

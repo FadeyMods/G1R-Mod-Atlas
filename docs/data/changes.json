@@ -1,5 +1,300 @@
 [
  {
+  "date": "2026-11-23T14:38:22Z",
+  "new": [
+   {
+    "id": "gh:leomontenegro6/gen2_gsc_pt-br_mod",
+    "name": "gen2 gsc pt br mod"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-pilot",
+    "name": "trainer pilot"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-lens",
+    "name": "trainer lens"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-desk",
+    "name": "trainer desk"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-ae50195",
+    "to": "commit-3560a96"
+   },
+   {
+    "id": "gh:jottenmiller/gen3-decap",
+    "name": "Decapitalize Names",
+    "from": "0.4.4",
+    "to": "0.4.5"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v1.1.1",
+    "to": "v1.2.0"
+   },
+   {
+    "id": "gh:elvieblooms/field_day",
+    "name": "field day",
+    "from": "commit-fe4afe9",
+    "to": "commit-a143ba2"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-d6d1c8c",
+    "to": "commit-93da0e6"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.14.2",
+    "to": "v0.16.0"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-de27e53",
+    "to": "commit-2565d27"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-dc870f2",
+    "to": "commit-eba8807"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-8aaee85",
+    "to": "commit-3f0696b"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-cd35897",
+    "to": "commit-f0df60f"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-c6aff12",
+    "to": "commit-03741b0"
+   },
+   {
+    "id": "gh:1jamie/kanto-reforged",
+    "name": "Kanto Reforged",
+    "from": "v1.7.17",
+    "to": "v1.8.0"
+   },
+   {
+    "id": "gh:poooooby/max-raids",
+    "name": "max raids",
+    "from": "v0.6.4",
+    "to": "v1.0.1"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-79096ce",
+    "to": "commit-73bb0fa"
+   },
+   {
+    "id": "gh:poooooby/g1r_modern_spawns",
+    "name": "Modern Spawns",
+    "from": "v0.20.0",
+    "to": "v0.20.1"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-6417ed6",
+    "to": "commit-b4d17c1"
+   },
+   {
+    "id": "gh:maulikmehta/obsidian-book-pipeline",
+    "name": "obsidian book pipeline",
+    "from": "commit-9a45b70",
+    "to": "commit-28b37be"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-1cf07ba",
+    "to": "commit-772c43f"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-9ee61b1",
+    "to": "commit-8ce8b71"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2",
+    "from": "1.82.0",
+    "to": "1.82.1"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-230e067",
+    "to": "commit-c9a756c"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "Recomp Achievements Online",
+    "from": "v2.8.0",
+    "to": "v2.9.0"
+   },
+   {
+    "id": "gh:poooooby/vivid-worlds-og",
+    "name": "vivid worlds og",
+    "from": "v1.1.0",
+    "to": "v1.1.1"
+   },
+   {
+    "id": "gh:poooooby/wilds-of-hoenn",
+    "name": "Wilds of Hoenn",
+    "from": "v2.1.1",
+    "to": "v2.1.2"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.19.2",
+    "to": "v1.19.6"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.7.0",
+    "to": "v1.9.0"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.21.1",
+    "to": "v0.26.1"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:tovakai/baremetal-aarch64-games",
+    "name": "baremetal aarch64 games",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:pandakisor/emerald-doubles-soullink",
+    "name": "emerald doubles soullink",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:bookfan97/expanded_exp_share_modes",
+    "name": "Expanded EXP Share Modes",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:pandakisor/g3-coop",
+    "name": "g3 coop",
+    "from": "active",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:goofwear/gameshark",
+    "name": "GameShark Compatibility",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:bolayerdev/gen1recomp-unplugged",
+    "name": "gen1recomp-unplugged",
+    "from": "wip",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:alfonspistoletti/gen1recomp-mod-immersive-field-moves",
+    "name": "Immersive Field Moves",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:bolayerdev/kanto-first-person",
+    "name": "Kanto First Person",
+    "from": "inactive",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:1jamie/kanto-reforged",
+    "name": "Kanto Reforged",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:twgrodd/g1r-deluxe_gen1_mod_fork_modern-bag-roddsoftver",
+    "name": "Modern Bag Roddsoft",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gummygamer/nvidia-fakemon",
+    "name": "NVIDIA Living Fakedex",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:gummygamer/nim-npc-chat",
+    "name": "NVIDIA NIM NPC Chat",
+    "from": "inactive",
+    "to": "active"
+   },
+   {
+    "id": "gh:bolayerdev/pokepath-signs",
+    "name": "PokéPath Signs",
+    "from": "inactive",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:twgrodd/g1r-deluxe_gen1_mod_startscreenroddsoft",
+    "name": "RoddSoft Edition Title Screen",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:zingamau-dev/self_trade_gen2",
+    "name": "Self Trade",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:artyrambles/st_linkcableitem",
+    "name": "ST_LinkCableItem",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:zingamau-dev/time_switcher_gen2",
+    "name": "Time Switcher",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:bolayerdev/unplugged-mod-library",
+    "name": "unplugged-mod-library",
+    "from": "inactive",
+    "to": "deleted"
+   }
+  ]
+ },
+ {
   "date": "2026-11-22T12:35:05Z",
   "new": [
    {
