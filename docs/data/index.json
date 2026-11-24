@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T14:38:22Z",
- "count": 468,
+ "generated_at": "2026-11-24T14:51:56Z",
+ "count": 467,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3954,7 +3954,7 @@
    "id": "gen3-hd-sprites",
    "title": "Gen 3 HD Sprites",
    "author": "poooooby",
-   "version": "0.16.0",
+   "version": "0.18.0",
    "categories": [
     "LIBRARY"
    ],
@@ -3963,18 +3963,18 @@
    ],
    "summary": "Library mod for gen1recomp's Gen 3 games: draws tagged battle and overworld Pokemon at window resolution, at any size",
    "latest": {
-    "version": "0.16.0",
-    "tag": "v0.16.0",
-    "name": "v0.16.0",
+    "version": "0.18.0",
+    "tag": "v0.18.0",
+    "name": "v0.18.0",
     "prerelease": false,
-    "published_at": "2026-11-23T07:34:28Z",
+    "published_at": "2026-11-24T06:22:52Z",
     "zip": {
-     "name": "gen3-hd-sprites-0.16.0.zip",
-     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.16.0/gen3-hd-sprites-0.16.0.zip"
+     "name": "gen3-hd-sprites-0.18.0.zip",
+     "url": "https://github.com/poooooby/gen3-hd-sprites/releases/download/v0.18.0/gen3-hd-sprites-0.18.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T07:34:28Z",
+   "last_release": "2026-11-24T06:22:52Z",
    "games": [
     "gen3"
    ],
@@ -5259,7 +5259,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.58",
+   "version": "0.8.60",
    "categories": [
     "TRANSLATION"
    ],
@@ -5268,18 +5268,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.58",
-    "tag": "v0.8.58",
-    "name": "v0.8.58",
+    "version": "0.8.60",
+    "tag": "v0.8.60",
+    "name": "v0.8.60",
     "prerelease": false,
-    "published_at": "2026-11-12T05:52:24Z",
+    "published_at": "2026-11-24T01:18:57Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.58-macos.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.58/Gen2Recomped-0.8.58-macos.zip"
+     "name": "Gen2Recomped-0.8.60-rg34xxsp-stockos64-mod.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.60/Gen2Recomped-0.8.60-rg34xxsp-stockos64-mod.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-12T05:52:24Z",
+   "last_release": "2026-11-24T01:18:57Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -8177,35 +8177,6 @@
    "github": "Gilles93/Move-Type-fix"
   },
   {
-   "folder": "garrettjwilke@mpc_boot_thingy",
-   "id": "mpc_boot_thingy",
-   "title": "mpc boot thingy",
-   "author": "garrettjwilke",
-   "version": "1.2.1",
-   "categories": [
-    "UI"
-   ],
-   "tags": [
-    "unlisted"
-   ],
-   "summary": "boot menu for mpc sample",
-   "latest": {
-    "version": "1.2.1",
-    "tag": "v1.2.1",
-    "name": "v1.2.1",
-    "prerelease": false,
-    "published_at": "2026-11-17T01:16:47Z",
-    "zip": {
-     "name": "mpc-boot-thingy.zip",
-     "url": "https://github.com/garrettjwilke/mpc-boot-thingy/releases/download/v1.2.1/mpc-boot-thingy.zip"
-    }
-   },
-   "update_check": "ok",
-   "last_release": "2026-11-17T01:16:47Z",
-   "repo": "https://github.com/garrettjwilke/mpc-boot-thingy",
-   "github": "garrettjwilke/mpc-boot-thingy"
-  },
-  {
    "folder": "garrettjwilke@mpc_gen1recomp",
    "id": "mpc_gen1recomp",
    "title": "mpc gen1recomp",
@@ -8430,14 +8401,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-23T14:41:35Z",
+    "published_at": "2026-11-23T16:14:22Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T14:41:35Z",
+   "last_release": "2026-11-23T16:14:22Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -9382,7 +9353,7 @@
    "id": "play_nav",
    "title": "PlayNav",
    "author": "poooooby",
-   "version": "1.3.1",
+   "version": "1.3.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -9391,18 +9362,18 @@
    ],
    "summary": "gen1recomp mod (Gen 3): Pokémon-Amie and Super Training on a DS-style touch screen. Art and text come from your own Alpha Sapphire card image; nothing from the games ships.",
    "latest": {
-    "version": "1.3.1",
-    "tag": "v1.3.1",
-    "name": "v1.3.1",
+    "version": "1.3.2",
+    "tag": "v1.3.2",
+    "name": "v1.3.2",
     "prerelease": false,
-    "published_at": "2026-11-19T22:53:06Z",
+    "published_at": "2026-11-24T04:26:59Z",
     "zip": {
-     "name": "play_nav-1.3.1.zip",
-     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.3.1/play_nav-1.3.1.zip"
+     "name": "play_nav-1.3.2.zip",
+     "url": "https://github.com/poooooby/PlayNav/releases/download/v1.3.2/play_nav-1.3.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-19T22:53:06Z",
+   "last_release": "2026-11-24T04:26:59Z",
    "games": [
     "gen3"
    ],
@@ -14058,7 +14029,7 @@
    "id": "vivid_worlds_og",
    "title": "vivid worlds og",
    "author": "poooooby",
-   "version": "1.1.1",
+   "version": "1.1.2",
    "categories": [
     "GAMEPLAY"
    ],
@@ -14067,18 +14038,18 @@
    ],
    "summary": "Vivid Worlds: OG - visible, reactive wild Pokemon and a partner that battles and forages, for Gen1Recomp's Red/Blue/Yellow and Gold/Silver/Crystal. A lightweight sister to Vivid Worlds (Wilds of Hoenn).",
    "latest": {
-    "version": "1.1.1",
-    "tag": "v1.1.1",
-    "name": "v1.1.1",
+    "version": "1.1.2",
+    "tag": "v1.1.2",
+    "name": "v1.1.2",
     "prerelease": false,
-    "published_at": "2026-11-23T04:53:57Z",
+    "published_at": "2026-11-23T20:03:28Z",
     "zip": {
-     "name": "vivid-worlds-og-v1.1.1.zip",
-     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.1.1/vivid-worlds-og-v1.1.1.zip"
+     "name": "vivid-worlds-og-v1.1.2.zip",
+     "url": "https://github.com/poooooby/vivid-worlds-og/releases/download/v1.1.2/vivid-worlds-og-v1.1.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T04:53:57Z",
+   "last_release": "2026-11-23T20:03:28Z",
    "repo": "https://github.com/poooooby/vivid-worlds-og",
    "github": "poooooby/vivid-worlds-og"
   },

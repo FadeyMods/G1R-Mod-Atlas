@@ -1,5 +1,200 @@
 [
  {
+  "date": "2026-11-24T14:51:56Z",
+  "new": [
+   {
+    "id": "gh:poooooby/wooble-mod-index",
+    "name": "wooble mod index"
+   },
+   {
+    "id": "gh:elvieblooms/catch_of_the_day",
+    "name": "catch of the day"
+   },
+   {
+    "id": "gh:2wenty2wo/mpc-boot-thingy",
+    "name": "mpc boot thingy"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-3560a96",
+    "to": "commit-d97bd51"
+   },
+   {
+    "id": "gh:jottenmiller/gen3-decap",
+    "name": "Decapitalize Names",
+    "from": "0.4.5",
+    "to": "0.5.1"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.2.1",
+    "to": "v1.2.2"
+   },
+   {
+    "id": "gh:elvieblooms/field_day",
+    "name": "field day",
+    "from": "commit-a143ba2",
+    "to": "commit-1a0b37b"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-93da0e6",
+    "to": "commit-cef1ae9"
+   },
+   {
+    "id": "gh:poooooby/gen3-hd-sprites",
+    "name": "Gen 3 HD Sprites",
+    "from": "v0.16.0",
+    "to": "v0.18.0"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-2565d27",
+    "to": "commit-f18fe5a"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-eba8807",
+    "to": "commit-2540e4d"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-3f0696b",
+    "to": "commit-4b6897a"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-f0df60f",
+    "to": "commit-3953623"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-03741b0",
+    "to": "commit-9457286"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.58",
+    "to": "v0.8.60"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-73bb0fa",
+    "to": "commit-82656a7"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-b4d17c1",
+    "to": "commit-43e4b0e"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-772c43f",
+    "to": "commit-40a1e03"
+   },
+   {
+    "id": "gh:poooooby/playnav",
+    "name": "PlayNav",
+    "from": "v1.3.1",
+    "to": "v1.3.2"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-8ce8b71",
+    "to": "commit-fda7b17"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-c9a756c",
+    "to": "commit-c6dd244"
+   },
+   {
+    "id": "gh:poooooby/vivid-worlds-og",
+    "name": "vivid worlds og",
+    "from": "v1.1.1",
+    "to": "v1.1.2"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.19.6",
+    "to": "v1.20.0"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.9.0",
+    "to": "v1.9.1"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.26.1",
+    "to": "v0.27.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:argallo/blockbuster-hub",
+    "name": "Blockbuster Hub",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:alucardthefirsthunter/cryreplacementmod",
+    "name": "CryReplacementMod",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:garrettjwilke/mpc-boot-thingy",
+    "name": "mpc boot thingy",
+    "from": "archived",
+    "to": "deleted"
+   },
+   {
+    "id": "gh:alucardthefirsthunter/musicreplacementmod",
+    "name": "MusicReplacementMod",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:ainen/qol_suite",
+    "name": "qol_suite",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:lovelydumpling/g1r-turbo-mod",
+    "name": "Turbo Mod",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:zingamau-dev/zone_radar_gen2",
+    "name": "Zone Radar",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-23T14:38:22Z",
   "new": [
    {
