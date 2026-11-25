@@ -1,5 +1,218 @@
 [
  {
+  "date": "2026-11-25T14:22:05Z",
+  "new": [
+   {
+    "id": "gh:marcoafschaefer/trainer-tactics",
+    "name": "trainer tactics"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-controls",
+    "name": "trainer controls"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-journey",
+    "name": "trainer journey"
+   },
+   {
+    "id": "gh:theeohn/free-roam",
+    "name": "Free Roam"
+   },
+   {
+    "id": "gh:adamqjsmith/kanto-adventure-share",
+    "name": "kanto adventure share"
+   },
+   {
+    "id": "gh:elvieblooms/field_notes",
+    "name": "field notes"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-d97bd51",
+    "to": "commit-d98b3d3"
+   },
+   {
+    "id": "gh:dburton95/crystal",
+    "name": "Crystal",
+    "from": "2.2.0",
+    "to": "2.2.1"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.2.2",
+    "to": "v1.2.3"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-cef1ae9",
+    "to": "commit-617fbf7"
+   },
+   {
+    "id": "gh:twgrodd/g1r-deluxe_gen1_cartridge_yellow_roddsoft_edition",
+    "name": "G1R Deluxe - Yellow Roddsoft Edition",
+    "from": "v1.0.1",
+    "to": "v1.0.2"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-f18fe5a",
+    "to": "commit-dc34b2f"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-2540e4d",
+    "to": "commit-437a324"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-4b6897a",
+    "to": "commit-2d26376"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-3953623",
+    "to": "commit-324c297"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-9457286",
+    "to": "commit-3da1393"
+   },
+   {
+    "id": "gh:underdecoded/gen2recomped",
+    "name": "Gen2Recomped",
+    "from": "v0.8.60",
+    "to": "v0.8.61"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-82656a7",
+    "to": "commit-7b5e72c"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-43e4b0e",
+    "to": "commit-93b27ec"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-40a1e03",
+    "to": "commit-2ade8c5"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-fda7b17",
+    "to": "commit-b047f77"
+   },
+   {
+    "id": "gh:motaviaworks/psivrecomp",
+    "name": "PSIVRecomp",
+    "from": "commit-c6dd244",
+    "to": "commit-9258168"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-desk",
+    "name": "trainer desk",
+    "from": "v0.6.0",
+    "to": "v0.8.0"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-lens",
+    "name": "trainer lens",
+    "from": "v2.10.0",
+    "to": "v2.16.0"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-pilot",
+    "name": "trainer pilot",
+    "from": "v0.26.0",
+    "to": "v0.35.0"
+   },
+   {
+    "id": "gh:gummygamer/gen1recomp-voxel-frlg",
+    "name": "Voxel Overworld (FireRed / LeafGreen)",
+    "from": "commit-7a55b21",
+    "to": "commit-6161e14"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.20.0",
+    "to": "v1.20.2"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.9.1",
+    "to": "v1.9.2"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:panduino/exp-sharegen3",
+    "name": "Balanced EXP Share",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/oak-alternate-intro",
+    "name": "Gen 1 / Gen 3 Quick Start",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/gen3-ball-rarity",
+    "name": "Gen 3 Ball Rarity",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/gen-3-party-icons-shinies",
+    "name": "Gen 3 Party Icons + Shinies",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:panduino/level-up-evolutions-gen-3",
+    "name": "Level Up Trade Evolutions",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:rogazrok/modern-field-moves",
+    "name": "Modern Field Moves",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:carroarmato0/nextui-gen1recomp-pak",
+    "name": "NextUI-Gen1Recomp-Pak",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:gummygamer/gen1recomp-voxel-frlg",
+    "name": "Voxel Overworld (FireRed / LeafGreen)",
+    "from": "inactive",
+    "to": "active"
+   }
+  ]
+ },
+ {
   "date": "2026-11-24T14:51:56Z",
   "new": [
    {

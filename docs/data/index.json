@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T14:51:56Z",
- "count": 467,
+ "generated_at": "2026-11-25T14:22:05Z",
+ "count": 472,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -2119,7 +2119,7 @@
    "id": "crystal",
    "title": "Crystal",
    "author": "dburton95",
-   "version": "2.2.0",
+   "version": "2.2.1",
    "categories": [
     "ART"
    ],
@@ -2128,18 +2128,18 @@
    ],
    "summary": "A player sprite mod for gen1recomp",
    "latest": {
-    "version": "2.2.0",
-    "tag": "2.2.0",
-    "name": "2.2.0",
+    "version": "2.2.1",
+    "tag": "2.2.1",
+    "name": "2.2.1",
     "prerelease": false,
-    "published_at": "2026-11-04T12:30:14Z",
+    "published_at": "2026-11-25T13:09:53Z",
     "zip": {
-     "name": "crystal-2.2.0.zip",
-     "url": "https://github.com/dburton95/crystal/releases/download/2.2.0/crystal-2.2.0.zip"
+     "name": "crystal-2.2.1.zip",
+     "url": "https://github.com/dburton95/crystal/releases/download/2.2.1/crystal-2.2.1.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-04T12:30:14Z",
+   "last_release": "2026-11-25T13:09:53Z",
    "games": [
     "gen1",
     "gold",
@@ -3643,6 +3643,35 @@
    },
    "update_check": "ok",
    "last_release": "2026-08-03T14:22:34Z"
+  },
+  {
+   "folder": "Theeohn@free_roam",
+   "id": "free_roam",
+   "title": "Free Roam",
+   "author": "Theeohn",
+   "version": "0.4.3",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Gen1Recomp Deluxe mod that adds omni-directional movement on the ordinary 2D overhead map, across Gen 1, 2 and 3",
+   "latest": {
+    "version": "0.4.3",
+    "tag": "v0.4.3",
+    "name": "v0.4.3",
+    "prerelease": false,
+    "published_at": "2026-11-25T09:46:30Z",
+    "zip": {
+     "name": "free_roam_0.4.3.zip",
+     "url": "https://github.com/Theeohn/Free-Roam/releases/download/v0.4.3/free_roam_0.4.3.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-25T09:46:30Z",
+   "repo": "https://github.com/Theeohn/Free-Roam",
+   "github": "Theeohn/Free-Roam"
   },
   {
    "folder": "KuroKratos@full_dex",
@@ -5259,7 +5288,7 @@
    "id": "gen2recomped",
    "title": "Gen2Recomped",
    "author": "UNDERdecoded",
-   "version": "0.8.60",
+   "version": "0.8.61",
    "categories": [
     "TRANSLATION"
    ],
@@ -5268,18 +5297,18 @@
    ],
    "summary": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified ",
    "latest": {
-    "version": "0.8.60",
-    "tag": "v0.8.60",
-    "name": "v0.8.60",
+    "version": "0.8.61",
+    "tag": "v0.8.61",
+    "name": "v0.8.61",
     "prerelease": false,
-    "published_at": "2026-11-24T01:18:57Z",
+    "published_at": "2026-11-25T00:05:28Z",
     "zip": {
-     "name": "Gen2Recomped-0.8.60-rg34xxsp-stockos64-mod.zip",
-     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.60/Gen2Recomped-0.8.60-rg34xxsp-stockos64-mod.zip"
+     "name": "Gen2Recomped-0.8.61-rg34xxsp-stockos64-mod.zip",
+     "url": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.61/Gen2Recomped-0.8.61-rg34xxsp-stockos64-mod.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-24T01:18:57Z",
+   "last_release": "2026-11-25T00:05:28Z",
    "repo": "https://github.com/UNDERdecoded/Gen2Recomped",
    "github": "UNDERdecoded/Gen2Recomped"
   },
@@ -6323,6 +6352,36 @@
    "last_release": "2026-08-25T03:19:13Z",
    "repo": "https://github.com/weskestis/Kaizo-Ultimate",
    "github": "weskestis/Kaizo-Ultimate"
+  },
+  {
+   "folder": "AdamQJSmith@kanto_adventure_share",
+   "id": "kanto_adventure_share",
+   "title": "kanto adventure share",
+   "author": "AdamQJSmith",
+   "version": "2.7.0",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "voxel",
+    "unlisted"
+   ],
+   "summary": "Kanto Adventure, a Pokemon Yellow mod for Gen1Recomp. Bring your own ROM.",
+   "latest": {
+    "version": "2.7.0",
+    "tag": "v2.7.0",
+    "name": "v2.7.0",
+    "prerelease": false,
+    "published_at": "2026-11-25T06:35:05Z",
+    "zip": {
+     "name": "Kanto-Adventure-2.7.0.zip",
+     "url": "https://github.com/AdamQJSmith/kanto-adventure-share/releases/download/v2.7.0/Kanto-Adventure-2.7.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-25T06:35:05Z",
+   "repo": "https://github.com/AdamQJSmith/kanto-adventure-share",
+   "github": "AdamQJSmith/kanto-adventure-share"
   },
   {
    "folder": "ScottExplores@kanto_dex_atlas",
@@ -8401,14 +8460,14 @@
     "tag": "stable",
     "name": "stable",
     "prerelease": false,
-    "published_at": "2026-11-23T16:14:22Z",
+    "published_at": "2026-11-25T01:26:14Z",
     "zip": {
      "name": "nativeMons-windows-x64.zip",
      "url": "https://github.com/Hailey-Ross/nativeMons/releases/download/stable/nativeMons-windows-x64.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T16:14:22Z",
+   "last_release": "2026-11-25T01:26:14Z",
    "repo": "https://github.com/Hailey-Ross/nativeMons",
    "github": "Hailey-Ross/nativeMons"
   },
@@ -13397,11 +13456,11 @@
    "github": "Berniuz/Gen1Recomp-Italian-Translation"
   },
   {
-   "folder": "MarcoAFSchaefer@trainer_desk",
-   "id": "trainer_desk",
-   "title": "trainer desk",
+   "folder": "MarcoAFSchaefer@trainer_controls",
+   "id": "trainer_controls",
+   "title": "trainer controls",
    "author": "MarcoAFSchaefer",
-   "version": "0.6.0",
+   "version": "0.3.0",
    "categories": [
     "CONTENT"
    ],
@@ -13410,18 +13469,47 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.6.0",
-    "tag": "v0.6.0",
-    "name": "v0.6.0",
+    "version": "0.3.0",
+    "tag": "v0.3.0",
+    "name": "v0.3.0",
     "prerelease": false,
-    "published_at": "2026-11-23T13:27:01Z",
+    "published_at": "2026-11-25T03:27:12Z",
     "zip": {
-     "name": "trainer_desk-0.6.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-desk/releases/download/v0.6.0/trainer_desk-0.6.0.zip"
+     "name": "trainer_controls-0.3.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-controls/releases/download/v0.3.0/trainer_controls-0.3.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T13:27:01Z",
+   "last_release": "2026-11-25T03:27:12Z",
+   "repo": "https://github.com/MarcoAFSchaefer/trainer-controls",
+   "github": "MarcoAFSchaefer/trainer-controls"
+  },
+  {
+   "folder": "MarcoAFSchaefer@trainer_desk",
+   "id": "trainer_desk",
+   "title": "trainer desk",
+   "author": "MarcoAFSchaefer",
+   "version": "0.8.0",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.8.0",
+    "tag": "v0.8.0",
+    "name": "v0.8.0",
+    "prerelease": false,
+    "published_at": "2026-11-25T03:26:56Z",
+    "zip": {
+     "name": "trainer_desk-0.8.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-desk/releases/download/v0.8.0/trainer_desk-0.8.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-25T03:26:56Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-desk",
    "github": "MarcoAFSchaefer/trainer-desk"
   },
@@ -13460,11 +13548,11 @@
    "github": "ScottExplores/gen1recomp-trainer-forfeit"
   },
   {
-   "folder": "MarcoAFSchaefer@trainer_lens",
-   "id": "trainer_lens",
-   "title": "trainer lens",
+   "folder": "MarcoAFSchaefer@trainer_journey",
+   "id": "trainer_journey",
+   "title": "trainer journey",
    "author": "MarcoAFSchaefer",
-   "version": "2.10.0",
+   "version": "0.4.0",
    "categories": [
     "CONTENT"
    ],
@@ -13473,18 +13561,47 @@
    ],
    "summary": "",
    "latest": {
-    "version": "2.10.0",
-    "tag": "v2.10.0",
-    "name": "v2.10.0",
+    "version": "0.4.0",
+    "tag": "v0.4.0",
+    "name": "v0.4.0",
     "prerelease": false,
-    "published_at": "2026-11-23T13:30:14Z",
+    "published_at": "2026-11-25T03:26:55Z",
     "zip": {
-     "name": "trainer_lens-2.10.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-lens/releases/download/v2.10.0/trainer_lens-2.10.0.zip"
+     "name": "trainer_journey-0.4.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-journey/releases/download/v0.4.0/trainer_journey-0.4.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T13:30:14Z",
+   "last_release": "2026-11-25T03:26:55Z",
+   "repo": "https://github.com/MarcoAFSchaefer/trainer-journey",
+   "github": "MarcoAFSchaefer/trainer-journey"
+  },
+  {
+   "folder": "MarcoAFSchaefer@trainer_lens",
+   "id": "trainer_lens",
+   "title": "trainer lens",
+   "author": "MarcoAFSchaefer",
+   "version": "2.16.0",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "2.16.0",
+    "tag": "v2.16.0",
+    "name": "v2.16.0",
+    "prerelease": false,
+    "published_at": "2026-11-25T04:14:36Z",
+    "zip": {
+     "name": "trainer_lens-2.16.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-lens/releases/download/v2.16.0/trainer_lens-2.16.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-25T04:14:36Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-lens",
    "github": "MarcoAFSchaefer/trainer-lens"
   },
@@ -13493,7 +13610,7 @@
    "id": "trainer_pilot",
    "title": "trainer pilot",
    "author": "MarcoAFSchaefer",
-   "version": "0.26.0",
+   "version": "0.35.0",
    "categories": [
     "CONTENT"
    ],
@@ -13502,20 +13619,49 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.26.0",
-    "tag": "v0.26.0",
-    "name": "v0.26.0",
+    "version": "0.35.0",
+    "tag": "v0.35.0",
+    "name": "v0.35.0",
     "prerelease": false,
-    "published_at": "2026-11-23T13:36:57Z",
+    "published_at": "2026-11-25T03:27:04Z",
     "zip": {
-     "name": "trainer_pilot-0.26.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-pilot/releases/download/v0.26.0/trainer_pilot-0.26.0.zip"
+     "name": "trainer_pilot-0.35.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-pilot/releases/download/v0.35.0/trainer_pilot-0.35.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T13:36:57Z",
+   "last_release": "2026-11-25T03:27:04Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-pilot",
    "github": "MarcoAFSchaefer/trainer-pilot"
+  },
+  {
+   "folder": "MarcoAFSchaefer@trainer_tactics",
+   "id": "trainer_tactics",
+   "title": "trainer tactics",
+   "author": "MarcoAFSchaefer",
+   "version": "0.2.0",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.2.0",
+    "tag": "v0.2.0",
+    "name": "v0.2.0",
+    "prerelease": false,
+    "published_at": "2026-11-25T03:26:50Z",
+    "zip": {
+     "name": "trainer_tactics-0.2.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-tactics/releases/download/v0.2.0/trainer_tactics-0.2.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-25T03:26:50Z",
+   "repo": "https://github.com/MarcoAFSchaefer/trainer-tactics",
+   "github": "MarcoAFSchaefer/trainer-tactics"
   },
   {
    "folder": "ElvieBlooms@trainer_talk_packager",
