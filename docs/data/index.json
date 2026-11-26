@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T14:22:05Z",
- "count": 472,
+ "generated_at": "2026-11-26T13:54:01Z",
+ "count": 476,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -3429,6 +3429,35 @@
    "github": "FelizNavidad-D/Gen-2-Recomp-Mods"
   },
   {
+   "folder": "ElvieBlooms@field_notes",
+   "id": "field_notes",
+   "title": "field notes",
+   "author": "ElvieBlooms",
+   "version": "0.2.0",
+   "categories": [
+    "LIBRARY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "0.2.0",
+    "tag": "v0.2.0",
+    "name": "v0.2.0",
+    "prerelease": false,
+    "published_at": "2026-11-26T04:24:37Z",
+    "zip": {
+     "name": "field_notes-0.2.0.zip",
+     "url": "https://github.com/ElvieBlooms/field_notes/releases/download/v0.2.0/field_notes-0.2.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-26T04:24:37Z",
+   "repo": "https://github.com/ElvieBlooms/field_notes",
+   "github": "ElvieBlooms/field_notes"
+  },
+  {
    "folder": "brewstercm@firered_johto_hoenn_encounters",
    "id": "firered_johto_hoenn_encounters",
    "title": "FireRed & LeafGreen Johto & Hoenn Encounters",
@@ -3649,7 +3678,7 @@
    "id": "free_roam",
    "title": "Free Roam",
    "author": "Theeohn",
-   "version": "0.4.3",
+   "version": "0.5.21",
    "categories": [
     "CONTENT"
    ],
@@ -3658,18 +3687,18 @@
    ],
    "summary": "Gen1Recomp Deluxe mod that adds omni-directional movement on the ordinary 2D overhead map, across Gen 1, 2 and 3",
    "latest": {
-    "version": "0.4.3",
-    "tag": "v0.4.3",
-    "name": "v0.4.3",
+    "version": "0.5.21",
+    "tag": "0.5.21",
+    "name": "0.5.21",
     "prerelease": false,
-    "published_at": "2026-11-25T09:46:30Z",
+    "published_at": "2026-11-26T05:50:19Z",
     "zip": {
-     "name": "free_roam_0.4.3.zip",
-     "url": "https://github.com/Theeohn/Free-Roam/releases/download/v0.4.3/free_roam_0.4.3.zip"
+     "name": "Free-Roam-v0.5.21.zip",
+     "url": "https://github.com/Theeohn/Free-Roam/releases/download/0.5.21/Free-Roam-v0.5.21.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-25T09:46:30Z",
+   "last_release": "2026-11-26T05:50:19Z",
    "repo": "https://github.com/Theeohn/Free-Roam",
    "github": "Theeohn/Free-Roam"
   },
@@ -8265,6 +8294,35 @@
    "github": "garrettjwilke/mpc-gen1recomp"
   },
   {
+   "folder": "fomoPhil@mpselector",
+   "id": "mpselector",
+   "title": "mpselector",
+   "author": "fomoPhil",
+   "version": "1.2.0",
+   "categories": [
+    "TOOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "One card, many firmwares. A microSD launcher for the Akai MPC Sample: turn the dial to pick which app or mod runs.",
+   "latest": {
+    "version": "1.2.0",
+    "tag": "v1.2.0",
+    "name": "v1.2.0",
+    "prerelease": false,
+    "published_at": "2026-11-26T08:19:15Z",
+    "zip": {
+     "name": "MP-Selector-1.2.0.zip",
+     "url": "https://github.com/fomoPhil/mpselector/releases/download/v1.2.0/MP-Selector-1.2.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-26T08:19:15Z",
+   "repo": "https://github.com/fomoPhil/mpselector",
+   "github": "fomoPhil/mpselector"
+  },
+  {
    "folder": "AlucardTheFirstHunter@musicreplacementmod",
    "id": "musicreplacementmod",
    "title": "MusicReplacementMod",
@@ -10544,6 +10602,35 @@
    "github": "guuhferiani/pokemon-crystal-ptbr"
   },
   {
+   "folder": "Theeohn@praise_helix",
+   "id": "praise_helix",
+   "title": "Praise Helix",
+   "author": "Theeohn",
+   "version": "0.12",
+   "categories": [
+    "LIBRARY"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Twitch Plays Pokémon, on top of your own buttons. While you play, Praise Helix presses a random button for you on a timer.",
+   "latest": {
+    "version": "0.12",
+    "tag": "0.12",
+    "name": "0.12",
+    "prerelease": false,
+    "published_at": "2026-11-26T09:05:17Z",
+    "zip": {
+     "name": "Praise-Helix-v0.12.zip",
+     "url": "https://github.com/Theeohn/Praise-Helix/releases/download/0.12/Praise-Helix-v0.12.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-26T09:05:17Z",
+   "repo": "https://github.com/Theeohn/Praise-Helix",
+   "github": "Theeohn/Praise-Helix"
+  },
+  {
    "folder": "LiNK200488@firered_battle_anims",
    "id": "firered_battle_anims",
    "title": "Pretty Moves",
@@ -10582,7 +10669,7 @@
    "id": "prism_importer",
    "title": "prism importer",
    "author": "ElvieBlooms",
-   "version": "0.3.0",
+   "version": "0.4.0",
    "categories": [
     "TOOL"
    ],
@@ -10591,18 +10678,18 @@
    ],
    "summary": "An additional game importer to be used with other mods in Gen1Recomp",
    "latest": {
-    "version": "0.3.0",
-    "tag": "v0.3.0",
-    "name": "v0.3.0",
+    "version": "0.4.0",
+    "tag": "v0.4.0",
+    "name": "v0.4.0",
     "prerelease": false,
-    "published_at": "2026-11-09T16:22:59Z",
+    "published_at": "2026-11-25T22:50:13Z",
     "zip": {
-     "name": "prism_importer-0.3.0.zip",
-     "url": "https://github.com/ElvieBlooms/prism_importer/releases/download/v0.3.0/prism_importer-0.3.0.zip"
+     "name": "prism_importer-0.4.0.zip",
+     "url": "https://github.com/ElvieBlooms/prism_importer/releases/download/v0.4.0/prism_importer-0.4.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-09T16:22:59Z",
+   "last_release": "2026-11-25T22:50:13Z",
    "repo": "https://github.com/ElvieBlooms/prism_importer",
    "github": "ElvieBlooms/prism_importer"
   },
@@ -10878,6 +10965,35 @@
    ],
    "repo": "https://github.com/artyrambles/ST_PureRGB_PokemonTypes",
    "github": "artyrambles/ST_PureRGB_PokemonTypes"
+  },
+  {
+   "folder": "Theeohn@qol_comp",
+   "id": "qol_comp",
+   "title": "QoL Comp",
+   "author": "Theeohn",
+   "version": "1.6",
+   "categories": [
+    "QOL"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "One quality-of-life compilation mod for all eleven games in Gen1Recomp Deluxe",
+   "latest": {
+    "version": "1.6",
+    "tag": "1.6",
+    "name": "1.6",
+    "prerelease": false,
+    "published_at": "2026-11-26T06:30:57Z",
+    "zip": {
+     "name": "QoL-Comp-v1.6.zip",
+     "url": "https://github.com/Theeohn/QoL-Comp/releases/download/1.6/QoL-Comp-v1.6.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-26T06:30:57Z",
+   "repo": "https://github.com/Theeohn/QoL-Comp",
+   "github": "Theeohn/QoL-Comp"
   },
   {
    "folder": "ainen@qol_suite",

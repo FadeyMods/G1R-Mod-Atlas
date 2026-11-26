@@ -1,5 +1,192 @@
 [
  {
+  "date": "2026-11-26T13:54:01Z",
+  "new": [
+   {
+    "id": "gh:theeohn/qol-comp",
+    "name": "QoL Comp"
+   },
+   {
+    "id": "gh:theeohn/praise-helix",
+    "name": "Praise Helix"
+   },
+   {
+    "id": "gh:fomophil/mpselector",
+    "name": "mpselector"
+   },
+   {
+    "id": "gh:uzugu/analoguegen1",
+    "name": "analoguegen1"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-d98b3d3",
+    "to": "commit-debe2ee"
+   },
+   {
+    "id": "gh:jottenmiller/gen3-decap",
+    "name": "Decapitalize Names",
+    "from": "0.5.1",
+    "to": "0.5.2"
+   },
+   {
+    "id": "gh:elvieblooms/facets",
+    "name": "Facets",
+    "from": "v1.3.2",
+    "to": "v1.3.3"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.2.3",
+    "to": "v1.3.1"
+   },
+   {
+    "id": "gh:elvieblooms/field_notes",
+    "name": "field notes",
+    "from": "commit-d64919d",
+    "to": "v0.2.0"
+   },
+   {
+    "id": "gh:theeohn/free-roam",
+    "name": "Free Roam",
+    "from": "v0.4.3",
+    "to": "0.5.21"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-617fbf7",
+    "to": "commit-1bd6f74"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-dc34b2f",
+    "to": "commit-6e96a8f"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-437a324",
+    "to": "commit-a414020"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-2d26376",
+    "to": "commit-37236c0"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-324c297",
+    "to": "commit-24a3842"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-3da1393",
+    "to": "commit-77fe6ac"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-7b5e72c",
+    "to": "commit-6a31209"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-93b27ec",
+    "to": "commit-00f5345"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-2ade8c5",
+    "to": "commit-4704f55"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-b047f77",
+    "to": "commit-b50702e"
+   },
+   {
+    "id": "gh:elvieblooms/prism_importer",
+    "name": "prism importer",
+    "from": "v0.3.0",
+    "to": "v0.4.0"
+   },
+   {
+    "id": "gh:elvieblooms/recomp_achievements",
+    "name": "Recomp Achievements Online",
+    "from": "v2.9.0",
+    "to": "v2.9.1"
+   },
+   {
+    "id": "gh:poooooby/national_dex_gen3",
+    "name": "WoobleDex",
+    "from": "v1.20.2",
+    "to": "v1.20.3"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:ascedent-omega/kanto-ascendant",
+    "name": "Ascendant sprite / HD package",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:nezara/gen1recomp-centered-camera",
+    "name": "Centered Camera",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:tejota1337/dramaticshapevoxelmod",
+    "name": "Dramatic Shape Voxel Mod",
+    "from": "inactive",
+    "to": "abandoned"
+   },
+   {
+    "id": "gh:himionegranger/gen1recomp-quest-standalone",
+    "name": "Gen1recomp-Quest-Standalone",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:hydhyro/gen1recomp_portuguese_ui",
+    "name": "Interface em PT-BR (Launcher)",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:theusrsilva/pocket-monster-saphire-decomp",
+    "name": "pocket monster saphire decomp",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:shanemcgovernie/qol_toggles",
+    "name": "QoL Toggles",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:nexhas28/qol_toggles",
+    "name": "qol toggles",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-25T14:22:05Z",
   "new": [
    {
