@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T13:54:01Z",
- "count": 476,
+ "generated_at": "2026-11-27T13:51:21Z",
+ "count": 477,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -10235,7 +10235,7 @@
    "id": "pokepink_g1r",
    "title": "pokepink g1r",
    "author": "ElvieBlooms",
-   "version": "0.3.1",
+   "version": "0.3.2",
    "categories": [
     "TOTAL_CONVERSION"
    ],
@@ -10244,18 +10244,18 @@
    ],
    "summary": "A port of Pokemon Pink to G1R",
    "latest": {
-    "version": "0.3.1",
-    "tag": "v0.3.1",
-    "name": "v0.3.1",
+    "version": "0.3.2",
+    "tag": "v0.3.2",
+    "name": "v0.3.2",
     "prerelease": false,
-    "published_at": "2026-11-15T02:34:48Z",
+    "published_at": "2026-11-26T15:07:56Z",
     "zip": {
-     "name": "pink_manga_events-0.3.1.zip",
-     "url": "https://github.com/ElvieBlooms/pokepink-g1r/releases/download/v0.3.1/pink_manga_events-0.3.1.zip"
+     "name": "pink_manga_events-0.3.2.zip",
+     "url": "https://github.com/ElvieBlooms/pokepink-g1r/releases/download/v0.3.2/pink_manga_events-0.3.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-15T02:34:48Z",
+   "last_release": "2026-11-26T15:07:56Z",
    "repo": "https://github.com/ElvieBlooms/pokepink-g1r",
    "github": "ElvieBlooms/pokepink-g1r"
   },
@@ -10606,7 +10606,7 @@
    "id": "praise_helix",
    "title": "Praise Helix",
    "author": "Theeohn",
-   "version": "0.12",
+   "version": "1.0",
    "categories": [
     "LIBRARY"
    ],
@@ -10615,18 +10615,18 @@
    ],
    "summary": "Twitch Plays Pokémon, on top of your own buttons. While you play, Praise Helix presses a random button for you on a timer.",
    "latest": {
-    "version": "0.12",
-    "tag": "0.12",
-    "name": "0.12",
+    "version": "1.0",
+    "tag": "1.0",
+    "name": "1.0",
     "prerelease": false,
-    "published_at": "2026-11-26T09:05:17Z",
+    "published_at": "2026-11-27T01:13:26Z",
     "zip": {
-     "name": "Praise-Helix-v0.12.zip",
-     "url": "https://github.com/Theeohn/Praise-Helix/releases/download/0.12/Praise-Helix-v0.12.zip"
+     "name": "Praise-Helix-v1.0.zip",
+     "url": "https://github.com/Theeohn/Praise-Helix/releases/download/1.0/Praise-Helix-v1.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-26T09:05:17Z",
+   "last_release": "2026-11-27T01:13:26Z",
    "repo": "https://github.com/Theeohn/Praise-Helix",
    "github": "Theeohn/Praise-Helix"
   },
@@ -11922,6 +11922,35 @@
    ],
    "repo": "https://github.com/Bentley734/Screensaver",
    "github": "Bentley734/Screensaver"
+  },
+  {
+   "folder": "Tooandorisu@seasonal_world",
+   "id": "seasonal_world",
+   "title": "Seasonal World",
+   "author": "Tooandorisu",
+   "version": "1.4.0-beta1",
+   "categories": [
+    "CONTENT"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "Seasonal environments for Gen1Recomp. The first release brings Christmas snow, lights, and decorations to Kanto in Pokémon Red, Blue, and Yellow.",
+   "latest": {
+    "version": "1.4.0-beta1",
+    "tag": "1.4.0-beta1",
+    "name": "1.4.0-beta1",
+    "prerelease": false,
+    "published_at": "2026-11-27T11:34:36Z",
+    "zip": {
+     "name": "seasonal_world-1.4.0-beta.1.zip",
+     "url": "https://github.com/Tooandorisu/Seasonal-World/releases/download/1.4.0-beta1/seasonal_world-1.4.0-beta.1.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-27T11:34:36Z",
+   "repo": "https://github.com/Tooandorisu/Seasonal-World",
+   "github": "Tooandorisu/Seasonal-World"
   },
   {
    "folder": "dburton95@secret-base",
@@ -13576,7 +13605,7 @@
    "id": "trainer_controls",
    "title": "trainer controls",
    "author": "MarcoAFSchaefer",
-   "version": "0.3.0",
+   "version": "0.4.0",
    "categories": [
     "CONTENT"
    ],
@@ -13585,18 +13614,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.3.0",
-    "tag": "v0.3.0",
-    "name": "v0.3.0",
+    "version": "0.4.0",
+    "tag": "v0.4.0",
+    "name": "v0.4.0",
     "prerelease": false,
-    "published_at": "2026-11-25T03:27:12Z",
+    "published_at": "2026-11-26T17:16:32Z",
     "zip": {
-     "name": "trainer_controls-0.3.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-controls/releases/download/v0.3.0/trainer_controls-0.3.0.zip"
+     "name": "trainer_controls-0.4.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-controls/releases/download/v0.4.0/trainer_controls-0.4.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-25T03:27:12Z",
+   "last_release": "2026-11-26T17:16:32Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-controls",
    "github": "MarcoAFSchaefer/trainer-controls"
   },
@@ -13605,7 +13634,7 @@
    "id": "trainer_desk",
    "title": "trainer desk",
    "author": "MarcoAFSchaefer",
-   "version": "0.8.0",
+   "version": "0.9.0",
    "categories": [
     "CONTENT"
    ],
@@ -13614,18 +13643,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.8.0",
-    "tag": "v0.8.0",
-    "name": "v0.8.0",
+    "version": "0.9.0",
+    "tag": "v0.9.0",
+    "name": "v0.9.0",
     "prerelease": false,
-    "published_at": "2026-11-25T03:26:56Z",
+    "published_at": "2026-11-26T17:16:14Z",
     "zip": {
-     "name": "trainer_desk-0.8.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-desk/releases/download/v0.8.0/trainer_desk-0.8.0.zip"
+     "name": "trainer_desk-0.9.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-desk/releases/download/v0.9.0/trainer_desk-0.9.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-25T03:26:56Z",
+   "last_release": "2026-11-26T17:16:14Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-desk",
    "github": "MarcoAFSchaefer/trainer-desk"
   },
@@ -13668,7 +13697,7 @@
    "id": "trainer_journey",
    "title": "trainer journey",
    "author": "MarcoAFSchaefer",
-   "version": "0.4.0",
+   "version": "0.5.0",
    "categories": [
     "CONTENT"
    ],
@@ -13677,18 +13706,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.4.0",
-    "tag": "v0.4.0",
-    "name": "v0.4.0",
+    "version": "0.5.0",
+    "tag": "v0.5.0",
+    "name": "v0.5.0",
     "prerelease": false,
-    "published_at": "2026-11-25T03:26:55Z",
+    "published_at": "2026-11-26T17:16:35Z",
     "zip": {
-     "name": "trainer_journey-0.4.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-journey/releases/download/v0.4.0/trainer_journey-0.4.0.zip"
+     "name": "trainer_journey-0.5.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-journey/releases/download/v0.5.0/trainer_journey-0.5.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-25T03:26:55Z",
+   "last_release": "2026-11-26T17:16:35Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-journey",
    "github": "MarcoAFSchaefer/trainer-journey"
   },
@@ -13697,7 +13726,7 @@
    "id": "trainer_lens",
    "title": "trainer lens",
    "author": "MarcoAFSchaefer",
-   "version": "2.16.0",
+   "version": "2.17.0",
    "categories": [
     "CONTENT"
    ],
@@ -13706,18 +13735,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "2.16.0",
-    "tag": "v2.16.0",
-    "name": "v2.16.0",
+    "version": "2.17.0",
+    "tag": "v2.17.0",
+    "name": "v2.17.0",
     "prerelease": false,
-    "published_at": "2026-11-25T04:14:36Z",
+    "published_at": "2026-11-26T17:16:22Z",
     "zip": {
-     "name": "trainer_lens-2.16.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-lens/releases/download/v2.16.0/trainer_lens-2.16.0.zip"
+     "name": "trainer_lens-2.17.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-lens/releases/download/v2.17.0/trainer_lens-2.17.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-25T04:14:36Z",
+   "last_release": "2026-11-26T17:16:22Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-lens",
    "github": "MarcoAFSchaefer/trainer-lens"
   },
@@ -13726,7 +13755,7 @@
    "id": "trainer_pilot",
    "title": "trainer pilot",
    "author": "MarcoAFSchaefer",
-   "version": "0.35.0",
+   "version": "0.36.0",
    "categories": [
     "CONTENT"
    ],
@@ -13735,18 +13764,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.35.0",
-    "tag": "v0.35.0",
-    "name": "v0.35.0",
+    "version": "0.36.0",
+    "tag": "v0.36.0",
+    "name": "v0.36.0",
     "prerelease": false,
-    "published_at": "2026-11-25T03:27:04Z",
+    "published_at": "2026-11-26T17:16:25Z",
     "zip": {
-     "name": "trainer_pilot-0.35.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-pilot/releases/download/v0.35.0/trainer_pilot-0.35.0.zip"
+     "name": "trainer_pilot-0.36.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-pilot/releases/download/v0.36.0/trainer_pilot-0.36.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-25T03:27:04Z",
+   "last_release": "2026-11-26T17:16:25Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-pilot",
    "github": "MarcoAFSchaefer/trainer-pilot"
   },
@@ -13755,7 +13784,7 @@
    "id": "trainer_tactics",
    "title": "trainer tactics",
    "author": "MarcoAFSchaefer",
-   "version": "0.2.0",
+   "version": "0.3.0",
    "categories": [
     "CONTENT"
    ],
@@ -13764,18 +13793,18 @@
    ],
    "summary": "",
    "latest": {
-    "version": "0.2.0",
-    "tag": "v0.2.0",
-    "name": "v0.2.0",
+    "version": "0.3.0",
+    "tag": "v0.3.0",
+    "name": "v0.3.0",
     "prerelease": false,
-    "published_at": "2026-11-25T03:26:50Z",
+    "published_at": "2026-11-26T17:16:41Z",
     "zip": {
-     "name": "trainer_tactics-0.2.0.zip",
-     "url": "https://github.com/MarcoAFSchaefer/trainer-tactics/releases/download/v0.2.0/trainer_tactics-0.2.0.zip"
+     "name": "trainer_tactics-0.3.0.zip",
+     "url": "https://github.com/MarcoAFSchaefer/trainer-tactics/releases/download/v0.3.0/trainer_tactics-0.3.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-25T03:26:50Z",
+   "last_release": "2026-11-26T17:16:41Z",
    "repo": "https://github.com/MarcoAFSchaefer/trainer-tactics",
    "github": "MarcoAFSchaefer/trainer-tactics"
   },

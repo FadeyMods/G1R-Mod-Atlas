@@ -1,5 +1,240 @@
 [
  {
+  "date": "2026-11-27T13:51:21Z",
+  "new": [
+   {
+    "id": "gh:gummygamer/gen1recomp-switch2",
+    "name": "gen1recomp switch2"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-vault",
+    "name": "trainer vault"
+   },
+   {
+    "id": "gh:loosemond/minigram",
+    "name": "minigram"
+   },
+   {
+    "id": "gh:kennethreitz/symphonyrecomp-android",
+    "name": "SymphonyRecomp Android"
+   }
+  ],
+  "updated": [
+   {
+    "id": "gh:uzugu/analoguegen1",
+    "name": "analoguegen1",
+    "from": "commit-b79bc5b",
+    "to": "commit-ed0a38c"
+   },
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-debe2ee",
+    "to": "commit-25df014"
+   },
+   {
+    "id": "gh:elvieblooms/emerald_lens",
+    "name": "Emerald Lens",
+    "from": "v1.2.0",
+    "to": "v1.3.0"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.3.1",
+    "to": "v1.3.3"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-1bd6f74",
+    "to": "commit-a6564c1"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-6e96a8f",
+    "to": "commit-1989fc0"
+   },
+   {
+    "id": "gh:tcsenpai/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-a414020",
+    "to": "commit-6c678a4"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-37236c0",
+    "to": "commit-c9132a8"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-24a3842",
+    "to": "commit-82057ad"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-77fe6ac",
+    "to": "commit-ef834dd"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-6a31209",
+    "to": "commit-b903ef0"
+   },
+   {
+    "id": "gh:elvieblooms/name_tags",
+    "name": "Name Tags",
+    "from": "v1.4.0",
+    "to": "v1.4.1"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-00f5345",
+    "to": "commit-bcb913c"
+   },
+   {
+    "id": "gh:maulikmehta/obsidian-book-pipeline",
+    "name": "obsidian book pipeline",
+    "from": "commit-28b37be",
+    "to": "commit-28cfa4b"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-4704f55",
+    "to": "commit-0320056"
+   },
+   {
+    "id": "gh:elvieblooms/pokepink-cart",
+    "name": "pokepink cart",
+    "from": "v0.1.0-beta.2",
+    "to": "v0.1.0-beta.3"
+   },
+   {
+    "id": "gh:elvieblooms/pokepink-g1r",
+    "name": "pokepink g1r",
+    "from": "v0.3.1",
+    "to": "v0.3.2"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-b50702e",
+    "to": "commit-80892d3"
+   },
+   {
+    "id": "gh:theeohn/praise-helix",
+    "name": "Praise Helix",
+    "from": "0.12",
+    "to": "1.0"
+   },
+   {
+    "id": "gh:tooandorisu/seasonal-world",
+    "name": "Seasonal World",
+    "from": "commit-eabc58d",
+    "to": "1.4.0-beta1"
+   },
+   {
+    "id": "gh:gusdslara/supermonkeyballjr-recomp",
+    "name": "supermonkeyballjr recomp",
+    "from": "commit-2a9007a",
+    "to": "commit-7955412"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-controls",
+    "name": "trainer controls",
+    "from": "v0.3.0",
+    "to": "v0.4.0"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-desk",
+    "name": "trainer desk",
+    "from": "v0.8.0",
+    "to": "v0.9.0"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-journey",
+    "name": "trainer journey",
+    "from": "v0.4.0",
+    "to": "v0.5.0"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-lens",
+    "name": "trainer lens",
+    "from": "v2.16.0",
+    "to": "v2.17.0"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-pilot",
+    "name": "trainer pilot",
+    "from": "v0.35.0",
+    "to": "v0.36.0"
+   },
+   {
+    "id": "gh:marcoafschaefer/trainer-tactics",
+    "name": "trainer tactics",
+    "from": "v0.2.0",
+    "to": "v0.3.0"
+   },
+   {
+    "id": "gh:poooooby/g9-battle-sprites-gen3",
+    "name": "WoobleSpritePack",
+    "from": "v1.9.2",
+    "to": "v1.9.3"
+   },
+   {
+    "id": "gh:poooooby/woob_os",
+    "name": "WoobOS",
+    "from": "v0.27.0",
+    "to": "v0.28.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:kevindjacobson/gen1recomp-autoplay",
+    "name": "Autoplay",
+    "from": "inactive",
+    "to": "abandoned"
+   },
+   {
+    "id": "gh:bryanthaboi/bookers_heaven",
+    "name": "Booker's Heaven",
+    "from": "inactive",
+    "to": "abandoned"
+   },
+   {
+    "id": "gh:astromaddie/gen1recomp-frame",
+    "name": "gen1recomp-frame",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:sebarosu/jp-anime-opening-title",
+    "name": "Mezase Pokemon Master (Title Screen)",
+    "from": "inactive",
+    "to": "abandoned"
+   },
+   {
+    "id": "gh:gamecorner-033/gen1co-op",
+    "name": "Pokemon Red Single Screen Co-Op",
+    "from": "inactive",
+    "to": "abandoned"
+   },
+   {
+    "id": "gh:bryanthaboi/tiled_gen1recomp",
+    "name": "Tiled Map Editor for Gen1Recomp",
+    "from": "inactive",
+    "to": "abandoned"
+   }
+  ]
+ },
+ {
   "date": "2026-11-26T13:54:01Z",
   "new": [
    {
