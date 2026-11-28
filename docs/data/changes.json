@@ -1,5 +1,133 @@
 [
  {
+  "date": "2026-11-28T12:58:55Z",
+  "new": [],
+  "updated": [
+   {
+    "id": "gh:edgytoast/avp-ports-index",
+    "name": "avp ports index",
+    "from": "commit-25df014",
+    "to": "commit-2776ab6"
+   },
+   {
+    "id": "gh:tooandorisu/cleanui-gen3",
+    "name": "Clean UI Gen 3",
+    "from": "0.20.1",
+    "to": "0.21.0"
+   },
+   {
+    "id": "gh:codm2000/dual-screen-games",
+    "name": "Dual Screen Games",
+    "from": "commit-2944e9b",
+    "to": "commit-c8e9b09"
+   },
+   {
+    "id": "gh:farfaboulette7/farfalauncher",
+    "name": "FarfaLauncher",
+    "from": "v1.3.3",
+    "to": "v1.3.6"
+   },
+   {
+    "id": "gh:shadowlink/freeport-catalog",
+    "name": "freeport catalog",
+    "from": "commit-a6564c1",
+    "to": "commit-cdc7fcd"
+   },
+   {
+    "id": "gh:nexhas28/gen1recomp-mod-browser",
+    "name": "gen1recomp-mod-browser",
+    "from": "commit-1989fc0",
+    "to": "commit-2cffe9c"
+   },
+   {
+    "id": "gh:wild1walker/gen1wild",
+    "name": "Gen1Wild",
+    "from": "commit-c9132a8",
+    "to": "commit-5864255"
+   },
+   {
+    "id": "gh:duskpromised/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-82057ad",
+    "to": "commit-36274ca"
+   },
+   {
+    "id": "gh:faff0x/gen2recomp-mod-index",
+    "name": "gen2recomp-mod-index",
+    "from": "commit-ef834dd",
+    "to": "commit-5dab443"
+   },
+   {
+    "id": "gh:mistermiracle3036/mod-index",
+    "name": "mod-index",
+    "from": "commit-b903ef0",
+    "to": "commit-ccba63c"
+   },
+   {
+    "id": "gh:fomophil/mpselector",
+    "name": "mpselector",
+    "from": "v1.2.0",
+    "to": "v1.2.2"
+   },
+   {
+    "id": "gh:isotopes99/news-feed",
+    "name": "NEWS FEED",
+    "from": "commit-bcb913c",
+    "to": "commit-11f3b6c"
+   },
+   {
+    "id": "gh:panduino/panduino-s-g1rdeluxe-mod-index",
+    "name": "Panduino-s-G1RDeluxe-Mod-Index",
+    "from": "commit-0320056",
+    "to": "commit-71ba87a"
+   },
+   {
+    "id": "gh:portemon-nitro/portemon",
+    "name": "portemon",
+    "from": "commit-80892d3",
+    "to": "commit-06b75c8"
+   },
+   {
+    "id": "gh:waifu4life/project-highlander-gen1-2",
+    "name": "Project Highlander Gen1 2",
+    "from": "1.82.1",
+    "to": "1.84.0"
+   },
+   {
+    "id": "gh:gusdslara/supermonkeyballjr-recomp",
+    "name": "supermonkeyballjr recomp",
+    "from": "commit-7955412",
+    "to": "v1.0.0"
+   }
+  ],
+  "status_changed": [
+   {
+    "id": "gh:alfonspistoletti/gen1recomp-mod-better-info",
+    "name": "Better Info",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:twgrodd/g1r-deluxe_gen1_mod_fork_new-game-plus-roddsoftver",
+    "name": "New Game Plus Roddsoft",
+    "from": "active",
+    "to": "inactive"
+   },
+   {
+    "id": "gh:lachie123456/stadium-cries",
+    "name": "Stadium-Cries",
+    "from": "inactive",
+    "to": "abandoned"
+   },
+   {
+    "id": "gh:last-swagger/gen1recomp-voxel-characters",
+    "name": "Voxel Characters",
+    "from": "active",
+    "to": "inactive"
+   }
+  ]
+ },
+ {
   "date": "2026-11-27T13:51:21Z",
   "new": [
    {

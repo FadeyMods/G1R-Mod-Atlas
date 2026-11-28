@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T13:51:21Z",
- "count": 477,
+ "generated_at": "2026-11-28T12:58:55Z",
+ "count": 479,
  "mods": [
   {
    "folder": "Bentley734@1025dex",
@@ -1826,7 +1826,7 @@
    "id": "cleanui_gen3",
    "title": "Clean UI Gen 3",
    "author": "Tooandorisu",
-   "version": "0.20.1",
+   "version": "0.21.0",
    "categories": [
     "UI"
    ],
@@ -1835,18 +1835,18 @@
    ],
    "summary": "CleanUI for Gen3",
    "latest": {
-    "version": "0.20.1",
-    "tag": "0.20.1",
-    "name": "0.20.1",
+    "version": "0.21.0",
+    "tag": "0.21.0",
+    "name": "0.21.0",
     "prerelease": false,
-    "published_at": "2026-11-20T14:38:59Z",
+    "published_at": "2026-11-27T23:19:21Z",
     "zip": {
-     "name": "CleanUI-Gen3-v0_20_1.zip",
-     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.20.1/CleanUI-Gen3-v0_20_1.zip"
+     "name": "CleanUI-Gen3-v0_21_0.zip",
+     "url": "https://github.com/Tooandorisu/CleanUI-Gen3/releases/download/0.21.0/CleanUI-Gen3-v0_21_0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-20T14:38:59Z",
+   "last_release": "2026-11-27T23:19:21Z",
    "repo": "https://github.com/Tooandorisu/CleanUI-Gen3",
    "github": "Tooandorisu/CleanUI-Gen3"
   },
@@ -8298,7 +8298,7 @@
    "id": "mpselector",
    "title": "mpselector",
    "author": "fomoPhil",
-   "version": "1.2.0",
+   "version": "1.2.2",
    "categories": [
     "TOOL"
    ],
@@ -8307,18 +8307,18 @@
    ],
    "summary": "One card, many firmwares. A microSD launcher for the Akai MPC Sample: turn the dial to pick which app or mod runs.",
    "latest": {
-    "version": "1.2.0",
-    "tag": "v1.2.0",
-    "name": "v1.2.0",
+    "version": "1.2.2",
+    "tag": "v1.2.2",
+    "name": "v1.2.2",
     "prerelease": false,
-    "published_at": "2026-11-26T08:19:15Z",
+    "published_at": "2026-11-27T18:14:50Z",
     "zip": {
-     "name": "MP-Selector-1.2.0.zip",
-     "url": "https://github.com/fomoPhil/mpselector/releases/download/v1.2.0/MP-Selector-1.2.0.zip"
+     "name": "MP-Selector-1.2.2.zip",
+     "url": "https://github.com/fomoPhil/mpselector/releases/download/v1.2.2/MP-Selector-1.2.2.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-26T08:19:15Z",
+   "last_release": "2026-11-27T18:14:50Z",
    "repo": "https://github.com/fomoPhil/mpselector",
    "github": "fomoPhil/mpselector"
   },
@@ -10851,7 +10851,7 @@
    "id": "project_highlander_gen1_2",
    "title": "Project Highlander Gen1 2",
    "author": "Waifu4Life",
-   "version": "1.82.1",
+   "version": "1.84.0",
    "categories": [
     "UI"
    ],
@@ -10860,18 +10860,18 @@
    ],
    "summary": "Project Highlander Gen1+2",
    "latest": {
-    "version": "1.82.1",
-    "tag": "1.82.1",
-    "name": "1.82.1",
+    "version": "1.84.0",
+    "tag": "1.84.0",
+    "name": "1.84.0",
     "prerelease": false,
-    "published_at": "2026-11-23T01:34:54Z",
+    "published_at": "2026-11-28T04:39:06Z",
     "zip": {
-     "name": "project_highlander_gen1%2B2-1.82.1.zip",
-     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.82.1/project_highlander_gen1%2B2-1.82.1.zip"
+     "name": "project_highlander_gen1%2B2-1.84.0.zip",
+     "url": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2/releases/download/1.84.0/project_highlander_gen1%2B2-1.84.0.zip"
     }
    },
    "update_check": "ok",
-   "last_release": "2026-11-23T01:34:54Z",
+   "last_release": "2026-11-28T04:39:06Z",
    "repo": "https://github.com/Waifu4Life/Project-Highlander-Gen1-2",
    "github": "Waifu4Life/Project-Highlander-Gen1-2"
   },
@@ -11943,8 +11943,8 @@
     "prerelease": false,
     "published_at": "2026-11-27T11:34:36Z",
     "zip": {
-     "name": "seasonal_world-1.4.0-beta.1.zip",
-     "url": "https://github.com/Tooandorisu/Seasonal-World/releases/download/1.4.0-beta1/seasonal_world-1.4.0-beta.1.zip"
+     "name": "seasonal_world-1.4.0-beta1.zip",
+     "url": "https://github.com/Tooandorisu/Seasonal-World/releases/download/1.4.0-beta1/seasonal_world-1.4.0-beta1.zip"
     }
    },
    "update_check": "ok",
@@ -13001,6 +13001,35 @@
    "last_release": "2026-08-14T07:05:41Z",
    "repo": "https://github.com/eioo/gen1recomp-finnish-mod",
    "github": "eioo/gen1recomp-finnish-mod"
+  },
+  {
+   "folder": "gusdslara@supermonkeyballjr_recomp",
+   "id": "supermonkeyballjr_recomp",
+   "title": "supermonkeyballjr recomp",
+   "author": "gusdslara",
+   "version": "1.0.0",
+   "categories": [
+    "BALANCE"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "GBA Super Monkey Ball Jr. static recompilation",
+   "latest": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "name": "v1.0.0",
+    "prerelease": false,
+    "published_at": "2026-11-28T10:49:23Z",
+    "zip": {
+     "name": "smbjr-v1.0.0-web.zip",
+     "url": "https://github.com/gusdslara/supermonkeyballjr-recomp/releases/download/v1.0.0/smbjr-v1.0.0-web.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-11-28T10:49:23Z",
+   "repo": "https://github.com/gusdslara/supermonkeyballjr-recomp",
+   "github": "gusdslara/supermonkeyballjr-recomp"
   },
   {
    "folder": "Zetto22@sweet_share",
@@ -14528,6 +14557,38 @@
    "last_release": "2026-08-09T22:40:16Z",
    "repo": "https://github.com/Tophiero/Wild-DV-Display",
    "github": "Tophiero/Wild-DV-Display"
+  },
+  {
+   "folder": "wild1walker@wild_green",
+   "id": "wild_green",
+   "title": "Wild Green",
+   "author": "wild1walker",
+   "version": "1.27.0",
+   "categories": [
+    "ART"
+   ],
+   "tags": [
+    "unlisted"
+   ],
+   "summary": "",
+   "latest": {
+    "version": "1.27.0",
+    "tag": "v1.27.0",
+    "name": "v1.27.0",
+    "prerelease": false,
+    "published_at": "2026-08-31T08:28:25Z",
+    "zip": {
+     "name": "wild_green-1.27.0.zip",
+     "url": "https://github.com/wild1walker/Gen1MakeItGreen/releases/download/v1.27.0/wild_green-1.27.0.zip"
+    }
+   },
+   "update_check": "ok",
+   "last_release": "2026-08-31T08:28:25Z",
+   "games": [
+    "red"
+   ],
+   "repo": "https://github.com/wild1walker/Gen1MakeItGreen",
+   "github": "wild1walker/Gen1MakeItGreen"
   },
   {
    "folder": "Bentley734@wildfollowers",
